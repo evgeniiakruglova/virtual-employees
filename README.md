@@ -1,82 +1,82 @@
-# Виртуальные сотрудники
+# Virtual Employees
 
-Рабочие AI-инструменты. Не демо. Забираешь — используешь.
+Working AI tools. Not demos. Take it — use it.
 
-Коллекция из 20 AI-скиллов для маркетинга, продаж, контента и разработки. Оригинал: [virtual-employees-kappa.vercel.app](https://virtual-employees-kappa.vercel.app/)
-
----
-
-## Каталог инструментов
-
-### Продукт
-| Инструмент | Описание | Тип |
-|---|---|---|
-| **Ассистент по офферам** | Офферы в стиле Алекса Хормози на $100M | Claude Project |
-| **Ассистент по презентациям** | Структура и контент для продающих презентаций | Скоро |
-| **Perfect Slides** | Прототипы слайдов для презентаций | Скоро |
-| **Offer by Vlad** | Упаковка офферов в стиле Влада Ясько | Скоро |
-
-### Аудитория
-| Инструмент | Описание | Тип |
-|---|---|---|
-| **ДНК клиента** | Глубокий анализ целевой аудитории и болей | Claude Project |
-| **Лестница Бена Ханта** | Потребности аудитории через лестницу осознанности | Claude Project |
-
-### Воронки
-| Инструмент | Описание | Тип |
-|---|---|---|
-| **Прогревы по Бену Ханту** | Прогревающие последовательности по этапам | Claude Project |
-| **Квиз-воронка** | Персонализированные квиз-воронки для любого продукта | Claude Code Skill |
-
-### Маркетинг
-| Инструмент | Описание | Тип |
-|---|---|---|
-| **Конверсионные креативы** | Статика, видео, Reels — с AI-промтами под все платформы | Claude Code Skill |
-
-### Контент
-| Инструмент | Описание | Тип |
-|---|---|---|
-| **Конверсионные сторис** | Продающие сторис-последовательности | Скоро |
-| **Очеловечивание текста** | Убирает AI-штампы, канцелярит и воду | Claude Code Skill |
-| **Tone of Voice** | Обратный инжиниринг голоса спикера | Claude Code Skill |
-| **Креативный директор** | AI-креативный директор для визуальных проектов | Claude Code Skill |
-
-### Продажи
-| Инструмент | Описание | Тип |
-|---|---|---|
-| **Ассистент VSL видео** | Генерация VSL-сценариев по 15-блочной структуре | Claude Code Skill |
-| **Vlad's Sales Star** | Менеджер по продажам с премиальным подходом | Claude Code Skill |
-
-### Ютуб
-| Инструмент | Описание | Тип |
-|---|---|---|
-| **YouTube Expert Style** | Экспертные ролики в стиле Влада Ясько | Claude Project |
-| **YouTube Ideas** | Идеи и заголовки для YouTube | Скоро |
-
-### Инструменты
-| Инструмент | Описание | Тип |
-|---|---|---|
-| **NanoBanana Pro** | Мастер промт-инжиниринга для AI-генерации изображений | Claude Code Skill |
-| **Коммуникация с нарциссом** | Адаптация сообщений на основе психологии нарциссизма | Claude Code Skill |
-
-### Разработка
-| Инструмент | Описание | Тип |
-|---|---|---|
-| **Skill Conductor** | Создание, редактирование и оценка скиллов | Claude Code Skill |
+A collection of 20 AI skills for marketing, sales, content, and development. Original: [virtual-employees-kappa.vercel.app](https://virtual-employees-kappa.vercel.app/)
 
 ---
 
-## Структура репозитория
+## Skill Catalog
+
+### Product
+| Tool | Description | Type |
+|---|---|---|
+| **Offer Assistant** | Offers in the style of Alex Hormozi's $100M Offers | Claude Project |
+| **Presentation Assistant** | Structure and content for sales presentations | Coming Soon |
+| **Perfect Slides** | Slide prototypes for presentations | Coming Soon |
+| **Offer by Vlad** | Offer packaging in Vlad Yasko's style | Coming Soon |
+
+### Audience
+| Tool | Description | Type |
+|---|---|---|
+| **Client DNA** | Deep target audience and pain point analysis | Claude Project |
+| **Ben Hunt's Ladder** | Audience needs through the awareness ladder | Claude Project |
+
+### Funnels
+| Tool | Description | Type |
+|---|---|---|
+| **Ben Hunt Warm-ups** | Warming sequences by stages | Claude Project |
+| **Quiz Funnel** | Personalized quiz funnels for any product | Claude Code Skill |
+
+### Marketing
+| Tool | Description | Type |
+|---|---|---|
+| **Conversion Creatives** | Static, video, Reels — with AI prompts for all platforms | Claude Code Skill |
+
+### Content
+| Tool | Description | Type |
+|---|---|---|
+| **Conversion Stories** | Sales story sequences | Coming Soon |
+| **Text Humanizer** | Removes AI cliches, bureaucratese, and fluff | Claude Code Skill |
+| **Tone of Voice** | Reverse-engineering a speaker's voice | Claude Code Skill |
+| **Creative Director** | AI creative director for visual projects | Claude Code Skill |
+
+### Sales
+| Tool | Description | Type |
+|---|---|---|
+| **VSL Video Assistant** | VSL script generation using a 15-block structure | Claude Code Skill |
+| **Vlad's Sales Star** | Sales manager with a premium approach | Claude Code Skill |
+
+### YouTube
+| Tool | Description | Type |
+|---|---|---|
+| **YouTube Expert Style** | Expert videos in Vlad Yasko's style | Claude Project |
+| **YouTube Ideas** | Ideas and titles for YouTube | Coming Soon |
+
+### Tools
+| Tool | Description | Type |
+|---|---|---|
+| **NanoBanana Pro** | Prompt engineering master for AI image generation | Claude Code Skill |
+| **Narcissist Communication** | Message adaptation based on narcissism psychology | Claude Code Skill |
+
+### Development
+| Tool | Description | Type |
+|---|---|---|
+| **Skill Conductor** | Creating, editing, and evaluating skills | Claude Code Skill |
+
+---
+
+## Repository Structure
 
 ```
 virtual-employees/
-├── instructions/          # Инструкции для Claude Project
-│   ├── hormozi-*.txt      # Ассистент по офферам
-│   ├── client-dna-*.txt   # ДНК клиента
-│   ├── ben-hunt-*.txt     # Лестница Бена Ханта
+├── instructions/          # Instructions for Claude Project
+│   ├── hormozi-*.txt      # Offer Assistant
+│   ├── client-dna-*.txt   # Client DNA
+│   ├── ben-hunt-*.txt     # Ben Hunt's Ladder
 │   ├── sales-star.txt     # Sales Star
 │   └── youtube-expert.txt # YouTube Expert
-├── skills/                # Claude Code скиллы (GitHub репозитории)
+├── skills/                # Claude Code skills (GitHub repositories)
 │   ├── hormozi-offer/
 │   ├── client-dna-v2/
 │   ├── hunt-ladder/
@@ -89,25 +89,25 @@ virtual-employees/
 │   ├── skill-conductor/
 │   ├── creative-director-skill/
 │   └── sales-assistant/
-├── index.html             # Веб-интерфейс
-├── data.js                # Данные всех скиллов
-├── app.js                 # Логика приложения
-└── styles.css             # Стили
+├── index.html             # Web interface
+├── data.js                # All skills data
+├── app.js                 # Application logic
+└── styles.css             # Styles
 ```
 
 ---
 
-## Как использовать
+## How to Use
 
-### Claude Project (инструкции)
-1. Откройте файл из папки `instructions/`
-2. Скопируйте содержимое в настройки проекта Claude
-3. Следуйте инструкциям внутри файла
+### Claude Project (instructions)
+1. Open a file from the `instructions/` folder
+2. Copy the contents into your Claude project settings
+3. Follow the instructions inside the file
 
-### Claude Code Skill (скиллы)
-1. Откройте папку нужного скилла в `skills/`
-2. Следуйте README внутри каждого скилла для установки
+### Claude Code Skill (skills)
+1. Open the desired skill folder in `skills/`
+2. Follow the README inside each skill for installation
 
 ---
 
-Автор оригинала: **Vlad Yasko**
+Original author: **Vlad Yasko**
