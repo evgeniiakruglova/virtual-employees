@@ -1,22 +1,22 @@
-# Шаблоны полных рекламных объявлений (Ad Units)
+# Full Ad Unit Templates
 
-Этот файл содержит готовые структуры рекламных объявлений для каждой платформы. Каждый ад-юнит = промт для визуала + все текстовые элементы — готов к загрузке в Ads Manager.
+This file contains ready-made ad unit structures for each platform. Each ad unit = visual prompt + all text elements — ready to upload to Ads Manager.
 
-## Система кодирования
+## Coding System
 
-Каждый ад-юнит получает код: `S[сегмент]-B[боль]-[ЭТАП]-[ВАРИАЦИЯ]`
+Each ad unit receives a code: `S[segment]-B[pain]-[STAGE]-[VARIATION]`
 
-| Элемент | Значение |
+| Element | Meaning |
 |---------|----------|
-| S1, S2... | Номер сегмента из ДНК |
-| B1, B2, B3 | Номер боли (1-3 на сегмент) |
-| COLD | Холодный трафик (ступени 0-1) |
-| WARM | Тёплый трафик (ступени 2-3) |
-| HOT | Горячий трафик (ступени 4-5) |
-| RT-1, RT-2, RT-3 | Этап ретаргетинга |
-| A, B, C | A/B вариация |
+| S1, S2... | Segment number from DNA |
+| B1, B2, B3 | Pain number (1-3 per segment) |
+| COLD | Cold traffic (levels 0-1) |
+| WARM | Warm traffic (levels 2-3) |
+| HOT | Hot traffic (levels 4-5) |
+| RT-1, RT-2, RT-3 | Retargeting stage |
+| A, B, C | A/B variation |
 
-**Пример:** `S1-B2-COLD-A` = Сегмент 1, Боль 2, Холодный трафик, Базовая вариация
+**Example:** `S1-B2-COLD-A` = Segment 1, Pain 2, Cold traffic, Baseline variation
 
 ---
 
@@ -26,37 +26,37 @@
 
 ```
 ═══════════════════════════════════════════════════
-КОД: [S1-B1-COLD-A]
-ПЛАТФОРМА: Meta Feed
-УГОЛ: [Pain-agitate / Transformation / Myth-busting / Social proof / Trigger]
-СТУПЕНЬ ХАНТА: [0-5]
+CODE: [S1-B1-COLD-A]
+PLATFORM: Meta Feed
+ANGLE: [Pain-agitate / Transformation / Myth-busting / Social proof / Trigger]
+HUNT LEVEL: [0-5]
 ═══════════════════════════════════════════════════
 
-CREATIVE (визуал):
-Формат: 1:1 (1080×1080) для универсального + 4:5 (1080×1350) для mobile feed
-AI-промт: [Полный промт для Midjourney/DALL-E/Nano Banana Pro]
-Текст на визуале: "[Заголовок на изображении, если есть]"
-Стиль текста: [Шрифт, размер, расположение]
+CREATIVE (visual):
+Format: 1:1 (1080×1080) for universal + 4:5 (1080×1350) for mobile feed
+AI Prompt: [Full prompt for Midjourney/DALL-E/Nano Banana Pro]
+Text on Visual: "[Headline on image, if applicable]"
+Text Style: [Font, size, placement]
 
-PRIMARY TEXT (3 варианта по длине):
+PRIMARY TEXT (3 length variants):
 
-Short (< 125 символов, для mobile):
-[Короткий текст — 1-2 предложения. Боль + намёк на решение]
+Short (< 125 characters, for mobile):
+[Short text — 1-2 sentences. Pain + hint at solution]
 
-Medium (125-250 символов, для desktop):
-[Средний текст — боль + решение + социальное доказательство/число]
+Medium (125-250 characters, for desktop):
+[Medium text — pain + solution + social proof/number]
 
-Long (250-500 символов, для высокого intent):
-[Длинный текст — история + боль + решение + доказательство + CTA в тексте]
+Long (250-500 characters, for high intent):
+[Long text — story + pain + solution + proof + CTA in text]
 
-HEADLINE (< 40 символов):
-[M-A-G-I-C формула или Value Equation из Hormozi]
+HEADLINE (< 40 characters):
+[M-A-G-I-C formula or Value Equation from Hormozi]
 
-DESCRIPTION (< 30 символов):
-[Дополнение к headline — усиление или уточнение]
+DESCRIPTION (< 30 characters):
+[Complement to headline — reinforcement or clarification]
 
 CTA BUTTON: [Learn More / Sign Up / Get Offer / Book Now / Download / Contact Us]
-LINK: [URL лендинга]
+LINK: [Landing page URL]
 
 ═══════════════════════════════════════════════════
 ```
@@ -65,26 +65,26 @@ LINK: [URL лендинга]
 
 ```
 ═══════════════════════════════════════════════════
-КОД: [S1-B1-COLD-A]
-ПЛАТФОРМА: Meta Stories/Reels
+CODE: [S1-B1-COLD-A]
+PLATFORM: Meta Stories/Reels
 ═══════════════════════════════════════════════════
 
-CREATIVE (видео):
-Формат: 9:16 (1080×1920)
-Длительность: 15 сек (Stories) / 15-30 сек (Reels)
-Сценарий: [Ссылка на видеосценарий из video-creatives.md]
-AI-промт: [Промт для Runway/Sora/Higgsfield]
+CREATIVE (video):
+Format: 9:16 (1080×1920)
+Duration: 15 sec (Stories) / 15-30 sec (Reels)
+Script: [Reference to video script from video-creatives.md]
+AI Prompt: [Prompt for Runway/Sora/Higgsfield]
 
-ТЕКСТОВЫЕ НАЛОЖЕНИЯ:
-0-3 сек: "[Hook-текст — крупно, по центру]"
-3-8 сек: "[Проблема/история — субтитры внизу]"
-8-13 сек: "[Решение — по центру]"
-13-15 сек: "[CTA — крупно + стрелка вверх для swipe]"
+TEXT OVERLAYS:
+0-3 sec: "[Hook text — large, centered]"
+3-8 sec: "[Problem/story — subtitles at bottom]"
+8-13 sec: "[Solution — centered]"
+13-15 sec: "[CTA — large + swipe up arrow]"
 
-PRIMARY TEXT (< 125 символов):
-[Короткий текст для Stories]
+PRIMARY TEXT (< 125 characters):
+[Short text for Stories]
 
-HEADLINE: [Для Reels]
+HEADLINE: [For Reels]
 CTA BUTTON: [Swipe Up / Learn More]
 ═══════════════════════════════════════════════════
 ```
@@ -93,33 +93,33 @@ CTA BUTTON: [Swipe Up / Learn More]
 
 ```
 ═══════════════════════════════════════════════════
-КОД: [S1-B1-WARM-A]
-ПЛАТФОРМА: Meta Carousel
+CODE: [S1-B1-WARM-A]
+PLATFORM: Meta Carousel
 ═══════════════════════════════════════════════════
 
-СЛАЙД 1 (Hook):
-Визуал: [AI-промт] — 1:1
-Текст на слайде: "[Заголовок-крючок]"
+SLIDE 1 (Hook):
+Visual: [AI prompt] — 1:1
+Slide Text: "[Hook headline]"
 
-СЛАЙД 2 (Проблема):
-Визуал: [AI-промт]
-Текст: "[Боль на языке клиента из ДНК]"
+SLIDE 2 (Problem):
+Visual: [AI prompt]
+Text: "[Pain in client language from DNA]"
 
-СЛАЙД 3 (Решение):
-Визуал: [AI-промт]
-Текст: "[Как это работает — 1 предложение]"
+SLIDE 3 (Solution):
+Visual: [AI prompt]
+Text: "[How it works — 1 sentence]"
 
-СЛАЙД 4 (Доказательство):
-Визуал: [AI-промт или скриншот отзыва]
-Текст: "[Число/факт/цитата клиента]"
+SLIDE 4 (Proof):
+Visual: [AI prompt or testimonial screenshot]
+Text: "[Number/fact/client quote]"
 
-СЛАЙД 5 (CTA):
-Визуал: [Лого + оффер]
-Текст: "[Grand Slam Offer кратко + CTA]"
+SLIDE 5 (CTA):
+Visual: [Logo + offer]
+Text: "[Grand Slam Offer briefly + CTA]"
 
-PRIMARY TEXT: [Medium — 125-250 символов]
+PRIMARY TEXT: [Medium — 125-250 characters]
 HEADLINE: [M-A-G-I-C]
-DESCRIPTION: [< 30 символов]
+DESCRIPTION: [< 30 characters]
 CTA BUTTON: [Learn More / Sign Up]
 ═══════════════════════════════════════════════════
 ```
@@ -130,29 +130,29 @@ CTA BUTTON: [Learn More / Sign Up]
 
 ```
 ═══════════════════════════════════════════════════
-КОД: [S1-B1-COLD-A]
-ПЛАТФОРМА: TikTok In-Feed
+CODE: [S1-B1-COLD-A]
+PLATFORM: TikTok In-Feed
 ═══════════════════════════════════════════════════
 
-CREATIVE (видео):
-Формат: 9:16 (1080×1920)
-Длительность: 15-60 сек (оптимально 21-34 сек)
-Стиль: UGC / нативный (НЕ рекламный)
-AI-промт: [Higgsfield — UGC стиль]
+CREATIVE (video):
+Format: 9:16 (1080×1920)
+Duration: 15-60 sec (optimal 21-34 sec)
+Style: UGC / native (NOT promotional)
+AI Prompt: [Higgsfield — UGC style]
 
-СЦЕНАРИЙ:
-0-3 сек (Hook): "[Текст крупно — вопрос или шок-факт]"
-3-10 сек (Тело): "[Нативный рассказ — субтитры]"
-10-20 сек (Раскрытие): "[Решение/инсайт]"
-20-30 сек (CTA): "[Призыв — текст + голос]"
+SCRIPT:
+0-3 sec (Hook): "[Large text — question or shock fact]"
+3-10 sec (Body): "[Native storytelling — subtitles]"
+10-20 sec (Reveal): "[Solution/insight]"
+20-30 sec (CTA): "[Call to action — text + voice]"
 
-AD TEXT (< 100 символов):
-[Текст под видео — эмодзи допустимы, разговорный стиль]
+AD TEXT (< 100 characters):
+[Text under video — emojis acceptable, conversational style]
 
-DISPLAY NAME: [Имя аккаунта]
+DISPLAY NAME: [Account name]
 CTA BUTTON: [Learn More / Shop Now / Sign Up / Download]
 
-МУЗЫКА: [Трендовый трек или ambient — см. video-creatives.md]
+MUSIC: [Trending track or ambient — see video-creatives.md]
 ═══════════════════════════════════════════════════
 ```
 
@@ -160,22 +160,22 @@ CTA BUTTON: [Learn More / Shop Now / Sign Up / Download]
 
 ```
 ═══════════════════════════════════════════════════
-КОД: [S1-B1-WARM-A]
-ПЛАТФОРМА: TikTok Spark Ads
+CODE: [S1-B1-WARM-A]
+PLATFORM: TikTok Spark Ads
 ═══════════════════════════════════════════════════
 
-ФОРМАТ: Органический пост, продвигаемый как реклама
-CREATIVE: Снять как обычный TikTok — без рекламной стилистики
-ДЛИТЕЛЬНОСТЬ: 30-60 сек
+FORMAT: Organic post promoted as an ad
+CREATIVE: Film like a regular TikTok — no ad styling
+DURATION: 30-60 sec
 
-СТРУКТУРА:
-Hook (0-3): "[Разговорный — 'Вот что никто не говорит о...']"
-Story (3-20): "[Личная история или кейс клиента]"
-Reveal (20-25): "[Ага-момент]"
-CTA (25-30): "[Мягкий — 'Ссылка в профиле']"
+STRUCTURE:
+Hook (0-3): "[Conversational — 'Here's what nobody tells you about...']"
+Story (3-20): "[Personal story or client case study]"
+Reveal (20-25): "[Aha moment]"
+CTA (25-30): "[Soft — 'Link in bio']"
 
-CAPTION: [< 150 символов, с хэштегами]
-CTA: [Нативный в видео, без кнопки]
+CAPTION: [< 150 characters, with hashtags]
+CTA: [Native in video, no button]
 ═══════════════════════════════════════════════════
 ```
 
@@ -187,34 +187,34 @@ CTA: [Нативный в видео, без кнопки]
 
 ```
 ═══════════════════════════════════════════════════
-КОД: [S1-B1-COLD-A]
-ПЛАТФОРМА: Google Display
+CODE: [S1-B1-COLD-A]
+PLATFORM: Google Display
 ═══════════════════════════════════════════════════
 
-HEADLINES (до 5 штук, каждый < 30 символов):
-1: "[M-A-G-I-C короткий]"
-2: "[Value Equation — результат]"
-3: "[Число + результат]"
-4: "[Вопрос-боль]"
-5: "[Оффер + срочность]"
+HEADLINES (up to 5, each < 30 characters):
+1: "[Short M-A-G-I-C]"
+2: "[Value Equation — result]"
+3: "[Number + result]"
+4: "[Pain question]"
+5: "[Offer + urgency]"
 
-LONG HEADLINE (< 90 символов):
-"[Развёрнутый M-A-G-I-C с деталями]"
+LONG HEADLINE (< 90 characters):
+"[Expanded M-A-G-I-C with details]"
 
-DESCRIPTIONS (до 5 штук, каждый < 90 символов):
-1: "[Боль + решение]"
-2: "[Социальное доказательство + число]"
-3: "[Grand Slam Offer кратко]"
-4: "[Гарантия + CTA]"
-5: "[Urgency + результат]"
+DESCRIPTIONS (up to 5, each < 90 characters):
+1: "[Pain + solution]"
+2: "[Social proof + number]"
+3: "[Grand Slam Offer briefly]"
+4: "[Guarantee + CTA]"
+5: "[Urgency + result]"
 
 IMAGES:
-Landscape (1.91:1 — 1200×628): [AI-промт]
-Square (1:1 — 1200×1200): [AI-промт]
-Portrait (предпочтительно): [AI-промт, если платформа поддерживает]
+Landscape (1.91:1 — 1200×628): [AI prompt]
+Square (1:1 — 1200×1200): [AI prompt]
+Portrait (preferred): [AI prompt, if platform supports]
 
-LOGO: [Квадратный 1:1 + landscape 4:1]
-BUSINESS NAME: [< 25 символов]
+LOGO: [Square 1:1 + landscape 4:1]
+BUSINESS NAME: [< 25 characters]
 CTA: [Automated / Learn More / Sign Up / Get Quote]
 FINAL URL: [URL]
 ═══════════════════════════════════════════════════
@@ -224,29 +224,29 @@ FINAL URL: [URL]
 
 ```
 ═══════════════════════════════════════════════════
-КОД: [S1-B1-WARM-A]
-ПЛАТФОРМА: YouTube
+CODE: [S1-B1-WARM-A]
+PLATFORM: YouTube
 ═══════════════════════════════════════════════════
 
-CREATIVE (видео):
-Формат: 16:9 (1920×1080)
-Длительность: 15 сек (bumper) / 30 сек (skippable pre-roll) / 60+ сек (in-stream)
+CREATIVE (video):
+Format: 16:9 (1920×1080)
+Duration: 15 sec (bumper) / 30 sec (skippable pre-roll) / 60+ sec (in-stream)
 
-СЦЕНАРИЙ (30 сек skippable):
-0-5 сек (Hook — до кнопки Skip): "[Самый сильный крючок — решает всё]"
-5-15 сек (Problem + Solution): "[Боль → решение]"
-15-25 сек (Proof + Offer): "[Доказательство + оффер]"
-25-30 сек (CTA): "[Прямой призыв]"
+SCRIPT (30 sec skippable):
+0-5 sec (Hook — before Skip button): "[Strongest hook — determines everything]"
+5-15 sec (Problem + Solution): "[Pain → solution]"
+15-25 sec (Proof + Offer): "[Proof + offer]"
+25-30 sec (CTA): "[Direct call to action]"
 
-AI-промт: [Runway/Sora — кинематографический стиль]
+AI Prompt: [Runway/Sora — cinematic style]
 
 COMPANION BANNER (300×60):
-Текст: "[Короткий оффер]"
-CTA: "[Кнопка]"
+Text: "[Short offer]"
+CTA: "[Button]"
 
-HEADLINE (для Discovery): [< 100 символов]
-DESCRIPTION 1: [< 35 символов]
-DESCRIPTION 2: [< 35 символов]
+HEADLINE (for Discovery): [< 100 characters]
+DESCRIPTION 1: [< 35 characters]
+DESCRIPTION 2: [< 35 characters]
 ═══════════════════════════════════════════════════
 ```
 
@@ -256,18 +256,18 @@ DESCRIPTION 2: [< 35 символов]
 
 ```
 ═══════════════════════════════════════════════════
-КОД: [S1-B1-COLD-A]
-ПЛАТФОРМА: Telegram Ads
+CODE: [S1-B1-COLD-A]
+PLATFORM: Telegram Ads
 ═══════════════════════════════════════════════════
 
-ТЕКСТ (< 160 символов, без форматирования):
-"[Боль + решение + CTA — максимально сжато]"
+TEXT (< 160 characters, no formatting):
+"[Pain + solution + CTA — maximally compressed]"
 
-CTA BUTTON: [Текст кнопки < 30 символов]
-LINK: [URL или @channel]
+CTA BUTTON: [Button text < 30 characters]
+LINK: [URL or @channel]
 
-Примечание: Telegram Ads — только текст, без визуала.
-Ключевой фокус: каждое слово должно работать.
+Note: Telegram Ads — text only, no visuals.
+Key focus: every word must count.
 ═══════════════════════════════════════════════════
 ```
 
@@ -277,101 +277,101 @@ LINK: [URL или @channel]
 
 ```
 ═══════════════════════════════════════════════════
-КОД: [S1-B1-COLD-A]
-ПЛАТФОРМА: VK Ads
+CODE: [S1-B1-COLD-A]
+PLATFORM: VK Ads
 ═══════════════════════════════════════════════════
 
-CREATIVE (визуал):
-Формат: 1080×607 (16:9, для ленты) или 600×600 (1:1, для универсального)
-AI-промт: [Полный промт]
+CREATIVE (visual):
+Format: 1080×607 (16:9, for feed) or 600×600 (1:1, for universal)
+AI Prompt: [Full prompt]
 
-ЗАГОЛОВОК (< 33 символа):
-"[M-A-G-I-C адаптированный]"
+HEADLINE (< 33 characters):
+"[M-A-G-I-C adapted]"
 
-ОПИСАНИЕ (< 70 символов):
-"[Боль + решение]"
+DESCRIPTION (< 70 characters):
+"[Pain + solution]"
 
-ТЕКСТ ОБЪЯВЛЕНИЯ (< 220 символов):
-"[Развёрнутый текст — боль + решение + доказательство + CTA]"
+AD TEXT (< 220 characters):
+"[Expanded text — pain + solution + proof + CTA]"
 
-CTA КНОПКА: [Перейти / Подробнее / Записаться / Получить]
+CTA BUTTON: [Go / Learn More / Sign Up / Get]
 LINK: [URL]
 ═══════════════════════════════════════════════════
 ```
 
 ---
 
-## Правила написания текстов по ступеням
+## Copy Writing Rules by Level
 
-### Ступени 0-1 (COLD) — Primary Text
+### Levels 0-1 (COLD) — Primary Text
 
-**Фокус:** Боль и идентификация ("это про меня")
+**Focus:** Pain and identification ("this is about me")
 
-| Элемент | Правило |
+| Element | Rule |
 |---------|---------|
-| Первое предложение | Вопрос или утверждение из болевой ситуации ДНК |
-| Тело | Описание боли на языке клиента (цитаты из ДНК) |
-| Решение | Намёк, не продажа. "Есть способ..." |
-| CTA | Мягкий: "Узнай подробнее", "Забери гайд" |
-| Тон | Эмпатичный, понимающий |
+| First sentence | Question or statement from DNA pain scenario |
+| Body | Pain description in client language (quotes from DNA) |
+| Solution | A hint, not a sale. "There's a way..." |
+| CTA | Soft: "Learn more", "Get the guide" |
+| Tone | Empathetic, understanding |
 
-### Ступени 2-3 (WARM) — Primary Text
+### Levels 2-3 (WARM) — Primary Text
 
-**Фокус:** Образование и отстройка от конкурентов
+**Focus:** Education and differentiation from competitors
 
-| Элемент | Правило |
+| Element | Rule |
 |---------|---------|
-| Первое предложение | Миф или ложное решение из ДНК |
-| Тело | Почему старые подходы не работают + правильный путь |
-| Решение | Система/метод — конкретика |
-| CTA | Средний: "Узнай о программе", "Запишись на вебинар" |
-| Тон | Экспертный, уверенный |
+| First sentence | Myth or false solution from DNA |
+| Body | Why old approaches don't work + the right path |
+| Solution | System/method — specifics |
+| CTA | Medium: "Learn about the program", "Sign up for the webinar" |
+| Tone | Expert, confident |
 
-### Ступени 4-5 (HOT) — Primary Text
+### Levels 4-5 (HOT) — Primary Text
 
-**Фокус:** Оффер и снятие возражений
+**Focus:** Offer and objection removal
 
-| Элемент | Правило |
+| Element | Rule |
 |---------|---------|
-| Первое предложение | Результат (число) или Grand Slam Offer |
-| Тело | Что получаешь (Value Stack) + доказательства |
-| Решение | Конкретный оффер с ценностью |
-| CTA | Прямой: "Записаться сейчас", "Забронировать место" |
-| Тон | Уверенный, продающий |
+| First sentence | Result (number) or Grand Slam Offer |
+| Body | What you get (Value Stack) + proof |
+| Solution | Specific offer with value |
+| CTA | Direct: "Sign up now", "Reserve your spot" |
+| Tone | Confident, sales-oriented |
 
 ---
 
-## Headline по M-A-G-I-C
+## Headline per M-A-G-I-C
 
-| Компонент | Что это | Пример |
+| Component | What It Is | Example |
 |-----------|---------|--------|
-| **M**agnetic reason | Притягивающая причина | "Как", "Секрет", "Метод" |
-| **A**vatar | Кто ты | "для женщин 30+", "для предпринимателей" |
-| **G**oal | Результат мечты | "спать спокойно", "зарабатывать 500К" |
-| **I**nterval | За сколько | "за 7 дней", "за 2 недели" |
-| **C**ontainer | Формат | "программа", "гайд", "курс" |
+| **M**agnetic reason | Compelling reason | "How", "The secret", "The method" |
+| **A**vatar | Who you are | "for women 30+", "for entrepreneurs" |
+| **G**oal | Dream result | "sleep peacefully", "earn 500K" |
+| **I**nterval | How long | "in 7 days", "in 2 weeks" |
+| **C**ontainer | Format | "program", "guide", "course" |
 
-**Формула:** `[M] [A] [G] [I] [C]`
-**Пример:** "Как женщинам 30+ вернуть спокойный сон за 7 дней — программа 'Точка опоры'"
+**Formula:** `[M] [A] [G] [I] [C]`
+**Example:** "How Women 30+ Can Restore Peaceful Sleep in 7 Days — 'Anchor Point' Program"
 
-**Для коротких headline (< 40 символов)** используй сокращённую формулу:
-- M + G: "Секрет спокойного сна"
-- G + I: "Спокойный сон за 7 дней"
-- M + G + I: "Как уснуть за 7 дней"
+**For short headlines (< 40 characters)** use the shortened formula:
+- M + G: "The Secret to Peaceful Sleep"
+- G + I: "Peaceful Sleep in 7 Days"
+- M + G + I: "How to Fall Asleep in 7 Days"
 
 ---
 
-## Чек-лист перед публикацией
+## Pre-Publication Checklist
 
-Для каждого ад-юнита проверь:
+For each ad unit, check:
 
-- [ ] Код присвоен (S-B-ЭТАП-ВАРИАЦИЯ)
-- [ ] Визуал соответствует размерам платформы
-- [ ] AI-промт полный и готов к копипасту
-- [ ] Primary Text соответствует ступени Ханта
-- [ ] Headline по M-A-G-I-C или Value Equation
-- [ ] CTA соответствует ступени (мягкий/средний/прямой)
-- [ ] Лимиты символов соблюдены
-- [ ] Язык клиента из ДНК (не маркетинговый жаргон)
-- [ ] Hormozi Value Equation применено (результат × вероятность / время × усилия)
-- [ ] A/B вариации: ясно что тестируем
+- [ ] Code assigned (S-B-STAGE-VARIATION)
+- [ ] Visual matches platform dimensions
+- [ ] AI prompt is complete and ready to copy-paste
+- [ ] Primary Text matches the Hunt level
+- [ ] Headline follows M-A-G-I-C or Value Equation
+- [ ] CTA matches the level (soft/medium/direct)
+- [ ] Character limits respected
+- [ ] Client language from DNA (not marketing jargon)
+- [ ] Hormozi Value Equation applied (result x likelihood / time x effort)
+- [ ] A/B variations: clear what's being tested

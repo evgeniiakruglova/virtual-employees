@@ -1,51 +1,51 @@
 # Prompt Framework
 
-Структурированный подход к созданию промптов для NBP. Адаптировано из community best practices.
+A structured approach to creating prompts for NBP. Adapted from community best practices.
 
-## Task Types (Навыки)
+## Task Types (Skills)
 
-Определи тип задачи - это задаёт стратегию промпта:
+Determine the task type - this sets the prompt strategy:
 
-| Type | Когда использовать | Ключевые элементы |
+| Type | When to use | Key elements |
 |------|-------------------|-------------------|
-| **Photorealistic** | Фото людей, продуктов, сцен | Освещение, материалы, атмосфера |
-| **Illustration** | Стикеры, иконки, арт | Стиль, контуры, палитра |
-| **Product/Commercial** | Продуктовая съёмка | Поверхность, отражения, композиция |
-| **Minimalist** | Негативное пространство | Что убрать важнее чем что добавить |
-| **Sequential** | Комиксы, сториборды | Панели, переходы, нарратив |
-| **Editing** | Изменение существующего | Конкретные инструкции что менять |
-| **Style Transfer** | Перенос стиля | Референс + новый контент |
-| **Composite** | Объединение элементов | Связность, освещение, масштаб |
-| **Text Rendering** | Текст в изображении | Точные кавычки, позиция, вес |
+| **Photorealistic** | Photos of people, products, scenes | Lighting, materials, atmosphere |
+| **Illustration** | Stickers, icons, art | Style, outlines, palette |
+| **Product/Commercial** | Product photography | Surface, reflections, composition |
+| **Minimalist** | Negative space | What to remove matters more than what to add |
+| **Sequential** | Comics, storyboards | Panels, transitions, narrative |
+| **Editing** | Modifying existing images | Specific instructions on what to change |
+| **Style Transfer** | Transferring a style | Reference + new content |
+| **Composite** | Combining elements | Coherence, lighting, scale |
+| **Text Rendering** | Text in image | Exact quotes, position, weight |
 
-## Universal Elements (Чеклист)
+## Universal Elements (Checklist)
 
-Пройдись по списку - не всё нужно указывать, но полезно проверить:
+Go through the list - not everything needs to be specified, but it's useful to check:
 
-**Обязательные:**
-- **Субъект** - кто/что в центре внимания
-- **Контекст** - для чего это (определяет стиль)
+**Required:**
+- **Subject** - who/what is the focus of attention
+- **Context** - what it's for (determines style)
 
-**По ситуации:**
-- **Действие** - что происходит
-- **Окружение** - где это происходит
-- **Камера** - крупность плана (close-up, wide shot, etc.)
-- **Освещение** - тип света (NBP сам выберет если не указать)
-- **Настроение** - эмоция сцены
-- **Материалы** - текстуры поверхностей
-- **Палитра** - цвета (лучше hex)
-- **Формат** - соотношение сторон
+**Situational:**
+- **Action** - what's happening
+- **Environment** - where it takes place
+- **Camera** - shot size (close-up, wide shot, etc.)
+- **Lighting** - light type (NBP will choose on its own if not specified)
+- **Mood** - emotion of the scene
+- **Materials** - surface textures
+- **Palette** - colors (hex preferred)
+- **Format** - aspect ratio
 
-> ⚠️ **Не указывай:** параметры объектива (50mm, 85mm), f-stop, ISO - NBP это игнорирует. Он "думающий", сам выбирает оптимальное.
+> ⚠️ **Do not specify:** lens parameters (50mm, 85mm), f-stop, ISO - NBP ignores these. It "thinks" and chooses optimal settings on its own.
 
-## Detail Modes (Режимы)
+## Detail Modes
 
-**Concise** - одно предложение, для быстрых итераций:
+**Concise** - one sentence, for quick iterations:
 ```
 Minimalist poster: white background, single red apple, centered, dramatic shadow.
 ```
 
-**Standard** - 1-2 параграфа, баланс контроля и гибкости:
+**Standard** - 1-2 paragraphs, balance of control and flexibility:
 ```
 Create a product shot for premium headphones marketing.
 
@@ -54,7 +54,7 @@ Matte black headphones on dark slate surface. Single spotlight from upper left c
 Format: 16:9
 ```
 
-**Verbose** - максимум деталей для сложных сцен:
+**Verbose** - maximum detail for complex scenes:
 ```
 Create a cinematic wide shot for sci-fi film concept art.
 
@@ -71,32 +71,32 @@ Format: 2.39:1 cinemascope
 
 ## Output Structure
 
-При создании промпта выдавай:
+When creating a prompt, output:
 
-**1. Prompt** - готовый к использованию
+**1. Prompt** - ready to use
 
-**2. Parameters** - если нестандартные:
-- Aspect ratio (если не 1:1)
-- Resolution (если нужно 2K/4K)
+**2. Parameters** - if non-standard:
+- Aspect ratio (if not 1:1)
+- Resolution (if 2K/4K needed)
 
-**3. Exclusions** - что исключить (опционально):
-> Формулируй позитивно! NBP лучше понимает "clean background" чем "no clutter"
+**3. Exclusions** - what to exclude (optional):
+> Phrase positively! NBP understands "clean background" better than "no clutter"
 
-**4. Assumptions** - что додумано, если пользователь не указал
+**4. Assumptions** - what was inferred if the user didn't specify
 
 ## Quick Decision Tree
 
 ```
-Что создаём?
-├── Фото реального объекта/человека → Photorealistic
-├── Рисунок/арт → Illustration  
-├── Товар для продажи → Product/Commercial
-├── Много пустого места → Minimalist
-├── Несколько кадров/история → Sequential
-├── Меняем существующее фото → Editing
-├── "Как на этой картинке" → Style Transfer
-├── Собираем из нескольких элементов → Composite
-└── Текст - главный элемент → Text Rendering
+What are we creating?
+├── Photo of a real object/person → Photorealistic
+├── Drawing/art → Illustration
+├── Product for sale → Product/Commercial
+├── Lots of empty space → Minimalist
+├── Multiple frames/story → Sequential
+├── Modifying an existing photo → Editing
+├── "Like this image" → Style Transfer
+├── Assembling from multiple elements → Composite
+└── Text is the main element → Text Rendering
 ```
 
 ## Examples by Type

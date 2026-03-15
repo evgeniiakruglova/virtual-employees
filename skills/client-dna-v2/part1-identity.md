@@ -1,76 +1,76 @@
-# Часть 1: Идентичность, ценности и мировоззрение ЦА
+# Part 1: Identity, Values, and Worldview of the Target Audience
 
-## Демографические данные
+## Demographic Data
 
-### Имя
-- Какое имя чаще всего встречается среди представителей этой ЦА?
-- Какие ассоциации это имя вызывает у окружающих?
-- Как они сами себя называют внутри своего круга общения?
+### Name
+- What name is most commonly found among representatives of this target audience?
+- What associations does this name evoke in others?
+- How do they refer to themselves within their social circle?
 
-### Возраст
-- Как возраст влияет на их поведение, потребности, страхи и решения?
-- Как изменились их взгляды и потребности за последние 5-10 лет?
-- Какой жизненный этап они сейчас проходят и какие кризисы у них могут быть?
+### Age
+- How does age influence their behavior, needs, fears, and decisions?
+- How have their views and needs changed over the past 5-10 years?
+- What life stage are they currently going through and what crises might they be experiencing?
 
-### Соотношение полов
-- Какие ключевые различия в мотивации между мужчинами и женщинами в этой ЦА?
-- Кто принимает окончательное решение о покупке — сам клиент или кто-то влияет на него (партнёр, родители, друзья, окружение)?
-- Как гендерные особенности влияют на восприятие продукта, триггеры и страхи?
+### Gender Ratio
+- What are the key differences in motivation between men and women in this target audience?
+- Who makes the final purchase decision — the client themselves or does someone influence them (partner, parents, friends, social circle)?
+- How do gender-specific traits affect product perception, triggers, and fears?
 
-### Средний доход
-- Как они воспринимают деньги и покупки — как инвестицию, как необходимость, как роскошь?
-- Как они относятся к расходам: легко тратят или долго принимают решения?
-- Какой процент их бюджета они готовы выделить на решение проблемы?
+### Average Income
+- How do they perceive money and purchases — as an investment, a necessity, or a luxury?
+- How do they feel about spending: do they spend easily or take a long time to make decisions?
+- What percentage of their budget are they willing to allocate to solving their problem?
 
-### Краткое описание образа жизни
-- Где они живут: город, пригород, деревня?
-- Какой у них распорядок дня: много работают, расслабленный ритм жизни, постоянная спешка?
-- Как они отдыхают, какие развлечения им важны?
-- Какие у них хобби и увлечения?
-- Как они воспринимают технологии и новые тренды?
+### Brief Lifestyle Description
+- Where do they live: city, suburbs, countryside?
+- What is their daily routine: working a lot, relaxed pace of life, constant rush?
+- How do they relax, what types of entertainment matter to them?
+- What are their hobbies and interests?
+- How do they perceive technology and new trends?
 
-## Отношение к жизни (религиозные, политические, социальные, экономические взгляды)
+## Attitude Toward Life (religious, political, social, economic views)
 
-### Надежды и мечты
-- О чём они мечтают, но боятся признаться даже себе?
-- Что для них является настоящим успехом?
-- Как они представляют свою идеальную жизнь (если бы у них было всё, что они хотят)?
-- Какие главные достижения они хотят успеть сделать?
-- Какую роль в их мечтах играет стабильность, независимость, свобода, признание?
+### Hopes and Dreams
+- What do they dream about but are afraid to admit even to themselves?
+- What constitutes real success for them?
+- How do they envision their ideal life (if they had everything they wanted)?
+- What key achievements do they want to accomplish in their lifetime?
+- What role do stability, independence, freedom, and recognition play in their dreams?
 
-### Победы и неудачи
-- Какими достижениями они гордятся больше всего?
-- Какие поражения и ошибки оставили у них самые глубокие эмоциональные следы?
-- Как они объясняют свои успехи (это заслуга их труда или удачи)?
-- Как они объясняют свои неудачи (виноваты обстоятельства или они сами)?
-- Какое главное жизненное испытание изменило их мировоззрение?
+### Victories and Failures
+- What achievements are they most proud of?
+- What defeats and mistakes have left the deepest emotional marks on them?
+- How do they explain their successes (is it the result of their hard work or luck)?
+- How do they explain their failures (are circumstances to blame or themselves)?
+- What major life trial changed their worldview?
 
-### Основные убеждения о жизни, любви и семье (3-5 предложений)
-- Как они понимают смысл жизни?
-- Во что они искренне верят и что считают абсолютной истиной?
-- Как они относятся к любви и отношениям: это партнёрство, романтика, обязанность?
-- Как они видят семейные ценности — важны или не являются приоритетом?
-- Что они считают главным в людях — интеллект, характер, честность, амбиции?
+### Core Beliefs About Life, Love, and Family (3-5 sentences)
+- How do they understand the meaning of life?
+- What do they sincerely believe in and consider absolute truth?
+- How do they feel about love and relationships: is it partnership, romance, or obligation?
+- How do they view family values — important or not a priority?
+- What do they consider most important in people — intellect, character, honesty, ambition?
 
-### Основные ценности
-- Что для них на первом месте: семья, карьера, личностный рост, свобода?
-- Какие принципы они никогда не нарушат, даже если это выгодно?
-- В чём они видят высшую справедливость?
-- Как они относятся к богатству и успеху (это заслуженное или случайность)?
-- Как они относятся к риску и переменам — боятся их или ищут?
+### Core Values
+- What comes first for them: family, career, personal growth, freedom?
+- What principles would they never violate, even if it were profitable?
+- What do they see as the ultimate justice?
+- How do they feel about wealth and success (is it deserved or accidental)?
+- How do they feel about risk and change — do they fear them or seek them out?
 
-### Основная идентичность (не связанная с продуктом)
-- Как они сами себя определяют: "Я — (кто?)"
-- Как они хотят, чтобы их воспринимало общество?
-- Как они воспринимают свою роль в жизни — творцы, лидеры, исполнители, исследователи?
-- С кем они себя ассоциируют — с конкретными группами людей, движениями, субкультурами?
-- Как они реагируют, когда их идентичность ставят под сомнение?
+### Core Identity (unrelated to the product)
+- How do they define themselves: "I am — (who?)"
+- How do they want society to perceive them?
+- How do they perceive their role in life — creators, leaders, executors, explorers?
+- Who do they associate themselves with — specific groups of people, movements, subcultures?
+- How do they react when their identity is questioned?
 
-## Формат вывода
+## Output Format
 
-Каждый раздел оформляй с:
-- Чёткими заголовками
-- Детальными описаниями на языке клиента
-- Цитатами внутреннего монолога где уместно
-- Конкретными, яркими примерами, релевантными нише
-- Эмоциональной глубиной — не поверхностные описания
+Format each section with:
+- Clear headings
+- Detailed descriptions in the client's language
+- Internal monologue quotes where appropriate
+- Specific, vivid examples relevant to the niche
+- Emotional depth — not superficial descriptions

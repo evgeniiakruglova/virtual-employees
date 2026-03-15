@@ -1,19 +1,19 @@
-# Hormozi Offer Skill — Ассистент по офферам
+# Hormozi Offer Skill — Offer Assistant
 
-AI-ассистент для создания офферов по методологии **$100M Offers** Алекса Хормози.
+AI assistant for creating offers using the **$100M Offers** methodology by Alex Hormozi.
 
-## Что внутри
+## What's Inside
 
-- `hormozi-instruction.txt` — инструкция для настройки Claude Project
-- `hormozi-methodology.txt` — полная методология (5 разделов)
-- `hormozi-offer.txt` — всё в одном файле (инструкция + методология)
+- `hormozi-instruction.txt` — instructions for setting up a Claude Project
+- `hormozi-methodology.txt` — full methodology (5 sections)
+- `hormozi-offer.txt` — all-in-one file (instructions + methodology)
 
-## Как использовать
+## How to Use
 
-1. Создайте новый проект в [Claude](https://claude.ai)
-2. Загрузите файлы из этого репозитория в Project Knowledge
-3. Начните диалог — ассистент проведёт вас через создание оффера
+1. Create a new project in [Claude](https://claude.ai)
+2. Upload the files from this repository to Project Knowledge
+3. Start a conversation — the assistant will guide you through creating an offer
 
-## Автор
+## Author
 
-Методология адаптирована **Владом Ясько** на основе книги Alex Hormozi "$100M Offers".
+Methodology adapted by **Vlad Yasko** based on the book "$100M Offers" by Alex Hormozi.

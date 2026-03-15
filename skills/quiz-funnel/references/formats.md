@@ -1,384 +1,384 @@
-# Детальные спецификации форматов квиз-воронок
+# Detailed Quiz Funnel Format Specifications
 
-## Формат A: ДИАГНОСТИКА (NeuroSamurai-стиль)
+## Format A: DIAGNOSTICS (NeuroSamurai-style)
 
-### Референсы
-- NeuroSamurai: 21-дневный дофаминовый ресет — 20+ экранов, скор 0-10, калькулятор стоимости бездействия
-- Noom: 67-шаговый квиз, cadence 3:1, yes ladder, $500M+ выручки
-- Конверсионная сила: максимальная (sunk cost + персонализация + шок-числа)
+### References
+- NeuroSamurai: 21-day dopamine reset — 20+ screens, score 0-10, inaction cost calculator
+- Noom: 67-step quiz, cadence 3:1, yes ladder, $500M+ revenue
+- Conversion power: maximum (sunk cost + personalization + shock numbers)
 
-### Карта экранов (20+ штук)
+### Screen Map (20+ screens)
 
-ВХОД (3 экрана):
-- Экран 1 — Квалификационный вопрос-фильтр:
-  - Чат-пузырь сверху: неформальное приветствие (5-8 слов). Пример: "Привет, я тебя уже заждался!"
-  - Вопрос: мягкая квалификация. "У тебя есть [проблема] или ты подозреваешь, что [проблема]?"
-  - 3 варианта: "Да, точно" / "Подозреваю, но не уверен" / "Нет, просто хочу разобраться"
-  - Нормализует проблему
+ENTRY (3 screens):
+- Screen 1 — Qualifying filter question:
+  - Chat bubble at top: informal greeting (5-8 words). Example: "Hey, I've been waiting for you!"
+  - Question: soft qualification. "Do you have [problem] or do you suspect that [problem]?"
+  - 3 options: "Yes, definitely" / "I suspect, but not sure" / "No, just want to understand"
+  - Normalizes the problem
 
-- Экран 2 — Валидация + эмпатия:
-  - Чат-пузырь: "Не переживай, это нормально"
-  - 1-2 фразы эмпатии с метафорой
-  - Зелёная кнопка: "Понятно →"
+- Screen 2 — Validation + empathy:
+  - Chat bubble: "Don't worry, this is normal"
+  - 1-2 empathy phrases with metaphor
+  - Green button: "Got it →"
 
-- Экран 3 — Фрейминг диагностики:
-  - Чат-пузырь: энергичный ("Так, давай разбираться!")
-  - Заголовок: НЕ "тест" и НЕ "опрос". Варианты: "Что происходит с твоим [X]", "Диагностика твоей [Y]", "Сканирование [Z]-системы"
-  - Подзаголовок: "Отвечай не думая — первое что придёт в голову. Так точнее всего."
-  - Кнопка: "Поехали →"
+- Screen 3 — Diagnostics framing:
+  - Chat bubble: energetic ("Alright, let's figure this out!")
+  - Heading: NOT "test" and NOT "survey". Options: "What's happening with your [X]", "Diagnostics of your [Y]", "Scanning your [Z] system"
+  - Subheading: "Answer without thinking — first thing that comes to mind. That's the most accurate."
+  - Button: "Let's go →"
 
-ДИАГНОСТИКА (8 вопросов + 1 вставка):
+DIAGNOSTICS (8 questions + 1 insert):
 
-UI каждого вопроса:
-- Заголовок: "[НАЗВАНИЕ ПРОЦЕССА]" (caps) + процент прогресса
-- Подзаголовок: техническая фраза
-- Счётчик: X/8
-- Кнопка "← Назад"
+UI for each question:
+- Heading: "[PROCESS NAME]" (caps) + progress percentage
+- Subheading: technical phrase
+- Counter: X/8
+- "← Back" button
 
-- Вопрос 1 — Ежедневное поведение (single-select, 4 варианта, 🟢🟡🟠🔴)
-- Вопрос 2 — Количественный маркер (single-select, 4-5 вариантов, 🟢🟡🟠🔴💀) ← для калькулятора
-- Вопрос 3 — Инвентаризация симптомов (MULTI-SELECT, 7-10 вариантов) + счётчик "Выбрано: X"
+- Question 1 — Daily behavior (single-select, 4 options, 🟢🟡🟠🔴)
+- Question 2 — Quantitative marker (single-select, 4-5 options, 🟢🟡🟠🔴💀) ← for calculator
+- Question 3 — Symptom inventory (MULTI-SELECT, 7-10 options) + counter "Selected: X"
 
-ВСТАВКА после вопроса 3: Валидация + научный факт + надежда
-- Комплимент осознанности
-- "Даже 1-2 [пункта] — это уже сигнал"
-- Зелёная карточка с научным фактом, дающим НАДЕЖДУ на обратимость
-- Кнопка: "Продолжить →"
+INSERT after question 3: Validation + scientific fact + hope
+- Compliment on awareness
+- "Even 1-2 [items] is already a signal"
+- Green card with scientific fact providing HOPE for reversibility
+- Button: "Continue →"
 
-- Вопрос 4 — Мотивация к действию (single-select, 4 варианта, 🟢🟡🟠🔴)
-- Вопрос 5 — Инвентаризация потерь (MULTI-SELECT, 5-7 вариантов) + счётчик "Потеряно: X"
-- Вопрос 6 — Провокационный сценарий (single-select, 4 варианта, 🟢🟡🟠🔴)
-- Вопрос 7 — Текущее эмоциональное состояние (single-select, 4 варианта, 🟢🟡🟠🔴)
-- Вопрос 8 — Готовность / квалификация лида (single-select, 4 варианта):
-  - 🔥 "Я готов прямо СЕЙЧАС"
-  - ⚡ "Заряжен, покажи как"
-  - 🌊 "Понимаю проблему, не вижу решения"
-  - 🤔 "Пока не приоритет"
+- Question 4 — Motivation to act (single-select, 4 options, 🟢🟡🟠🔴)
+- Question 5 — Loss inventory (MULTI-SELECT, 5-7 options) + counter "Lost: X"
+- Question 6 — Provocative scenario (single-select, 4 options, 🟢🟡🟠🔴)
+- Question 7 — Current emotional state (single-select, 4 options, 🟢🟡🟠🔴)
+- Question 8 — Readiness / lead qualification (single-select, 4 options):
+  - 🔥 "I'm ready RIGHT NOW"
+  - ⚡ "Pumped, show me how"
+  - 🌊 "I see the problem, don't see the solution"
+  - 🤔 "Not a priority yet"
 
-РЕЗУЛЬТАТЫ (4 экрана):
-- Персональная карта (дашборд):
-  - Бейдж-категория по скору
-  - Основной скор: [НАЗВАНИЕ] SCORE: X.X / 10
-  - 3 суб-метрики: XX% | XX% | XX%
-  - Рекомендация: "РЕКОМЕНДУЕМЫЙ СРОК: [срок продукта]"
-  - Кнопка: "Посмотреть, что ты получишь →"
+RESULTS (4 screens):
+- Personal map (dashboard):
+  - Badge category by score
+  - Main score: [NAME] SCORE: X.X / 10
+  - 3 sub-metrics: XX% | XX% | XX%
+  - Recommendation: "RECOMMENDED DURATION: [product duration]"
+  - Button: "See what you'll get →"
 
-- Калькулятор стоимости бездействия:
-  - ВРЕМЯ: ответ вопроса 2 → день/неделя/месяц/год → ДНИ ЖИЗНИ
-  - ДЕНЬГИ: время × ставка ЦА → за год → за 5 лет
-  - Конкретные примеры упущенного
+- Inaction cost calculator:
+  - TIME: answer to question 2 → day/week/month/year → DAYS OF LIFE
+  - MONEY: time × target audience rate → per year → per 5 years
+  - Specific examples of what was missed
 
-- Влияние на качество жизни:
-  - 4-5 конкретных последствий с эмодзи
-  - "И с каждым днём это становится нормой."
+- Quality of life impact:
+  - 4-5 specific consequences with emojis
+  - "And each day this becomes the new normal."
 
-- Шоковое число:
-  - ГИГАНТСКИЙ текст: "[XXX] ДНЕЙ"
-  - Зелёная карточка: "За это время можно было:" + 4 альтернативы
+- Shock number:
+  - GIANT text: "[XXX] DAYS"
+  - Green card: "In that time you could have:" + 4 alternatives
 
-ПРОДУКТ (2-3 экрана):
-- Обещание трансформации:
-  - "Твой путь: из [проблемы] — к [результату]"
-  - 4 обещания с эмодзи
-  - Кнопка: "Почему это сработает? →"
+PRODUCT (2-3 screens):
+- Transformation promise:
+  - "Your path: from [problem] — to [result]"
+  - 4 promises with emojis
+  - Button: "Why will this work? →"
 
-- Доказательства:
-  - Название ключевого механизма
-  - Крупная цифра: XX% участников [результат]
-  - 3-4 статистики
-  - Одно ПРЕДУПРЕЖДЕНИЕ + почему наше решение отличается
+- Proof:
+  - Name of key mechanism
+  - Large number: XX% of participants [result]
+  - 3-4 statistics
+  - One WARNING + why our solution is different
 
-КОНВЕРСИЯ (2 экрана):
-- Финальный CTA:
-  - Логотип/эмодзи + название
-  - Слоган от первого лица
-  - Подзаголовок: "[Срок], [формат], [обещание]"
-  - Большая зелёная кнопка
-  - Дефицит: "🎁 Первым [N] участникам — бонус" или live-счётчик
+CONVERSION (2 screens):
+- Final CTA:
+  - Logo/emoji + name
+  - First-person slogan
+  - Subheading: "[Duration], [format], [promise]"
+  - Large green button
+  - Scarcity: "🎁 First [N] participants get a bonus" or live counter
 
-- Форма регистрации:
-  - Минимум полей: Имя + [выбранный контакт]
-  - Кнопка от первого лица
+- Registration form:
+  - Minimum fields: Name + [chosen contact method]
+  - First-person button
 
-### Скоринг
+### Scoring
 
-Веса ответов:
-- Single-select (вопросы 1, 2, 4, 6, 7): 🟢=3, 🟡=2, 🟠=1, 🔴=0, 💀=0
-- Multi-select (вопросы 3, 5): каждый пункт = +1 к "глубине проблемы"
-- Вопрос 8 (квалификация): не участвует в скоринге — для сегментации
+Answer weights:
+- Single-select (questions 1, 2, 4, 6, 7): 🟢=3, 🟡=2, 🟠=1, 🔴=0, 💀=0
+- Multi-select (questions 3, 5): each item = +1 to "problem depth"
+- Question 8 (qualification): does not participate in scoring — for segmentation
 
-Основной скор: `score = (сумма_single_select / 15) * 10` → 0.0 - 10.0
+Main score: `score = (single_select_sum / 15) * 10` → 0.0 - 10.0
 
-Суб-метрики:
-- Метрика 1 (вопросы 1, 6): поведение / зависимость
-- Метрика 2 (вопросы 4, 7): мотивация / состояние
-- Метрика 3 (вопрос 2 + count(multi-select 3)): нагрузка / перегрузка
-- Формула: (набранные / максимум группы) × 100%
+Sub-metrics:
+- Metric 1 (questions 1, 6): behavior / dependency
+- Metric 2 (questions 4, 7): motivation / state
+- Metric 3 (question 2 + count(multi-select 3)): load / overload
+- Formula: (earned / group maximum) × 100%
 
-Категории:
-| Скор | Бейдж | Цвет | Подпись |
+Categories:
+| Score | Badge | Color | Label |
 |------|-------|------|---------|
-| 8.0-10.0 | [Всё в порядке] | 🟢 | Система в балансе |
-| 5.0-7.9 | [Предупреждение] | 🟡 | Есть сигналы. Лучшее время начать |
-| 3.0-4.9 | [Серьёзно] | 🟠 | Система перегружена — но выход рядом |
-| 0.0-2.9 | [Критично] | 🔴 | Срочно нужна перезагрузка |
+| 8.0-10.0 | [All good] | 🟢 | System in balance |
+| 5.0-7.9 | [Warning] | 🟡 | There are signals. Best time to start |
+| 3.0-4.9 | [Serious] | 🟠 | System overloaded — but the way out is near |
+| 0.0-2.9 | [Critical] | 🔴 | Urgent reboot needed |
 
-Калькулятор стоимости бездействия:
+Inaction cost calculator:
 ```
-потеря_в_день = значение_ответа
-потеря_в_год = потеря_в_день * 365
-дни_жизни = потеря_в_год / 24
-деньги_в_год = потеря_в_день(часы) * ставка_ЦА * 365
-деньги_за_5_лет = деньги_в_год * 5
-дни_за_10_лет = дни_жизни * 10
+loss_per_day = answer_value
+loss_per_year = loss_per_day * 365
+days_of_life = loss_per_year / 24
+money_per_year = loss_per_day(hours) * target_audience_rate * 365
+money_over_5_years = money_per_year * 5
+days_over_10_years = days_of_life * 10
 ```
 
 ---
 
-## Формат B: ТИПОЛОГИЯ (Focus & Flow-стиль)
+## Format B: TYPOLOGY (Focus & Flow-style)
 
-### Референсы
-- Focus & Flow: "What's Your ADHD Style?" — 3-минутный квиз, 3 архетипа (Hyperfocus Burner, Scattered Starter, Chronic Overwhelmer)
-- Монетизация через Notion-шаблон ($25) и партнёрки
-- Archetype approach: даёт пользователю "имя" его проблеме, мгновенно снижает стыд
+### References
+- Focus & Flow: "What's Your ADHD Style?" — 3-minute quiz, 3 archetypes (Hyperfocus Burner, Scattered Starter, Chronic Overwhelmer)
+- Monetization through Notion template ($25) and affiliate programs
+- Archetype approach: gives the user a "name" for their problem, instantly reduces shame
 
-### Карта экранов (12-15 штук)
+### Screen Map (12-15 screens)
 
-ВХОД (2 экрана):
-- Экран 1: Hook + обещание ("Узнай свой [X]-стиль за 3 минуты")
-  - Чат-пузырь: дружеское приветствие
-  - Заголовок: "Какой у тебя [X]-стиль?"
-  - Подзаголовок: "5 вопросов → твой персональный профиль → стратегия под тебя"
-  - Кнопка: "Узнать свой тип →"
-- Экран 2: Фрейминг
-  - "Нет правильных и неправильных ответов. Выбирай то, что ближе."
-  - Кнопка: "Поехали →"
+ENTRY (2 screens):
+- Screen 1: Hook + promise ("Find your [X] style in 3 minutes")
+  - Chat bubble: friendly greeting
+  - Heading: "What's your [X] style?"
+  - Subheading: "5 questions → your personal profile → strategy tailored to you"
+  - Button: "Find my type →"
+- Screen 2: Framing
+  - "There are no right or wrong answers. Choose what feels closest."
+  - Button: "Let's go →"
 
-ВОПРОСЫ (5-6 штук):
-- Каждый вопрос = одна ситуация, 3-4 варианта ответа
-- Варианты описывают СТИЛЬ поведения, не степень тяжести
-- Нет цветовых маркеров тяжести (🟢🟡🟠🔴) — вместо них уникальные эмодзи для каждого стиля
-- Каждый вариант тайно добавляет баллы к одному или нескольким архетипам
+QUESTIONS (5-6 total):
+- Each question = one situation, 3-4 answer options
+- Options describe BEHAVIORAL STYLE, not severity level
+- No severity color markers (🟢🟡🟠🔴) — instead unique emojis for each style
+- Each option secretly adds points to one or more archetypes
 
-Примеры вопросов-шаблонов:
-1. "Как ты обычно начинаешь рабочий день?" — про стиль организации
-2. "Когда задача тебе неинтересна, ты..." — про фокус и мотивацию
-3. "Как ты реагируешь на дедлайн?" — про стресс и работу под давлением
-4. "Что происходит, когда тебе интересно?" — про гиперфокус
-5. "Как выглядит твой идеальный выходной?" — про восстановление
-6. (опционально) "Как ты принимаешь решения?" — про импульсивность
+Question template examples:
+1. "How do you usually start your workday?" — about organizational style
+2. "When a task doesn't interest you, you..." — about focus and motivation
+3. "How do you react to a deadline?" — about stress and working under pressure
+4. "What happens when you're interested?" — about hyperfocus
+5. "What does your ideal day off look like?" — about recovery
+6. (optional) "How do you make decisions?" — about impulsivity
 
-ВСТАВКА после вопроса 3:
-- "Отличная осознанность! Мы уже видим паттерн..."
-- Анимация "обработки" (1-2 секунды)
+INSERT after question 3:
+- "Great awareness! We can already see a pattern..."
+- Processing animation (1-2 seconds)
 
-РЕЗУЛЬТАТ (3-4 экрана):
-- Экран — Reveal (раскрытие архетипа):
-  - Анимация появления
-  - Крупный эмодзи-символ архетипа
-  - Название: "Ты — [Название архетипа]!"
-  - 2-3 предложения "это про тебя"
-  - Кнопка: "Узнать больше →"
+RESULT (3-4 screens):
+- Screen — Reveal (archetype reveal):
+  - Appearance animation
+  - Large archetype emoji symbol
+  - Title: "You are a [Archetype Name]!"
+  - 2-3 sentences "this is about you"
+  - Button: "Learn more →"
 
-- Экран — Профиль архетипа:
-  - Сильные стороны (3 пункта с ✅)
-  - Слепые зоны / риски (3 пункта с ⚠️)
-  - "Твоя суперсила: [одна фраза]"
-  - "Твоя ловушка: [одна фраза]"
-  - Кнопка: "Получить стратегию →"
+- Screen — Archetype Profile:
+  - Strengths (3 items with ✅)
+  - Blind spots / risks (3 items with ⚠️)
+  - "Your superpower: [one phrase]"
+  - "Your trap: [one phrase]"
+  - Button: "Get your strategy →"
 
-- Экран — Персональная стратегия:
-  - "3 шага для [Название архетипа]:"
-  - Шаг 1, 2, 3 — конкретные рекомендации
-  - "Хочешь полную стратегию? →"
+- Screen — Personal Strategy:
+  - "3 steps for [Archetype Name]:"
+  - Step 1, 2, 3 — specific recommendations
+  - "Want the full strategy? →"
 
-- Экран — Share + CTA:
-  - Share-карточка для Stories/соцсетей (визуально привлекательная)
-  - "Поделись своим результатом"
-  - Разделитель
-  - E-mail capture: "Получи полный гайд для [твоего типа] на e-mail"
-  - Поле: E-mail
-  - Кнопка: "Отправить мой гайд →"
-  - Или: CTA к продукту, адаптированный под архетип
+- Screen — Share + CTA:
+  - Share card for Stories/social media (visually appealing)
+  - "Share your result"
+  - Divider
+  - E-mail capture: "Get the full guide for [your type] via e-mail"
+  - Field: E-mail
+  - Button: "Send my guide →"
+  - Or: CTA to product, adapted to archetype
 
-### Скоринг для типологии
+### Typology Scoring
 
-Каждый вариант ответа имеет веса для каждого архетипа:
+Each answer option has weights for each archetype:
 ```
 variant: {
-  text: "Бросаюсь в задачу с головой, забываю обо всём",
+  text: "I dive headfirst into the task, forget about everything",
   scores: { hyperfocus: 3, scattered: 0, overwhelmed: 1 }
 }
 ```
 
-Финальный архетип = максимальная сумма баллов.
-При равенстве — показать "смешанный тип" (основной + субтип).
+Final archetype = maximum total score.
+In case of a tie — show "mixed type" (primary + subtype).
 
-### Требования к архетипам
+### Archetype Requirements
 
-Каждый архетип должен содержать:
-- Яркое, запоминающееся название (не клиническое!)
-- Эмодзи-символ
-- "Ты говоришь себе: '[характерная фраза]'"
-- Описание в 2-3 предложения
-- 3 сильные стороны
-- 3 слепые зоны
-- Персональная стратегия (3 шага)
-- Рекомендованный продукт/модуль
-- Шер-карточка (текст для соцсетей)
-
----
-
-## Формат C: УЛЬТРА-СКРИНИНГ (Done.-стиль)
-
-### Референсы
-- Done.: 1-минутный ADHD-тест на базе ASRS/Barkley
-- MHA (Mental Health America): DSM-5 скрининг, бесплатный, без paywall
-- Минимальное трение — порог, который преодолевает даже человек в состоянии прокрастинации
-
-### Карта экранов (5-7 штук)
-
-ВХОД (1 экран):
-- Заголовок: "[Проблема]? Узнай за 1 минуту"
-- Подзаголовок: "3 вопроса. Без регистрации. Результат сразу."
-- Кнопка: "Начать →"
-- Social proof внизу: "Уже прошли: 12,847 человек"
-
-ВОПРОСЫ (3-4 штуки):
-- Каждый на одном экране
-- 3-4 варианта, максимально конкретных
-- Быстрый выбор — без раздумий
-- Progress bar чётко показывает "ты почти закончил"
-
-РЕЗУЛЬТАТ (1-2 экрана):
-- Экран — Результат:
-  - Светофор: 🟢 / 🟡 / 🔴
-  - Крупный текст: "Вероятность [проблемы]: [Низкая/Средняя/Высокая]"
-  - 2-3 предложения объяснения
-  - Кнопка: "[CTA] →"
-
-- Экран — CTA:
-  - "Следующий шаг:"
-  - Описание продукта (2 строки)
-  - Кнопка + форма (имя + контакт)
-
-### Скоринг для ультра-скрининга
-
-Простой суммарный скор:
-- Каждый вопрос: вариант 1 = 0, вариант 2 = 1, вариант 3 = 2, вариант 4 = 3
-- Сумма: 0-3 = зелёный, 4-7 = жёлтый, 8+ = красный
+Each archetype must contain:
+- A vivid, memorable name (not clinical!)
+- Emoji symbol
+- "You tell yourself: '[characteristic phrase]'"
+- Description in 2-3 sentences
+- 3 strengths
+- 3 blind spots
+- Personal strategy (3 steps)
+- Recommended product/module
+- Share card (text for social media)
 
 ---
 
-## Формат D: КАЛЬКУЛЯТОР-ШОККЕР
+## Format C: ULTRA-SCREENING (Done.-style)
 
-### Референсы
-- Piwik PRO Marketing ROI Calculator: baseline → рост при увеличении конверсии
-- LogicCore Landing Page ROI Calculator: "сколько денег ты оставляешь на столе"
-- Механика "Дофаминовый аудит" из исследования (5-7 вопросов → Dopamine Depletion Score)
-- Double Denim Marketing + Typeform: калькулятор ROI → $3.67M продаж
+### References
+- Done.: 1-minute ADHD test based on ASRS/Barkley
+- MHA (Mental Health America): DSM-5 screening, free, no paywall
+- Minimal friction — a threshold that even someone in a state of procrastination can overcome
 
-### Карта экранов (8-12 штук)
+### Screen Map (5-7 screens)
 
-ВХОД (1-2 экрана):
-- Экран 1: Hook
-  - Заголовок: "Сколько стоит твоя [проблема]?"
-  - Подзаголовок: "Двигай слайдеры — калькулятор покажет правду"
-  - Кнопка: "Рассчитать →"
+ENTRY (1 screen):
+- Heading: "[Problem]? Find out in 1 minute"
+- Subheading: "3 questions. No registration. Results instantly."
+- Button: "Start →"
+- Social proof at bottom: "Already taken by: 12,847 people"
 
-СЛАЙДЕРЫ (1 экран с 3 слайдерами ИЛИ 3 отдельных экрана):
+QUESTIONS (3-4 total):
+- Each on a single screen
+- 3-4 options, maximally specific
+- Quick selection — no overthinking
+- Progress bar clearly shows "you're almost done"
 
-Вариант A — Все на одном экране:
-- Слайдер 1: "[Что измеряем]" (диапазон, шаг)
-  Пример: "Часов в день на соцсети" (0.5 - 8, шаг 0.5)
-- Слайдер 2: "[Второй параметр]"
-  Пример: "Твой возраст" (18 - 60, шаг 1)
-- Слайдер 3: "[Третий параметр]"
-  Пример: "Доход в час ($)" (10 - 200, шаг 5)
-- Live-пересчёт при каждом движении слайдера
-- Превью результата внизу экрана (обновляется мгновенно)
-- Кнопка: "Показать полный расчёт →"
+RESULT (1-2 screens):
+- Screen — Result:
+  - Traffic light: 🟢 / 🟡 / 🔴
+  - Large text: "[Problem] probability: [Low/Medium/High]"
+  - 2-3 sentences of explanation
+  - Button: "[CTA] →"
 
-Вариант B — По одному на экран (ADHD-friendly):
-- По одному слайдеру на экране
-- Крупный текущее значение
-- Кнопка "Дальше →" после каждого
+- Screen — CTA:
+  - "Next step:"
+  - Product description (2 lines)
+  - Button + form (name + contact)
 
-РЕЗУЛЬТАТ — ШОК (2-3 экрана):
-- Экран — 3 шок-числа:
-  - 📅 ДНЕЙ ЖИЗНИ: "[XXX] дней ты потратишь на [проблему]"
-  - 💰 ДЕНЬГИ: "$XX,XXX потерянной продуктивности"
-  - 🧠 НЕЙРО-ЭФФЕКТ: "[X]+ часов экранного времени увеличивает симптомы на [Y]%"
-  - Каждое число анимировано (count-up от 0)
+### Ultra-screening Scoring
 
-- Экран — Before/After:
-  - Слева: "Твой мозг сейчас" (визуализация хаоса)
-  - Справа: "Твой мозг через 30 дней" (визуализация порядка)
-  - Текст: "Разница — всего [срок продукта]"
+Simple cumulative score:
+- Each question: option 1 = 0, option 2 = 1, option 3 = 2, option 4 = 3
+- Total: 0-3 = green, 4-7 = yellow, 8+ = red
 
-- Экран — Альтернативы:
-  - "За [XXX] дней ты мог бы:"
-  - 4 конкретных альтернативы, релевантных ЦА
-  - Кнопка: "Начать перезагрузку →"
+---
 
-SCROLLYTELLING (опционально, 5-6 шагов):
-- Блок скролл-анимации "Перезагрузка за 30 дней":
-  1. "Сейчас" — хаотичная визуализация
-  2. "День 3" — начинаешь замечать триггеры
-  3. "День 7" — качество сна улучшается
-  4. "День 14" — удерживаешь внимание дольше
-  5. "День 30" — новая реальность
-  6. CTA: "Начни свою перезагрузку"
+## Format D: SHOCK CALCULATOR
 
-CTA + ФОРМА (2 экрана):
-- Стандартные экраны конверсии (как в формате A)
+### References
+- Piwik PRO Marketing ROI Calculator: baseline → growth with conversion increase
+- LogicCore Landing Page ROI Calculator: "how much money you're leaving on the table"
+- "Dopamine Audit" mechanics from research (5-7 questions → Dopamine Depletion Score)
+- Double Denim Marketing + Typeform: ROI calculator → $3.67M in sales
 
-### Формулы для калькулятора
+### Screen Map (8-12 screens)
 
-Задай формулы на основе слайдеров:
+ENTRY (1-2 screens):
+- Screen 1: Hook
+  - Heading: "How much does your [problem] cost?"
+  - Subheading: "Move the sliders — the calculator will show you the truth"
+  - Button: "Calculate →"
+
+SLIDERS (1 screen with 3 sliders OR 3 separate screens):
+
+Variant A — All on one screen:
+- Slider 1: "[What we're measuring]" (range, step)
+  Example: "Hours per day on social media" (0.5 - 8, step 0.5)
+- Slider 2: "[Second parameter]"
+  Example: "Your age" (18 - 60, step 1)
+- Slider 3: "[Third parameter]"
+  Example: "Hourly income ($)" (10 - 200, step 5)
+- Live recalculation with each slider movement
+- Result preview at bottom of screen (updates instantly)
+- Button: "Show full calculation →"
+
+Variant B — One per screen (ADHD-friendly):
+- One slider per screen
+- Large current value display
+- "Next →" button after each
+
+RESULT — SHOCK (2-3 screens):
+- Screen — 3 shock numbers:
+  - 📅 DAYS OF LIFE: "[XXX] days you'll spend on [problem]"
+  - 💰 MONEY: "$XX,XXX in lost productivity"
+  - 🧠 NEURO-EFFECT: "[X]+ hours of screen time increases symptoms by [Y]%"
+  - Each number animated (count-up from 0)
+
+- Screen — Before/After:
+  - Left: "Your brain now" (chaos visualization)
+  - Right: "Your brain in 30 days" (order visualization)
+  - Text: "The difference — just [product duration]"
+
+- Screen — Alternatives:
+  - "In [XXX] days you could have:"
+  - 4 specific alternatives relevant to the target audience
+  - Button: "Start your reboot →"
+
+SCROLLYTELLING (optional, 5-6 steps):
+- Scroll animation block "Reboot in 30 days":
+  1. "Now" — chaotic visualization
+  2. "Day 3" — you start noticing triggers
+  3. "Day 7" — sleep quality improves
+  4. "Day 14" — you hold attention longer
+  5. "Day 30" — new reality
+  6. CTA: "Start your reboot"
+
+CTA + FORM (2 screens):
+- Standard conversion screens (same as Format A)
+
+### Calculator Formulas
+
+Define formulas based on sliders:
 ```
-slider1_value = часы_в_день (float)
-slider2_value = возраст (int)
-slider3_value = доход_в_час (float)
+slider1_value = hours_per_day (float)
+slider2_value = age (int)
+slider3_value = hourly_income (float)
 
-// Шок-числа
-дни_жизни = (slider1_value * 365 * (80 - slider2_value)) / 24
-деньги_потерянные = slider1_value * slider3_value * 365
-нейро_эффект = если slider1_value > 4 то "увеличивает симптомы на 25%" иначе "замедляет восстановление"
+// Shock numbers
+days_of_life = (slider1_value * 365 * (80 - slider2_value)) / 24
+money_lost = slider1_value * slider3_value * 365
+neuro_effect = if slider1_value > 4 then "increases symptoms by 25%" else "slows recovery"
 
-// Альтернативы (рассчитай что можно сделать за потерянные часы)
-часы_в_год = slider1_value * 365
+// Alternatives (calculate what could be done with lost hours)
+hours_per_year = slider1_value * 365
 ```
 
-Адаптируй слайдеры и формулы под конкретный продукт.
+Adapt sliders and formulas to the specific product.
 
 ---
 
-## Гибридные комбинации
+## Hybrid Combinations
 
-Форматы можно комбинировать:
+Formats can be combined:
 
-**A + D**: Диагностика с калькулятором (текущий NeuroSamurai — уже так работает)
-**B + D**: Типология + калькулятор ("Ты Hyperfocus Burner — и вот во что это обходится: $23,400/год")
-**C + B**: Быстрый скрининг → если результат жёлтый/красный → переход в типологию
-**Noom-hybrid**: Длинный квиз (15-20 вопросов) с cadence 3:1 (3 вопроса → 1 мотивационный экран). Для продуктов с высоким чеком, где нужен максимальный sunk cost.
+**A + D**: Diagnostics with calculator (current NeuroSamurai — already works this way)
+**B + D**: Typology + calculator ("You're a Hyperfocus Burner — and here's what it costs: $23,400/year")
+**C + B**: Quick screening → if result is yellow/red → transition to typology
+**Noom-hybrid**: Long quiz (15-20 questions) with cadence 3:1 (3 questions → 1 motivational screen). For high-ticket products where maximum sunk cost is needed.
 
-### Cadence 3:1 (Noom-стиль)
+### Cadence 3:1 (Noom-style)
 
-Каждые 3 вопроса — вставка:
-- Мотивационная страница с социальным доказательством
-- Или график прогресса
-- Или снятие вины / нормализация
-- Или мини-инсайт
+Every 3 questions — an insert:
+- Motivational page with social proof
+- Or progress graph
+- Or guilt relief / normalization
+- Or mini-insight
 
-Это создаёт ощущение диалога, а не допроса. К моменту paywall пользователь инвестировал время → sunk cost effect.
+This creates a feeling of dialogue, not an interrogation. By the paywall, the user has invested time → sunk cost effect.
 
 ### "Yes Ladder" (Noom)
 
-Порядок вопросов по принципу нарастания вовлечённости:
-1. Лёгкие / нейтральные (возраст, пол, формат)
-2. Личные / про проблему
-3. Эмоциональные / про боль
-4. О готовности / про деньги
+Question order based on increasing engagement:
+1. Easy / neutral (age, gender, format)
+2. Personal / about the problem
+3. Emotional / about pain
+4. About readiness / about money
 
-Каждое "да" делает следующее "да" легче.
+Each "yes" makes the next "yes" easier.

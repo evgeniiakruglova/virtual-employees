@@ -1,226 +1,226 @@
 # Narcissist Communication Expert (Standalone)
 
-**Автономный skill для безопасной коммуникации с людьми с нарциссическим расстройством личности (НРЛ).**
+**An autonomous skill for safe communication with people with Narcissistic Personality Disorder (NPD).**
 
 ---
 
-## 🎯 Что делает:
+## What it does:
 
-- ✅ Анализирует черновики сообщений на наличие опасных фраз-триггеров
-- ✅ Определяет тип ситуации (просьба, отказ, переговоры, конфликт)
-- ✅ Адаптирует сообщение на основе встроенной психологии НРЛ
-- ✅ Выдаёт готовый текст + подробное объяснение
-- ✅ Предсказывает DARVO и даёт заготовки ответов
+- Analyzes draft messages for dangerous trigger phrases
+- Identifies the situation type (request, refusal, negotiation, conflict)
+- Adapts the message based on built-in NPD psychology
+- Provides ready-to-send text + detailed explanation
+- Predicts DARVO and provides prepared responses
 
 ---
 
-## 📦 Отличия от narcissist-communication:
+## Differences from narcissist-communication:
 
-| Функция | narcissist-communication | narcissist-standalone |
+| Feature | narcissist-communication | narcissist-standalone |
 |---------|-------------------------|----------------------|
-| NotebookLM | ✅ Требуется | ❌ Не требуется |
-| База знаний | Внешний NotebookLM | Встроенная |
-| Скорость | Медленнее (запросы к API) | Быстрее |
-| Автономность | Зависит от NotebookLM | 100% автономный |
+| NotebookLM | Required | Not required |
+| Knowledge base | External NotebookLM | Built-in |
+| Speed | Slower (API requests) | Faster |
+| Autonomy | Depends on NotebookLM | 100% autonomous |
 
 ---
 
-## 🚀 Использование:
+## Usage:
 
-### Проверка черновика:
+### Check a draft:
 
 ```bash
-/narcissist-standalone Проверь сообщение: "Андрей, почему ты не отвечаешь про деньги?"
+/narcissist-standalone Check message: "Andrew, why aren't you responding about the money?"
 ```
 
-### Адаптация сообщения:
+### Adapt a message:
 
 ```bash
-/narcissist-standalone Адаптируй: "Мне надоели твои манипуляции!"
+/narcissist-standalone Adapt: "I'm sick of your manipulations!"
 ```
 
-### Помощь в конфликте:
+### Help in conflict:
 
 ```bash
-/narcissist-standalone Как ответить если он обвиняет меня в разрушении семьи?
+/narcissist-standalone How to respond if he accuses me of destroying the family?
 ```
 
-### Анализ полученного сообщения:
+### Analyze a received message:
 
 ```bash
-/narcissist-standalone Андрей написал: "Ты эгоистка! Дети страдают из-за тебя!" Как ответить?
+/narcissist-standalone Andrew wrote: "You're selfish! The children are suffering because of you!" How to respond?
 ```
 
 ---
 
-## 📚 База знаний (встроенная):
+## Knowledge Base (built-in):
 
-### 1. Запрещённые фразы (9 категорий)
-- Эмпатия и понимание
-- Передача контроля
-- Требование признания вины
-- Требование честности
-- Выражение боли/эмоций
-- Диагностика/называние
-- Обвинения и вопросы "почему"
-- Абсолютизирующие утверждения
-- Оправдания
+### 1. Forbidden Phrases (9 categories)
+- Empathy and understanding
+- Transferring control
+- Demanding admission of guilt
+- Demanding honesty
+- Expressing pain/emotions
+- Diagnosis/labeling
+- Accusations and "why" questions
+- Absolutist statements
+- Excuses
 
-### 2. Золотые правила
-- Что делать: факты, спокойствие, паузы, апелляция к грандиозности, иллюзия контроля
-- Что не делать: оправдания, объяснения, эмоции, попытки изменить
+### 2. Golden Rules
+- What to do: facts, calmness, pauses, appeal to grandiosity, illusion of control
+- What not to do: excuses, explanations, emotions, attempts to change
 
-### 3. Паттерны по ситуациям
-- **Просьба:** [Комплимент] + [Просьба как возможность]
-- **Отказ:** [Твёрдое "нет"] + [Факт]
-- **Переговоры:** [Факт прошлого] + [Факт настоящего] + [Предложение]
-- **Конфликт:** [Называние манипуляции] + [Спокойствие] + [Возврат к теме]
+### 3. Situation Patterns
+- **Request:** [Compliment] + [Request as an opportunity]
+- **Refusal:** [Firm "no"] + [Fact]
+- **Negotiation:** [Past fact] + [Present fact] + [Proposal]
+- **Conflict:** [Name the manipulation] + [Stay calm] + [Return to topic]
 
-### 4. Техники коммуникации
-- **Grey Rock** (серый камень) — минимум эмоций
-- **BIFF** (Brief, Informative, Friendly, Firm) — короткие твёрдые ответы
-- **Заезженная пластинка** (Broken Record) — повтор одного вопроса
+### 4. Communication Techniques
+- **Grey Rock** — minimum emotions
+- **BIFF** (Brief, Informative, Friendly, Firm) — short firm responses
+- **Broken Record** — repeating one question
 
-### 5. Специальные темы
-- Финансовые манипуляции (5 признаков + тактика)
-- Манипуляции через детей (4 признака + тактика защиты)
-- DARVO-тактика (Deny-Attack-Reverse) — распознавание + защита
-
----
-
-## 📋 Формат ответа:
-
-Skill всегда отвечает в структурированном виде:
-
-```
-⚠️ ЧТО ОПАСНО В ЧЕРНОВИКЕ:
-- [опасный элемент] → [почему триггер]
-
-📊 ТИП СИТУАЦИИ: [Просьба/Отказ/Переговоры/Конфликт]
-
-✅ АДАПТИРОВАННОЕ СООБЩЕНИЕ:
-[готовый текст для отправки]
-
-🧠 ПОЧЕМУ ЭТО РАБОТАЕТ:
-- [психологическое объяснение]
-
-📋 АЛЬТЕРНАТИВНЫЙ ВАРИАНТ:
-[более жёсткий/мягкий вариант]
-
-💡 ЕСЛИ БУДЕТ DARVO:
-[предсказание + заготовка ответа]
-```
+### 5. Special Topics
+- Financial manipulation (5 signs + tactics)
+- Manipulation through children (4 signs + defense tactics)
+- DARVO tactics (Deny-Attack-Reverse) — recognition + defense
 
 ---
 
-## 🔧 Установка:
+## Response Format:
 
-Skill уже установлен в `~/.claude/skills/narcissist-standalone/`
+The skill always responds in a structured format:
 
-Если не видишь в списке skills:
-
-1. Перезапусти Claude Code
-2. Проверь в Settings → Skills
-
----
-
-## 📖 Примеры:
-
-### Пример 1: Финансовый контроль
-
-**Ввод:**
 ```
-/narcissist-standalone Андрей написал: "Я помогаю, чем могу. Если тебе нужно что-то для детей — напиши, что именно. Я решу, переводить или нет."
-```
+WARNING - WHAT'S DANGEROUS IN THE DRAFT:
+- [dangerous element] → [why it's a trigger]
 
-**Вывод:**
-```
-⚠️ ЧТО ОПАСНО:
-- "Я помогаю" → алименты = обязанность, а не помощь
-- "Я решу" → финансовый контроль
-- "Что именно" → требование отчёта
+SITUATION TYPE: [Request/Refusal/Negotiation/Conflict]
 
-📊 ТИП СИТУАЦИИ: Переговоры (финансовые манипуляции)
+ADAPTED MESSAGE:
+[ready-to-send text]
 
-✅ АДАПТИРОВАННОЕ СООБЩЕНИЕ:
-"Андрей, алименты — это не помощь, а твоя обязанность. Какую минимальную сумму ты способен переводить ежемесячно? Жду цифру до 25 марта."
+WHY THIS WORKS:
+- [psychological explanation]
 
-🧠 ПОЧЕМУ ЭТО РАБОТАЕТ:
-- Устанавливаешь факт (обязанность, а не помощь)
-- Конкретный вопрос (нет места для уходов)
-- Дедлайн + последствие (контроль в твоих руках)
+ALTERNATIVE VERSION:
+[harder/softer version]
+
+IF DARVO OCCURS:
+[prediction + prepared response]
 ```
 
 ---
 
-### Пример 2: DARVO
+## Installation:
 
-**Ввод:**
+The skill is already installed in `~/.claude/skills/narcissist-standalone/`
+
+If you don't see it in the skills list:
+
+1. Restart Claude Code
+2. Check in Settings → Skills
+
+---
+
+## Examples:
+
+### Example 1: Financial Control
+
+**Input:**
 ```
-/narcissist-standalone Андрей обвиняет меня в том, что я разрушила семью. Как ответить?
-```
-
-**Вывод:**
-```
-⚠️ ЧТО ПРОИСХОДИТ:
-- DARVO-тактика: Deny-Attack-Reverse Victim/Offender
-- Цель: заставить тебя оправдываться
-
-📊 ТИП СИТУАЦИИ: Конфликт (DARVO)
-
-✅ АДАПТИРОВАННОЕ СООБЩЕНИЕ:
-"Я не обсуждаю прошлое. Мы обсуждаем алименты. Жду сумму до 25 марта."
-
-🧠 ПОЧЕМУ ЭТО РАБОТАЕТ:
-- Отказ от защиты (нет топлива)
-- Возврат к теме (игнорируешь провокацию)
-- Дедлайн (держишь контроль)
-
-💡 ЕСЛИ БУДЕТ ДАВИТЬ ДАЛЬШЕ:
-Заезженная пластинка:
-"Мы обсуждаем алименты. Жду сумму до 25 марта."
-"Мы обсуждаем алименты. Жду сумму до 25 марта."
-"Мы обсуждаем алименты. Жду сумму до 25 марта."
+/narcissist-standalone Andrew wrote: "I help however I can. If you need something for the children — write what exactly. I'll decide whether to transfer or not."
 ```
 
----
+**Output:**
+```
+WARNING - WHAT'S DANGEROUS:
+- "I help" → child support = obligation, not help
+- "I'll decide" → financial control
+- "What exactly" → demanding a report
 
-## ✅ Чеклист безопасности:
+SITUATION TYPE: Negotiation (financial manipulation)
 
-Перед отправкой любого сообщения нарциссу проверь:
+ADAPTED MESSAGE:
+"Andrew, child support is not help — it's your obligation. What is the minimum amount you can transfer monthly? I expect a number by March 25."
 
-- [ ] Нет запрещённых фраз?
-- [ ] Нет эмоций?
-- [ ] Нет оправданий?
-- [ ] Есть конкретный вопрос или требование?
-- [ ] Есть дедлайн?
-- [ ] Есть последствия при нарушении?
-- [ ] Сообщение короткое (< 5 предложений)?
-- [ ] Тон нейтральный (BIFF)?
-
----
-
-## 🎯 Цель:
-
-**Не изменить нарцисса (вероятность < 5%), а защитить себя.**
+WHY THIS WORKS:
+- Establishes fact (obligation, not help)
+- Specific question (no room for evasion)
+- Deadline + consequence (control is in your hands)
+```
 
 ---
 
-## 📞 Поддержка:
+### Example 2: DARVO
 
-Если skill не работает:
+**Input:**
+```
+/narcissist-standalone Andrew accuses me of destroying the family. How to respond?
+```
 
-1. Проверь установку: `ls -la ~/.claude/skills/narcissist-standalone/`
-2. Перезапусти Claude Code
-3. Проверь логи: `~/.claude/logs/`
+**Output:**
+```
+WARNING - WHAT'S HAPPENING:
+- DARVO tactic: Deny-Attack-Reverse Victim/Offender
+- Goal: to make you defend yourself
+
+SITUATION TYPE: Conflict (DARVO)
+
+ADAPTED MESSAGE:
+"I'm not discussing the past. We're discussing child support. I expect the amount by March 25."
+
+WHY THIS WORKS:
+- Refusing to defend (no fuel)
+- Returning to topic (ignoring provocation)
+- Deadline (keeping control)
+
+IF THEY KEEP PUSHING:
+Broken Record:
+"We're discussing child support. I expect the amount by March 25."
+"We're discussing child support. I expect the amount by March 25."
+"We're discussing child support. I expect the amount by March 25."
+```
 
 ---
 
-## 📄 Лицензия:
+## Safety Checklist:
 
-MIT License — используй свободно.
+Before sending any message to a narcissist, check:
+
+- [ ] No forbidden phrases?
+- [ ] No emotions?
+- [ ] No excuses?
+- [ ] Has a specific question or demand?
+- [ ] Has a deadline?
+- [ ] Has consequences for violation?
+- [ ] Message is short (< 5 sentences)?
+- [ ] Tone is neutral (BIFF)?
 
 ---
 
-**Автор:** Yakov Yasko
+## Goal:
+
+**Not to change the narcissist (probability < 5%), but to protect yourself.**
+
+---
+
+## Support:
+
+If the skill doesn't work:
+
+1. Check installation: `ls -la ~/.claude/skills/narcissist-standalone/`
+2. Restart Claude Code
+3. Check logs: `~/.claude/logs/`
+
+---
+
+## License:
+
+MIT License — use freely.
+
+---
+
+**Author:** Yakov Yasko
 **GitHub:** https://github.com/yasikvlad/narcissist-communication-skill

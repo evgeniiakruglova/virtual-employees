@@ -1,158 +1,158 @@
-# Sales Assistant — скилл для Claude Code
+# Sales Assistant — A Skill for Claude Code
 
-AI-ассистент менеджера по продажам в переписках. Анализирует диалоги, предлагает варианты ответов, отрабатывает возражения, ведёт к оплате.
+AI assistant for sales managers in messaging. Analyzes conversations, suggests response options, handles objections, guides to payment.
 
-Методология Софии Добрыниной + SPIN-продажи + анализ 50+ реальных переписок.
-
----
-
-## Что умеет
-
-- **Помочь ответить клиенту** — определяет этап продажи, температуру лида, предлагает 3 варианта ответа (мягкий / уверенный / прямой)
-- **Анализировать переписку** — находит ошибки, показывает где зависло, предлагает реанимацию
-- **Составлять скрипты** — шаблоны с переменными под любую нишу
-- **Отрабатывать возражения** — «дорого», «я подумаю», молчание, «нужно посоветоваться»
-- **Вести к оплате** — пошаговая последовательность закрытия сделки
+Sofia Dobrynina's methodology + SPIN selling + analysis of 50+ real conversations.
 
 ---
 
-## Формат ответа
+## What It Can Do
+
+- **Help respond to a client** — determines the sales stage, lead temperature, suggests 3 response options (soft / confident / direct)
+- **Analyze conversations** — finds mistakes, shows where things stalled, suggests reactivation
+- **Create scripts** — templates with variables for any niche
+- **Handle objections** — "too expensive," "I'll think about it," silence, "I need to check with someone"
+- **Guide to payment** — step-by-step deal closing sequence
+
+---
+
+## Response Format
 
 ```
-📍 ЭТАП: Квалификация
-🌡 ТЕМПЕРАТУРА: Тёплый — задаёт конкретные вопросы, изучал контент
+📍 STAGE: Qualification
+🌡 TEMPERATURE: Warm — asks specific questions, reviewed content
 
-🔍 АНАЛИЗ БОЛЕЙ:
-- Выявлено: нужен результат быстро, уже пробовал сам
-- Узнать: бюджет, сроки, кто принимает решение
-- Триггеры: кейс из его ниши, дефицит мест
+🔍 PAIN ANALYSIS:
+- Identified: needs results fast, already tried on their own
+- To find out: budget, timeline, who makes decisions
+- Triggers: case from their niche, limited spots
 
-💬 ВАРИАНТ 1 — Мягкий:
-[текст]
+💬 OPTION 1 — Soft:
+[text]
 
-💬 ВАРИАНТ 2 — Уверенный:
-[текст]
+💬 OPTION 2 — Confident:
+[text]
 
-💬 ВАРИАНТ 3 — Прямой:
-[текст]
+💬 OPTION 3 — Direct:
+[text]
 
-📝 ПОЧЕМУ ТАК:
-Применяем SPIN-вопрос типа P (проблема) + альтернативный вопрос
+📝 WHY THIS APPROACH:
+Applying SPIN question type P (problem) + alternative question
 
-⚡ СЛЕДУЮЩИЙ ШАГ:
-Через 1 день, если молчит: кейс по его теме
+⚡ NEXT STEP:
+In 1 day, if silent: case study on their topic
 ```
 
 ---
 
-## Что внутри
+## What's Inside
 
-| Файл | Содержание |
-|------|-----------|
-| `SKILL.md` | Ядро скилла — роль, SPIN, температура, квалификация, формат, чеклист |
-| `01_МЕТОДОЛОГИЯ_ПРОДАЖ.md` | Полная методология: 13 частей, этапы, психология, 20 антипаттернов, библиотека фраз |
-| `02_ПРАВИЛА_ОБЩЕНИЯ.md` | Регламенты: эмоциональный фон, правило 3 секунд, структура сообщений |
-| `03_УСПЕШНЫЕ_ПЕРЕПИСКИ.md` | 4 разобранных кейса (B2B, B2C, реанимация, консалтинг) с приёмами |
-| `04_ИНСТРУКЦИЯ_АССИСТЕНТА.md` | Сценарии работы, SPIN, температура, квалификация, follow-up тайминги |
-
----
-
-## Ключевые техники
-
-### Формула переписки
-**Цель → Вопросы → Решение → Действие**
-
-### SPIN-вопросы
-| Тип | Цель |
-|-----|------|
-| **S** — Ситуация | Понять контекст |
-| **P** — Проблема | Выявить боль |
-| **I** — Последствия | Усилить осознание |
-| **N** — Выгода | Клиент сам проговаривает ценность |
-
-### Температура лида
-| Температура | Стратегия |
-|-------------|-----------|
-| Холодный | Дать ценность, не давить, лёгкий вопрос |
-| Тёплый | Квалификация, персональное предложение |
-| Горячий | Не тянуть, быстро закрывать |
-
-### Железные правила
-- Вопрос в конце КАЖДОГО сообщения
-- Максимум один экран телефона
-- Говорить о КЛИЕНТЕ, не о себе
-- Ценность → Стоимость → Вопрос
-- Лёгкость, живой язык
+| File | Content |
+|------|---------|
+| `SKILL.md` | Skill core — role, SPIN, temperature, qualification, format, checklist |
+| `01_МЕТОДОЛОГИЯ_ПРОДАЖ.md` | Complete methodology: 13 parts, stages, psychology, 20 anti-patterns, phrase library |
+| `02_ПРАВИЛА_ОБЩЕНИЯ.md` | Guidelines: emotional tone, 3-second rule, message structure |
+| `03_УСПЕШНЫЕ_ПЕРЕПИСКИ.md` | 4 analyzed cases (B2B, B2C, reactivation, consulting) with techniques |
+| `04_ИНСТРУКЦИЯ_АССИСТЕНТА.md` | Work scenarios, SPIN, temperature, qualification, follow-up timing |
 
 ---
 
-## Установка
+## Key Techniques
 
-### Вариант 1: Копировать в проект
+### Messaging Formula
+**Goal → Questions → Solution → Action**
+
+### SPIN Questions
+| Type | Purpose |
+|------|---------|
+| **S** — Situation | Understand context |
+| **P** — Problem | Identify the pain |
+| **I** — Implication | Amplify awareness |
+| **N** — Need-Payoff | Client articulates value themselves |
+
+### Lead Temperature
+| Temperature | Strategy |
+|-------------|----------|
+| Cold | Provide value, don't push, light question |
+| Warm | Qualification, personalized offer |
+| Hot | Don't delay, close quickly |
+
+### Iron Rules
+- Question at the end of EVERY message
+- Maximum one phone screen
+- Talk about the CLIENT, not about yourself
+- Value → Cost → Question
+- Lightness, lively language
+
+---
+
+## Installation
+
+### Option 1: Copy to Project
 ```bash
-# Клонировать
+# Clone
 git clone https://github.com/yasikvlad/sales-assistant.git
 
-# Скопировать в свой проект
+# Copy to your project
 cp -r sales-assistant/ your-project/.claude/skills/sales-assistant/
 ```
 
-### Вариант 2: Глобальная установка (для всех проектов)
+### Option 2: Global Installation (for all projects)
 ```bash
 cp -r sales-assistant/ ~/.claude/skills/sales-assistant/
 ```
 
-### Адаптация под свой бизнес
+### Adapting to Your Business
 
-Создай файлы в папке скилла:
+Create files in the skill folder:
 
-| Файл | Зачем |
-|------|-------|
-| `ПРОДУКТ_И_ОФФЕР.md` | **Обязательно.** Продукт, цены, тарифы, преимущества |
-| `TONE_OF_VOICE.md` | Стиль общения бренда (ты/вы, эмодзи, фразы) |
-| `ЭТАПЫ_ПРОДАЖ_БИЗНЕСА.md` | Уникальные этапы воронки |
-| `ПРАВИЛА_ДИАГНОСТИКИ.md` | Критерии квалификации для хай-тикет |
-
----
-
-## Как использовать
-
-Claude автоматически подхватывает скилл. Просто скажи:
-
-```
-Помоги ответить клиенту: "Сколько стоит ваш курс?"
-```
-
-```
-Проанализируй эту переписку: [скриншот или текст]
-```
-
-```
-Составь скрипт для отработки возражения "дорого" в нише онлайн-образования
-```
-
-```
-Клиент молчит 5 дней после отправки цены. Что написать?
-```
+| File | Purpose |
+|------|---------|
+| `ПРОДУКТ_И_ОФФЕР.md` | **Required.** Product, prices, plans, advantages |
+| `TONE_OF_VOICE.md` | Brand communication style (formal/informal, emojis, phrases) |
+| `ЭТАПЫ_ПРОДАЖ_БИЗНЕСА.md` | Unique funnel stages |
+| `ПРАВИЛА_ДИАГНОСТИКИ.md` | Qualification criteria for high-ticket |
 
 ---
 
-## Методология
+## How to Use
 
-Синтезировано из:
-- Методология продаж в переписке Софии Добрыниной
-- Экспертные материалы Виталия Говорухина, Александра Мацко
-- SPIN-продажи (Neil Rackham)
-- Анализ 50+ реальных переписок из различных ниш (B2B, B2C, инфобиз, услуги)
+Claude automatically picks up the skill. Just say:
+
+```
+Help me respond to a client: "How much does your course cost?"
+```
+
+```
+Analyze this conversation: [screenshot or text]
+```
+
+```
+Create a script for handling the "too expensive" objection in the online education niche
+```
+
+```
+The client has been silent for 5 days after I sent the price. What should I write?
+```
 
 ---
 
-## Автор
+## Methodology
 
-**Vladislav Yasko** — AI-маркетолог, продюсер
+Synthesized from:
+- Sofia Dobrynina's messaging sales methodology
+- Expert materials from Vitaliy Govorukhin, Alexander Matsko
+- SPIN Selling (Neil Rackham)
+- Analysis of 50+ real conversations from various niches (B2B, B2C, info products, services)
 
 ---
 
-## Лицензия
+## Author
+
+**Vladislav Yasko** — AI marketer, producer
+
+---
+
+## License
 
 MIT

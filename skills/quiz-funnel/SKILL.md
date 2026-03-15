@@ -1,9 +1,9 @@
 ---
 name: quiz-funnel
 description: |
-  Персонализированные квиз-воронки для любого продукта. 4 формата: Диагностика (скор, калькулятор), Типология (архетипы, share-карточки), Ультра-скрининг (1 минута, светофор), Калькулятор-шоккер (слайдеры, шок-числа). Готовое ТЗ на Next.js лендинг с ADHD-friendly UX.
-  Use when: квиз, воронка, квиз-воронка, quiz funnel, лид-магнит, квалификационный тест, персонализированный тест, лендинг с тестом, quiz landing page, предзапись через квиз, сбор лидов через тест, типологический тест, калькулятор, скрининг, waitlist, интерактивный лендинг.
-  Do NOT use for: обычные формы без квиза, A/B тесты, юнит-тесты, опросники без продающей части.
+  Personalized quiz funnels for any product. 4 formats: Diagnostics (scoring, calculator), Typology (archetypes, share cards), Ultra-screening (1 minute, traffic light), Shock Calculator (sliders, shock numbers). Ready-made technical spec for Next.js landing with ADHD-friendly UX.
+  Use when: quiz, funnel, quiz funnel, lead magnet, qualification test, personalized test, landing with test, quiz landing page, pre-registration via quiz, lead collection via test, typology test, calculator, screening, waitlist, interactive landing.
+  Do NOT use for: regular forms without quiz, A/B tests, unit tests, surveys without a sales component.
 allowed-tools:
   - Read
   - Write
@@ -15,49 +15,49 @@ allowed-tools:
   - Agent
 ---
 
-# Quiz Funnel v2.0 — генератор квиз-воронок
+# Quiz Funnel v2.0 — Quiz Funnel Generator
 
-Скилл анализирует продукт, его аудиторию и создаёт полное техническое задание на персонализированный квиз-лендинг. Формула основана на анализе 15+ высококонверсионных квиз-воронок (NeuroSamurai, Noom, Focus & Flow, Done., BedGear, RANAVAT и др.), исследованиях ADHD-UX и геймификации.
+The skill analyzes a product, its audience, and creates a complete technical specification for a personalized quiz landing page. The formula is based on analysis of 15+ high-converting quiz funnels (NeuroSamurai, Noom, Focus & Flow, Done., BedGear, RANAVAT, etc.), ADHD-UX research, and gamification.
 
-## Что делает
+## What It Does
 
-1. Собирает информацию о продукте через диалог
-2. Рекомендует оптимальный формат квиза из 4 вариантов
-3. Анализирует аудиторию (боли, триггеры, архетипы, трансформации)
-4. Генерирует полную структуру квиза с ADHD-friendly UX
-5. Выдаёт готовое ТЗ в markdown — можно сразу дать Claude Code на реализацию
+1. Collects product information through dialogue
+2. Recommends the optimal quiz format from 4 options
+3. Analyzes the audience (pain points, triggers, archetypes, transformations)
+4. Generates a complete quiz structure with ADHD-friendly UX
+5. Outputs a ready-made technical spec in markdown — can be immediately handed to Claude Code for implementation
 
-## 4 формата квизов
+## 4 Quiz Formats
 
-| Формат | Экранов | Время | Лучше всего для |
-|--------|---------|-------|-----------------|
-| **A. Диагностика** | 20+ | 3-5 мин | Курсы, спринты, челленджи |
-| **B. Типология** | 12-15 | 2-3 мин | Блоги, инфо-продукты, digital |
-| **C. Ультра-скрининг** | 5-7 | 1 мин | Консалтинг, SaaS, услуги |
-| **D. Калькулятор** | 8-12 | 1-2 мин | Детокс, продуктивность, финансы |
+| Format | Screens | Time | Best For |
+|--------|---------|------|----------|
+| **A. Diagnostics** | 20+ | 3-5 min | Courses, sprints, challenges |
+| **B. Typology** | 12-15 | 2-3 min | Blogs, info-products, digital |
+| **C. Ultra-screening** | 5-7 | 1 min | Consulting, SaaS, services |
+| **D. Calculator** | 8-12 | 1-2 min | Detox, productivity, finance |
 
-## Использование
+## Usage
 
 ```
-/quiz-funnel Создай квиз для моего 21-дневного курса по продуктивности
-/quiz-funnel Типологический квиз для ADHD-блога
-/quiz-funnel Калькулятор стоимости прокрастинации для приложения
-/quiz-funnel Быстрый скрининг для записи на консультацию
+/quiz-funnel Create a quiz for my 21-day productivity course
+/quiz-funnel Typology quiz for an ADHD blog
+/quiz-funnel Procrastination cost calculator for an app
+/quiz-funnel Quick screening for consultation booking
 ```
 
-## Как работает
+## How It Works
 
-Скилл следует 5 фазам (подробности в PROMPT.md):
-- **Фаза 1**: Сбор информации о продукте (интерактивно)
-- **Фаза 1.5**: Рекомендация и выбор формата квиза
-- **Фаза 2**: Анализ ДНК аудитории (боли, триггеры, архетипы)
-- **Фаза 3**: Генерация структуры квиза по формуле 10 паттернов
-- **Фаза 4**: Проектирование скоринга и калькулятора
-- **Фаза 5**: Сборка полного ТЗ в markdown-файл
+The skill follows 5 phases (details in PROMPT.md):
+- **Phase 1**: Product information collection (interactive)
+- **Phase 1.5**: Format recommendation and selection
+- **Phase 2**: Audience DNA analysis (pain points, triggers, archetypes)
+- **Phase 3**: Quiz structure generation using the 10-pattern formula
+- **Phase 4**: Scoring and calculator design
+- **Phase 5**: Full technical spec assembly into a markdown file
 
-## База знаний
+## Knowledge Base
 
-- `PROMPT.md` — полная инструкция по генерации квиза
-- `references/formula.md` — формула 10 паттернов и карты экранов для всех форматов
-- `references/formats.md` — детальные спецификации 4 форматов
-- `references/knowledge-base.md` — конверсионные паттерны, ADHD-UX, дизайн-системы, CTA-библиотека, кейсы с метриками
+- `PROMPT.md` — complete quiz generation instructions
+- `references/formula.md` — 10-pattern formula and screen maps for all formats
+- `references/formats.md` — detailed specifications for 4 formats
+- `references/knowledge-base.md` — conversion patterns, ADHD-UX, design systems, CTA library, case studies with metrics

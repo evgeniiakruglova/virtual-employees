@@ -1,441 +1,441 @@
-# Лестница осознанности Бена Ханта для рекламных креативов
+# Ben Hunt's Awareness Ladder for Advertising Creatives
 
-Методология создания креативов, адаптированных под уровень осознанности аудитории.
-Основана на лекции Олега Дымшакова и системной методологии прогревов.
+A methodology for creating creatives adapted to the audience's level of awareness.
+Based on Oleg Dymshakov's lecture and systematic warm-up methodology.
 
-> Ключевой принцип: один и тот же продукт на разную аудиторию мы должны продавать абсолютно с разных заходов. Нельзя начинать взаимодействие с неправильного уровня.
-
----
-
-## 1. Пять ступеней лестницы осознанности
-
-### Уровень 0 -- Нет проблемы
-
-**Что думает/чувствует аудитория:**
-- Довольны текущим положением дел
-- Не видят необходимости что-то менять
-- Убеждены, что у них все хорошо
-- Игнорируют сигналы о проблемах
-- Самооправдание: "Зато качественно делаем. Хорошая работа требует жертв"
-
-**Иллюзии:** ложные убеждения о себе/рынке/решениях, самообман и рационализации, неправильные причинно-следственные связи.
-
-**Тип креатива:**
-- Визуальный стиль: провокационный, контрастный, нарушающий привычную картину мира
-- Тип хука: шок-контент, неожиданная статистика, сравнение с конкурентами, разрушение иллюзий
-- Тип CTA: мягкий -- "узнай больше", "проверь себя", "пройди тест"
-- Формат: короткие видео, stories, яркие визуалы с цифрами
-
-**Примеры рекламных углов:**
-- Кейс конкурента, который достигает тех же результатов с кратно меньшими ресурсами
-- "18-летний пацан с нейросетками обгоняет 7-летних экспертов"
-- Статистика отставания от рынка
-- Контраст "как делаете вы" vs "как делают лидеры"
+> Key principle: we must sell the same product to different audiences using entirely different approaches. You cannot begin interaction at the wrong level.
 
 ---
 
-### Уровень 1 -- Неосознанная проблема
+## 1. Five Levels of the Awareness Ladder
 
-**Что думает/чувствует аудитория:**
-- Чувствуют дискомфорт, но не могут его сформулировать
-- Объясняют симптомы внешними факторами ("рынок такой", "это норма профессии")
-- Начинают замечать, что у других получается лучше
-- Внутренний конфликт: "С одной стороны -- у меня все работает. С другой -- а вдруг я отстаю?"
+### Level 0 -- No Problem
 
-**Иллюзии:** симптомы принимаются за норму, проблема списывается на обстоятельства, защитная реакция -- "у них просто хуже качество".
+**What the audience thinks/feels:**
+- Satisfied with the current state of affairs
+- See no need to change anything
+- Convinced everything is fine
+- Ignore signals about problems
+- Self-justification: "At least we do quality work. Good work requires sacrifices"
 
-**Тип креатива:**
-- Визуальный стиль: близкий к жизни, документальный, "я такой же как ты"
-- Тип хука: описание боли, которую человек узнает ("знакомо?"), сравнение с другими, серия доказательств отставания
-- Тип CTA: диагностический -- "пройди тест", "проверь свою эффективность", "посмотри чек-лист"
-- Формат: stories с вопросами, опросы, тесты, диагностические чек-листы
+**Illusions:** false beliefs about themselves/the market/solutions, self-deception and rationalizations, incorrect cause-and-effect assumptions.
 
-**Примеры рекламных углов:**
-- "7 признаков неэффективности" -- диагностический тест
-- Цепочка открытий: "Аналитик неделю делает то, что можно за час"
-- Калькулятор потерь -- сколько денег/времени утекает
-- Сравнение эффективности: ваши процессы vs рыночный стандарт
+**Creative type:**
+- Visual style: provocative, contrasting, disrupting the usual worldview
+- Hook type: shock content, unexpected statistics, comparison with competitors, shattering illusions
+- CTA type: soft -- "learn more", "test yourself", "take a quiz"
+- Format: short videos, stories, bright visuals with numbers
 
----
-
-### Уровень 2 -- Ищет решения
-
-**Что думает/чувствует аудитория:**
-- Осознали проблему, активно ищут способы ее решить
-- Рассматривают разные варианты без фильтра
-- Готовы слушать и изучать
-- "Надо найти способ работать эффективнее, а не просто больше"
-- Могут уйти в неэффективные решения (нанять еще людей, пройти курс по тайм-менеджменту)
-
-**Иллюзии:** считают, что любое популярное решение подойдет, путают симптоматическое лечение с системным, переоценивают "простые" методы.
-
-**Тип креатива:**
-- Визуальный стиль: образовательный, структурированный, с инфографикой
-- Тип хука: обзор методов, развенчание мифов, "почему X не работает", сравнение подходов с ROI
-- Тип CTA: образовательный -- "смотри разбор", "узнай метод", "скачай гайд"
-- Формат: длинные видео, разборы, сравнительные таблицы, гайды
-
-**Примеры рекламных углов:**
-- Сравнение: "500К на команду vs 50К на ИИ при том же результате"
-- Развенчание мифов: "Найм решает симптомы, технологии -- причины"
-- Обзор методов решения с честным анализом плюсов/минусов
-- Демонстрация технологических преимуществ в конкретных цифрах
+**Ad angle examples:**
+- A competitor case study achieving the same results with significantly fewer resources
+- "An 18-year-old kid with neural networks is outperforming 7-year industry experts"
+- Statistics showing how far behind the market they are
+- Contrast: "how you do it" vs "how leaders do it"
 
 ---
 
-### Уровень 3 -- Выбирает метод
+### Level 1 -- Unrecognized Problem
 
-**Что думает/чувствует аудитория:**
-- Понимают направление, но сомневаются в конкретном методе
-- Сравнивают разные подходы: "YouTube vs курсы vs самостоятельное изучение"
-- Ищут подтверждение правильности выбранного пути
-- "Мне нужен не общий подход, а решение под мой бизнес"
+**What the audience thinks/feels:**
+- Feel discomfort but cannot articulate it
+- Explain symptoms by external factors ("that's just the market", "it's normal for this profession")
+- Start noticing that others are doing better
+- Internal conflict: "On one hand, everything works for me. On the other — what if I'm falling behind?"
 
-**Иллюзии:** все методы одинаково эффективны, можно разобраться самостоятельно, обычный курс решит нишевую задачу.
+**Illusions:** symptoms are taken as the norm, the problem is blamed on circumstances, defensive reaction — "they just have lower quality."
 
-**Тип креатива:**
-- Визуальный стиль: экспертный, с демонстрацией процесса и результатов
-- Тип хука: уникальность подхода, специфика ниши, системность vs точечные решения, кейсы применения метода
-- Тип CTA: вовлекающий -- "посмотри кейс", "запишись на разбор", "получи пошаговый план"
-- Формат: кейсы, демонстрации, вебинары, пошаговые планы
+**Creative type:**
+- Visual style: close to life, documentary, "I'm just like you"
+- Hook type: describing pain the person recognizes ("sound familiar?"), comparison with others, a series of evidence showing they're falling behind
+- CTA type: diagnostic -- "take a quiz", "check your efficiency", "see the checklist"
+- Format: stories with questions, polls, quizzes, diagnostic checklists
 
-**Примеры рекламных углов:**
-- "Инфобизнес имеет специфику -- обычные ИИ-курсы не подходят"
-- "Самостоятельное изучение займет годы, готовые решения -- недели"
-- Системный vs точечный подход: почему важна целостная система
-- Специфика ниши: почему нужен тот, кто понимает именно ваши задачи
-
----
-
-### Уровень 4 -- Сравнивает продукты
-
-**Что думает/чувствует аудитория:**
-- Определились с методом, выбирают конкретного исполнителя/продукт
-- Сравнивают предложения на рынке
-- Ищут социальные доказательства
-- "Кто из экспертов понимает мою специфику?"
-
-**Иллюзии:** все продукты в нише примерно одинаковые, дешевле = выгоднее, можно обойтись бесплатным контентом.
-
-**Тип креатива:**
-- Визуальный стиль: доказательный, с отзывами, скриншотами результатов, конкретными цифрами
-- Тип хука: уникальность продукта, социальные доказательства, конкретные результаты учеников/клиентов, "единственный, кто соединил X + Y"
-- Тип CTA: решительный -- "запишись", "забронируй место", "получи доступ"
-- Формат: отзывы, до/после, детали программы, FAQ
-
-**Примеры рекламных углов:**
-- "Единственный, кто соединил запуски + ИИ системно"
-- Кейсы и отзывы коллег с конкретными цифрами экономии
-- "Он не ИИ-гуру, а практик запусков! Он поймет мои задачи!"
-- Детальное сравнение с альтернативами по конкретным критериям
+**Ad angle examples:**
+- "7 signs of inefficiency" -- diagnostic quiz
+- Discovery chain: "An analyst spends a week on something that could take an hour"
+- Loss calculator -- how much money/time is leaking
+- Efficiency comparison: your processes vs market standard
 
 ---
 
-### Уровень 5 -- Готов покупать
+### Level 2 -- Searching for Solutions
 
-**Что думает/чувствует аудитория:**
-- Решение принято, но остались последние сомнения
-- Нужен финальный толчок: гарантия, ограничение, особые условия
-- Считают окупаемость: "Если сэкономлю хотя бы 200К в месяц -- за год это 2.4 млн"
-- Последние страхи: цена, время, риск неудачи
+**What the audience thinks/feels:**
+- Recognized the problem, actively looking for ways to solve it
+- Considering different options without a filter
+- Ready to listen and learn
+- "I need to find a way to work smarter, not just harder"
+- May go toward ineffective solutions (hiring more people, taking a time management course)
 
-**Иллюзии:** "еще подожду", "начну после...", "сейчас не лучшее время".
+**Illusions:** believe any popular solution will work, confuse symptomatic treatment with systemic, overestimate "simple" methods.
 
-**Тип креатива:**
-- Визуальный стиль: чистый, прямой, с фокусом на оффер и условия
-- Тип хука: ограниченность предложения, расчет окупаемости, гарантии, финальный аргумент
-- Тип CTA: прямой и срочный -- "купи сейчас", "осталось X мест", "цена растет через..."
-- Формат: продающие посты, последние отзывы, калькулятор окупаемости, обратный отсчет
+**Creative type:**
+- Visual style: educational, structured, with infographics
+- Hook type: method overview, debunking myths, "why X doesn't work", comparing approaches with ROI
+- CTA type: educational -- "watch the breakdown", "learn the method", "download the guide"
+- Format: long videos, breakdowns, comparison tables, guides
 
-**Примеры рекламных углов:**
-- Расчет: "75К за курс окупается за неделю vs 400К экономии в месяц"
-- "Это не трата, а самая выгодная инвестиция в истории моего бизнеса"
-- Ограниченность мест / рост цены / закрытие продаж
-- Гарантия возврата + конкретный результат за конкретный срок
+**Ad angle examples:**
+- Comparison: "500K on a team vs 50K on AI with the same result"
+- Debunking myths: "Hiring treats symptoms; technology treats causes"
+- Overview of solution methods with honest pros/cons analysis
+- Demonstrating technological advantages in concrete numbers
 
 ---
 
-## 2. Маппинг ступеней на типы креативов
+### Level 3 -- Choosing a Method
 
-### Холодная аудитория (уровни 0--1)
+**What the audience thinks/feels:**
+- Understand the direction but doubt the specific method
+- Comparing different approaches: "YouTube vs courses vs self-study"
+- Looking for confirmation that the chosen path is correct
+- "I don't need a general approach; I need a solution for my business"
 
-Задача: пробудить, создать осознание проблемы.
+**Illusions:** all methods are equally effective, can figure it out on their own, a generic course will solve a niche problem.
 
-| Тип креатива | Механизм | Пример |
+**Creative type:**
+- Visual style: expert-level, demonstrating process and results
+- Hook type: uniqueness of the approach, niche specificity, systemic vs one-off solutions, case studies of method application
+- CTA type: engaging -- "see the case study", "sign up for a review session", "get a step-by-step plan"
+- Format: case studies, demos, webinars, step-by-step plans
+
+**Ad angle examples:**
+- "Info business has its specifics — generic AI courses won't cut it"
+- "Self-study takes years; ready-made solutions take weeks"
+- Systemic vs piecemeal approach: why a holistic system matters
+- Niche specificity: why you need someone who understands your exact challenges
+
+---
+
+### Level 4 -- Comparing Products
+
+**What the audience thinks/feels:**
+- Decided on the method, choosing a specific provider/product
+- Comparing offers on the market
+- Looking for social proof
+- "Which expert understands my specifics?"
+
+**Illusions:** all products in the niche are roughly the same, cheaper = better value, can get by with free content.
+
+**Creative type:**
+- Visual style: evidence-based, with testimonials, result screenshots, concrete numbers
+- Hook type: product uniqueness, social proof, specific client/student results, "the only one who combined X + Y"
+- CTA type: decisive -- "sign up", "reserve your spot", "get access"
+- Format: testimonials, before/after, program details, FAQ
+
+**Ad angle examples:**
+- "The only one who systematically combined launches + AI"
+- Case studies and colleague testimonials with specific savings figures
+- "He's not an AI guru — he's a launch practitioner! He'll understand my challenges!"
+- Detailed comparison with alternatives by specific criteria
+
+---
+
+### Level 5 -- Ready to Buy
+
+**What the audience thinks/feels:**
+- Decision is made, but final doubts remain
+- Need a final push: guarantee, limitation, special terms
+- Calculating ROI: "If I save at least 200K per month — that's 2.4M per year"
+- Final fears: price, time, risk of failure
+
+**Illusions:** "I'll wait a bit longer", "I'll start after...", "now isn't the best time."
+
+**Creative type:**
+- Visual style: clean, direct, focused on the offer and terms
+- Hook type: limited availability, ROI calculation, guarantees, final argument
+- CTA type: direct and urgent -- "buy now", "only X spots left", "price increases in..."
+- Format: sales posts, last testimonials, ROI calculator, countdown
+
+**Ad angle examples:**
+- Calculation: "75K for the course pays for itself in a week vs 400K savings per month"
+- "This isn't a cost — it's the best investment in my business history"
+- Limited spots / price increase / sales closing
+- Money-back guarantee + specific result within a specific timeframe
+
+---
+
+## 2. Mapping Levels to Creative Types
+
+### Cold Audience (levels 0--1)
+
+Goal: awaken, create problem awareness.
+
+| Creative Type | Mechanism | Example |
 |---|---|---|
-| Пробуждение | Шок-статистика, неожиданные факты | "93% предпринимателей переплачивают за процессы, которые можно автоматизировать" |
-| FOMO (страх упустить) | Показать, что мир меняется без них | "Пока вы думаете, конкуренты уже внедрили ИИ" |
-| Контраст | До/после, было/стало в цифрах | "Команда из 15 человек vs команда из 5 с тем же оборотом" |
-| Pain-agitate (боль-раскачка) | Описать привычную боль и усилить ее | "12-часовые дни, выгорание, переделки... и вы думаете, это норма?" |
+| Awakening | Shock statistics, unexpected facts | "93% of entrepreneurs overpay for processes that can be automated" |
+| FOMO (fear of missing out) | Show that the world is changing without them | "While you're thinking, competitors have already implemented AI" |
+| Contrast | Before/after in numbers | "A team of 15 vs a team of 5 with the same revenue" |
+| Pain-agitate | Describe familiar pain and amplify it | "12-hour days, burnout, rework... and you think this is normal?" |
 
-Ключевые смыслы для посева:
-- Пробуждающие смыслы -- сдвиг восприятия, создание срочности
-- Акцент на потерях: страх потерь сильнее желания приобрести
-- Конкретные цифры вместо абстракций
+Key messages to seed:
+- Awakening messages — perception shift, creating urgency
+- Emphasis on losses: fear of loss is stronger than desire to gain
+- Concrete numbers instead of abstractions
 
-### Теплая аудитория (уровни 2--3)
+### Warm Audience (levels 2--3)
 
-Задача: обучить, показать правильный путь, позиционировать метод.
+Goal: educate, show the right path, position the method.
 
-| Тип креатива | Механизм | Пример |
+| Creative Type | Mechanism | Example |
 |---|---|---|
-| Образование | Полезный контент, разборы, как работает метод | "3 способа автоматизировать контент-воронку" |
-| Развенчание мифов | Разрушение ложных убеждений | "Почему найм не решит вашу проблему эффективности" |
-| Системный подход | Показать целостное решение вместо точечных | "Не 10 разных инструментов, а одна система" |
-| Трансформация | История героя: был как ты -- стал другим | "Был выгорающий продюсер, стал эффективный управленец" |
+| Education | Useful content, breakdowns, how the method works | "3 ways to automate your content funnel" |
+| Myth debunking | Destroying false beliefs | "Why hiring won't solve your efficiency problem" |
+| Systemic approach | Show a holistic solution instead of one-off fixes | "Not 10 different tools, but one system" |
+| Transformation | Hero's journey: was like you — became different | "Was a burned-out producer, became an efficient manager" |
 
-Ключевые смыслы для посева:
-- Экономические смыслы -- ROI, экономия, масштабирование
-- Позиционирующие смыслы -- уникальность метода, специфика ниши
-- Концепции и пошаговые планы
+Key messages to seed:
+- Economic messages — ROI, savings, scaling
+- Positioning messages — method uniqueness, niche specificity
+- Concepts and step-by-step plans
 
-### Горячая аудитория (уровни 4--5)
+### Hot Audience (levels 4--5)
 
-Задача: закрыть сделку, снять последние возражения.
+Goal: close the deal, remove final objections.
 
-| Тип креатива | Механизм | Пример |
+| Creative Type | Mechanism | Example |
 |---|---|---|
-| Социальное доказательство | Отзывы, кейсы, цифры результатов | "147 выпускников, средний рост выручки +340%" |
-| Гарантия | Снятие риска покупки | "Полный возврат, если не окупите за 30 дней" |
-| Срочность | Ограничение по времени/местам | "Осталось 12 мест. Следующий поток через 3 месяца" |
-| Прямой оффер | Четкое предложение с условиями | "Курс + 3 месяца поддержки + готовые шаблоны = 75К" |
+| Social proof | Testimonials, case studies, result numbers | "147 graduates, average revenue growth +340%" |
+| Guarantee | Removing purchase risk | "Full refund if you don't recoup in 30 days" |
+| Urgency | Time/spot limitation | "12 spots left. Next cohort in 3 months" |
+| Direct offer | Clear proposal with terms | "Course + 3 months of support + ready-made templates = 75K" |
 
-Ключевые смыслы для посева:
-- Смыслы срочности и эксклюзивности
-- Расчет окупаемости в конкретных цифрах
-- Закрытие финальных возражений (цена, время, риск)
+Key messages to seed:
+- Urgency and exclusivity messages
+- ROI calculation in concrete numbers
+- Closing final objections (price, time, risk)
 
 ---
 
-## 3. Логические цепочки трансформации сознания
+## 3. Logical Chains of Consciousness Transformation
 
-Логическая цепочка -- это последовательность мыслей, триггеров и инсайтов, через которую проходит человек от неосознанности к покупке. Используется для построения серии связанных креативов.
+A logical chain is a sequence of thoughts, triggers, and insights a person goes through from unawareness to purchase. Used for building a series of connected creatives.
 
-### Структура одного звена цепочки
+### Structure of a Single Chain Link
 
 ```
-ЭТАП [X]: [НАЗВАНИЕ] (Уровень [X] -> [X])
-  Мысль: "[Что сейчас думает человек]"
-  Триггер: [Конкретный контент, вызывающий сдвиг]
-  Инсайт/Реакция: "[Новое понимание]"
-  Результат: "[К какому выводу приходит]"
+STAGE [X]: [NAME] (Level [X] -> [X])
+  Thought: "[What the person currently thinks]"
+  Trigger: [Specific content causing the shift]
+  Insight/Reaction: "[New understanding]"
+  Result: "[What conclusion they reach]"
 ```
 
-### Принципы построения цепочек
+### Principles for Building Chains
 
-1. **Конкретность** -- каждая мысль реалистична для данного типа аудитории
-2. **Последовательность** -- каждый этап логически вытекает из предыдущего
-3. **Эмоциональность** -- включаем не только логику, но и чувства персонажа
-4. **Триггерность** -- четко указываем, какой контент вызывает переход
-5. **Реалистичность** -- основываемся на реальных паттернах поведения
+1. **Specificity** -- each thought is realistic for the given audience type
+2. **Sequence** -- each stage logically follows from the previous one
+3. **Emotionality** -- include not just logic but also the character's feelings
+4. **Trigger-based** -- clearly indicate what content causes the transition
+5. **Realism** -- based on real behavioral patterns
 
-### Ключевые триггеры по переходам
+### Key Triggers by Transition
 
-**Уровень 0 -> 1 (Пробуждение):**
-- Сравнение с конкурентами
-- Статистика отставания от рынка
-- Кейсы потерь из-за неадаптации
-- Шок-контент: молодые обгоняют опытных
+**Level 0 -> 1 (Awakening):**
+- Comparison with competitors
+- Statistics showing market gap
+- Case studies of losses due to non-adaptation
+- Shock content: young people outperforming experienced professionals
 
-**Уровень 1 -> 2 (Осознание проблемы):**
-- Диагностические тесты
-- Калькуляторы потерь
-- Анализ собственных процессов
-- Сравнение эффективности
+**Level 1 -> 2 (Problem Recognition):**
+- Diagnostic quizzes
+- Loss calculators
+- Analysis of own processes
+- Efficiency comparison
 
-**Уровень 2 -> 3 (Поиск решений):**
-- Обзор методов решения проблем
-- Сравнение подходов с ROI
-- Развенчание мифов о "человеческих" решениях
-- Демонстрация технологических преимуществ
+**Level 2 -> 3 (Solution Search):**
+- Overview of problem-solving methods
+- Comparing approaches with ROI
+- Debunking myths about "human" solutions
+- Demonstrating technological advantages
 
-**Уровень 3 -> 4 (Выбор метода):**
-- Специфика ниши -- универсальные решения не подходят
-- Уникальность экспертности автора
-- Системный vs точечный подход
-- Социальные доказательства от "своих"
+**Level 3 -> 4 (Method Selection):**
+- Niche specificity -- universal solutions don't fit
+- Unique expertise of the author
+- Systemic vs piecemeal approach
+- Social proof from "people like me"
 
-**Уровень 4 -> 5 (Принятие решения):**
-- Детали программы / содержание продукта
-- Гарантии и поддержка
-- Ограниченность и срочность
-- Расчет окупаемости в конкретных цифрах
+**Level 4 -> 5 (Decision Making):**
+- Program details / product contents
+- Guarantees and support
+- Scarcity and urgency
+- ROI calculation in concrete numbers
 
-### Типы персонажей для цепочек
+### Character Types for Chains
 
-При построении серии креативов выбираем 3-5 персонажей и строим цепочку для каждого:
+When building a creative series, select 3-5 characters and build a chain for each:
 
-1. **Самодовольный успешный** -- высокие доходы, не видит проблем. Путь: самодовольство -> сомнения -> болезненное осознание -> поиск -> решение
-2. **Выгорающий исполнитель** -- много работы, мало результата. Путь: героическое страдание -> сравнение с другими -> диагностика -> выбор решения
-3. **Скептичный эксперт** -- опытный, с предубеждениями. Путь: технофобия -> первые трещины -> нарастающие доказательства -> капитуляция гордости
-4. **Амбициозный новичок** -- нет опыта, есть энтузиазм. Путь: наивный энтузиазм -> столкновение с реальностью -> жажда обучения -> инвестиция
-5. **Прагматичный владелец** -- растущие расходы, тающая прибыль. Путь: терпение -> расчеты -> осознание неэффективности -> поиск оптимизации
-6. **Перфекционист-одиночка** -- делает все сам, не может делегировать. Путь: контроль всего -> выгорание -> осознание предела -> принятие инструментов
-7. **Консервативный традиционалист** -- старые методы, сопротивление изменениям. Путь: "раньше работало" -> нарастающие потери -> вынужденная адаптация
+1. **Self-satisfied successful person** -- high income, sees no problems. Path: complacency -> doubts -> painful realization -> search -> decision
+2. **Burning-out executor** -- lots of work, little result. Path: heroic suffering -> comparison with others -> diagnosis -> choosing a solution
+3. **Skeptical expert** -- experienced, with prejudices. Path: technophobia -> first cracks -> mounting evidence -> surrendering pride
+4. **Ambitious beginner** -- no experience, has enthusiasm. Path: naive enthusiasm -> collision with reality -> thirst for learning -> investment
+5. **Pragmatic owner** -- rising costs, shrinking profits. Path: patience -> calculations -> realizing inefficiency -> seeking optimization
+6. **Perfectionist loner** -- does everything themselves, can't delegate. Path: controlling everything -> burnout -> realizing limits -> accepting tools
+7. **Conservative traditionalist** -- old methods, resisting change. Path: "it used to work" -> mounting losses -> forced adaptation
 
-### Инсайты по построению цепочек
+### Insights on Building Chains
 
-- **Эмоции важнее логики:** люди принимают решения эмоционально, потом находят логические обоснования
-- **Сопротивление -- часть процесса:** на каждом этапе есть внутреннее сопротивление, показываем его и способ разрешения
-- **Конкретность побеждает абстракцию:** "сэкономите 400К в месяц" вместо "увеличите эффективность"
-- **Мнение "таких же, как я" важнее экспертного мнения:** включаем отзывы релевантных персонажей
-- **Страх потерь сильнее желания приобрести:** "что потеряю, если не сделаю" мотивирует сильнее, чем "что получу"
-- **Разные скорости движения:** одни типы персонажей двигаются быстрее, другие медленнее
+- **Emotions matter more than logic:** people make decisions emotionally, then find logical justifications
+- **Resistance is part of the process:** at each stage there's internal resistance; show it and the way to resolve it
+- **Specificity beats abstraction:** "you'll save 400K per month" instead of "you'll increase efficiency"
+- **The opinion of "people like me" matters more than expert opinion:** include testimonials from relevant characters
+- **Fear of loss is stronger than desire to gain:** "what I'll lose if I don't act" motivates more than "what I'll get"
+- **Different speeds of movement:** some character types move faster, others slower
 
 ---
 
-## 4. Четыре измерения теплоты аудитории
+## 4. Four Dimensions of Audience Warmth
 
-Прежде чем строить стратегию, оцениваем аудиторию по 4 независимым шкалам (каждая от 1 до 10):
+Before building a strategy, evaluate the audience across 4 independent scales (each from 1 to 10):
 
-### 4.1. Прогрев к личности
+### 4.1. Warmth Toward the Personality
 
-Доверие к автору/бренду как к человеку.
+Trust in the author/brand as a person.
 
-- Высокий (7-10): аудитория давно следит, доверяет, знает историю
-- Средний (4-6): слышали, видели контент, но нет глубокого контакта
-- Низкий (1-3): не знают или знают поверхностно
+- High (7-10): audience has been following for a long time, trusts, knows the story
+- Medium (4-6): heard of them, seen content, but no deep connection
+- Low (1-3): don't know or know only superficially
 
-Что транслировать: сюжеты из жизни, ценности, характер, стиль общения. Не говорить "я надежный" -- показывать ситуации, где аудитория сама делает этот вывод.
+What to convey: life stories, values, character, communication style. Don't say "I'm reliable" -- show situations where the audience draws that conclusion themselves.
 
-### 4.2. Прогрев к теме
+### 4.2. Warmth Toward the Topic
 
-Интерес и вовлеченность аудитории в тематику продукта.
+Audience's interest and engagement with the product's subject matter.
 
-- Высокий: тема актуальна, следят за трендами, активно интересуются
-- Средний: понимают, что тема существует, но не погружены
-- Низкий: тема новая или не входит в поле интересов
+- High: topic is relevant, they follow trends, actively interested
+- Medium: understand the topic exists but aren't deeply engaged
+- Low: the topic is new or outside their area of interest
 
-Что транслировать: тренды рынка, значимость темы, последствия игнорирования, возможности для тех, кто в теме.
+What to convey: market trends, topic significance, consequences of ignoring it, opportunities for those in the know.
 
-### 4.3. Прогрев к экспертности
+### 4.3. Warmth Toward Expertise
 
-Признание компетенции автора/бренда в данной области.
+Recognition of the author's/brand's competence in the given field.
 
-- Высокий: признают экспертом, ссылаются, спрашивают совета
-- Средний: знают, что занимается этим, но не уверены в уровне
-- Низкий: не ассоциируют с данной экспертизой
+- High: recognized as expert, referenced, asked for advice
+- Medium: know they work in this area but unsure of the level
+- Low: don't associate them with this expertise
 
-Что транслировать: кейсы, результаты, методологию, цифры, подтверждающие компетенцию. Консультации, публичные разборы, системность подхода.
+What to convey: case studies, results, methodology, numbers confirming competence. Consultations, public reviews, systematic approach.
 
-### 4.4. Прогрев к продукту
+### 4.4. Warmth Toward the Product
 
-Понимание ценности конкретного продукта/предложения.
+Understanding of the specific product/offer's value.
 
-- Высокий: знают продукт, понимают, что внутри, видят ценность
-- Средний: знают, что продукт существует, но не понимают деталей
-- Низкий: не знают о продукте или не видят его ценности
+- High: know the product, understand what's inside, see the value
+- Medium: know the product exists but don't understand the details
+- Low: don't know about the product or don't see its value
 
-Что транслировать: содержание, результаты участников, формат, уникальные особенности, отличия от альтернатив.
+What to convey: contents, participant results, format, unique features, differences from alternatives.
 
-### Как использовать 4 измерения в креативах
+### How to Use the 4 Dimensions in Creatives
 
-Оцениваем каждое измерение и понимаем, на что делать акцент:
+Evaluate each dimension and understand where to focus:
 
-| Ситуация | Акцент креативов |
+| Situation | Creative Focus |
 |---|---|
-| Личность высоко, остальное низко | Можно быстро: поднять тему, показать экспертность, рассказать про продукт |
-| Тема высоко, личность низко | Сначала строим доверие к персоне, потом позиционируем как эксперта |
-| Все высоко, продукт низко | Достаточно рассказать про продукт -- 2-3 дня прогрева |
-| Все низко | Длительный прогрев -- от месяца, провести по всем ступеням снизу вверх |
+| Personality high, everything else low | Can move fast: raise the topic, show expertise, talk about the product |
+| Topic high, personality low | First build trust in the person, then position as expert |
+| Everything high, product low | Just tell about the product — 2-3 days of warm-up |
+| Everything low | Extended warm-up — at least a month, walk through all levels from bottom to top |
 
-Пример: если автор меняет нишу (например, с запусков на крипту) -- ползунок личности останется высоко, но тему, экспертность и продукт нужно поднимать заново.
-
----
-
-## 5. Формула прогрева: три этапа
-
-### Этап 1: Теневой прогрев
-
-**Цель:** ввести людей в тему, создать заинтересованность. Работаем с уровнями 0-1.
-
-**Маркер перехода:** люди начинают писать в директ, задавать вопросы, реагировать на stories.
-
-**Смыслы:** пробуждающие -- сдвиг восприятия, осознание проблемы, создание срочности.
-
-**Форматы креативов:**
-- Stories и короткие видео (для пробуждения)
-- Провокационные посты со статистикой
-- Тесты и диагностики
-- Контрастные сравнения
-
-**Принцип:** показывать, не рассказывать. Люди должны сами прийти к выводам. Не выходить с посылом "я системный" -- показать сюжеты из жизни, где аудитория сама делает этот вывод.
-
-### Этап 2: Активный прогрев
-
-**Цель:** рассказать про концепции, пошаговые планы, позиционировать метод и экспертность. Работаем с уровнями 2-3.
-
-**Маркер перехода:** аудитория задает конкретные вопросы о методе, запрашивает детали, сравнивает с альтернативами.
-
-**Смыслы:** экономические и позиционирующие -- ROI, уникальность метода, системность, экспертность.
-
-**Форматы креативов:**
-- Кейсы и разборы
-- Образовательный контент с демонстрацией метода
-- Сравнения подходов
-- Пошаговые планы
-- Концепции и фреймворки
-
-**Принцип:** аудитория уже готова слушать концепции и пошаговые планы. Можно углубляться в содержание.
-
-### Этап 3: Финальный прогрев
-
-**Цель:** продающий прогрев, доведение до покупки. Работаем с уровнями 4-5.
-
-**Маркер перехода:** прямые вопросы о цене, условиях, старте. Запросы "когда открытие продаж".
-
-**Смыслы:** срочность, эксклюзивность, социальные доказательства, гарантии.
-
-**Форматы креативов:**
-- Отзывы и кейсы выпускников
-- Детали программы
-- Сравнения и FAQ
-- Ограничения по местам/времени/цене
-- Калькулятор окупаемости
-- Соцдоказательства
-
-**Принцип:** не переходим на следующий этап, пока не получили результат предыдущего. Ориентируемся по реакции аудитории, а не по календарному плану.
-
-### Алгоритм перехода между этапами
-
-1. Есть гипотеза о прогретости аудитории
-2. Тестируем 2-3 дня
-3. Смотрим реакцию (вопросы, реакции, директ)
-4. Если есть интерес -- переходим дальше
-5. Если нет -- продолжаем текущий этап
+Example: if the author changes niches (e.g., from launches to crypto) — the personality slider stays high, but topic, expertise, and product need to be raised from scratch.
 
 ---
 
-## 6. Сводная таблица: ступень -> хук -> CTA -> формат
+## 5. Warm-Up Formula: Three Stages
 
-| Ступень | Тип хука | Тип CTA | Формат креатива |
+### Stage 1: Shadow Warm-Up
+
+**Goal:** introduce people to the topic, create interest. Working with levels 0-1.
+
+**Transition marker:** people start DMing, asking questions, reacting to stories.
+
+**Messages:** awakening -- perception shift, problem recognition, creating urgency.
+
+**Creative formats:**
+- Stories and short videos (for awakening)
+- Provocative posts with statistics
+- Quizzes and diagnostics
+- Contrasting comparisons
+
+**Principle:** show, don't tell. People must reach conclusions on their own. Don't come out with the message "I'm systematic" -- show life scenarios where the audience draws that conclusion themselves.
+
+### Stage 2: Active Warm-Up
+
+**Goal:** talk about concepts, step-by-step plans, position the method and expertise. Working with levels 2-3.
+
+**Transition marker:** audience asks specific questions about the method, requests details, compares with alternatives.
+
+**Messages:** economic and positioning -- ROI, method uniqueness, systematic approach, expertise.
+
+**Creative formats:**
+- Case studies and breakdowns
+- Educational content demonstrating the method
+- Approach comparisons
+- Step-by-step plans
+- Concepts and frameworks
+
+**Principle:** the audience is already ready to hear concepts and step-by-step plans. You can go deeper into the content.
+
+### Stage 3: Final Warm-Up
+
+**Goal:** sales warm-up, driving to purchase. Working with levels 4-5.
+
+**Transition marker:** direct questions about price, terms, start date. Requests like "when do sales open."
+
+**Messages:** urgency, exclusivity, social proof, guarantees.
+
+**Creative formats:**
+- Graduate testimonials and case studies
+- Program details
+- Comparisons and FAQ
+- Spot/time/price limitations
+- ROI calculator
+- Social proof
+
+**Principle:** don't move to the next stage until you've achieved results from the previous one. Orient by audience reaction, not by calendar plan.
+
+### Algorithm for Transitioning Between Stages
+
+1. Have a hypothesis about audience warmth level
+2. Test for 2-3 days
+3. Watch the reaction (questions, engagement, DMs)
+4. If there's interest -- move forward
+5. If not -- continue the current stage
+
+---
+
+## 6. Summary Table: Level -> Hook -> CTA -> Format
+
+| Level | Hook Type | CTA Type | Creative Format |
 |---|---|---|---|
-| 0 -- Нет проблемы | Шок-статистика, провокация, контраст, кейс конкурента | "Узнай", "Проверь себя", "Пройди тест" | Короткое видео, stories, карусель с цифрами |
-| 1 -- Неосознанная проблема | Описание боли ("знакомо?"), диагностика, сравнение с рынком, калькулятор потерь | "Пройди диагностику", "Узнай свой уровень", "Скачай чек-лист" | Тест/квиз, stories с опросом, инфографика до/после |
-| 2 -- Ищет решения | Обзор методов, развенчание мифов, "почему X не работает", ROI-сравнение | "Смотри разбор", "Узнай метод", "Скачай гайд" | Длинное видео, статья-разбор, сравнительная таблица, гайд |
-| 3 -- Выбирает метод | Уникальность подхода, специфика ниши, системность, пошаговый план, кейс применения | "Посмотри кейс", "Запишись на разбор", "Получи план" | Кейс-стади, вебинар, демонстрация процесса, пошаговый план |
-| 4 -- Сравнивает продукты | Социальное доказательство, уникальность продукта, "единственный кто...", детали программы | "Запишись", "Забронируй место", "Получи доступ" | Отзывы, до/после, FAQ, детальный лендинг, сравнение с аналогами |
-| 5 -- Готов покупать | Ограниченность, расчет окупаемости, гарантия, финальный аргумент | "Купи сейчас", "Осталось X мест", "Цена растет через..." | Продающий пост, обратный отсчет, калькулятор ROI, последний шанс |
+| 0 -- No Problem | Shock statistics, provocation, contrast, competitor case study | "Learn more", "Test yourself", "Take a quiz" | Short video, stories, carousel with numbers |
+| 1 -- Unrecognized Problem | Pain description ("sound familiar?"), diagnostics, market comparison, loss calculator | "Take the diagnostic", "Find out your level", "Download the checklist" | Quiz, stories with polls, before/after infographic |
+| 2 -- Searching for Solutions | Method overview, myth debunking, "why X doesn't work", ROI comparison | "Watch the breakdown", "Learn the method", "Download the guide" | Long video, analysis article, comparison table, guide |
+| 3 -- Choosing a Method | Approach uniqueness, niche specificity, systematic approach, step-by-step plan, application case study | "See the case study", "Sign up for a review session", "Get the plan" | Case study, webinar, process demonstration, step-by-step plan |
+| 4 -- Comparing Products | Social proof, product uniqueness, "the only one who...", program details | "Sign up", "Reserve your spot", "Get access" | Testimonials, before/after, FAQ, detailed landing page, comparison with alternatives |
+| 5 -- Ready to Buy | Scarcity, ROI calculation, guarantee, final argument | "Buy now", "Only X spots left", "Price increases in..." | Sales post, countdown, ROI calculator, last chance |
 
 ---
 
-## 7. Применение при генерации креативов
+## 7. Application When Generating Creatives
 
-При создании рекламного креатива Claude должен:
+When creating an advertising creative, Claude should:
 
-1. **Определить ступень осознанности** целевой аудитории на основе брифа / ДНК клиента
-2. **Оценить 4 измерения теплоты** -- к личности, теме, экспертности, продукту
-3. **Выбрать тип хука** из соответствующей строки сводной таблицы
-4. **Подобрать CTA** под уровень готовности аудитории
-5. **Определить формат** -- от короткого видео для холодных до продающего поста для горячих
-6. **Встроить правильные смыслы** -- пробуждающие, экономические, позиционирующие или срочные
-7. **Учесть логическую цепочку** -- если создается серия креативов, каждый следующий должен продвигать аудиторию на ступень выше
+1. **Determine the awareness level** of the target audience based on the brief / Client DNA
+2. **Evaluate the 4 warmth dimensions** -- toward personality, topic, expertise, product
+3. **Choose the hook type** from the corresponding row in the summary table
+4. **Select the CTA** matching the audience's readiness level
+5. **Determine the format** -- from short video for cold to sales post for hot
+6. **Embed the right messages** -- awakening, economic, positioning, or urgency
+7. **Consider the logical chain** -- if creating a series of creatives, each subsequent one should move the audience up one level
 
-### Частые ошибки
+### Common Mistakes
 
-- Продавать холодной аудитории (говорить о продукте тем, кто не осознал проблему)
-- Обучать горячую аудиторию (давать полезный контент тем, кто уже готов покупать)
-- Прыгать через ступени (пытаться перевести с уровня 0 сразу на уровень 4)
-- Делать прогрев по календарю, а не по реакции аудитории
-- Гиперфокус на одном смысле и игнорирование остальных
-- Начинать с экспертного уровня для неподготовленной аудитории
+- Selling to cold audiences (talking about the product to those who haven't recognized the problem)
+- Educating hot audiences (giving useful content to those already ready to buy)
+- Skipping levels (trying to move from level 0 straight to level 4)
+- Running warm-up by calendar rather than by audience reaction
+- Hyper-focusing on one message and ignoring the rest
+- Starting at expert level for an unprepared audience

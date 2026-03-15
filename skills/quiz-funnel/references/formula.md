@@ -1,213 +1,213 @@
-# Формула паттернов квиз-воронки v2.0
+# Quiz Funnel Pattern Formula v2.0
 
-Обратно спроектировано из NeuroSamurai, Noom, Focus & Flow, Done., BedGear и 15+ других высококонверсионных квиз-воронок. Дополнено исследованиями ADHD-UX, геймификации и интерактивных лендингов.
+Reverse-engineered from NeuroSamurai, Noom, Focus & Flow, Done., BedGear, and 15+ other high-converting quiz funnels. Supplemented with ADHD-UX, gamification, and interactive landing page research.
 
-## 10 паттернов высококонверсионного квиза
+## 10 Patterns of a High-Converting Quiz
 
-### 1. "Чат-друг, а не анкета"
-Квиз имитирует диалог в мессенджере. Чат-пузыри перед вопросами создают ощущение общения с тем, кто понимает. Снижает ощущение "меня тестируют", повышает честность ответов.
+### 1. "Chat buddy, not a questionnaire"
+The quiz imitates a messenger conversation. Chat bubbles before questions create a feeling of talking to someone who understands. Reduces the feeling of "being tested," increases answer honesty.
 
-Реализация: компонент ChatBubble перед первыми 3 экранами. Серый фон, скруглённые углы, текст от первого лица.
+Implementation: ChatBubble component before the first 3 screens. Gray background, rounded corners, first-person text.
 
-### 2. "Техно-фрейминг"
-Квиз подан как диагностика/сканирование/анализ. Подзаголовки меняются: "Инициализация...", "Оценка уровня...", "Анализ...", "Калибровка...". Превращает опрос в "медицинскую процедуру" и повышает воспринимаемую ценность.
+### 2. "Techno-framing"
+The quiz is presented as a diagnostic/scan/analysis. Subheadings change: "Initializing...", "Assessing level...", "Analyzing...", "Calibrating...". Turns a survey into a "medical procedure" and increases perceived value.
 
-Реализация: заголовок в caps lock + меняющийся подзаголовок + прогресс-бар с процентом.
+Implementation: heading in caps + changing subheading + progress bar with percentage.
 
-### 3. Цветовая шкала тяжести
-Каждый вариант ответа маркирован цветной точкой (🟢🟡🟠🔴💀). Визуально показывает "степень поражения". Автоматически усиливает осознание проблемы без длинных пояснений.
+### 3. Severity Color Scale
+Each answer option is marked with a colored dot (🟢🟡🟠🔴💀). Visually shows the "degree of damage." Automatically strengthens problem awareness without lengthy explanations.
 
-Реализация: цветной круг 12px слева от текста варианта.
+Implementation: 12px colored circle to the left of the option text.
 
-### 4. Чередование типов вопросов
-- Single-select с 4 вариантами (6 вопросов) — быстро, не грузит
-- Multi-select с 6-10 вариантами (2 вопроса) — вовлекает глубже, человек сам "ставит диагноз"
-- Вставки-передышки между блоками — валидация + факт + надежда
+### 4. Alternating Question Types
+- Single-select with 4 options (6 questions) — fast, not overwhelming
+- Multi-select with 6-10 options (2 questions) — deeper engagement, the person "self-diagnoses"
+- Breathing-room inserts between blocks — validation + fact + hope
 
-Реализация: 3 типа компонентов вопросов + InsightScreen.
+Implementation: 3 types of question components + InsightScreen.
 
-### 5. Эмоциональная дуга
-Порядок экранов создаёт управляемую эмоциональную траекторию:
-1. Любопытство (вход)
-2. Узнавание себя (первые вопросы)
-3. Нарастающий дискомфорт (симптомы, потери)
-4. Надежда (вставка на середине с научным фактом)
-5. Глубокое осознание (калькулятор урона)
-6. Шок от цифр (490 ДНЕЙ)
-7. Решение / выход (продукт как спасение)
+### 5. Emotional Arc
+The screen order creates a managed emotional trajectory:
+1. Curiosity (entry)
+2. Self-recognition (first questions)
+3. Growing discomfort (symptoms, losses)
+4. Hope (mid-point insert with scientific fact)
+5. Deep awareness (damage calculator)
+6. Number shock (490 DAYS)
+7. Decision / way out (product as salvation)
 
-### 6. Персонализированный калькулятор урона
-Ответ на количественный вопрос используется для расчёта:
-- Потеря времени: часы/день → недели → месяцы → годы → дни жизни
-- Потеря денег: часы × ставка ЦА → за год → за 5 лет
-- Альтернативы: "что можно было бы сделать за это время"
+### 6. Personalized Damage Calculator
+The answer to the quantitative question is used to calculate:
+- Time loss: hours/day → weeks → months → years → days of life
+- Money loss: hours × target audience rate → per year → per 5 years
+- Alternatives: "what you could have done with that time"
 
-Это ЛИЧНО ЕГО цифры, не абстрактная статистика.
+These are THEIR PERSONAL numbers, not abstract statistics.
 
-### 7. Квалификационный финальный вопрос
-Последний вопрос сегментирует лидов по "температуре":
-- 🔥 Горячий → давить на срочность
-- ⚡ Тёплый → показать путь
-- 🌊 Нуждается в надежде → акцент на поддержку
-- 🤔 Холодный → ретаргетинг
+### 7. Qualifying Final Question
+The last question segments leads by "temperature":
+- 🔥 Hot → push urgency
+- ⚡ Warm → show the path
+- 🌊 Needs hope → focus on support
+- 🤔 Cold → retargeting
 
-### 8. "Зеркало проблемы" (НОВОЕ)
-Вопросы служат не для сбора данных, а для того, чтобы пользователь ОСОЗНАЛ свою проблему. Когда он отвечает "да, я теряю фокус каждые 10 минут" — он фиксирует проблему в сознании. До квиза проблема абстрактна. После — конкретна и измерима.
+### 8. "Problem Mirror" (NEW)
+Questions serve not to collect data, but to help the user REALIZE their problem. When they answer "yes, I lose focus every 10 minutes" — they lock the problem into consciousness. Before the quiz, the problem is abstract. After — concrete and measurable.
 
-Noom использует этот принцип в 67-шаговом квизе с $500M+ выручки.
+Noom uses this principle in their 67-step quiz with $500M+ revenue.
 
-Реализация: каждый вопрос формулируй как "зеркало" — пользователь видит себя в вариантах ответа.
+Implementation: formulate each question as a "mirror" — the user sees themselves in the answer options.
 
-### 9. Cadence 3:1 (НОВОЕ, Noom-стиль)
-Каждые 3 вопроса — 1 мотивационная вставка:
-- Социальное доказательство ("89% людей с такими симптомами...")
-- График прогресса ("Ты уже на 60% — осталось чуть-чуть")
-- Снятие вины ("Это не лень — это нейрохимия")
-- Мини-инсайт ("Знал ли ты, что...")
+### 9. Cadence 3:1 (NEW, Noom-style)
+Every 3 questions — 1 motivational insert:
+- Social proof ("89% of people with these symptoms...")
+- Progress graph ("You're already at 60% — almost there")
+- Guilt relief ("It's not laziness — it's neurochemistry")
+- Mini-insight ("Did you know that...")
 
-Создаёт ощущение диалога, а не допроса. Противоречит совету "делай короче" — длинная воронка конвертирует ЛУЧШЕ, если каждый шаг прост.
+Creates a feeling of dialogue, not an interrogation. Contradicts the advice "make it shorter" — a long funnel converts BETTER if each step is simple.
 
-Реализация: InsightScreen через каждые 3 вопроса. Разные типы вставок чередуются.
+Implementation: InsightScreen every 3 questions. Different insert types alternate.
 
-### 10. "Yes Ladder" (НОВОЕ, Noom-стиль)
-Порядок вопросов по нарастанию вовлечённости:
-1. Лёгкие / нейтральные (возраст, формат, опыт)
-2. Личные / про проблему
-3. Эмоциональные / про боль и потери
-4. О готовности / про деньги и действия
+### 10. "Yes Ladder" (NEW, Noom-style)
+Question order by increasing engagement:
+1. Easy / neutral (age, format, experience)
+2. Personal / about the problem
+3. Emotional / about pain and losses
+4. About readiness / about money and actions
 
-Каждое "да" делает следующее "да" легче. К моменту paywall пользователь уже инвестировал 5-15 минут → sunk cost effect.
-
----
-
-## Полная карта экранов: Формат A (Диагностика)
-
-```
-ФАЗА 1: ВХОД (2-3 экрана)
-├── Экран 1: Квалификационный вопрос-фильтр (чат-пузырь + 3 варианта)
-├── Экран 2: Валидация + эмпатия (реакция на ответ)
-└── Экран 3: Подготовка к "сканированию"
-
-ФАЗА 2: ДИАГНОСТИКА (8 вопросов + 1-2 вставки)
-├── Вопрос 1: Ежедневное поведение (single, 4 варианта)
-├── Вопрос 2: Количественный маркер (single, 4-5 вариантов) ← для калькулятора
-├── Вопрос 3: Симптомы (multi, 7-10 вариантов)
-├── ВСТАВКА: Валидация + научный факт + надежда
-├── Вопрос 4: Мотивация к действию (single, 4 варианта)
-├── Вопрос 5: Потери за год (multi, 5-7 вариантов)
-├── [ВСТАВКА (опц.): Social proof / мини-статистика]
-├── Вопрос 6: Провокационный сценарий (single, 4 варианта)
-├── Вопрос 7: Текущее состояние (single, 4 варианта)
-└── Вопрос 8: Готовность / квалификация (single, 4 варианта)
-
-ФАЗА 3: РЕЗУЛЬТАТЫ (4 экрана)
-├── Дашборд: скор + 3 метрики + рекомендация
-├── Калькулятор: время + деньги + примеры
-├── Качество жизни: 5 последствий
-└── Шоковое число: X ДНЕЙ за 10 лет
-
-ФАЗА 4: ПРОДУКТ (2-3 экрана)
-├── Трансформация: "из X — к Y" + 4 обещания
-├── Доказательства: метод + статистика
-└── [Social proof (опц.): отзывы / счётчик]
-
-ФАЗА 5: КОНВЕРСИЯ (2-3 экрана)
-├── Финальный CTA: логотип + слоган + кнопка + дефицит
-├── Форма: 2 поля + кнопка
-└── [Achievement (опц.): "Ты разблокировал статус [X]!" + share]
-```
+Each "yes" makes the next "yes" easier. By the paywall, the user has already invested 5-15 minutes → sunk cost effect.
 
 ---
 
-## Полная карта экранов: Формат B (Типология)
+## Full Screen Map: Format A (Diagnostics)
 
 ```
-ВХОД (2 экрана)
-├── Hook: "Какой у тебя [X]-стиль?" + "Узнай за 3 минуты"
-└── Фрейминг: "Нет правильных ответов"
+PHASE 1: ENTRY (2-3 screens)
+├── Screen 1: Qualifying filter question (chat bubble + 3 options)
+├── Screen 2: Validation + empathy (response to answer)
+└── Screen 3: Preparation for "scanning"
 
-ВОПРОСЫ (5-6 штук)
-├── Вопрос 1: Стиль организации
-├── Вопрос 2: Фокус и мотивация
-├── Вопрос 3: Реакция на стресс
-├── [ВСТАВКА: "Видим паттерн..." + анимация обработки]
-├── Вопрос 4: Гиперфокус / восстановление
-├── Вопрос 5: Принятие решений
-└── [Вопрос 6 (опц.): Социальное поведение]
+PHASE 2: DIAGNOSTICS (8 questions + 1-2 inserts)
+├── Question 1: Daily behavior (single, 4 options)
+├── Question 2: Quantitative marker (single, 4-5 options) ← for calculator
+├── Question 3: Symptoms (multi, 7-10 options)
+├── INSERT: Validation + scientific fact + hope
+├── Question 4: Motivation to act (single, 4 options)
+├── Question 5: Losses over the year (multi, 5-7 options)
+├── [INSERT (opt.): Social proof / mini-statistics]
+├── Question 6: Provocative scenario (single, 4 options)
+├── Question 7: Current state (single, 4 options)
+└── Question 8: Readiness / qualification (single, 4 options)
 
-РЕЗУЛЬТАТ (3-4 экрана)
-├── Reveal: "Ты — [Архетип]!" + анимация
-├── Профиль: сильные стороны + слепые зоны
-├── Стратегия: 3 персональных шага
-└── Share + CTA: карточка для соцсетей + e-mail capture / продукт
+PHASE 3: RESULTS (4 screens)
+├── Dashboard: score + 3 metrics + recommendation
+├── Calculator: time + money + examples
+├── Quality of life: 5 consequences
+└── Shock number: X DAYS over 10 years
 
-КОНВЕРСИЯ (1-2 экрана)
-├── Оффер, адаптированный под архетип
-└── Форма
+PHASE 4: PRODUCT (2-3 screens)
+├── Transformation: "from X — to Y" + 4 promises
+├── Proof: method + statistics
+└── [Social proof (opt.): reviews / counter]
+
+PHASE 5: CONVERSION (2-3 screens)
+├── Final CTA: logo + slogan + button + scarcity
+├── Form: 2 fields + button
+└── [Achievement (opt.): "You've unlocked [X] status!" + share]
 ```
 
 ---
 
-## Полная карта экранов: Формат C (Ультра-скрининг)
+## Full Screen Map: Format B (Typology)
 
 ```
-ВХОД (1 экран)
-└── "[Проблема]? Узнай за 1 минуту" + social proof
+ENTRY (2 screens)
+├── Hook: "What's your [X] style?" + "Find out in 3 minutes"
+└── Framing: "No right answers"
 
-ВОПРОСЫ (3-4 штуки)
-├── Вопрос 1: главный симптом
-├── Вопрос 2: частота / интенсивность
-├── Вопрос 3: влияние на жизнь
-└── [Вопрос 4 (опц.): готовность к действию]
+QUESTIONS (5-6 total)
+├── Question 1: Organizational style
+├── Question 2: Focus and motivation
+├── Question 3: Stress response
+├── [INSERT: "We see a pattern..." + processing animation]
+├── Question 4: Hyperfocus / recovery
+├── Question 5: Decision making
+└── [Question 6 (opt.): Social behavior]
 
-РЕЗУЛЬТАТ (1-2 экрана)
-├── Светофор: 🟢🟡🔴 + рекомендация
-└── CTA + форма
-```
+RESULT (3-4 screens)
+├── Reveal: "You are a [Archetype]!" + animation
+├── Profile: strengths + blind spots
+├── Strategy: 3 personal steps
+└── Share + CTA: social media card + e-mail capture / product
 
----
-
-## Полная карта экранов: Формат D (Калькулятор-шоккер)
-
-```
-ВХОД (1 экран)
-└── "Сколько стоит твоя [проблема]?"
-
-СЛАЙДЕРЫ (1-3 экрана)
-├── Слайдер 1: основной параметр
-├── Слайдер 2: возраст/время
-└── Слайдер 3: денежный параметр
-
-РЕЗУЛЬТАТ — ШОК (2-3 экрана)
-├── 3 шок-числа (анимированные count-up)
-├── Before/After визуализация
-└── Альтернативы: "За это время можно было..."
-
-[SCROLLYTELLING (опц., 5-6 шагов)]
-├── "Сейчас" → "День 3" → "День 7" → "День 14" → "День 30" → CTA
-
-КОНВЕРСИЯ (2 экрана)
-├── CTA + дефицит
-└── Форма
+CONVERSION (1-2 screens)
+├── Offer adapted to archetype
+└── Form
 ```
 
 ---
 
-## Дизайн-референс (дефолтный)
+## Full Screen Map: Format C (Ultra-screening)
 
-- Фон: #000000 или #0A0A0A
-- Акцент: #00FF88 (ярко-зелёный)
-- Негативные метрики: #FF4444 (красный), #FF8800 (оранжевый)
-- Предупреждения: #FFD700 (жёлтый)
-- Текст: #FFFFFF (основной), #999999 (второстепенный)
-- Карточки: #1A1A2E или #111827 с border 1px solid #333
-- Выбранная карточка: border-color: #00FF88, glow: box-shadow 0 0 20px rgba(0,255,136,0.3)
-- Зелёная карточка (инсайт): фон #00FF8820, border #00FF88
-- Кнопка CTA: фон #00FF88, текст #000000, border-radius 12px, glow: 0 0 30px rgba(0,255,136,0.4)
-- Контейнер: max-width 640px, margin auto, padding 20px
-- Шрифт: Inter, system-ui, -apple-system
-- Прогресс-бар: height 4px, position fixed top, gradient green, transition 0.3s
-- Анимации переходов: Framer Motion — fade + slideUp, duration 0.3-0.5s
-- Stagger children: delay 0.05-0.1s между элементами
+```
+ENTRY (1 screen)
+└── "[Problem]? Find out in 1 minute" + social proof
 
-Альтернативные дизайн-системы — см. `knowledge-base.md` секция 4.
+QUESTIONS (3-4 total)
+├── Question 1: main symptom
+├── Question 2: frequency / intensity
+├── Question 3: impact on life
+└── [Question 4 (opt.): readiness to act]
+
+RESULT (1-2 screens)
+├── Traffic light: 🟢🟡🔴 + recommendation
+└── CTA + form
+```
+
+---
+
+## Full Screen Map: Format D (Shock Calculator)
+
+```
+ENTRY (1 screen)
+└── "How much does your [problem] cost?"
+
+SLIDERS (1-3 screens)
+├── Slider 1: main parameter
+├── Slider 2: age/time
+└── Slider 3: money parameter
+
+RESULT — SHOCK (2-3 screens)
+├── 3 shock numbers (animated count-up)
+├── Before/After visualization
+└── Alternatives: "In that time you could have..."
+
+[SCROLLYTELLING (opt., 5-6 steps)]
+├── "Now" → "Day 3" → "Day 7" → "Day 14" → "Day 30" → CTA
+
+CONVERSION (2 screens)
+├── CTA + scarcity
+└── Form
+```
+
+---
+
+## Design Reference (default)
+
+- Background: #000000 or #0A0A0A
+- Accent: #00FF88 (bright green)
+- Negative metrics: #FF4444 (red), #FF8800 (orange)
+- Warnings: #FFD700 (yellow)
+- Text: #FFFFFF (primary), #999999 (secondary)
+- Cards: #1A1A2E or #111827 with border 1px solid #333
+- Selected card: border-color: #00FF88, glow: box-shadow 0 0 20px rgba(0,255,136,0.3)
+- Green card (insight): background #00FF8820, border #00FF88
+- CTA button: background #00FF88, text #000000, border-radius 12px, glow: 0 0 30px rgba(0,255,136,0.4)
+- Container: max-width 640px, margin auto, padding 20px
+- Font: Inter, system-ui, -apple-system
+- Progress bar: height 4px, position fixed top, gradient green, transition 0.3s
+- Transition animations: Framer Motion — fade + slideUp, duration 0.3-0.5s
+- Stagger children: delay 0.05-0.1s between elements
+
+Alternative design systems — see `knowledge-base.md` section 4.

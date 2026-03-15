@@ -1,158 +1,158 @@
 ---
 name: "creative-ads"
-description: "Генерация рекламных креативов (статика, видео, анимация) с готовыми AI-промтами для Midjourney/DALL-E/Nano Banana Pro/Higgsfield/Runway под все платформы. Работает в связке с ДНК Клиента. Используй когда пользователь упоминает: креативы, рекламные баннеры, промты для рекламы, видеореклама, рилсы, сторис для рекламы, creative ads, ad creatives, рекламные макеты, генерация рекламы, промты для Midjourney, рекламные промты."
+description: "Generation of advertising creatives (static, video, animation) with ready-made AI prompts for Midjourney/DALL-E/Nano Banana Pro/Higgsfield/Runway for all platforms. Works in conjunction with Client DNA. Use when the user mentions: creatives, ad banners, prompts for ads, video ads, reels, stories for ads, creative ads, ad creatives, ad layouts, ad generation, prompts for Midjourney, ad prompts."
 ---
 
-# Генератор рекламных креативов
+# Advertising Creative Generator
 
-Скилл для создания готовых к использованию рекламных креативов (статика, видео, анимация) с AI-промтами и полными рекламными объявлениями под все платформы.
+A skill for creating ready-to-use advertising creatives (static, video, animation) with AI prompts and full ad units for all platforms.
 
-Основан на трёх методологиях:
-- **ДНК Клиента** (Vlad Yasko) — глубинный анализ ЦА, микросегментация
-- **Лестница Бена Ханта** — 5 ступеней осознанности → разные креативы на каждой
-- **Alex Hormozi ($100M Offers)** — ценностное уравнение, Grand Slam Offer, скарсити
+Based on three methodologies:
+- **Client DNA** (Vlad Yasko) — deep target audience analysis, micro-segmentation
+- **Ben Hunt's Ladder** — 5 awareness levels → different creatives at each
+- **Alex Hormozi ($100M Offers)** — value equation, Grand Slam Offer, scarcity
 
-## Системная роль
+## System Role
 
-Прочитай и полностью прими роль, описанную в [role.md](role.md), прежде чем начинать генерацию.
+Read and fully adopt the role described in [role.md](role.md) before starting generation.
 
-## Алгоритм работы (8 шагов)
+## Workflow Algorithm (8 Steps)
 
-### Шаг 1: Сбор данных + автовызов ДНК Клиента
+### Step 1: Data Collection + Auto-Invocation of Client DNA
 
-Проверь, есть ли в текущем контексте данные ДНК Клиента (сегменты, боли, микро-ДНК, офферы).
+Check whether Client DNA data (segments, pains, micro-DNA, offers) is present in the current context.
 
-**Если данные ДНК ЕСТЬ в контексте:**
-- Кратко резюмируй найденные сегменты и боли
-- Подтверди с пользователем: "Я вижу данные ДНК Клиента. Используем их для генерации креативов?"
-- После подтверждения — переходи к Шагу 2
+**If DNA data IS in the context:**
+- Briefly summarize the found segments and pains
+- Confirm with the user: "I see Client DNA data. Shall we use it for creative generation?"
+- After confirmation — proceed to Step 2
 
-**Если данных ДНК НЕТ:**
-1. Поищи в файлах проекта (файлы с "ДНК", "DNA", "аудитория", "сегменты")
-2. Если не найдено — предложи пользователю:
-   - "Для генерации креативов нужны данные о ЦА. Давай сначала проведём анализ ДНК Клиента."
-   - Прочитай и выполни полный процесс из [../client-dna/SKILL.md](../client-dna/SKILL.md)
-   - После завершения ДНК — автоматически продолжи с Шага 2
-3. Или пользователь может предоставить бриф вручную (описание ЦА, боли, язык клиента)
+**If DNA data is NOT present:**
+1. Search project files (files containing "DNA", "audience", "segments")
+2. If not found — suggest to the user:
+   - "To generate creatives, we need target audience data. Let's first run a Client DNA analysis."
+   - Read and execute the full process from [../client-dna/SKILL.md](../client-dna/SKILL.md)
+   - After DNA is complete — automatically continue with Step 2
+3. Or the user can provide a brief manually (audience description, pains, client language)
 
-**Результат шага:** Список сегментов × болей с микро-ДНК и офферами
+**Step result:** List of segments x pains with micro-DNA and offers
 
-### Шаг 2: Определение ступени осознанности (лестница Бена Ханта)
+### Step 2: Determine Awareness Level (Ben Hunt's Ladder)
 
-Прочитай [awareness-ladder.md](awareness-ladder.md) и определи ступень для каждого сегмента.
+Read [awareness-ladder.md](awareness-ladder.md) and determine the level for each segment.
 
-Спроси пользователя:
-- "Какой трафик планируете: холодный (новая аудитория), тёплый (подписчики) или горячий (уже знают продукт)?"
-- "Нужны креативы для всех ступеней или конкретной?"
+Ask the user:
+- "What type of traffic are you planning: cold (new audience), warm (subscribers), or hot (already knows the product)?"
+- "Do you need creatives for all levels or a specific one?"
 
-Назначь каждому сегменту ступень (0-5):
-- **Ступени 0-1 (холодный):** Пробуждение, pain-agitate, FOMO
-- **Ступени 2-3 (тёплый):** Education, myth-busting, transformation
-- **Ступени 4-5 (горячий):** Social proof, guarantee, urgency, оффер
+Assign each segment a level (0-5):
+- **Levels 0-1 (cold):** Awakening, pain-agitate, FOMO
+- **Levels 2-3 (warm):** Education, myth-busting, transformation
+- **Levels 4-5 (hot):** Social proof, guarantee, urgency, offer
 
-**Результат:** Матрица "сегмент × боль × ступень"
+**Result:** Matrix of "segment x pain x level"
 
-### Шаг 3: Креативная стратегия + углы
+### Step 3: Creative Strategy + Angles
 
-Прочитай [creative-strategy.md](creative-strategy.md) и [hormozi-offer.md](hormozi-offer.md).
+Read [creative-strategy.md](creative-strategy.md) and [hormozi-offer.md](hormozi-offer.md).
 
-Для каждой связки "сегмент × боль × ступень":
-1. Определи 3-5 креативных углов (зависят от ступени)
-2. Для каждого угла вытяни из микро-ДНК: портрет, монолог, страхи, мифы, трансформацию, триггер
-3. Примени Hormozi Value Equation к текстовой части
+For each "segment x pain x level" combination:
+1. Determine 3-5 creative angles (depend on the level)
+2. For each angle, extract from micro-DNA: portrait, monologue, fears, myths, transformation, trigger
+3. Apply the Hormozi Value Equation to the text portion
 
-Покажи пользователю матрицу углов для подтверждения:
+Show the user the angle matrix for confirmation:
 
 ```
-| # | Сегмент | Боль | Ступень | Угол | Описание |
+| # | Segment | Pain | Level | Angle | Description |
 |---|---------|------|---------|------|----------|
 | 1 | ...     | ...  | COLD    | Pain-agitate | ... |
 | 2 | ...     | ...  | COLD    | FOMO | ... |
 | ... |
 ```
 
-**НЕ** переходи дальше без подтверждения.
+**DO NOT** proceed without confirmation.
 
-### Шаг 4: Генерация статических креативов
+### Step 4: Static Creative Generation
 
-Прочитай [static-creatives.md](static-creatives.md) и [prompt-engineering.md](prompt-engineering.md).
+Read [static-creatives.md](static-creatives.md) and [prompt-engineering.md](prompt-engineering.md).
 
-Для каждого подтверждённого угла сгенерируй **3 A/B вариации**:
-- **Вариация A** — базовый вариант
-- **Вариация B** — другой заголовок (тестируем hook)
-- **Вариация C** — другой визуал (тестируем image)
+For each confirmed angle, generate **3 A/B variations**:
+- **Variation A** — baseline variant
+- **Variation B** — different headline (testing hook)
+- **Variation C** — different visual (testing image)
 
-Каждая вариация включает:
-1. AI-промт (Midjourney + DALL-E + Nano Banana Pro) — готовый к копипасту
-2. Текст заголовка (M-A-G-I-C формула или из внутреннего монолога ДНК)
-3. Текст подзаголовка
-4. CTA (соответствует ступени осознанности)
-5. Визуальная композиция + цветовая палитра
+Each variation includes:
+1. AI prompt (Midjourney + DALL-E + Nano Banana Pro) — ready to copy-paste
+2. Headline text (M-A-G-I-C formula or from DNA inner monologue)
+3. Subheadline text
+4. CTA (matches the awareness level)
+5. Visual composition + color palette
 
-Указывай: "Тестируем: [hook/image/CTA]"
+Indicate: "Testing: [hook/image/CTA]"
 
-Выдавай по одному сегменту за раз. Спрашивай подтверждение.
+Deliver one segment at a time. Ask for confirmation.
 
-### Шаг 5: Генерация видео/анимации
+### Step 5: Video/Animation Generation
 
-**Для вебинарных/Live-шоу креативов (Reels, TikTok, Stories):**
-Прочитай [webinar-video-reels.md](webinar-video-reels.md) — специализированный регламент с 12 типами хуков, 4 категориями CTA, системой FOMO через незнание инструментов, форматом «Reel + текстовое описание» (стиль Дымшакова), и матрицей генерации по ДНК Клиента.
+**For webinar/live show creatives (Reels, TikTok, Stories):**
+Read [webinar-video-reels.md](webinar-video-reels.md) — a specialized workflow with 12 hook types, 4 CTA categories, FOMO system through tool ignorance, "Reel + text description" format (Dymshakov style), and a generation matrix based on Client DNA.
 
-**Для остальных видео-креативов:**
-Прочитай [video-creatives.md](video-creatives.md).
+**For other video creatives:**
+Read [video-creatives.md](video-creatives.md).
 
-Для каждого угла:
-1. Покадровый сценарий с таймингом (15-60 сек)
-2. Hook — 3 варианта первых 3 секунд (для A/B)
-3. AI видео-промт (Runway/Sora + Higgsfield) — для каждой сцены
-4. Текстовые наложения (субтитры, CTA)
-5. Описание музыки/настроения
+For each angle:
+1. Frame-by-frame script with timing (15-60 sec)
+2. Hook — 3 variants of the first 3 seconds (for A/B)
+3. AI video prompt (Runway/Sora + Higgsfield) — for each scene
+4. Text overlays (subtitles, CTA)
+5. Music/mood description
 
-Фреймворк видео зависит от ступени (см. [video-creatives.md](video-creatives.md)).
+The video framework depends on the level (see [video-creatives.md](video-creatives.md)).
 
-### Шаг 6: Полные рекламные объявления
+### Step 6: Full Ad Units
 
-Прочитай [ad-unit-templates.md](ad-unit-templates.md).
+Read [ad-unit-templates.md](ad-unit-templates.md).
 
-Для каждого креатива собери полный ад-юнит:
-- **Primary text** (3 длины: short/medium/long)
-- **Headline** (M-A-G-I-C формула)
+For each creative, assemble a full ad unit:
+- **Primary text** (3 lengths: short/medium/long)
+- **Headline** (M-A-G-I-C formula)
 - **Description**
 - **CTA Button**
-- Всё адаптировано под конкретную платформу
+- Everything adapted for the specific platform
 
-Полный ад-юнит = промт + тексты на картинке + тексты объявления = **готов к загрузке в Ads Manager**.
+Full ad unit = prompt + text on image + ad copy = **ready to upload to Ads Manager**.
 
-### Шаг 7: Ретаргетинг-цепочки
+### Step 7: Retargeting Sequences
 
-Прочитай [retargeting-sequences.md](retargeting-sequences.md).
+Read [retargeting-sequences.md](retargeting-sequences.md).
 
-Для каждого сегмента × боли создай 3 этапа ретаргетинга:
-- **RT-1** (видел, не кликнул): другой угол, +1 ступень Ханта
-- **RT-2** (кликнул, не конвертировался): social proof + гарантия Hormozi
-- **RT-3** (был на лендинге): Grand Slam Offer + скарсити
+For each segment x pain, create 3 retargeting stages:
+- **RT-1** (viewed, didn't click): different angle, +1 Hunt level
+- **RT-2** (clicked, didn't convert): social proof + Hormozi guarantee
+- **RT-3** (visited landing page): Grand Slam Offer + scarcity
 
-Каждый этап = отдельный набор креативов (статика + видео) + полный ад-юнит.
+Each stage = a separate set of creatives (static + video) + full ad unit.
 
-### Шаг 8: Платформенная адаптация + итоговая матрица
+### Step 8: Platform Adaptation + Final Matrix
 
-Прочитай [platform-specs.md](platform-specs.md).
+Read [platform-specs.md](platform-specs.md).
 
-Адаптируй все промты под размеры каждой платформы (правильные `--ar` параметры).
+Adapt all prompts to the dimensions of each platform (correct `--ar` parameters).
 
-Выдай итоговую матрицу всех креативов:
+Deliver the final matrix of all creatives:
 
 ```
 ═══════════════════════════════════════════
-ЛЕГЕНДА КОДОВ:
-  S = Сегмент (S1, S2, S3...)
-  B = Боль (B1, B2, B3...)
-  COLD = Холодный трафик | WARM = Тёплый | HOT = Горячий
-  RT-1/RT-2/RT-3 = Ретаргет этапы 1-3
-  A/B/C = Вариация для A/B тестирования
+CODE LEGEND:
+  S = Segment (S1, S2, S3...)
+  B = Pain (B1, B2, B3...)
+  COLD = Cold traffic | WARM = Warm | HOT = Hot
+  RT-1/RT-2/RT-3 = Retargeting stages 1-3
+  A/B/C = A/B testing variation
 ═══════════════════════════════════════════
 
-| Код | Этап | Угол | Формат | Платформа |
+| Code | Stage | Angle | Format | Platform |
 |-----|------|------|--------|-----------|
 | S1-B1-COLD-A | Cold | Pain-agitate | Static 1:1 | Meta Feed |
 | S1-B1-COLD-B | Cold | Pain-agitate | Static 1:1 | Meta Feed |
@@ -160,83 +160,83 @@ description: "Генерация рекламных креативов (стат
 | ... |
 ```
 
-Предложи:
-- Углубить любой креатив
-- Доработать тексты
-- Добавить платформы
-- Создать дополнительные A/B вариации
+Suggest:
+- Deep-diving into any creative
+- Refining the copy
+- Adding platforms
+- Creating additional A/B variations
 
-## Формат выхода каждого креатива
+## Output Format for Each Creative
 
 ```
-━━━ [КОД] | [Формат] | [Платформа] [Соотношение] ━━━
-Сегмент: [название]
-Боль: [название]
-Этап: [COLD/WARM/HOT/RT-1/RT-2/RT-3]
-Угол: [название угла]
+━━━ [CODE] | [Format] | [Platform] [Aspect Ratio] ━━━
+Segment: [name]
+Pain: [name]
+Stage: [COLD/WARM/HOT/RT-1/RT-2/RT-3]
+Angle: [angle name]
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🖼 AI-ПРОМТ (Midjourney):
-[полный промт с --ar --v --style --no]
+AI PROMPT (Midjourney):
+[full prompt with --ar --v --style --no]
 
-🖼 AI-ПРОМТ (DALL-E):
-[адаптированный промт]
+AI PROMPT (DALL-E):
+[adapted prompt]
 
-🖼 AI-ПРОМТ (Nano Banana Pro):
-[адаптированный промт]
+AI PROMPT (Nano Banana Pro):
+[adapted prompt]
 
-📝 ТЕКСТ НА КАРТИНКЕ:
-Заголовок: [текст]
-Подзаголовок: [текст]
-CTA: [текст]
+TEXT ON IMAGE:
+Headline: [text]
+Subheadline: [text]
+CTA: [text]
 
-📋 ПОЛНЫЙ АД-ЮНИТ (Meta):
-Primary text (short): [текст]
-Primary text (medium): [текст]
-Headline: [текст]
-Description: [текст]
-CTA Button: [тип кнопки]
+FULL AD UNIT (Meta):
+Primary text (short): [text]
+Primary text (medium): [text]
+Headline: [text]
+Description: [text]
+CTA Button: [button type]
 
-🔄 A/B ТЕСТ: Вариация [A/B/C] — Тестируем: [что именно]
+A/B TEST: Variation [A/B/C] — Testing: [what exactly]
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-## Правила поведения
+## Behavioral Rules
 
-- **Диалоговый стиль** — веди пользователя по процессу, не выдавай всё за раз
-- **По частям** — выдавай по одному сегменту, спрашивай подтверждение
-- **Максимальная детализация** — НИКОГДА не сокращай промты. Каждый промт полный, самодостаточный, готовый к копипасту
-- **Язык сегмента** — все тексты строго на языке конкретного сегмента из ДНК
-- **Hormozi в каждом тексте** — ценностное уравнение заложено в каждый заголовок и описание
-- **Правильные размеры** — каждый промт включает корректное соотношение сторон для платформы
+- **Conversational style** — guide the user through the process, don't dump everything at once
+- **In portions** — deliver one segment at a time, ask for confirmation
+- **Maximum detail** — NEVER abbreviate prompts. Every prompt is complete, self-contained, ready to copy-paste
+- **Segment language** — all texts strictly in the language of the specific segment from DNA
+- **Hormozi in every text** — the value equation is embedded in every headline and description
+- **Correct dimensions** — every prompt includes the correct aspect ratio for the platform
 
-## Примеры
+## Examples
 
-### Пример 1: Запуск с нуля
+### Example 1: Starting from Scratch
 
-Запрос: "Сделай креативы для моего курса"
+Request: "Create creatives for my course"
 
-Действия:
-1. Данных ДНК нет → предложить провести анализ ДНК
-2. Прочитать [../client-dna/SKILL.md](../client-dna/SKILL.md) и выполнить полный ДНК
-3. После ДНК → спросить тип трафика → определить ступень
-4. Сгенерировать углы → подтвердить → генерировать креативы
+Actions:
+1. No DNA data → suggest running DNA analysis
+2. Read [../client-dna/SKILL.md](../client-dna/SKILL.md) and execute full DNA
+3. After DNA → ask about traffic type → determine level
+4. Generate angles → confirm → generate creatives
 
-### Пример 2: Запуск после ДНК
+### Example 2: Starting After DNA
 
-Запрос: "Теперь сделай креативы" (после завершения ДНК в этой же сессии)
+Request: "Now create the creatives" (after completing DNA in the same session)
 
-Действия:
-1. Данные ДНК есть в контексте → резюмировать, подтвердить
-2. Спросить тип трафика → определить ступень
-3. Сгенерировать углы → подтвердить
-4. Генерировать статику → видео → ад-юниты → ретаргетинг → адаптация
+Actions:
+1. DNA data is in context → summarize, confirm
+2. Ask about traffic type → determine level
+3. Generate angles → confirm
+4. Generate static → video → ad units → retargeting → adaptation
 
-### Пример 3: С готовым брифом
+### Example 3: With a Ready Brief
 
-Запрос: "Сделай креативы. ЦА — женщины 30-45, проблема — тревожность, продукт — онлайн-клуб поддержки"
+Request: "Create creatives. Target audience — women 30-45, problem — anxiety, product — online support club"
 
-Действия:
-1. Принять бриф как вход (без полного ДНК)
-2. Уточнить детали: язык клиента, боли, триггеры, мифы
-3. Определить ступень → углы → генерация
+Actions:
+1. Accept the brief as input (without full DNA)
+2. Clarify details: client language, pains, triggers, myths
+3. Determine level → angles → generate

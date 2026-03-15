@@ -1,58 +1,58 @@
-# Hunt Ladder Skill — Лестница Бена Ханта
+# Hunt Ladder Skill — Ben Hunt's Awareness Ladder
 
-Стратегический AI-скилл для анализа продукта через 6 уровней осознанности аудитории.
+A strategic AI skill for analyzing a product through 6 levels of audience awareness.
 
-## Что делает
+## What It Does
 
-Анализирует ваш продукт через **Лестницу Бена Ханта** — от «не знаю, что проблема существует» до «готов покупать прямо сейчас». Для каждого уровня выдаёт:
+Analyzes your product through **Ben Hunt's Awareness Ladder** — from "I don't know the problem exists" to "ready to buy right now." For each level, it provides:
 
-- Что думает аудитория прямо сейчас
-- Какие иллюзии и возражения живут в их голове
-- Какие смыслы нужно посеять
-- К каким выводам они должны прийти
-- Какой контент транслировать
+- What the audience is thinking right now
+- What illusions and objections live in their heads
+- What key messages need to be seeded
+- What conclusions they should reach
+- What content to broadcast
 
-На выходе — полная **стратегия запуска** с календарным планом прогрева.
+The output is a complete **launch strategy** with a warmup calendar plan.
 
-## Структура
+## Structure
 
-| Файл | Содержание |
+| File | Contents |
 |---|---|
-| `SKILL.md` | Полный скилл (всё в одном файле) |
-| `instruction.md` | Инструкция для Claude Project |
-| `methodology.md` | Методология лестницы осознанности |
-| `templates.md` | Шаблоны и примеры прогрева |
+| `SKILL.md` | Full skill (all in one file) |
+| `instruction.md` | Instructions for Claude Project |
+| `methodology.md` | Awareness ladder methodology |
+| `templates.md` | Warmup templates and examples |
 
-## Установка
+## Installation
 
-### Claude Code (как skill)
+### Claude Code (as a skill)
 ```bash
 cp SKILL.md ~/.claude/commands/hunt-ladder.md
 ```
 
-### Claude Project (как инструкция)
-1. Создайте новый проект в Claude
-2. Загрузите `instruction.md` как Project Instructions
-3. Загрузите `methodology.md` и `templates.md` как файлы проекта
+### Claude Project (as instructions)
+1. Create a new project in Claude
+2. Upload `instruction.md` as Project Instructions
+3. Upload `methodology.md` and `templates.md` as project files
 
-## 6 уровней лестницы
+## 6 Ladder Levels
 
-1. **Безразличие** — не знает о проблеме
-2. **Осознание проблемы** — понимает, что что-то не так
-3. **Поиск решения** — ищет варианты
-4. **Выбор продукта** — сравнивает предложения
-5. **Выбор поставщика** — решает, у кого купить
-6. **Готовность к покупке** — нужен последний толчок
+1. **Indifference** — unaware of the problem
+2. **Problem Awareness** — understands something is wrong
+3. **Solution Search** — looking for options
+4. **Product Selection** — comparing offers
+5. **Provider Selection** — deciding who to buy from
+6. **Ready to Buy** — needs the final push
 
-## Методологии
+## Methodologies
 
-- Формула идеального прогрева
-- Логические цепочки трансформации сознания
-- Календарный план контента по этапам
-- Эталонный разбор (пример анализа)
+- The ideal warmup formula
+- Logical chains for consciousness transformation
+- Content calendar plan by stages
+- Reference analysis (example breakdown)
 
-## Автор
+## Author
 
 Vlad Yasko — [@yasikvlad](https://github.com/yasikvlad)
 
-Методология обкатана на 220+ проектах и 3500+ студентах.
+Methodology tested on 220+ projects and 3,500+ students.

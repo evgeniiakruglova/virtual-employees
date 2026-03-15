@@ -1,276 +1,276 @@
-# Ретаргетинг-цепочки
+# Retargeting Sequences
 
-Ретаргетинг продвигает аудиторию вверх по лестнице Ханта. Каждый этап — отдельный набор креативов с нарастающей интенсивностью оффера.
+Retargeting moves the audience up the Hunt Ladder. Each stage is a separate set of creatives with escalating offer intensity.
 
-## Логика ретаргетинга
+## Retargeting Logic
 
 ```
-Холодный трафик (COLD) ─── видел рекламу ──→ RT-1 (другой угол)
+Cold traffic (COLD) ─── viewed ad ──→ RT-1 (different angle)
                                                     │
-                                              кликнул ──→ RT-2 (social proof)
+                                              clicked ──→ RT-2 (social proof)
                                                               │
-                                                        был на лендинге ──→ RT-3 (прямой оффер)
+                                                        visited landing page ──→ RT-3 (direct offer)
 ```
 
-**Принцип:** Каждый этап = +1-2 ступени по лестнице Ханта + усиление Hormozi-элементов.
+**Principle:** Each stage = +1-2 levels on the Hunt Ladder + strengthened Hormozi elements.
 
 ---
 
-## 3 этапа ретаргетинга
+## 3 Retargeting Stages
 
-### RT-1: Видел рекламу, НЕ кликнул
+### RT-1: Viewed Ad, Did NOT Click
 
-**Аудитория:** Люди, которые видели COLD-креатив, но не взаимодействовали.
+**Audience:** People who saw the COLD creative but didn't interact.
 
-**Почему не кликнули:** Креатив не зацепил, угол не попал, момент неподходящий.
+**Why they didn't click:** The creative didn't resonate, the angle missed, the timing was wrong.
 
-**Стратегия:** Показать ДРУГОЙ угол той же боли. Не повторять — удивить.
+**Strategy:** Show a DIFFERENT angle on the same pain. Don't repeat — surprise.
 
-| Параметр | Значение |
+| Parameter | Value |
 |----------|----------|
-| Ступень Ханта | +1 от COLD (было 0-1, стало 1-2) |
-| Тип креатива | Другой угол: если был pain-agitate → myth-busting; если был вопрос → story |
-| Hormozi-элемент | Новый аспект Value Equation (если был результат → теперь скорость) |
-| CTA | Мягкий-средний: "Узнай подробнее", "Смотри бесплатно" |
-| Таймфрейм | 1-3 дня после первого показа |
-| Частота | 2-3 показа |
+| Hunt Level | +1 from COLD (was 0-1, now 1-2) |
+| Creative Type | Different angle: if pain-agitate → myth-busting; if question → story |
+| Hormozi Element | New aspect of Value Equation (if result was shown → now show speed) |
+| CTA | Soft-medium: "Learn more", "Watch for free" |
+| Timeframe | 1-3 days after first impression |
+| Frequency | 2-3 impressions |
 
-**Шаблон ад-юнита RT-1:**
+**RT-1 Ad Unit Template:**
 
 ```
 ═══════════════════════════════════════════════════
-КОД: [S1-B1-RT1-A]
-ЭТАП: Ретаргетинг 1 — Другой угол
-АУДИТОРИЯ: Видел [S1-B1-COLD], не кликнул
-СТУПЕНЬ ХАНТА: 1-2 (осознание проблемы)
+CODE: [S1-B1-RT1-A]
+STAGE: Retargeting 1 — Different Angle
+AUDIENCE: Viewed [S1-B1-COLD], didn't click
+HUNT LEVEL: 1-2 (problem recognition)
 ═══════════════════════════════════════════════════
 
-ВИЗУАЛ: [Другой стиль — если COLD была фото, RT1 = текстовый; если была lifestyle, RT1 = before/after]
-AI-ПРОМТ: [Промт для визуала]
+VISUAL: [Different style — if COLD was photo, RT1 = text-based; if lifestyle, RT1 = before/after]
+AI PROMPT: [Visual prompt]
 
 PRIMARY TEXT:
-"[Начало с другого входа в ту же боль]
-[Если COLD говорил о симптомах → RT-1 говорит о причинах]
-[Если COLD задавал вопрос → RT-1 утверждает факт]
-[Мягкий CTA]"
+"[Start with a different entry point into the same pain]
+[If COLD talked about symptoms → RT-1 talks about causes]
+[If COLD asked a question → RT-1 states a fact]
+[Soft CTA]"
 
-HEADLINE: [Другая грань Value Equation]
-CTA: [Мягкий-средний]
+HEADLINE: [Different facet of Value Equation]
+CTA: [Soft-medium]
 ═══════════════════════════════════════════════════
 ```
 
-**Правила смены угла RT-1:**
+**RT-1 Angle Switching Rules:**
 
-| Если COLD был | То RT-1 будет |
+| If COLD Was | Then RT-1 Will Be |
 |---------------|---------------|
-| Pain-agitate (болит?) | Myth-busting (почему не помогает то, что пробовал) |
-| Вопрос ("Ты тоже...?") | Утверждение ("87% женщин сталкиваются с...") |
-| Lifestyle фото | Текстовый/инфографика |
-| Эмоциональный | Рациональный (факты, числа) |
-| Общая боль | Конкретный симптом из ДНК |
+| Pain-agitate (does it hurt?) | Myth-busting (why what you've tried doesn't help) |
+| Question ("Do you also...?") | Statement ("87% of women face...") |
+| Lifestyle photo | Text-based/infographic |
+| Emotional | Rational (facts, numbers) |
+| General pain | Specific symptom from DNA |
 
 ---
 
-### RT-2: Кликнул, НЕ конвертировался
+### RT-2: Clicked, Did NOT Convert
 
-**Аудитория:** Люди, которые кликнули на рекламу, но не совершили целевое действие (не подписались, не скачали, не оставили заявку).
+**Audience:** People who clicked on the ad but didn't take the target action (didn't subscribe, didn't download, didn't submit a request).
 
-**Почему не конвертировались:** Недостаточно доверия, не убедились в решении, отвлеклись.
+**Why they didn't convert:** Not enough trust, not convinced about the solution, got distracted.
 
-**Стратегия:** Social proof + снятие возражений. Доказать, что это работает.
+**Strategy:** Social proof + objection removal. Prove that it works.
 
-| Параметр | Значение |
+| Parameter | Value |
 |----------|----------|
-| Ступень Ханта | 3-4 (выбор решения → выбор поставщика) |
-| Тип креатива | Social proof, кейсы, отзывы, before/after |
-| Hormozi-элемент | Гарантия + бонусы (снятие риска) |
-| CTA | Средний-прямой: "Записаться на вебинар", "Получить бесплатно" |
-| Таймфрейм | 3-7 дней после клика |
-| Частота | 3-5 показов |
+| Hunt Level | 3-4 (choosing solution → choosing provider) |
+| Creative Type | Social proof, case studies, testimonials, before/after |
+| Hormozi Element | Guarantee + bonuses (risk removal) |
+| CTA | Medium-direct: "Sign up for webinar", "Get it free" |
+| Timeframe | 3-7 days after click |
+| Frequency | 3-5 impressions |
 
-**Шаблон ад-юнита RT-2:**
+**RT-2 Ad Unit Template:**
 
 ```
 ═══════════════════════════════════════════════════
-КОД: [S1-B1-RT2-A]
-ЭТАП: Ретаргетинг 2 — Social proof
-АУДИТОРИЯ: Кликнул [S1-B1-COLD/RT1], не конвертировался
-СТУПЕНЬ ХАНТА: 3-4 (выбор решения)
+CODE: [S1-B1-RT2-A]
+STAGE: Retargeting 2 — Social Proof
+AUDIENCE: Clicked [S1-B1-COLD/RT1], didn't convert
+HUNT LEVEL: 3-4 (choosing solution)
 ═══════════════════════════════════════════════════
 
-ВИЗУАЛ: [Отзыв клиента / скриншот результата / before-after / UGC]
-AI-ПРОМТ: [Промт для визуала]
+VISUAL: [Client testimonial / result screenshot / before-after / UGC]
+AI PROMPT: [Visual prompt]
 
 PRIMARY TEXT:
-"[Цитата клиента или конкретный результат с числом]
-[Контекст: кто этот человек, что было ДО]
-[Что изменилось + за какой срок]
-[Гарантия по Hormozi]
+"[Client quote or specific result with number]
+[Context: who this person is, what things were like BEFORE]
+[What changed + in what timeframe]
+[Hormozi guarantee]
 [CTA]"
 
-HEADLINE: [Результат + число: "2,347 женщин уже [результат]"]
-DESCRIPTION: [Гарантия коротко]
-CTA: [Средний-прямой]
+HEADLINE: [Result + number: "2,347 women have already [result]"]
+DESCRIPTION: [Guarantee in brief]
+CTA: [Medium-direct]
 ═══════════════════════════════════════════════════
 ```
 
-**Типы social proof для RT-2:**
+**Social Proof Types for RT-2:**
 
-| Тип | Когда использовать | Пример |
+| Type | When to Use | Example |
 |-----|-------------------|--------|
-| Цитата клиента | Есть реальные отзывы | "Наконец-то я сплю всю ночь — впервые за 3 года" |
-| Число + результат | Есть статистика | "2,347 женщин прошли программу. 94% отмечают улучшение сна" |
-| Before/After | Визуальная трансформация | Скриншоты, фото до/после |
-| Экспертное мнение | Есть авторитет | "Метод одобрен [специалист/организация]" |
-| Кейс-стади | Сложный продукт | "История Марины: от бессонницы к спокойным ночам за 14 дней" |
+| Client quote | Have real testimonials | "I finally sleep through the night — for the first time in 3 years" |
+| Number + result | Have statistics | "2,347 women completed the program. 94% report improved sleep" |
+| Before/After | Visual transformation | Screenshots, before/after photos |
+| Expert opinion | Have an authority | "Method endorsed by [specialist/organization]" |
+| Case study | Complex product | "Marina's story: from insomnia to peaceful nights in 14 days" |
 
 ---
 
-### RT-3: Был на лендинге, НЕ купил
+### RT-3: Visited Landing Page, Did NOT Buy
 
-**Аудитория:** Люди, которые были на лендинге/странице оффера, но не оформили покупку/заявку.
+**Audience:** People who visited the landing/offer page but didn't complete the purchase/request.
 
-**Почему не купили:** Цена, сомнения, "потом", не хватило последнего аргумента.
+**Why they didn't buy:** Price, doubts, "later", lacked the final argument.
 
-**Стратегия:** Grand Slam Offer + urgency + гарантия. Прямая продажа.
+**Strategy:** Grand Slam Offer + urgency + guarantee. Direct sale.
 
-| Параметр | Значение |
+| Parameter | Value |
 |----------|----------|
-| Ступень Ханта | 5 (готов купить, нужен толчок) |
-| Тип креатива | Прямой оффер, countdown, last chance |
-| Hormozi-элемент | Grand Slam Offer + скарсити + полная гарантия |
-| CTA | Прямой: "Записаться сейчас", "Забронировать место", "Купить" |
-| Таймфрейм | 7-14 дней после визита |
-| Частота | 5-7 показов (с разными креативами) |
+| Hunt Level | 5 (ready to buy, needs a push) |
+| Creative Type | Direct offer, countdown, last chance |
+| Hormozi Element | Grand Slam Offer + scarcity + full guarantee |
+| CTA | Direct: "Sign up now", "Reserve your spot", "Buy" |
+| Timeframe | 7-14 days after visit |
+| Frequency | 5-7 impressions (with different creatives) |
 
-**Шаблон ад-юнита RT-3:**
+**RT-3 Ad Unit Template:**
 
 ```
 ═══════════════════════════════════════════════════
-КОД: [S1-B1-RT3-A]
-ЭТАП: Ретаргетинг 3 — Прямой оффер
-АУДИТОРИЯ: Был на лендинге [URL], не купил
-СТУПЕНЬ ХАНТА: 5 (готов к действию)
+CODE: [S1-B1-RT3-A]
+STAGE: Retargeting 3 — Direct Offer
+AUDIENCE: Visited landing page [URL], didn't buy
+HUNT LEVEL: 5 (ready to act)
 ═══════════════════════════════════════════════════
 
-ВИЗУАЛ: [Оффер-карточка / стэк ценности / countdown / лого + текст]
-AI-ПРОМТ: [Промт для визуала]
+VISUAL: [Offer card / value stack / countdown / logo + text]
+AI PROMPT: [Visual prompt]
 
 PRIMARY TEXT:
-"[Напоминание о проблеме — 1 предложение]
-[Grand Slam Offer: что получаешь]
-✅ [Компонент 1 — основной результат] (ценность: [X])
-✅ [Компонент 2 — бонус] (ценность: [Y])
-✅ [Компонент 3 — бонус] (ценность: [Z])
+"[Problem reminder — 1 sentence]
+[Grand Slam Offer: what you get]
+[Component 1 — core result] (value: [X])
+[Component 2 — bonus] (value: [Y])
+[Component 3 — bonus] (value: [Z])
 
-Общая ценность: [X+Y+Z]
-Твоя цена: [цена]
+Total value: [X+Y+Z]
+Your price: [price]
 
-[Гарантия: деньги назад / условная / анти-гарантия]
-[Скарсити: осталось N мест / до дедлайна N дней]
+[Guarantee: money back / conditional / anti-guarantee]
+[Scarcity: N spots left / N days until deadline]
 [CTA]"
 
-HEADLINE: [Grand Slam кратко + urgency]
-DESCRIPTION: [Гарантия]
-CTA: [Прямой конверсионный]
+HEADLINE: [Grand Slam briefly + urgency]
+DESCRIPTION: [Guarantee]
+CTA: [Direct conversion]
 ═══════════════════════════════════════════════════
 ```
 
-**Элементы Grand Slam для RT-3:**
+**Grand Slam Elements for RT-3:**
 
-| Элемент | Что включить | Шаблон |
+| Element | What to Include | Template |
 |---------|-------------|--------|
-| Dream Result | Результат мечты из ДНК | "Спокойный сон каждую ночь" |
-| Perceived Likelihood | Почему сработает | "94% участниц отмечают результат" |
-| Time Delay | Как быстро | "Первые изменения через 3 дня" |
-| Effort & Sacrifice | Насколько просто | "15 минут в день, из дома" |
-| Гарантия | Снятие риска | "Полный возврат за 14 дней" |
-| Скарсити | Ограничение | "Осталось 7 мест из 30" |
+| Dream Result | Dream result from DNA | "Peaceful sleep every night" |
+| Perceived Likelihood | Why it will work | "94% of participants report results" |
+| Time Delay | How fast | "First changes in 3 days" |
+| Effort & Sacrifice | How easy | "15 minutes a day, from home" |
+| Guarantee | Risk removal | "Full refund within 14 days" |
+| Scarcity | Limitation | "7 of 30 spots remaining" |
 
 ---
 
-## Каскад ретаргетинга по ступеням
+## Retargeting Cascade by Levels
 
-### Полная цепочка для одного сегмента
+### Full Sequence for One Segment
 
 ```
-COLD (ступень 0-1)
-│  Угол: Pain-agitate
-│  Hook: "Ты снова не можешь уснуть в 3 часа ночи?"
-│  CTA: "Узнай подробнее"
+COLD (level 0-1)
+│  Angle: Pain-agitate
+│  Hook: "Can't fall asleep at 3 AM again?"
+│  CTA: "Learn more"
 │
-├── RT-1 (ступень 1-2) — не кликнул
-│   Угол: Myth-busting
-│   Hook: "«Просто расслабься» — худший совет при бессоннице"
-│   CTA: "Смотри бесплатный разбор"
+├── RT-1 (level 1-2) — didn't click
+│   Angle: Myth-busting
+│   Hook: "'Just relax' — the worst advice for insomnia"
+│   CTA: "Watch free breakdown"
 │
-├── RT-2 (ступень 3-4) — кликнул, не конвертировался
-│   Угол: Social proof
-│   Hook: "Марина, 34 года: 'Наконец-то я сплю всю ночь'"
-│   CTA: "Запишись на вебинар"
+├── RT-2 (level 3-4) — clicked, didn't convert
+│   Angle: Social proof
+│   Hook: "Marina, 34: 'I finally sleep through the night'"
+│   CTA: "Sign up for webinar"
 │
-└── RT-3 (ступень 5) — был на лендинге
-    Угол: Grand Slam Offer
-    Hook: "Программа 'Точка опоры' — старт 15 марта"
-    CTA: "Забронировать место (осталось 7)"
+└── RT-3 (level 5) — visited landing page
+    Angle: Grand Slam Offer
+    Hook: "'Anchor Point' program — starting March 15"
+    CTA: "Reserve your spot (7 remaining)"
 ```
 
 ---
 
-## Правила генерации ретаргетинг-креативов
+## Rules for Generating Retargeting Creatives
 
-### 1. Никогда не повторяй тот же креатив
-RT-креатив **всегда** отличается от предыдущего этапа по:
-- Углу (pain → myth → proof → offer)
-- Визуальному стилю (фото → текст → UGC → оффер-карточка)
-- Тону (эмпатичный → экспертный → продающий)
-- CTA (мягкий → средний → прямой)
+### 1. Never Repeat the Same Creative
+An RT creative **always** differs from the previous stage by:
+- Angle (pain → myth → proof → offer)
+- Visual style (photo → text → UGC → offer card)
+- Tone (empathetic → expert → sales)
+- CTA (soft → medium → direct)
 
-### 2. Эскалация Hormozi-элементов
+### 2. Hormozi Element Escalation
 
-| Этап | Value Equation фокус | Hormozi-инструмент |
+| Stage | Value Equation Focus | Hormozi Tool |
 |------|---------------------|-------------------|
-| COLD | Dream Result | Обещание трансформации |
-| RT-1 | Perceived Likelihood | Мини-доказательство, факт |
-| RT-2 | Time Delay + Effort | Кейсы + "как просто" |
-| RT-3 | Всё + снятие риска | Grand Slam + гарантия + скарсити |
+| COLD | Dream Result | Transformation promise |
+| RT-1 | Perceived Likelihood | Mini-proof, fact |
+| RT-2 | Time Delay + Effort | Case studies + "how easy it is" |
+| RT-3 | Everything + risk removal | Grand Slam + guarantee + scarcity |
 
-### 3. A/B тестирование в ретаргетинге
-Каждый RT-этап генерируется минимум в 2 вариациях:
-- **RT-X-A:** Базовый вариант
-- **RT-X-B:** Альтернативный hook или визуал
+### 3. A/B Testing in Retargeting
+Each RT stage is generated with at least 2 variations:
+- **RT-X-A:** Baseline variant
+- **RT-X-B:** Alternative hook or visual
 
-Для RT-3 дополнительно:
-- **RT-3-C:** Другой тип гарантии или скарсити
+For RT-3, additionally:
+- **RT-3-C:** Different guarantee or scarcity type
 
-### 4. Таймфреймы и частота
+### 4. Timeframes and Frequency
 
-| Этап | Окно показа | Частота | Примечание |
+| Stage | Display Window | Frequency | Note |
 |------|-------------|---------|------------|
-| RT-1 | 1-3 дня | 2-3 раза | Не раздражать, сменить угол |
-| RT-2 | 3-7 дней | 3-5 раз | Наращивать доверие |
-| RT-3 | 7-14 дней | 5-7 раз | Разные креативы, один оффер |
-| После 14 дней | Пауза 7 дней | — | Затем вернуть в COLD с новым углом |
+| RT-1 | 1-3 days | 2-3 times | Don't annoy, switch the angle |
+| RT-2 | 3-7 days | 3-5 times | Build trust |
+| RT-3 | 7-14 days | 5-7 times | Different creatives, same offer |
+| After 14 days | 7-day pause | — | Then return to COLD with new angle |
 
-### 5. Исключения из ретаргетинга
-- Кто конвертировался → исключить из всех RT
-- Кто был на лендинге > 30 дней назад → вернуть в COLD
-- Кто видел > 20 показов без действия → пауза 14 дней
+### 5. Retargeting Exclusions
+- Converted → exclude from all RT
+- Visited landing page > 30 days ago → return to COLD
+- Saw > 20 impressions without action → 14-day pause
 
 ---
 
-## Матрица: что генерировать для каждого сегмента
+## Matrix: What to Generate for Each Segment
 
-Для КАЖДОЙ связки `Сегмент × Боль` генерируется:
+For EVERY `Segment x Pain` combination, generate:
 
-| Этап | Статика | Видео | Ад-юнит | Итого |
+| Stage | Static | Video | Ad Unit | Total |
 |------|---------|-------|---------|-------|
 | COLD (A,B,C) | 3 | 3 | 3 | 9 |
 | RT-1 (A,B) | 2 | 2 | 2 | 6 |
 | RT-2 (A,B) | 2 | 2 | 2 | 6 |
 | RT-3 (A,B,C) | 3 | 3 | 3 | 9 |
-| **ИТОГО** | **10** | **10** | **10** | **30** |
+| **TOTAL** | **10** | **10** | **10** | **30** |
 
-**На полный сегмент (3 боли):** 30 × 3 = 90 единиц контента.
+**For a full segment (3 pains):** 30 x 3 = 90 content units.
 
-> **Рекомендация:** Начинать с 1 боли (самой острой) на 1 сегмент. Масштабировать после теста.
+> **Recommendation:** Start with 1 pain (the most acute) for 1 segment. Scale after testing.

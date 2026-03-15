@@ -1,275 +1,275 @@
-# Регламент видео-креативов для приглашения на вебинар/Live-шоу
+# Video Creative Guidelines for Webinar/Live Show Invitations
 
-Используй этот файл при генерации рекламных видео-креативов (Reels, TikTok, Stories, Shorts) для приглашения на бесплатный вебинар, мастер-класс, Live-шоу в любой нише инфобизнеса.
+Use this file when generating promotional video creatives (Reels, TikTok, Stories, Shorts) for inviting to a free webinar, masterclass, or live show in any info business niche.
 
-Основан на: Deep Research (глобальные тренды 2025-2026), обратный инжиниринг 11 креативов конкурента, данные retention по hook-типам, ДНК Клиента.
-
----
-
-## 1. АРХИТЕКТУРА: ФОРМУЛА «5+3»
-
-### Длинный креатив (30-60 сек, ~100-180 слов)
-
-```
-БЛОК 1: ХУК (0-3 сек) — 1-2 предложения
-    Цель: остановить скролл. Hook rate >25%.
-    ↓
-БЛОК 2: УЗНАВАНИЕ БОЛИ (3-10 сек) — 2-3 предложения
-    Цель: зритель узнаёт себя, чувствует дискомфорт.
-    ↓
-БЛОК 3: МОСТ + АВТОРИТЕТ (10-25 сек) — 2-4 предложения
-    Цель: дать основание доверять + показать, что решение существует.
-    ↓
-БЛОК 4: ОБЕЩАНИЕ КОНКРЕТНОЙ ЦЕННОСТИ (25-40 сек) — 2-3 предложения
-    Цель: продать конкретный результат вебинара (что именно получит зритель).
-    ↓
-БЛОК 5: CTA + FOMO (40-60 сек) — 2-3 предложения
-    Цель: побудить к немедленному действию.
-```
-
-### Короткий креатив (7-15 сек, ~30-50 слов)
-
-```
-БЛОК 1: КОНТЕКСТНЫЙ ХУК (1 предложение)
-    ↓
-БЛОК 2: КОНКРЕТНОЕ ОБЕЩАНИЕ С ЦИФРОЙ (1-2 предложения)
-    ↓
-БЛОК 3: CTA + ЖЁСТКАЯ СРОЧНОСТЬ (1 предложение)
-```
-
-### Reel с текстовым описанием (стиль Дымшакова)
-
-```
-ВИДЕО (15-30 сек):
-- Простое видео спикера, без продакшена
-- Крупный заголовок-хук (2-5 слов) поверх видео
-- Минимум говорения, максимум визуала
-
-ОПИСАНИЕ (текстовый блок):
-- Структурированный ценный текст (3-7 пунктов)
-- Каждый пункт = конкретная выгода/инсайт
-- Без воды, каждая строка несёт ценность
-- Завершение: CTA в комментариях / ссылке в профиле
-```
+Based on: Deep Research (global trends 2025-2026), reverse engineering of 11 competitor creatives, retention data by hook type, Client DNA.
 
 ---
 
-## 2. ТИПОЛОГИЯ ХУКОВ (12 типов)
+## 1. ARCHITECTURE: THE "5+3" FORMULA
 
-### Группа A: Классические (адаптированные)
+### Long Creative (30-60 sec, ~100-180 words)
 
-| # | Тип | Формула | Лучше всего для |
+```
+BLOCK 1: HOOK (0-3 sec) — 1-2 sentences
+    Goal: stop the scroll. Hook rate >25%.
+    ↓
+BLOCK 2: PAIN RECOGNITION (3-10 sec) — 2-3 sentences
+    Goal: viewer recognizes themselves, feels discomfort.
+    ↓
+BLOCK 3: BRIDGE + AUTHORITY (10-25 sec) — 2-4 sentences
+    Goal: establish trust + show that a solution exists.
+    ↓
+BLOCK 4: SPECIFIC VALUE PROMISE (25-40 sec) — 2-3 sentences
+    Goal: sell the specific webinar outcome (what exactly the viewer will get).
+    ↓
+BLOCK 5: CTA + FOMO (40-60 sec) — 2-3 sentences
+    Goal: drive immediate action.
+```
+
+### Short Creative (7-15 sec, ~30-50 words)
+
+```
+BLOCK 1: CONTEXTUAL HOOK (1 sentence)
+    ↓
+BLOCK 2: SPECIFIC PROMISE WITH A NUMBER (1-2 sentences)
+    ↓
+BLOCK 3: CTA + HARD URGENCY (1 sentence)
+```
+
+### Reel with Text Description (Dymshakov style)
+
+```
+VIDEO (15-30 sec):
+- Simple speaker video, no production
+- Large hook headline (2-5 words) overlaid on video
+- Minimal talking, maximum visuals
+
+DESCRIPTION (text block):
+- Structured valuable text (3-7 points)
+- Each point = a specific benefit/insight
+- No fluff, every line delivers value
+- Ending: CTA in comments / link in bio
+```
+
+---
+
+## 2. HOOK TYPOLOGY (12 types)
+
+### Group A: Classic (adapted)
+
+| # | Type | Formula | Best For |
 |---|-----|---------|----------------|
-| 1 | Провокация через страх | «[Главный риск] — это [бездействие]» | Холодная аудитория |
-| 2 | Комплимент + разворот | «[Сила] + НО + [она же губит]» | Эксперты, собственники |
-| 3 | Дедлайн реальности | «В [период] нет места для [старое]» | Все сегменты |
-| 4 | Авторитетный лид | «Я [факт]. И вот что вижу...» | Скептики |
-| 5 | Вопрос об идентичности | «Вы [хотите быть] или [являетесь]?» | Эксперты, руководители |
-| 6 | Боль через факт | «У нас одна проблема — [боль]» | Собственники, фрилансеры |
-| 7 | Конкурентный контраст | «Пока вы [X], конкуренты уже [Y]» | Все (FOMO) |
-| 8 | Соцдоказательство числом | «[Число] уже [результат]» | Ретаргетинг |
+| 1 | Fear provocation | "[Main risk] is [inaction]" | Cold audience |
+| 2 | Compliment + reversal | "[Strength] + BUT + [it's also destroying you]" | Experts, owners |
+| 3 | Reality deadline | "In [period] there's no place for [old ways]" | All segments |
+| 4 | Authority lead | "I [fact]. And here's what I see..." | Skeptics |
+| 5 | Identity question | "Are you [who you want to be] or [who you are]?" | Experts, executives |
+| 6 | Pain through fact | "We have one problem — [pain]" | Owners, freelancers |
+| 7 | Competitive contrast | "While you [X], competitors are already [Y]" | All (FOMO) |
+| 8 | Social proof by numbers | "[Number] have already [result]" | Retargeting |
 
-### Группа B: Продвинутые (из Deep Research)
+### Group B: Advanced (from Deep Research)
 
-| # | Тип | Формула | Почему высокий retention |
+| # | Type | Formula | Why High Retention |
 |---|-----|---------|--------------------------|
-| 9 | Провокация незнанием | «Назовите 3 [инструмента] кроме [очевидного]. Не можете?» | Pattern-interrupt + стыд |
-| 10 | Результат за время | «[N] задач. [M] минут. Вживую» | Value-first hook (42% retention) |
-| 11 | Перевёрнутый тезис | «Проблема не в [ожидание]. Проблема в [неожиданность]» | Когнитивный диссонанс |
-| 12 | Цифра-шок | «$[сумма] — столько стоит [ваша ручная работа]. Покажу, как обнулить» | Якорь цены Hormozi |
+| 9 | Ignorance provocation | "Name 3 [tools] besides [the obvious one]. Can't?" | Pattern-interrupt + shame |
+| 10 | Result in time | "[N] tasks. [M] minutes. Live" | Value-first hook (42% retention) |
+| 11 | Inverted thesis | "The problem isn't [expected]. The problem is [unexpected]" | Cognitive dissonance |
+| 12 | Shock number | "$[amount] — that's what [your manual work] costs. I'll show you how to zero it out" | Hormozi price anchor |
 
-### Правила ротации
-- 8-10 креативов с разными хуками на запуск
-- 1 хук = 1 креатив (не смешивать)
-- A/B тестирование: 3-4 хука одновременно
-- Масштабировать победителя через 48 часов
+### Rotation Rules
+- 8-10 creatives with different hooks per launch
+- 1 hook = 1 creative (don't mix)
+- A/B testing: 3-4 hooks simultaneously
+- Scale the winner after 48 hours
 
 ---
 
-## 3. СИСТЕМА ТРИГГЕРОВ
+## 3. TRIGGER SYSTEM
 
-### 3.1 FOMO — 5 механизмов
+### 3.1 FOMO — 5 Mechanisms
 
-| Механизм | Формула | Когда |
+| Mechanism | Formula | When |
 |----------|---------|-------|
-| Незнание инструментов | «Инструменты, о которых знают единицы» | В каждом длинном |
-| Конкуренты уже делают | «Конкуренты уже [результат]» | Для собственников |
-| Окно закрывается | «Через [срок] это станет стандартом, не преимуществом» | Для экспертов |
-| Упущенная выгода | «$[сумма]/мес — цена [ручной работы]» | Для МСБ |
-| Социальное давление | «[Число] зарегистрировались за [период]» | Короткие креативы |
+| Ignorance of tools | "Tools that only a few know about" | In every long creative |
+| Competitors are already doing it | "Competitors are already [result]" | For owners |
+| Window is closing | "In [timeframe] this will become standard, not an advantage" | For experts |
+| Missed profit | "$[amount]/mo — the price of [manual work]" | For SMBs |
+| Social pressure | "[Number] registered in [period]" | Short creatives |
 
-**Ключевое:** FOMO привязан к НЕЗНАНИЮ, а не к дефициту мест.
+**Key point:** FOMO is tied to IGNORANCE, not to spot scarcity.
 
-### 3.2 Срочность — 2 уровня
+### 3.2 Urgency — 2 Levels
 
-**Мягкая (длинные креативы):**
-- Ограничение без цифр: «Количество мест ограничено форматом»
-- Невоспроизводимость: «Формат не повторится в записи»
+**Soft (long creatives):**
+- Limitation without numbers: "Spots are limited by the format"
+- Non-reproducibility: "The format won't be repeated in a recording"
 
-**Жёсткая (короткие, ретаргетинг):**
-- Конкретное число мест + зарегистрированных + время + ценность
+**Hard (short, retargeting):**
+- Specific number of spots + registered + time + value
 
-### 3.3 Авторитет — правила ротации
-- 2-3 маркера на креатив, НИКОГДА все сразу
-- Ротация между креативами создаёт «глубину»
-- Авторитет = доказательство метода, не хвастовство
+### 3.3 Authority — Rotation Rules
+- 2-3 markers per creative, NEVER all at once
+- Rotation between creatives creates "depth"
+- Authority = proof of method, not bragging
 
-### 3.4 Триггер идентичности
-Формула: «Вы [роль] — который [обесценивающее действие]. Серьёзно?»
-Пример: «Вы CEO — который лично отвечает на каждый email. Серьёзно?»
-
----
-
-## 4. CTA — 4 КАТЕГОРИИ
-
-### A: Через лид-магнит
-«Забери бесплатный [лид-магнит] — ссылка в профиле»
-
-### B: Через формат мероприятия
-«Это не вебинар. Это [формат]. [Описание]. Ссылка ниже»
-
-### C: Через конкретный результат
-«[N] задач. [M] минут. [Цена = 0]. Что терять?»
-
-### D: Через провокацию/вызов
-«Или продолжай [текущее поведение]. Выбор за тобой»
-
-**Правило:**
-- Длинные: CTA категории B или C + ссылка
-- Короткие: CTA категории D + конкретика
-- Reel + описание: CTA категории A (через лид-магнит)
-- НИКОГДА: «Ссылка в описании» (банально)
+### 3.4 Identity Trigger
+Formula: "You're a [role] — who [devaluing action]. Seriously?"
+Example: "You're a CEO — who personally replies to every email. Seriously?"
 
 ---
 
-## 5. АНТИ-ПРАВИЛА
+## 4. CTA — 4 CATEGORIES
 
-### Запрещённые слова
-| Запрещено | Заменить на |
+### A: Through Lead Magnet
+"Grab the free [lead magnet] — link in bio"
+
+### B: Through Event Format
+"This isn't a webinar. It's a [format]. [Description]. Link below"
+
+### C: Through Specific Result
+"[N] tasks. [M] minutes. [Price = 0]. What do you have to lose?"
+
+### D: Through Provocation/Challenge
+"Or keep [current behavior]. Your choice"
+
+**Rule:**
+- Long: CTA category B or C + link
+- Short: CTA category D + specifics
+- Reel + description: CTA category A (through lead magnet)
+- NEVER: "Link in description" (too basic)
+
+---
+
+## 5. ANTI-RULES
+
+### Banned Words
+| Banned | Replace With |
 |-----------|-------------|
-| «Курс» | «Программа», «Live-шоу», «практикум» |
-| «Обучение» | «Внедрение», «воркшоп» |
-| «Уникальная методика» | «Проверенный подход» |
-| «Это легко» | «Это реально, даже без [барьер]» |
-| «Успешный успех» | Конкретные цифры |
-| Упоминание очевидных инструментов как решения | «Инструменты, о которых знают единицы» |
-| «Промптинг» | «AI-система», «архитектура» |
+| "Course" | "Program", "Live show", "workshop" |
+| "Training" | "Implementation", "workshop" |
+| "Unique methodology" | "Proven approach" |
+| "It's easy" | "It's real, even without [barrier]" |
+| "Successful success" | Specific numbers |
+| Mentioning obvious tools as the solution | "Tools that only a few know about" |
+| "Prompting" | "AI system", "architecture" |
 
-### Запрещённые приёмы
-- Ложный дефицит
-- Обещания конкретного дохода
-- Давление через вину
-- Технический жаргон без объяснения
-- Фразы-штампы: «только сегодня», «скидка 90%»
-
----
-
-## 6. ПРОМПТ-ШАБЛОН ДЛЯ ГЕНЕРАЦИИ
-
-```
-Ты — копирайтер рекламных видео-креативов для приглашения на бесплатный вебинар/Live-шоу.
-
-ВХОДНЫЕ ДАННЫЕ:
-- Целевой сегмент: [из ДНК Клиента]
-- Конкретная боль: [из ДНК — 1 боль на 1 креатив]
-- Формат вебинара: [название + ключевое обещание]
-- Авторитетные маркеры спикера(ов): [2-3 из ротации]
-- Лид-магнит: [что получает при регистрации]
-- Язык ЦА: [русский/украинский/английский]
-
-СТРУКТУРА (5 блоков):
-
-1. ХУК (1-2 предложения) — тип хука: [выбери из 12 типов]
-   → Останови скролл за 2-3 секунды
-   → Крупный текст поверх видео
-
-2. УЗНАВАНИЕ БОЛИ (2-3 предложения)
-   → Зритель узнаёт себя
-   → Используй ОДНУ боль из ДНК
-   → Конкретные цифры: часы, суммы, процент
-
-3. МОСТ + АВТОРИТЕТ (2-4 предложения)
-   → Решение существует и оно доступно
-   → 2-3 маркера авторитета из ротации
-   → Не хвастовство, а доказательство метода
-
-4. ОБЕЩАНИЕ ЦЕННОСТИ (2-3 предложения)
-   → Что КОНКРЕТНО получит зритель на вебинаре
-   → Цифры: сколько задач, за сколько минут, какая ценность
-   → Упомянуть формат (Live, вживую, на экране)
-
-5. CTA + FOMO (2-3 предложения)
-   → Нетривиальный CTA (из 4 категорий)
-   → FOMO привязан к незнанию инструментов
-   → «Бесплатно» — снятие финансового барьера
-   → Указание, где ссылка
-
-ПРАВИЛА:
-- Один креатив = одна боль (не смешивать)
-- Максимум 60 секунд (≈150 слов)
-- Разговорный тон, короткие предложения (5-15 слов)
-- Обращение: «Вы» / «Друзья» / без обращения
-- FOMO: через незнание инструментов, не через «последние места»
-- Нет анти-слов: курс, уникальная методика, это легко, промптинг
-- Нет упоминания очевидных инструментов как решения
-- Субтитры обязательны
-- Хук = крупный текст на видео (макс 7 слов)
-```
+### Banned Practices
+- Fake scarcity
+- Specific income promises
+- Guilt-based pressure
+- Technical jargon without explanation
+- Stock phrases: "today only", "90% off"
 
 ---
 
-## 7. МЕТРИКИ И ТЕСТИРОВАНИЕ
+## 6. GENERATION PROMPT TEMPLATE
 
-| Метрика | Целевая | Действие если ниже |
+```
+You are an ad video copywriter for inviting to a free webinar/live show.
+
+INPUT DATA:
+- Target segment: [from Client DNA]
+- Specific pain: [from DNA — 1 pain per 1 creative]
+- Webinar format: [name + key promise]
+- Speaker authority markers: [2-3 from rotation]
+- Lead magnet: [what they get upon registration]
+- Target audience language: [Russian/Ukrainian/English]
+
+STRUCTURE (5 blocks):
+
+1. HOOK (1-2 sentences) — hook type: [choose from 12 types]
+   → Stop the scroll in 2-3 seconds
+   → Large text overlaid on video
+
+2. PAIN RECOGNITION (2-3 sentences)
+   → Viewer recognizes themselves
+   → Use ONE pain from DNA
+   → Specific numbers: hours, amounts, percentages
+
+3. BRIDGE + AUTHORITY (2-4 sentences)
+   → A solution exists and is accessible
+   → 2-3 authority markers from rotation
+   → Not bragging, but proof of method
+
+4. VALUE PROMISE (2-3 sentences)
+   → What SPECIFICALLY the viewer will get at the webinar
+   → Numbers: how many tasks, in how many minutes, what value
+   → Mention the format (Live, in real time, on screen)
+
+5. CTA + FOMO (2-3 sentences)
+   → Non-trivial CTA (from 4 categories)
+   → FOMO tied to ignorance of tools
+   → "Free" — removing the financial barrier
+   → Specify where the link is
+
+RULES:
+- One creative = one pain (don't mix)
+- Maximum 60 seconds (~150 words)
+- Conversational tone, short sentences (5-15 words)
+- Address: "You" / "Friends" / no address
+- FOMO: through ignorance of tools, not through "last spots"
+- No anti-words: course, unique methodology, it's easy, prompting
+- No mention of obvious tools as the solution
+- Subtitles are mandatory
+- Hook = large text on video (max 7 words)
+```
+
+---
+
+## 7. METRICS AND TESTING
+
+| Metric | Target | Action If Below |
 |---------|---------|-------------------|
-| Hook rate (3 сек) | >25% | Менять хук |
-| Hold rate (15 сек) | >45% | Менять боль/мост |
-| CTR | >2% | Менять CTA |
-| Стоимость регистрации | <$2 | Менять всё |
-| Конверсия лендинга | >25% | Проблема в лендинге |
+| Hook rate (3 sec) | >25% | Change the hook |
+| Hold rate (15 sec) | >45% | Change the pain/bridge |
+| CTR | >2% | Change the CTA |
+| Cost per registration | <$2 | Change everything |
+| Landing page conversion | >25% | Problem is the landing page |
 
-**Цикл обновления:**
-- 2-3 новых хука для лидера каждую неделю
-- Новый креатив с нуля каждые 2 недели
-- «Усталость» через 7-14 дней при активном скейле
+**Refresh cycle:**
+- 2-3 new hooks for the leader every week
+- New creative from scratch every 2 weeks
+- "Fatigue" after 7-14 days of active scaling
 
 ---
 
-## 8. ГЕНЕРАЦИЯ ПО МАТРИЦЕ ДНК
+## 8. GENERATION BY DNA MATRIX
 
-При наличии данных ДНК Клиента генерируй креативы по матрице:
+When Client DNA data is available, generate creatives by matrix:
 
 ```
-Для каждого портрета ДНК:
-  → Взять топ-3 боли
-  → Для каждой боли:
-    → Выбрать приоритетный тип хука (из таблицы сегмент → хуки)
-    → Сгенерировать: сценарий + текст на экране + описание (для формата Reel)
-    → Приложить чеклист проверки
+For each DNA portrait:
+  → Take the top 3 pains
+  → For each pain:
+    → Select the priority hook type (from segment → hooks table)
+    → Generate: script + on-screen text + description (for Reel format)
+    → Attach a verification checklist
 ```
 
-**Приоритетные хуки по типу сегмента:**
+**Priority hooks by segment type:**
 
-| Тип сегмента | Приоритетные хуки |
+| Segment Type | Priority Hooks |
 |-------------|-------------------|
-| Эксперт/специалист | #5 (идентичность), #9 (незнание), #11 (перевёрнутый) |
-| Собственник бизнеса | #6 (боль через факт), #7 (контраст), #12 (цифра-шок) |
-| Фрилансер/исполнитель | #1 (страх), #7 (контраст), #10 (результат за время) |
-| Руководитель/корпорат | #3 (дедлайн), #5 (идентичность), #4 (авторитет) |
+| Expert/specialist | #5 (identity), #9 (ignorance), #11 (inverted) |
+| Business owner | #6 (pain through fact), #7 (contrast), #12 (shock number) |
+| Freelancer/executor | #1 (fear), #7 (contrast), #10 (result in time) |
+| Executive/corporate | #3 (deadline), #5 (identity), #4 (authority) |
 
 ---
 
-## 9. ЧЕКЛИСТ ПЕРЕД ЗАПУСКОМ
+## 9. PRE-LAUNCH CHECKLIST
 
-- [ ] Один креатив = одна боль?
-- [ ] Хук останавливает скролл за 2-3 сек?
-- [ ] Нет анти-слов из списка?
-- [ ] Нет упоминания очевидных инструментов как решения?
-- [ ] CTA конкретный и нетривиальный?
-- [ ] 1-2 маркера авторитета (не все сразу)?
-- [ ] FOMO = незнание, не «последние места»?
-- [ ] Субтитры?
-- [ ] Текст на видео: хук крупно, цифры выделены?
-- [ ] Длительность в рамках?
-- [ ] Тон: уверенный, разговорный, без агрессии?
-- [ ] Для Reel + описание: каждая строка описания несёт ценность?
+- [ ] One creative = one pain?
+- [ ] Hook stops the scroll in 2-3 sec?
+- [ ] No anti-words from the list?
+- [ ] No mention of obvious tools as the solution?
+- [ ] CTA is specific and non-trivial?
+- [ ] 1-2 authority markers (not all at once)?
+- [ ] FOMO = ignorance, not "last spots"?
+- [ ] Subtitles?
+- [ ] Text on video: hook in large font, numbers highlighted?
+- [ ] Duration within limits?
+- [ ] Tone: confident, conversational, no aggression?
+- [ ] For Reel + description: every line of the description delivers value?

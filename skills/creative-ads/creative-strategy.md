@@ -1,335 +1,335 @@
-# Креативная стратегия: синтез методологий
+# Creative Strategy: Methodology Synthesis
 
-Этот документ описывает, как комбинировать данные ДНК Клиента, лестницу осознанности Бена Ханта и офферную методологию Алекса Хормози для генерации креативных углов рекламы.
+This document describes how to combine Client DNA data, Ben Hunt's Awareness Ladder, and Alex Hormozi's offer methodology to generate advertising creative angles.
 
 ---
 
-## 1. Матрица: ступень осознанности -> типы углов
+## 1. Matrix: Awareness Level -> Angle Types
 
-| Ступень | Состояние аудитории | Углы | Что берём из ДНК | Hormozi-элемент |
+| Level | Audience State | Angles | What We Take from DNA | Hormozi Element |
 |---------|---------------------|------|-------------------|-----------------|
-| 0 — Безразличие | Не осознаёт проблему, живёт привычно | Pain-agitate, пробуждение, контраст "норма vs реальность" | Портрет в боли (как человек живёт ДО осознания), болевые ситуации, внутренний монолог | Dream Result (показать, что жизнь может быть другой) |
-| 1 — Осознание проблемы | Чувствует дискомфорт, но не ищет решение | Pain-agitate, FOMO, триггер-момент | Страхи, триггерные события, ситуации обострения боли | Dream Result + Time Delay (показать цену бездействия) |
-| 2 — Поиск решения | Активно ищет варианты, сравнивает | Myth-busting, education, система | Мифы, ложные решения, барьеры, предыдущий негативный опыт | Value Equation (Dream Result - Effort - Time - Risk) |
-| 3 — Выбор продукта | Сравнивает конкретные продукты | Transformation, social proof, education | Трансформация до/после, язык клиента, желаемая идентичность | Value Equation + уникальный механизм |
-| 4 — Сомнения | Почти готов, но есть возражения | Social proof, guarantee, разбор возражений | Возражения, триггер покупки, страх ошибки | Guarantee (инверсия риска), скарсити |
-| 5 — Покупка | Готов купить, нужен финальный толчок | Urgency, прямой оффер, guarantee | Триггер покупки, решающий аргумент, язык принятия решения | Grand Slam Offer, бонусы, дедлайн |
+| 0 — Indifference | Doesn't recognize the problem, lives by habit | Pain-agitate, awakening, "normal vs reality" contrast | Portrait in pain (how the person lives BEFORE awareness), pain scenarios, inner monologue | Dream Result (show that life can be different) |
+| 1 — Problem Recognition | Feels discomfort but isn't seeking a solution | Pain-agitate, FOMO, trigger moment | Fears, triggering events, pain escalation situations | Dream Result + Time Delay (show the cost of inaction) |
+| 2 — Solution Search | Actively looking for options, comparing | Myth-busting, education, system | Myths, false solutions, barriers, previous negative experience | Value Equation (Dream Result - Effort - Time - Risk) |
+| 3 — Product Selection | Comparing specific products | Transformation, social proof, education | Before/after transformation, client language, desired identity | Value Equation + unique mechanism |
+| 4 — Doubts | Almost ready, but has objections | Social proof, guarantee, objection handling | Objections, purchase trigger, fear of making a mistake | Guarantee (risk inversion), scarcity |
+| 5 — Purchase | Ready to buy, needs final push | Urgency, direct offer, guarantee | Purchase trigger, deciding argument, decision-making language | Grand Slam Offer, bonuses, deadline |
 
-### Ключевой принцип матрицы
+### Key Matrix Principle
 
-Чем холоднее аудитория, тем больше работаем с **болью и узнаванием**. Чем горячее — тем больше с **доказательствами и оффером**. ДНК Клиента даёт материал для каждой ступени, Hormozi даёт структуру оффера.
-
----
-
-## 2. Пять типов креативных углов
-
-### a. Pain-agitate — визуализация боли (ступени 0-1)
-
-**Суть:** Показать человеку его собственную боль так точно, чтобы он остановил скролл и подумал: "Откуда они знают?"
-
-**Что берём из ДНК:**
-- Болевые ситуации — конкретные моменты, когда боль обостряется (не абстрактная "проблема", а "ситуация в 3 часа ночи, когда...")
-- Внутренний монолог — фразы, которые человек говорит себе в момент боли ("Я снова...", "Почему у всех получается, а у меня...")
-- Страхи — чего боится, если ничего не изменится
-- Контекст боли — где, когда, при каких обстоятельствах возникает
-
-**Визуал:** Человек в узнаваемом моменте боли. Не постановочное фото, а ситуация из жизни. Визуал должен вызывать мгновенное узнавание — "это же я вчера".
-
-**Текст:** Вопрос или утверждение из внутреннего монолога клиента. Используем его язык дословно, не переводим в "маркетинговый". Никаких "Устали от...?" — только конкретика из ДНК.
-
-**Формула текста:**
-```
-[Конкретная ситуация из ДНК] + [Внутренний монолог] + [Усиление: что будет, если ничего не менять]
-```
-
-**Hormozi-элемент:** Dream Result используется не для продажи, а для контраста. "Вот где ты сейчас" — подразумевая, что может быть иначе.
+The colder the audience, the more we work with **pain and recognition**. The hotter, the more with **proof and the offer**. Client DNA provides the material for each level; Hormozi provides the offer structure.
 
 ---
 
-### b. Transformation / Before-After — мечта (ступени 2-4)
+## 2. Five Types of Creative Angles
 
-**Суть:** Показать разрыв между текущим состоянием и желаемым результатом. Не абстрактное "станет лучше", а конкретная трансформация из ДНК.
+### a. Pain-agitate — pain visualization (levels 0-1)
 
-**Что берём из ДНК:**
-- Идеальная трансформация — как клиент описывает желаемое будущее своими словами
-- Цитаты после трансформации — что человек скажет/почувствует, когда проблема решена
-- Желаемая идентичность — кем хочет себя видеть ("я — человек, который...")
-- Конкретные метрики успеха — по каким признакам клиент поймёт, что "получилось"
+**Essence:** Show the person their own pain so precisely that they stop scrolling and think: "How do they know?"
 
-**Визуал:** Контраст до/после. Не глянцевый, а реалистичный. Левая часть — узнаваемая боль, правая — конкретный результат. Или: серый фон -> яркий фон. Сжатая поза -> открытая поза.
+**What we take from DNA:**
+- Pain scenarios — specific moments when pain intensifies (not abstract "problem" but "the situation at 3 AM when...")
+- Inner monologue — phrases the person says to themselves in the moment of pain ("I'm doing it again...", "Why does everyone else manage but I can't...")
+- Fears — what they're afraid of if nothing changes
+- Pain context — where, when, under what circumstances it arises
 
-**Текст:** Dream Result на языке клиента. Не "увеличьте продажи на 300%", а так, как клиент сам описывает мечту в ДНК. Используем цитаты трансформации дословно.
+**Visual:** A person in a recognizable moment of pain. Not a staged photo, but a life situation. The visual should trigger instant recognition — "that was me yesterday."
 
-**Формула текста:**
+**Text:** A question or statement from the client's inner monologue. We use their language verbatim, without translating it into "marketing speak." No "Tired of...?" — only specifics from DNA.
+
+**Text formula:**
 ```
-[До: конкретная боль из ДНК] -> [После: конкретный результат словами клиента] + [Механизм: как это стало возможным]
+[Specific situation from DNA] + [Inner monologue] + [Amplification: what happens if nothing changes]
 ```
 
-**Hormozi-элемент:** Value Equation полностью. Dream Result (максимально конкретный) при минимальных Effort и Time Delay, с низким Perceived Risk.
+**Hormozi element:** Dream Result is used not for selling, but for contrast. "Here's where you are now" — implying things could be different.
 
 ---
 
-### c. Myth-busting / Provocation — разрушение мифов (ступени 1-3)
+### b. Transformation / Before-After — the dream (levels 2-4)
 
-**Суть:** Разрушить ложное убеждение, которое мешает клиенту двигаться к решению. Провокация останавливает скролл, потому что противоречит тому, во что человек верит.
+**Essence:** Show the gap between the current state and the desired result. Not abstract "things will get better" but a specific transformation from DNA.
 
-**Что берём из ДНК:**
-- Мифы — ложные убеждения о проблеме или решениях ("чтобы похудеть, нужно голодать")
-- Ложные решения — что клиент уже пробовал и что не сработало
-- Барьеры — что мешает действовать (и почему эти барьеры часто иллюзорны)
-- Предыдущий негативный опыт — почему не верит, что "в этот раз сработает"
+**What we take from DNA:**
+- Ideal transformation — how the client describes their desired future in their own words
+- Post-transformation quotes — what the person will say/feel when the problem is solved
+- Desired identity — who they want to see themselves as ("I'm a person who...")
+- Specific success metrics — by what signs the client will know they've "made it"
 
-**Визуал:** Контраст между мифом и правдой. Перечёркнутый миф. Два столбца: "Что тебе говорили" vs "Как на самом деле". Или: провокационный заголовок крупным шрифтом на ярком фоне.
+**Visual:** Before/after contrast. Not glossy but realistic. Left side — recognizable pain, right side — concrete result. Or: gray background -> bright background. Hunched posture -> open posture.
 
-**Текст:** Миф формулируется дословно так, как его озвучивает клиент (из ДНК). Затем — разворот: "На самом деле..." с конкретным объяснением, почему это неправда.
+**Text:** Dream Result in the client's language. Not "increase sales by 300%" but the way the client describes their dream in DNA. Use transformation quotes verbatim.
 
-**Формула текста:**
+**Text formula:**
 ```
-[Миф дословно из ДНК] + "На самом деле..." + [Правда + почему миф вреден] + [Что делать вместо этого]
+[Before: specific pain from DNA] -> [After: specific result in client's words] + [Mechanism: how this became possible]
 ```
 
-**Hormozi-элемент:** Value Equation для снижения Perceived Effort и Time Delay. Если миф в том, что "это долго и сложно", показываем, что effort и time меньше, чем кажется.
+**Hormozi element:** Full Value Equation. Dream Result (maximally specific) with minimal Effort and Time Delay, with low Perceived Risk.
 
 ---
 
-### d. Social proof / UGC — доказательства (ступени 3-5)
+### c. Myth-busting / Provocation — destroying myths (levels 1-3)
 
-**Суть:** Дать доказательство через голос такого же человека, как клиент. Не "эксперт рассказывает", а "такой же как ты уже сделал и вот что получилось".
+**Essence:** Destroy a false belief that prevents the client from moving toward a solution. Provocation stops the scroll because it contradicts what the person believes.
 
-**Что берём из ДНК:**
-- Язык клиента — как целевой сегмент разговаривает (не маркетинговый язык, а живая речь)
-- Желаемая идентичность — кем хочет быть, чтобы герой отзыва отражал эту идентичность
-- Конкретные возражения — отзыв должен закрывать именно те возражения, которые есть в ДНК
-- Метрики успеха клиента — какие результаты впечатлят этот сегмент (из ДНК)
+**What we take from DNA:**
+- Myths — false beliefs about the problem or solutions ("to lose weight, you need to starve")
+- False solutions — what the client has already tried and what didn't work
+- Barriers — what prevents action (and why these barriers are often illusory)
+- Previous negative experience — why they don't believe "this time it'll work"
 
-**Визуал:** UGC-стилистика: снято на телефон, реальный человек, без студийного света. Человек похож на целевой сегмент из ДНК (возраст, стиль, контекст). Selfie-формат или "говорящая голова".
+**Visual:** Contrast between myth and truth. A crossed-out myth. Two columns: "What they told you" vs "How it actually is." Or: a provocative headline in large font on a bright background.
 
-**Текст:** Цитата от лица клиента. Структура: "Я боялся/сомневался, что [возражение из ДНК] + Но потом [что изменилось] + Теперь [конкретный результат, метрика]".
+**Text:** The myth is phrased exactly as the client articulates it (from DNA). Then — the reversal: "Actually..." with a specific explanation of why it's not true.
 
-**Формула текста:**
+**Text formula:**
 ```
-"Я [идентификация: такой же как ты] + [возражение, которое было] + [что попробовал] + [конкретный результат с цифрами/деталями]"
+[Myth verbatim from DNA] + "Actually..." + [Truth + why the myth is harmful] + [What to do instead]
 ```
 
-**Hormozi-элемент:** Guarantee и инверсия риска. Отзыв — это форма гарантии через чужой опыт. Grand Slam Offer упоминается через призму "что я получил" (бонусы, результат, сервис).
+**Hormozi element:** Value Equation for reducing Perceived Effort and Time Delay. If the myth is that "it's long and hard," show that effort and time are less than expected.
 
 ---
 
-### e. Trigger-moment / "Это про меня" — триггерные ситуации (ступени 0-2)
+### d. Social proof / UGC — evidence (levels 3-5)
 
-**Суть:** Поймать человека в конкретном микро-моменте его жизни, когда боль обостряется. Ультра-специфичная ситуация, которая вызывает мгновенное узнавание.
+**Essence:** Provide proof through the voice of someone just like the client. Not "an expert explains" but "someone like you already did it and here's what happened."
 
-**Что берём из ДНК:**
-- Триггерные события — конкретные ситуации, запускающие осознание проблемы ("когда коллега получил повышение", "когда джинсы не застегнулись")
-- Специфические детали — чем детальнее ситуация, тем сильнее узнавание
-- Контекст возникновения — время, место, обстоятельства, окружающие люди
-- Эмоциональная реакция — что чувствует в этот момент
+**What we take from DNA:**
+- Client language — how the target segment talks (not marketing language, but natural speech)
+- Desired identity — who they want to be, so the testimonial hero reflects that identity
+- Specific objections — the testimonial should address exactly the objections found in DNA
+- Client success metrics — what results will impress this segment (from DNA)
 
-**Визуал:** Узнаваемый бытовой момент. Не постановка, а "подсмотренная" ситуация. Камера на уровне глаз, как будто ты это видишь прямо сейчас. Максимально конкретный визуал (не "человек грустит", а "человек смотрит на экран телефона в 2 ночи").
+**Visual:** UGC styling: filmed on phone, real person, no studio lighting. The person resembles the target segment from DNA (age, style, context). Selfie format or "talking head."
 
-**Текст:** Ультра-конкретное описание ситуации. Начинается с "Когда ты..." или "Знакомо? Ты...". Описание настолько точное, что человек физически ощущает узнавание.
+**Text:** Quote from the client's perspective. Structure: "I was afraid/doubted that [objection from DNA] + But then [what changed] + Now [specific result, metric]."
 
-**Формула текста:**
+**Text formula:**
 ```
-"Когда [ультра-конкретная ситуация из ДНК с деталями]... + [эмоция/мысль в этот момент] + [мост к решению]"
+"I [identification: just like you] + [the objection I had] + [what I tried] + [specific result with numbers/details]"
 ```
 
-**Hormozi-элемент:** Dream Result как контраст. "Ты в этой ситуации — но представь, если бы вместо этого ты [dream result]".
+**Hormozi element:** Guarantee and risk inversion. A testimonial is a form of guarantee through someone else's experience. Grand Slam Offer is mentioned through the lens of "what I got" (bonuses, result, service).
 
 ---
 
-## 3. Алгоритм выбора углов
+### e. Trigger-moment / "This is about me" — trigger situations (levels 0-2)
 
-### Шаг 1: Определить сегмент и боль
+**Essence:** Catch the person in a specific micro-moment of their life when pain intensifies. An ultra-specific situation that triggers instant recognition.
 
-Берём из ДНК Клиента конкретный сегмент (микро-ДНК). Выписываем:
-- Главную боль сегмента
-- 2-3 вторичные боли
-- Язык, которым описывает проблему
-- Контекст жизни (кто он, где работает, как живёт)
+**What we take from DNA:**
+- Triggering events — specific situations that launch problem awareness ("when a colleague got promoted", "when the jeans wouldn't zip")
+- Specific details — the more detailed the situation, the stronger the recognition
+- Context of occurrence — time, place, circumstances, surrounding people
+- Emotional reaction — what they feel in that moment
 
-### Шаг 2: Определить ступень осознанности
+**Visual:** A recognizable everyday moment. Not staged but "observed." Camera at eye level, as if you're seeing it right now. Maximally specific visual (not "a person is sad" but "a person staring at their phone screen at 2 AM").
 
-Для каждого сегмента определяем текущую ступень. Вопросы-фильтры:
-- **0**: Не знает, что у него проблема? -> Pain-agitate, пробуждение
-- **1**: Знает о проблеме, но не ищет решение? -> Pain-agitate, trigger-moment, FOMO
-- **2**: Ищет решение, но не знает какое? -> Myth-busting, education
-- **3**: Сравнивает варианты? -> Transformation, social proof
-- **4**: Почти готов, но сомневается? -> Social proof, guarantee
-- **5**: Готов купить? -> Прямой оффер, urgency
+**Text:** Ultra-specific description of the situation. Starts with "When you..." or "Sound familiar? You..." The description is so precise that the person physically feels the recognition.
 
-### Шаг 3: Выбрать 3-5 подходящих углов
+**Text formula:**
+```
+"When [ultra-specific situation from DNA with details]... + [emotion/thought in that moment] + [bridge to the solution]"
+```
 
-Из матрицы (раздел 1) берём углы, соответствующие определённой ступени. Выбираем минимум 3, максимум 5 углов для тестирования.
+**Hormozi element:** Dream Result as contrast. "You're in this situation — but imagine if instead you were [dream result]."
 
-Правило: для каждой кампании нужен **микс** — не все углы одного типа. Пример микса для ступени 1-2:
-- 2 pain-agitate (разные боли из ДНК)
-- 1 trigger-moment (конкретная ситуация)
-- 1 myth-busting (главный миф сегмента)
-- 1 transformation (показать возможность)
+---
 
-### Шаг 4: Наполнить каждый угол данными из микро-ДНК
+## 3. Angle Selection Algorithm
 
-Для каждого выбранного угла подтягиваем конкретные данные из ДНК:
+### Step 1: Identify the Segment and Pain
 
-| Угол | Какие данные нужны из ДНК |
+Take a specific segment (micro-DNA) from Client DNA. List:
+- The segment's main pain
+- 2-3 secondary pains
+- The language used to describe the problem
+- Life context (who they are, where they work, how they live)
+
+### Step 2: Determine the Awareness Level
+
+For each segment, determine the current level. Filter questions:
+- **0**: Doesn't know they have a problem? -> Pain-agitate, awakening
+- **1**: Knows about the problem but isn't seeking a solution? -> Pain-agitate, trigger-moment, FOMO
+- **2**: Looking for a solution but doesn't know which? -> Myth-busting, education
+- **3**: Comparing options? -> Transformation, social proof
+- **4**: Almost ready but has doubts? -> Social proof, guarantee
+- **5**: Ready to buy? -> Direct offer, urgency
+
+### Step 3: Select 3-5 Suitable Angles
+
+From the matrix (section 1), take the angles corresponding to the determined level. Select a minimum of 3, maximum of 5 angles for testing.
+
+Rule: every campaign needs a **mix** — not all angles of the same type. Example mix for level 1-2:
+- 2 pain-agitate (different pains from DNA)
+- 1 trigger-moment (specific situation)
+- 1 myth-busting (the segment's main myth)
+- 1 transformation (show the possibility)
+
+### Step 4: Fill Each Angle with Micro-DNA Data
+
+For each selected angle, pull specific data from DNA:
+
+| Angle | What Data Is Needed from DNA |
 |------|--------------------------|
-| Pain-agitate | Болевая ситуация + внутренний монолог + страхи |
-| Transformation | Dream result + цитаты трансформации + метрики успеха |
-| Myth-busting | Конкретный миф + ложное решение + правда |
-| Social proof | Язык клиента + возражения + желаемая идентичность |
-| Trigger-moment | Триггерное событие + детали ситуации + эмоция |
+| Pain-agitate | Pain scenario + inner monologue + fears |
+| Transformation | Dream result + transformation quotes + success metrics |
+| Myth-busting | Specific myth + false solution + truth |
+| Social proof | Client language + objections + desired identity |
+| Trigger-moment | Triggering event + situation details + emotion |
 
-### Шаг 5: Применить Hormozi Value Equation к текстовым элементам
+### Step 5: Apply Hormozi Value Equation to Text Elements
 
-Каждый текстовый элемент проверяем через формулу ценности:
+Check every text element through the value formula:
 
 ```
 Value = (Dream Result x Perceived Likelihood) / (Time Delay x Effort & Sacrifice)
 ```
 
-- **Dream Result** — максимально конкретный, на языке клиента из ДНК
-- **Perceived Likelihood** — увеличиваем через social proof, гарантии, конкретику
-- **Time Delay** — уменьшаем: "уже через [короткий срок]", "первые результаты за [X]"
-- **Effort & Sacrifice** — уменьшаем: "без [то, чего боится клиент из ДНК]", "всего [минимальное действие]"
+- **Dream Result** — maximally specific, in client language from DNA
+- **Perceived Likelihood** — increase through social proof, guarantees, specifics
+- **Time Delay** — decrease: "in just [short period]", "first results in [X]"
+- **Effort & Sacrifice** — decrease: "without [what the client fears from DNA]", "just [minimal action]"
 
-### Шаг 6: Сгенерировать A/B-вариации
+### Step 6: Generate A/B Variations
 
-Для каждого угла создаём минимум 2 вариации:
-- **Вариация по тексту:** один и тот же визуал, разные заголовки (разные боли или формулировки из ДНК)
-- **Вариация по визуалу:** один и тот же текст, разные визуальные подходы (фото vs иллюстрация, крупный план vs ситуация)
-- **Вариация по формату:** один и тот же угол в разных форматах (статика vs видео, карусель vs одиночный)
-
----
-
-## 4. Примеры трансформации ДНК -> углы
-
-### Пример 1: Онлайн-курс по английскому
-
-**Данные из микро-ДНК (сегмент: IT-специалист, 28-35 лет):**
-- Боль: "На созвоне с заказчиком молчу, потому что боюсь ошибиться"
-- Внутренний монолог: "Все нормально говорят, а я как идиот мычу"
-- Триггер: Коллега с худшим техническим уровнем получил проект, потому что свободно говорит
-- Миф: "Нужно жить в англоязычной стране, чтобы заговорить"
-- Dream result: "Спокойно веду митинг на английском, шучу, предлагаю идеи"
-- Страх: "Так и останусь мидлом с потолком зарплаты"
-
-**Сгенерированные углы:**
-
-**Угол 1 — Pain-agitate (ступень 1):**
-- Визуал: Экран ноутбука с Zoom-звонком, человек с выключенным микрофоном
-- Текст: "На каждом созвоне ты знаешь ответ. Но молчишь, потому что не можешь сказать это по-английски. А потом коллега говорит ровно то же самое — и получает одобрение."
-
-**Угол 2 — Trigger-moment (ступень 0-1):**
-- Визуал: Два человека у кулера / в Slack-чате. Один радостный, второй напряжён
-- Текст: "Когда коллега, который пришёл полгода назад, получает проект с зарубежным клиентом. А ты — нет. Не потому что хуже кодишь. А потому что он говорит на английском."
-
-**Угол 3 — Myth-busting (ступень 2):**
-- Визуал: Перечёркнутый самолёт + надпись "Нужно жить за границей"
-- Текст: "Миф: чтобы заговорить на английском, нужно пожить за границей. Реальность: 80% IT-специалистов, свободно ведущих митинги на английском, учились удалённо. Разница — в методе, а не в географии."
+For each angle, create at least 2 variations:
+- **Text variation:** same visual, different headlines (different pains or phrasings from DNA)
+- **Visual variation:** same text, different visual approaches (photo vs illustration, close-up vs situation)
+- **Format variation:** same angle in different formats (static vs video, carousel vs single)
 
 ---
 
-### Пример 2: Услуга персонального стилиста
+## 4. Examples: DNA -> Angles Transformation
 
-**Данные из микро-ДНК (сегмент: женщина-предприниматель, 35-45 лет):**
-- Боль: "Шкаф забит, а надеть нечего. Каждое утро трачу 40 минут и всё равно недовольна"
-- Внутренний монолог: "На встрече с клиентом чувствую себя неуместно"
-- Триггер: Увидела фото с мероприятия, где выглядит "не так"
-- Миф: "Стиль — это дорого, нужно покупать люкс"
-- Dream result: "Открываю шкаф — и за 5 минут собираю образ, в котором чувствую себя уверенно"
-- Возражение: "Стилист оденет меня не в моём стиле, буду выглядеть как все"
+### Example 1: Online English Course
 
-**Сгенерированные углы:**
+**Micro-DNA data (segment: IT professional, 28-35 years old):**
+- Pain: "On calls with clients, I stay silent because I'm afraid of making mistakes"
+- Inner monologue: "Everyone speaks normally and I'm mumbling like an idiot"
+- Trigger: A colleague with weaker technical skills got the project because they speak fluently
+- Myth: "You need to live in an English-speaking country to start speaking"
+- Dream result: "I calmly lead meetings in English, joke around, pitch ideas"
+- Fear: "I'll stay a mid-level with a salary ceiling forever"
 
-**Угол 1 — Trigger-moment (ступень 0):**
-- Визуал: Женщина стоит перед открытым шкафом, на кровати — гора вещей
-- Текст: "7:40 утра. Встреча с клиентом через час. Перед тобой 200 вещей. Надеть — нечего. Снова чёрный пиджак и 'сойдёт'."
+**Generated angles:**
 
-**Угол 2 — Transformation (ступень 3):**
-- Визуал: Слева — хаотичный шкаф. Справа — аккуратная капсула из 30 вещей
-- Текст: "Было: 200 вещей и 40 минут мучений каждое утро. Стало: 30 вещей и 5 минут на образ, в котором хочется идти на любую встречу. Не покупая ничего нового — просто разобравшись с тем, что есть."
+**Angle 1 — Pain-agitate (level 1):**
+- Visual: Laptop screen with a Zoom call, person with microphone muted
+- Text: "On every call, you know the answer. But you stay silent because you can't say it in English. And then a colleague says exactly the same thing — and gets the approval."
 
-**Угол 3 — Social proof (ступень 4):**
-- Визуал: UGC-видео, женщина показывает свой шкаф
-- Текст: "Я боялась, что стилист оденет меня 'как всех'. Что потеряю свой стиль. А в итоге впервые его нашла. За 2 недели — ни одной спонтанной покупки. И комплимент от клиента, который сказал: 'С вами приятно иметь дело, вы всегда так стильно выглядите'."
+**Angle 2 — Trigger-moment (level 0-1):**
+- Visual: Two people at the water cooler / in a Slack chat. One looks happy, the other tense
+- Text: "When a colleague who joined six months ago gets the project with the international client. And you don't. Not because you code worse. But because they speak English."
 
----
-
-### Пример 3: SaaS для автоматизации отчётности
-
-**Данные из микро-ДНК (сегмент: финансовый директор, 40-50 лет):**
-- Боль: "Каждый конец месяца — ад. Собираю данные из 5 систем руками"
-- Триггер: CEO попросил отчёт за 15 минут, а на него нужно 3 дня
-- Миф: "Автоматизация — это долгий IT-проект на полгода"
-- Dream result: "Нажал кнопку — отчёт готов. CEO доволен. Я ухожу домой вовремя"
-
-**Угол — Myth-busting + Pain-agitate (ступень 1-2):**
-- Визуал: Календарь с обведённым "конец месяца" и перечёркнутой надписью "6 месяцев внедрения"
-- Текст: "Ты думаешь, автоматизация отчётности — это IT-проект на полгода, согласования, ТЗ и головная боль. А если бы следующий отчёт для CEO был готов за 15 минут вместо 3 дней? Без IT-отдела. Без полугодового внедрения. Подключение — 2 часа."
+**Angle 3 — Myth-busting (level 2):**
+- Visual: Crossed-out airplane + text "You need to live abroad"
+- Text: "Myth: to start speaking English, you need to live abroad. Reality: 80% of IT professionals who fluently lead meetings in English learned remotely. The difference is the method, not the geography."
 
 ---
 
-## 5. Правила комбинирования
+### Example 2: Personal Stylist Service
 
-### Правило соответствия ступени
+**Micro-DNA data (segment: female entrepreneur, 35-45 years old):**
+- Pain: "Closet is full but nothing to wear. Every morning I spend 40 minutes and still feel dissatisfied"
+- Inner monologue: "At meetings with clients, I feel out of place"
+- Trigger: Saw a photo from an event where she looks "off"
+- Myth: "Style is expensive — you need to buy luxury brands"
+- Dream result: "I open the closet and in 5 minutes put together an outfit I feel confident in"
+- Objection: "A stylist will dress me in a style that's not mine — I'll look like everyone else"
 
-**Никогда не используй горячие углы для холодной аудитории.**
+**Generated angles:**
 
-- Ступени 0-1 не готовы видеть оффер. Им нужно сначала осознать проблему. Прямая продажа вызовет раздражение и баннерную слепоту.
-- Ступени 4-5 не нужно "пробуждать". Они уже знают проблему. Pain-agitate для них — пустая трата времени. Им нужны доказательства и оффер.
+**Angle 1 — Trigger-moment (level 0):**
+- Visual: Woman standing in front of an open closet, pile of clothes on the bed
+- Text: "7:40 AM. Client meeting in an hour. 200 items in front of you. Nothing to wear. Black blazer again and 'it'll do.'"
 
-| Аудитория | Что работает | Что НЕ работает |
+**Angle 2 — Transformation (level 3):**
+- Visual: Left — chaotic closet. Right — neat capsule of 30 items
+- Text: "Before: 200 items and 40 minutes of agony every morning. After: 30 items and 5 minutes for an outfit you actually want to wear to any meeting. Without buying anything new — just figuring out what you already have."
+
+**Angle 3 — Social proof (level 4):**
+- Visual: UGC video, woman showing her closet
+- Text: "I was afraid the stylist would dress me 'like everyone else.' That I'd lose my style. But instead, I found it for the first time. In 2 weeks — not a single impulse purchase. And a compliment from a client who said: 'It's a pleasure working with you — you always look so stylish.'"
+
+---
+
+### Example 3: SaaS for Reporting Automation
+
+**Micro-DNA data (segment: CFO, 40-50 years old):**
+- Pain: "Every end of month is hell. Pulling data from 5 systems manually"
+- Trigger: CEO asked for a report in 15 minutes, but it takes 3 days
+- Myth: "Automation is a long IT project taking six months"
+- Dream result: "Press a button — report is ready. CEO is happy. I go home on time"
+
+**Angle — Myth-busting + Pain-agitate (level 1-2):**
+- Visual: Calendar with "end of month" circled and a crossed-out label "6 months of implementation"
+- Text: "You think reporting automation is a six-month IT project — approvals, specs, and headaches. What if your next CEO report was ready in 15 minutes instead of 3 days? No IT department. No six-month rollout. Setup: 2 hours."
+
+---
+
+## 5. Combination Rules
+
+### Level Matching Rule
+
+**Never use hot angles for a cold audience.**
+
+- Levels 0-1 aren't ready to see an offer. They need to recognize the problem first. Direct selling will cause irritation and banner blindness.
+- Levels 4-5 don't need to be "awakened." They already know the problem. Pain-agitate for them is a waste of time. They need proof and an offer.
+
+| Audience | What Works | What DOESN'T Work |
 |-----------|-------------|-----------------|
-| Холодная (0-1) | Pain-agitate, trigger-moment, пробуждение | Прямой оффер, скидки, "купи сейчас" |
-| Тёплая (2-3) | Myth-busting, education, transformation | Только боль без решения, только оффер |
-| Горячая (4-5) | Social proof, guarantee, urgency, оффер | Pain-agitate, базовое обучение |
+| Cold (0-1) | Pain-agitate, trigger-moment, awakening | Direct offer, discounts, "buy now" |
+| Warm (2-3) | Myth-busting, education, transformation | Pain only without solution, offer only |
+| Hot (4-5) | Social proof, guarantee, urgency, offer | Pain-agitate, basic education |
 
-### Правило языка клиента
+### Client Language Rule
 
-**Всегда пиши языком клиента, никогда — маркетинговым языком.**
+**Always write in the client's language, never in marketing language.**
 
-- Берём формулировки дословно из ДНК (раздел "Язык клиента", "Внутренний монолог")
-- Тестируем: если фраза звучит как "рекламный баннер" — переписываем
-- Проверка: "Мог бы клиент сказать это своему другу?" Если нет — переформулировать
+- Take phrasings verbatim from DNA ("Client Language" section, "Inner Monologue")
+- Test: if a phrase sounds like a "banner ad" — rewrite it
+- Check: "Could the client say this to a friend?" If not — rephrase
 
-Плохо: "Оптимизируйте вашу продуктивность с нашим инновационным решением"
-Хорошо: "Нажал кнопку — отчёт готов. Ушёл домой вовремя"
+Bad: "Optimize your productivity with our innovative solution"
+Good: "Press a button — report is ready. Go home on time"
 
-### Правило узнавания
+### Recognition Rule
 
-**Каждый угол должен вызывать реакцию "это про меня" у целевого сегмента.**
+**Every angle must trigger the reaction "this is about me" in the target segment.**
 
-Проверочные вопросы:
-- Ситуация достаточно конкретна? (не "проблемы на работе", а "когда на дейли все обсуждают задачи на английском, а ты молчишь")
-- Эмоция достаточно точна? (не "расстроен", а "чувствуешь себя идиотом")
-- Детали достаточно специфичны для сегмента? (детали IT-специалиста не сработают для предпринимателя)
+Verification questions:
+- Is the situation specific enough? (not "work problems" but "when everyone discusses tasks in English during the daily standup and you stay silent")
+- Is the emotion precise enough? (not "upset" but "feeling like an idiot")
+- Are the details specific enough for the segment? (IT professional details won't work for an entrepreneur)
 
-### Правило микса в кампании
+### Campaign Mix Rule
 
-**Одна кампания — несколько углов, а не один.**
+**One campaign — multiple angles, not just one.**
 
-Минимальный набор для теста:
-- 2-3 разных угла (например: pain-agitate + myth-busting + transformation)
-- 2 вариации каждого угла (разный текст или визуал)
-- Итого: 4-6 креативов на один сегмент на одну ступень
+Minimum testing set:
+- 2-3 different angles (e.g.: pain-agitate + myth-busting + transformation)
+- 2 variations of each angle (different text or visual)
+- Total: 4-6 creatives per segment per level
 
-### Правило "от ДНК, не от продукта"
+### "From DNA, Not from Product" Rule
 
-**Начинай с клиента, не с продукта.**
+**Start with the client, not the product.**
 
-Неправильный порядок: "У нас есть фича X -> как её продать?"
-Правильный порядок: "У клиента боль Y (из ДНК) -> какой угол покажет, что мы решаем именно эту боль?"
+Wrong order: "We have feature X -> how do we sell it?"
+Right order: "The client has pain Y (from DNA) -> which angle shows that we solve exactly this pain?"
 
-Продукт и его фичи появляются только в конце — как механизм решения. Начало креатива — всегда клиент, его боль, его язык, его мир.
+The product and its features appear only at the end — as the solution mechanism. The creative always starts with the client, their pain, their language, their world.
 
-### Правило каскада
+### Cascade Rule
 
-**Для полной воронки используй каскад углов по ступеням.**
+**For a full funnel, use an angle cascade across levels.**
 
-При настройке ретаргетинга:
-1. Холодная аудитория видит pain-agitate и trigger-moment (ступени 0-1)
-2. Те, кто взаимодействовал, видят myth-busting и transformation (ступени 2-3)
-3. Те, кто был на сайте/лендинге, видят social proof и оффер (ступени 4-5)
+When setting up retargeting:
+1. Cold audience sees pain-agitate and trigger-moment (levels 0-1)
+2. Those who engaged see myth-busting and transformation (levels 2-3)
+3. Those who visited the site/landing page see social proof and offer (levels 4-5)
 
-Каждый следующий каскад использует углы для следующей ступени осознанности, продвигая клиента по воронке.
+Each subsequent cascade uses angles for the next awareness level, moving the client through the funnel.

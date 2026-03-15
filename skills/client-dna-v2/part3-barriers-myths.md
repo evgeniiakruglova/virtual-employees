@@ -1,80 +1,80 @@
-# Часть 3: Барьеры, страхи и прошлый опыт — почему клиент застрял в проблеме?
+# Part 3: Barriers, Fears, and Past Experience — Why Is the Client Stuck in the Problem?
 
-## Ключевые препятствия и мифы на пути к решению проблемы
+## Key Obstacles and Myths on the Path to Solving the Problem
 
-### 3-5 ключевых препятствий, которые возникают на пути к решению основных проблем
-По каждому препятствию:
-- Какие внутренние барьеры мешают клиенту даже начать искать решение?
-- Какие внешние факторы (обстоятельства, деньги, мнение окружающих) заставляют его откладывать решение на потом?
-- Почему клиент не верит, что у него получится? Какие негативные установки тормозят его действия?
-- Как клиент оправдывает бездействие? Какие фразы он говорит себе, чтобы не делать первый шаг?
-- Почему даже после попытки решить проблему он возвращается в прежнее состояние и продолжает страдать?
+### 3-5 key obstacles that arise on the path to solving the core problems
+For each obstacle:
+- What internal barriers prevent the client from even starting to look for a solution?
+- What external factors (circumstances, money, opinions of others) cause them to postpone the solution?
+- Why doesn't the client believe they can succeed? What negative beliefs hold back their actions?
+- How does the client justify inaction? What phrases do they tell themselves to avoid taking the first step?
+- Why, even after attempting to solve the problem, do they return to their previous state and continue to suffer?
 
-**Важно**: Ключевые препятствия возникают тогда, когда человек УЖЕ НАЧАЛ что-то делать в сторону решения проблемы, но у него не получается, либо он хочет начать, но не знает как. Как правило на этом этапе кроется самая платежеспособная аудитория, которая уже действует.
+**Important**: Key obstacles arise when the person has ALREADY STARTED doing something toward solving the problem but isn't succeeding, or they want to start but don't know how. Typically, the most financially capable audience — those already taking action — is found at this stage.
 
-### Во что упирается клиент и что не может преодолеть
-- Какой страх сильнее желания решить проблему?
-- Какие прошлые ошибки он боится повторить?
-- В какой момент он обычно сдаётся, даже если уже начал что-то делать?
-- Что мешает ему доверять решениям, экспертам, продуктам?
-- Какие неосознаваемые паттерны поведения держат его в ловушке проблемы?
+### What the client runs into and cannot overcome
+- What fear is stronger than the desire to solve the problem?
+- What past mistakes are they afraid to repeat?
+- At what point do they usually give up, even if they've already started doing something?
+- What prevents them from trusting solutions, experts, products?
+- What unconscious behavioral patterns keep them trapped in the problem?
 
-### 3-5 мифов и решений в голове ЦА, которые, как они думают, приведут к решению (но на самом деле нет)
-По каждому мифу:
-- В какие популярные, но ошибочные советы они верят?
-- Какой быстрый, но неэффективный путь они выбирают?
-- Как они самостоятельно пытаются решить проблему, но только ухудшают ситуацию?
-- Какие стереотипы мешают им увидеть реальное решение?
-- В какие обманчивые "волшебные таблетки" они верят, вместо того чтобы разобраться в сути проблемы?
+### 3-5 myths and solutions in the target audience's mind that they think will lead to a solution (but actually won't)
+For each myth:
+- What popular but misguided advice do they believe in?
+- What quick but ineffective path do they choose?
+- How do they try to solve the problem on their own, only making the situation worse?
+- What stereotypes prevent them from seeing the real solution?
+- What deceptive "magic pills" do they believe in, instead of getting to the root of the problem?
 
-**Важно о мифах**: Мифы — это ложные убеждения или страхи, которые мешают клиенту действовать. Они возникают из-за недостатка информации, негативного опыта или стереотипов. Мифы — это то, во что клиент верит и что он обычно начинает делать по незнанию, далее у него возможно что-то не получается, разочаровывается и ищет решение в другом. Мифы должны быть описаны максимально детально, потому что именно на это мы ловим наших клиентов, и это мы обещаем, потому что это вызывает у них желание купить.
+**Important about myths**: Myths are false beliefs or fears that prevent the client from taking action. They arise from a lack of information, negative experience, or stereotypes. Myths are what the client believes in and typically starts doing out of ignorance; then they potentially fail, become disappointed, and look for a solution elsewhere. Myths must be described in maximum detail, because this is exactly what we use to hook our clients, and this is what we promise, because it triggers their desire to buy.
 
-## Прошлый опыт решения проблемы
+## Past Experience Solving the Problem
 
-### Что клиенты пробовали в прошлом (5 популярных решений)
-По каждому:
-- Какие альтернативные пути они уже проходили?
-- Как они описывают свой опыт — с разочарованием, с надеждой, с сарказмом?
-- Почему они выбрали именно эти решения, а не что-то другое?
-- Какие авторитетные источники повлияли на их выбор?
-- Как они искали решение (форумы, соцсети, рекомендации, реклама)?
+### What clients have tried in the past (5 popular solutions)
+For each:
+- What alternative paths have they already taken?
+- How do they describe their experience — with disappointment, with hope, with sarcasm?
+- Why did they choose these specific solutions and not something else?
+- What authoritative sources influenced their choice?
+- How did they search for a solution (forums, social media, recommendations, advertising)?
 
-### Что у них могло не получиться и какие мысли возникали по этому поводу
-По каждой неудаче:
-- Какое разочарование они испытывали после неудачи?
-- Как это повлияло на их доверие к новым методам?
-- Какие мысли "я неудачник" или "у меня ничего не получится" закрепились у них после прошлых попыток?
-- Как это изменило их отношение к проблеме (они стали активнее искать или смирились)?
-- Как они теперь объясняют свои неудачи — винили себя или обвиняли продукт, метод, специалиста?
+### What might not have worked and what thoughts arose as a result
+For each failure:
+- What disappointment did they experience after the failure?
+- How did it affect their trust in new methods?
+- What thoughts like "I'm a failure" or "nothing will ever work for me" became ingrained after past attempts?
+- How did this change their attitude toward the problem (did they search more actively or resign themselves)?
+- How do they now explain their failures — did they blame themselves or blame the product, method, or specialist?
 
-### Что им нравилось в каждом из прошлых решений
-По каждому:
-- Какие маленькие положительные моменты они вспоминают?
-- Какие ощущения надежды у них возникали в начале пути?
-- Какой элемент решения казался им правильным, даже если в итоге не сработал?
-- Какие детали давали им временное чувство контроля?
-- Что именно в этих решениях вызывало ощущение "может, на этот раз получится"?
+### What they liked about each past solution
+For each:
+- What small positive moments do they remember?
+- What feelings of hope arose at the beginning of the journey?
+- What element of the solution seemed right to them, even if it ultimately didn't work?
+- What details gave them a temporary sense of control?
+- What exactly about these solutions created the feeling of "maybe this time it will work"?
 
-### Что им НЕ нравилось в каждом из прошлых решений (с разговорными цитатами на языке ЦА)
-Примеры типа цитат:
-- «Я устал пробовать одно и то же и получать нулевой результат...»
-- «Опять куча теории и никакой практики, как всегда...»
-- «Я потратил кучу времени, но так и не понял, что делать дальше.»
-- «Всё было слишком сложно, я запутался и просто забил.»
-- «Мне сказали, что это сработает, но оказалось, что это просто очередной развод.»
+### What they DID NOT like about each past solution (with conversational quotes in the target audience's language)
+Example quotes:
+- "I'm tired of trying the same thing and getting zero results..."
+- "Yet again a ton of theory and no practice, as usual..."
+- "I spent a ton of time but still don't understand what to do next."
+- "Everything was too complicated, I got confused and just gave up."
+- "They told me it would work, but it turned out to be just another scam."
 
-### Чего клиенты НЕ ХОТЯТ делать для решения своей проблемы (с разговорными цитатами)
-Примеры:
-- «Я не хочу тратить месяцы, чтобы понять, что мне опять не помогло.»
-- «Я не хочу чувствовать себя идиотом, пытаясь разобраться в этом.»
-- «Я не хочу снова платить деньги и разочаровываться.»
-- «Я не хочу заниматься тем, что вызывает у меня стресс и отвращение.»
-- «Я не хочу, чтобы на меня давили, как будто я обязан это купить.»
+### What clients DO NOT WANT to do to solve their problem (with conversational quotes)
+Examples:
+- "I don't want to spend months only to find out it didn't help me again."
+- "I don't want to feel like an idiot trying to figure this out."
+- "I don't want to pay money again and be disappointed."
+- "I don't want to do something that causes me stress and disgust."
+- "I don't want to be pressured as if I'm obligated to buy this."
 
-## Формат вывода
+## Output Format
 
-- Все цитаты — разговорные, эмоциональные, реалистичные
-- Препятствия описывай конкретно, чтобы клиент мог сказать "Это про меня"
-- Мифы должны быть детальными и специфичными для ниши
-- Описания прошлого опыта должны ощущаться как реальные истории, а не абстрактные обобщения
-- Используй язык клиента повсюду
+- All quotes — conversational, emotional, realistic
+- Describe obstacles specifically so the client can say "That's me"
+- Myths should be detailed and niche-specific
+- Past experience descriptions should feel like real stories, not abstract generalizations
+- Use the client's language throughout

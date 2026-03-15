@@ -1,70 +1,70 @@
-# Часть 2: Боли, страхи и триггеры — что толкает клиента к решению?
+# Part 2: Pains, Fears, and Triggers — What Pushes the Client Toward a Decision?
 
-## Основные проблемы
+## Core Problems
 
-### 3-5 основных, ключевых проблем (которые приводят к мысли купить наш или конкурирующий продукт)
-По каждой проблеме раскрой:
-- Какие триггерные события заставляют их осознать эту проблему?
-- Как долго они её игнорировали, прежде чем понять, что без решения не обойтись?
-- Какие попытки решить проблему они уже предпринимали, но не получили результата?
-- Почему они не верят, что проблема решаема, и какие мифы у них есть по этому поводу?
-- Что именно создаёт невыносимость этой проблемы и заставляет искать решение?
+### 3-5 core, key problems (that lead to the thought of buying our or a competing product)
+For each problem, elaborate on:
+- What trigger events make them realize this problem exists?
+- How long did they ignore it before understanding that they can't do without a solution?
+- What attempts to solve the problem have they already made but failed to get results?
+- Why don't they believe the problem is solvable, and what myths do they have about it?
+- What exactly makes this problem unbearable and forces them to seek a solution?
 
-### Топ-5 самых мощных эмоций вокруг этой проблемы
-По каждой эмоции:
-- Какую основную эмоцию клиент испытывает каждый день из-за этой проблемы?
-- Как именно она влияет на его самооценку, уверенность, внутреннее состояние?
-- Какой эмоции он боится больше всего, если проблему не решить?
-- Какие эмоции он пытается скрыть от окружающих, но они его разъедают?
-- Какую эмоцию он хочет испытывать вместо этого (что для него будет освобождением)?
+### Top 5 most powerful emotions surrounding this problem
+For each emotion:
+- What core emotion does the client experience every day because of this problem?
+- How exactly does it affect their self-esteem, confidence, and inner state?
+- What emotion do they fear most if the problem remains unsolved?
+- What emotions do they try to hide from others, but which eat them alive inside?
+- What emotion do they want to feel instead (what would feel like liberation for them)?
 
-### Топ-5 самых больших страхов о том, как проблема может усугубиться и ухудшить жизнь
-По каждому страху:
-- Как выглядит худший сценарий, если он ничего не сделает?
-- Как он оправдывает своё бездействие, но в глубине души понимает, что катится в пропасть?
-- Что случится с ним через год, 3 года, 5 лет, если он не найдёт решение?
-- Как этот страх разрывает его изнутри, но он боится признаться в этом даже себе?
-- Как этот страх заставляет его прокрастинировать и откладывать решение, но при этом он страдает ещё больше?
+### Top 5 biggest fears about how the problem could worsen and deteriorate their life
+For each fear:
+- What does the worst-case scenario look like if they do nothing?
+- How do they justify their inaction, while deep down knowing they're heading toward disaster?
+- What will happen to them in 1 year, 3 years, 5 years if they don't find a solution?
+- How does this fear tear them apart inside, yet they're afraid to admit it even to themselves?
+- How does this fear cause them to procrastinate and delay action, while making them suffer even more?
 
-**Важно**: Это должны быть самые глубокие страхи (связанные с основными проблемами), которые потенциальный клиент скорее всего не признает вслух. Страхи, которые часто не дают заснуть в 3 часа ночи. Эти страхи часто сильно эмоциональны и во многих случаях могут считаться "тёмными". Погрузись в состояние клиента, проживи его боль и расскажи эти страхи на языке самого клиента, максимально подробно.
+**Important**: These should be the deepest fears (related to the core problems) that the potential client would most likely never admit out loud. Fears that often keep them awake at 3 AM. These fears are often deeply emotional and in many cases can be considered "dark." Immerse yourself in the client's state, live through their pain, and describe these fears in the client's own language, in maximum detail.
 
-### 5 способов, как эти страхи влияют на ключевые отношения и сферы жизни клиента
-По каждому:
-- Как эта проблема рушит его отношения с близкими, партнёром, друзьями, коллегами?
-- Как она заставляет его чувствовать себя хуже среди окружающих (социальный дискомфорт, ощущение неполноценности)?
-- Как она влияет на его работу, бизнес, доход, мешает ему расти и развиваться?
-- Как она разрушает его физическое и эмоциональное здоровье (стрессы, бессонница, психосоматика)?
-- Как она отнимает у него радость жизни, заставляя жить в тревоге, страхе, стыде?
+### 5 ways these fears affect key relationships and areas of the client's life
+For each:
+- How does this problem destroy their relationships with loved ones, partner, friends, colleagues?
+- How does it make them feel worse among others (social discomfort, feeling of inadequacy)?
+- How does it affect their work, business, income, preventing them from growing and developing?
+- How does it destroy their physical and emotional health (stress, insomnia, psychosomatics)?
+- How does it rob them of the joy of living, forcing them to live in anxiety, fear, and shame?
 
-### 5 разговорных, но очень болезненных фраз, которые могут услышать клиенты от других людей
-- Включай цитаты И от поддерживающих людей, И от противников/критиков
-- Указывай ОТ КОГО каждая цитата (супруг, родитель, друг, коллега, конкурент)
-- Включай благонамеренные, но непреднамеренно болезненные комментарии
-- Включай намеренно обидные цитаты от противников ("доказать им, что они неправы" — мощный мотиватор)
-- Делай их ультра-специфичными, разговорными и эмоционально заряженными
+### 5 conversational but deeply painful phrases that clients might hear from other people
+- Include quotes from BOTH supportive people AND opponents/critics
+- Specify WHO each quote is from (spouse, parent, friend, colleague, competitor)
+- Include well-intentioned but unintentionally hurtful comments
+- Include deliberately hurtful quotes from opponents ("proving them wrong" is a powerful motivator)
+- Make them ultra-specific, conversational, and emotionally charged
 
-## Болевые ситуации
+## Pain Situations
 
-### 3-5 и более ключевых болевых ситуаций перед тем, как клиент понимает, что проблема стоит остро
+### 3-5 or more key pain situations before the client realizes the problem is critical
 
-Каждая ситуация должна описывать конкретный, яркий момент, когда клиент понимает, что нужно действовать:
+Each situation should describe a specific, vivid moment when the client realizes they need to act:
 
-1. Он получает жёсткий триггерный сигнал (разговор, ситуация, новость), который разбивает его иллюзии и заставляет признать проблему
-2. Он терпит очередное поражение, которое он уже не может игнорировать (что-то сломалось, провалился, потерял, не смог)
-3. Он сравнивает себя с кем-то, кто справился с этой проблемой, и это вызывает острую боль и ощущение собственной некомпетентности
-4. Его проблема публично вскрывается перед окружающими, он испытывает стыд, разочарование, страх осуждения
-5. Он пытается "жить как прежде", но внезапно осознаёт, что это уже невозможно (появляются необратимые последствия)
+1. They receive a harsh trigger signal (conversation, situation, news) that shatters their illusions and forces them to acknowledge the problem
+2. They suffer yet another defeat that they can no longer ignore (something broke, failed, lost, couldn't accomplish)
+3. They compare themselves with someone who overcame this problem, and it causes acute pain and a sense of their own incompetence
+4. Their problem is publicly exposed in front of others, and they experience shame, disappointment, fear of judgment
+5. They try to "live as before," but suddenly realize it's no longer possible (irreversible consequences appear)
 
-**Требования к болевым ситуациям:**
-- Конкретные, жизненные ситуации, часто встречающиеся у сегмента ЦА
-- Без размытых формулировок — чем точнее, тем лучше
-- Клиент должен узнать себя в описании
-- Актуальны ЗДЕСЬ И СЕЙЧАС — описывать то, что он переживает в данный момент
-- Опиши: Как выглядит обычный день клиента, когда проблема обостряется? Какие события внезапно делают проблему самой главной? Почему не решал раньше? Что стало последней каплей? Как искал решение?
+**Requirements for pain situations:**
+- Specific, real-life situations commonly encountered by the target audience segment
+- No vague formulations — the more precise, the better
+- The client should recognize themselves in the description
+- Relevant HERE AND NOW — describe what they are experiencing at this moment
+- Describe: What does a typical day look like for the client when the problem flares up? What events suddenly make the problem the most important thing? Why didn't they solve it earlier? What was the last straw? How did they search for a solution?
 
-## Формат вывода
+## Output Format
 
-- Используй язык клиента — сырой, нефильтрованный, как будто подслушиваешь приватный разговор/внутренний монолог
-- Включай цитаты внутреннего диалога в кавычках
-- Будь ярким, конкретным и описательным
-- Каждая болевая ситуация — развёрнутый абзац, а не одна строчка
+- Use the client's language — raw, unfiltered, as if eavesdropping on a private conversation/internal monologue
+- Include internal dialogue quotes in quotation marks
+- Be vivid, specific, and descriptive
+- Each pain situation — a full paragraph, not a single line

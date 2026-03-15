@@ -1,174 +1,174 @@
-# Стандарты качества креативов
+# Creative Quality Standards
 
-Чек-листы и правила для валидации каждого сгенерированного креатива.
+Checklists and rules for validating every generated creative.
 
 ---
 
-## Главные принципы
+## Core Principles
 
-### 1. Из ДНК, не из головы
-Каждый элемент креатива должен опираться на данные ДНК Клиента:
-- Заголовки = язык клиента из ДНК (цитаты, фразы, монолог)
-- Визуал = ситуации из болевых сценариев ДНК
-- CTA = мотивация и триггеры из ДНК
-- Оффер = трансформация мечты из ДНК
+### 1. From DNA, Not from Imagination
+Every creative element must be grounded in Client DNA data:
+- Headlines = client language from DNA (quotes, phrases, monologue)
+- Visuals = situations from DNA pain scenarios
+- CTA = motivations and triggers from DNA
+- Offer = dream transformation from DNA
 
-**Тест:** Если убрать имя бренда, клиент должен узнать себя в креативе.
+**Test:** If you remove the brand name, the client should recognize themselves in the creative.
 
-### 2. Одна мысль = один креатив
-Креатив решает ОДНУ задачу:
-- Одна боль (не три)
-- Один угол (не смесь)
-- Один CTA (не "и ещё")
-- Одна ступень Ханта (не "для всех")
+### 2. One Idea = One Creative
+A creative solves ONE task:
+- One pain point (not three)
+- One angle (not a mix)
+- One CTA (not "and also")
+- One Hunt level (not "for everyone")
 
-### 3. Ступень определяет всё
-Нельзя продавать холодному трафику. Нельзя образовывать горячий.
+### 3. The Level Determines Everything
+You cannot sell to cold traffic. You cannot educate hot traffic.
 
-| Ступень | Задача креатива | Ошибка |
+| Level | Creative Task | Mistake |
 |---------|----------------|--------|
-| 0-1 | Пробудить, идентифицировать | Сразу продавать |
-| 2-3 | Обучить, выделить метод | Давить на эмоции без логики |
-| 4-5 | Конвертировать, снять страх | Рассказывать о проблеме |
+| 0-1 | Awaken, identify | Selling right away |
+| 2-3 | Educate, differentiate the method | Pushing emotions without logic |
+| 4-5 | Convert, remove fear | Talking about the problem |
 
-### 4. Hormozi в каждом тексте
-Value Equation должно присутствовать (явно или неявно):
-- **Результат мечты** — всегда
-- **Вероятность достижения** — через proof и кейсы
-- **Время до результата** — конкретные сроки
-- **Усилия и жертвы** — "без X", "всего Y минут"
-
----
-
-## Чек-лист статического креатива
-
-### Визуал
-- [ ] Соответствует ступени Ханта (не продаёт холодному)
-- [ ] Вызывает эмоцию за 1 секунду (thumb-stopping)
-- [ ] Не перегружен элементами (1 фокус)
-- [ ] Текст на визуале читается (контраст, размер)
-- [ ] Текст занимает < 20% площади (для Meta)
-- [ ] Формат соответствует платформе (1:1, 4:5, 9:16)
-- [ ] Safe zone соблюдена (текст не обрезается UI)
-- [ ] AI-промт полный и готов к копипасту
-
-### Тексты
-- [ ] Первое предложение = hook (стопает скролл)
-- [ ] Язык клиента из ДНК (не маркетинговый жаргон)
-- [ ] Нет клише ("уникальный", "инновационный", "лучший")
-- [ ] Headline по M-A-G-I-C или Value Equation
-- [ ] CTA соответствует ступени (мягкий/средний/прямой)
-- [ ] Лимиты символов соблюдены
-- [ ] Primary text в 3 длинах (short/medium/long)
-
-### Стратегия
-- [ ] Код присвоен (S-B-ЭТАП-ВАРИАЦИЯ)
-- [ ] A/B вариации: ясно, что тестируем
-- [ ] Угол соответствует ступени
-- [ ] Hormozi-элемент присутствует в тексте
+### 4. Hormozi in Every Text
+The Value Equation must be present (explicitly or implicitly):
+- **Dream Result** — always
+- **Perceived Likelihood** — through proof and case studies
+- **Time to Result** — specific timelines
+- **Effort and Sacrifice** — "without X", "just Y minutes"
 
 ---
 
-## Чек-лист видеокреатива
+## Static Creative Checklist
 
-### Сценарий
-- [ ] Hook в первые 3 секунды (pattern interrupt)
-- [ ] 3 варианта hook для A/B теста
-- [ ] Тайминг прописан для каждой сцены
-- [ ] Общая длительность соответствует платформе
-- [ ] Текстовые наложения прописаны с таймингом
-- [ ] CTA в финале (2 варианта для A/B)
+### Visual
+- [ ] Matches the Hunt level (doesn't sell to cold)
+- [ ] Evokes emotion in 1 second (thumb-stopping)
+- [ ] Not overloaded with elements (1 focal point)
+- [ ] Text on visual is readable (contrast, size)
+- [ ] Text occupies < 20% of area (for Meta)
+- [ ] Format matches the platform (1:1, 4:5, 9:16)
+- [ ] Safe zone respected (text not cut off by UI)
+- [ ] AI prompt is complete and ready to copy-paste
 
-### AI-промт
-- [ ] Промт для каждой сцены отдельно
-- [ ] Движение камеры указано
-- [ ] Стиль освещения указан
-- [ ] Длительность каждой сцены указана
-- [ ] Формат вертикальный (9:16) или горизонтальный (16:9) — в зависимости от платформы
+### Texts
+- [ ] First sentence = hook (stops the scroll)
+- [ ] Client language from DNA (not marketing jargon)
+- [ ] No cliches ("unique", "innovative", "best")
+- [ ] Headline follows M-A-G-I-C or Value Equation
+- [ ] CTA matches the level (soft/medium/direct)
+- [ ] Character limits respected
+- [ ] Primary text in 3 lengths (short/medium/long)
 
-### Музыка/настроение
-- [ ] Настроение музыки указано
-- [ ] Темп соответствует углу (pain = slow, offer = fast)
-- [ ] Инструменты указаны
-
----
-
-## Чек-лист полного ад-юнита
-
-- [ ] Визуал/видео + все текстовые элементы заполнены
-- [ ] Primary Text соответствует ступени
-- [ ] Headline по M-A-G-I-C (< 40 символов для Meta)
-- [ ] Description дополняет headline
-- [ ] CTA button выбран правильно
-- [ ] Все лимиты платформы соблюдены
-- [ ] Ад-юнит можно скопировать и вставить в Ads Manager
+### Strategy
+- [ ] Code assigned (S-B-STAGE-VARIATION)
+- [ ] A/B variations: clear what's being tested
+- [ ] Angle matches the level
+- [ ] Hormozi element present in the text
 
 ---
 
-## Чек-лист ретаргетинга
+## Video Creative Checklist
 
-- [ ] RT-1 использует ДРУГОЙ угол (не повтор COLD)
-- [ ] RT-2 содержит social proof / кейсы
-- [ ] RT-3 содержит Grand Slam Offer + гарантию + скарсити
-- [ ] Каждый этап = +1-2 ступени по Ханту
-- [ ] CTA нарастает: мягкий → средний → прямой
-- [ ] Hormozi-элементы эскалируются
-- [ ] Визуальный стиль меняется на каждом этапе
-- [ ] Таймфреймы указаны (1-3 / 3-7 / 7-14 дней)
+### Script
+- [ ] Hook in the first 3 seconds (pattern interrupt)
+- [ ] 3 hook variants for A/B testing
+- [ ] Timing specified for each scene
+- [ ] Total duration matches the platform
+- [ ] Text overlays specified with timing
+- [ ] CTA at the end (2 variants for A/B)
+
+### AI Prompt
+- [ ] Prompt for each scene separately
+- [ ] Camera movement specified
+- [ ] Lighting style specified
+- [ ] Duration of each scene specified
+- [ ] Format is vertical (9:16) or horizontal (16:9) — depending on platform
+
+### Music/Mood
+- [ ] Music mood specified
+- [ ] Tempo matches the angle (pain = slow, offer = fast)
+- [ ] Instruments specified
 
 ---
 
-## Запрещённые практики
+## Full Ad Unit Checklist
 
-### В текстах
-| Запрещено | Почему | Вместо этого |
+- [ ] Visual/video + all text elements filled in
+- [ ] Primary Text matches the level
+- [ ] Headline follows M-A-G-I-C (< 40 characters for Meta)
+- [ ] Description complements the headline
+- [ ] CTA button selected correctly
+- [ ] All platform limits respected
+- [ ] Ad unit can be copied and pasted into Ads Manager
+
+---
+
+## Retargeting Checklist
+
+- [ ] RT-1 uses a DIFFERENT angle (not a repeat of COLD)
+- [ ] RT-2 contains social proof / case studies
+- [ ] RT-3 contains Grand Slam Offer + guarantee + scarcity
+- [ ] Each stage = +1-2 Hunt levels
+- [ ] CTA escalates: soft → medium → direct
+- [ ] Hormozi elements escalate
+- [ ] Visual style changes at each stage
+- [ ] Timeframes specified (1-3 / 3-7 / 7-14 days)
+
+---
+
+## Prohibited Practices
+
+### In Texts
+| Prohibited | Why | Instead |
 |-----------|--------|-------------|
-| "Уникальная методика" | Клише, нет конкретики | Конкретное название метода |
-| "Лучший на рынке" | Необоснованно, недоверие | Число + факт |
-| "Для всех" | Нет идентификации | Конкретный аватар из ДНК |
-| "Скидка 90%" | Обесценивает продукт | Бонусная архитектура по Hormozi |
-| Негативные параллелизмы ("не просто X, а Y") | Канцелярит | Прямое утверждение |
-| Длинные предложения (> 20 слов) | Не читают | Короткие, рубленые фразы |
-| Маркетинговый жаргон | Клиент не понимает | Язык из ДНК Клиента |
+| "Unique methodology" | Cliche, no specifics | Specific method name |
+| "Best on the market" | Unsubstantiated, breeds distrust | Number + fact |
+| "For everyone" | No identification | Specific avatar from DNA |
+| "90% discount" | Devalues the product | Bonus architecture per Hormozi |
+| Negative parallelisms ("not just X, but Y") | Bureaucratic language | Direct statement |
+| Long sentences (> 20 words) | People don't read them | Short, punchy phrases |
+| Marketing jargon | Client doesn't understand | Language from Client DNA |
 
-### В визуалах
-| Запрещено | Почему | Вместо этого |
+### In Visuals
+| Prohibited | Why | Instead |
 |-----------|--------|-------------|
-| Stock-стиль (натянутые улыбки, рукопожатия) | Баннерная слепота | Документальный, живой стиль |
-| Перегруженная композиция | Не считывается за 1 сек | 1 фокус, чистый фон |
-| Мелкий нечитаемый текст | Бесполезен | Крупный, контрастный |
-| Несоответствие стиля платформе | Выглядит чужеродно | Адаптация под платформу |
-| Одинаковый визуал для COLD и RT | Баннерная усталость | Смена стиля на каждом этапе |
+| Stock style (forced smiles, handshakes) | Banner blindness | Documentary, authentic style |
+| Overloaded composition | Can't be read in 1 sec | 1 focal point, clean background |
+| Small unreadable text | Useless | Large, contrasting |
+| Style mismatch with platform | Looks out of place | Platform-specific adaptation |
+| Same visual for COLD and RT | Banner fatigue | Change style at each stage |
 
-### В стратегии
-| Запрещено | Почему | Вместо этого |
+### In Strategy
+| Prohibited | Why | Instead |
 |-----------|--------|-------------|
-| Один креатив для всех ступеней | Не работает | Матрица: ступень × угол |
-| Отсутствие A/B вариаций | Нельзя оптимизировать | Минимум 2-3 вариации |
-| Ретаргетинг = повтор | Раздражает | Новый угол на каждом этапе |
-| Продажа без прогрева | Низкий CTR, дорогие лиды | Последовательность COLD → RT |
-| Промт без деталей | AI генерирует generic | Конкретные описания |
+| One creative for all levels | Doesn't work | Matrix: level x angle |
+| No A/B variations | Can't optimize | At least 2-3 variations |
+| Retargeting = repeat | Annoying | New angle at each stage |
+| Selling without warm-up | Low CTR, expensive leads | COLD → RT sequence |
+| Prompt without details | AI generates generic output | Specific descriptions |
 
 ---
 
-## Метрики успеха
+## Success Metrics
 
-### На что обращать внимание при тестировании
+### What to Watch When Testing
 
-| Метрика | Что показывает | Что менять |
+| Metric | What It Shows | What to Change |
 |---------|---------------|------------|
-| CTR < 1% | Hook не работает | Тестировать другой hook |
-| CTR > 2% но нет конверсий | Текст обманывает ожидания | Проверить соответствие лендингу |
-| Высокий CPC | Аудитория не та или креатив слабый | Сменить сегмент или угол |
-| Высокий CPM | Креатив не проходит модерацию/аукцион | Проверить текст и визуал |
-| Низкий Thumb Stop Rate | Визуал не останавливает скролл | Сменить визуал (вариация C) |
-| Высокий Hook Rate но низкий Hold Rate | Начало цепляет, середина теряет | Усилить тело видео |
-| RT-3 не конвертирует | Оффер слабый или нет urgency | Усилить Hormozi-элементы |
+| CTR < 1% | Hook isn't working | Test a different hook |
+| CTR > 2% but no conversions | Text misleads expectations | Check landing page alignment |
+| High CPC | Wrong audience or weak creative | Change segment or angle |
+| High CPM | Creative fails moderation/auction | Check text and visual |
+| Low Thumb Stop Rate | Visual doesn't stop the scroll | Change visual (variation C) |
+| High Hook Rate but low Hold Rate | Beginning hooks, middle loses | Strengthen the video body |
+| RT-3 doesn't convert | Offer is weak or no urgency | Strengthen Hormozi elements |
 
-### Приоритет тестирования
+### Testing Priority
 
-1. **Hook** (первые 3 сек / первая строка) — влияет на 80% результата
-2. **Угол** (pain vs myth vs proof) — определяет CTR
-3. **CTA** (мягкий vs прямой) — влияет на конверсию
-4. **Визуал** (стиль, композиция) — влияет на Thumb Stop Rate
-5. **Текст** (long vs short) — влияет на quality score
+1. **Hook** (first 3 sec / first line) — affects 80% of results
+2. **Angle** (pain vs myth vs proof) — determines CTR
+3. **CTA** (soft vs direct) — affects conversion
+4. **Visual** (style, composition) — affects Thumb Stop Rate
+5. **Text** (long vs short) — affects quality score

@@ -1,320 +1,320 @@
-ШАБЛОН: Анализ продукта "[НАЗВАНИЕ ПРОДУКТА]" через лестницу Ханта
-🎯 Детальная карта аудитории по лестнице Ханта
+TEMPLATE: Product Analysis "[PRODUCT NAME]" Through Hunt's Ladder
+🎯 Detailed Audience Map by Hunt's Ladder
 
 ═══════════════════════════════════════════════════════════════
-ВАРИАНТ А: РАЗВЁРНУТЫЙ ФОРМАТ (многострочный)
+VARIANT A: EXPANDED FORMAT (multi-line)
 ═══════════════════════════════════════════════════════════════
 
-0 УРОВЕНЬ - Нет проблемы ([X]% аудитории)
-💭 Что думают: • "[Основное убеждение 1]" • "[Основное убеждение 2]" • "[Основное убеждение 3]" • "[Основное убеждение 4]" • "[Основное убеждение 5]"
-🧠 Иллюзии, возражения и сопротивления:
-Иллюзии: • "[Ложное убеждение 1]" • "[Ложное убеждение 2]" • "[Ложное убеждение 3]" • "[Ложное убеждение 4]" • "[Ложное убеждение 5]"
-Возражения: • "[Возражение 1]" • "[Возражение 2]" • "[Возражение 3]" • "[Возражение 4]" • "[Возражение 5]"
-Сопротивления: • [Эмоциональный блок 1] • [Эмоциональный блок 2] • [Эмоциональный блок 3] • [Психологический барьер 1] • [Психологический барьер 2]
-🎯 Ключевые смыслы для посева: • [Смысл для сдвига восприятия 1] • [Смысл для сдвига восприятия 2] • [Смысл для сдвига восприятия 3] • [Смысл для создания срочности 1] • [Смысл для создания срочности 2]
-💡 К каким выводам должны прийти:
-✅ "[Целевой инсайт 1]"
-✅ "[Целевой инсайт 2]"
-✅ "[Целевой инсайт 3]"
-✅ "[Целевой инсайт 4]"
-📱 Контент для трансляции: • [Формат контента 1 с примером] • [Формат контента 2 с примером] • [Формат контента 3 с примером] • [Формат контента 4 с примером] • [Формат контента 5 с примером]
-⚡ Что с ними делать? 🔍 [Название стратегии]: ✅ [Конкретное действие 1] ✅ [Конкретное действие 2] ✅ [Конкретное действие 3] ✅ [Конкретное действие 4]
+0 LEVEL - No Problem ([X]% of audience)
+💭 What they think: • "[Core belief 1]" • "[Core belief 2]" • "[Core belief 3]" • "[Core belief 4]" • "[Core belief 5]"
+🧠 Illusions, objections, and resistance:
+Illusions: • "[False belief 1]" • "[False belief 2]" • "[False belief 3]" • "[False belief 4]" • "[False belief 5]"
+Objections: • "[Objection 1]" • "[Objection 2]" • "[Objection 3]" • "[Objection 4]" • "[Objection 5]"
+Resistance: • [Emotional block 1] • [Emotional block 2] • [Emotional block 3] • [Psychological barrier 1] • [Psychological barrier 2]
+🎯 Key messages to seed: • [Perception shift message 1] • [Perception shift message 2] • [Perception shift message 3] • [Urgency creation message 1] • [Urgency creation message 2]
+💡 Conclusions they should reach:
+✅ "[Target insight 1]"
+✅ "[Target insight 2]"
+✅ "[Target insight 3]"
+✅ "[Target insight 4]"
+📱 Content to broadcast: • [Content format 1 with example] • [Content format 2 with example] • [Content format 3 with example] • [Content format 4 with example] • [Content format 5 with example]
+⚡ What to do with them? 🔍 [Strategy name]: ✅ [Specific action 1] ✅ [Specific action 2] ✅ [Specific action 3] ✅ [Specific action 4]
 
-1 УРОВЕНЬ - Неосознанная проблема ([X]% аудитории)
-💭 Что думают: • "[Основное убеждение 1]" • "[Основное убеждение 2]" • "[Основное убеждение 3]" • "[Основное убеждение 4]" • "[Основное убеждение 5]"
-🧠 Иллюзии, возражения и сопротивления:
-Иллюзии: • "[Ложное убеждение 1]" • "[Ложное убеждение 2]" • "[Ложное убеждение 3]" • "[Ложное убеждение 4]" • "[Ложное убеждение 5]"
-Возражения: • "[Возражение 1]" • "[Возражение 2]" • "[Возражение 3]" • "[Возражение 4]" • "[Возражение 5]"
-Сопротивления: • [Эмоциональный блок 1] • [Эмоциональный блок 2] • [Эмоциональный блок 3] • [Психологический барьер 1] • [Психологический барьер 2]
-🎯 Ключевые смыслы для посева: • [Смысл для осознания проблемы 1] • [Смысл для осознания проблемы 2] • [Смысл для осознания проблемы 3] • [Смысл для мотивации к действию 1] • [Смысл для мотивации к действию 2]
-💡 К каким выводам должны прийти:
-✅ "[Целевой инсайт 1]"
-✅ "[Целевой инсайт 2]"
-✅ "[Целевой инсайт 3]"
-✅ "[Целевой инсайт 4]"
-📱 Контент для трансляции: • [Формат контента 1 с примером] • [Формат контента 2 с примером] • [Формат контента 3 с примером] • [Формат контента 4 с примером] • [Формат контента 5 с примером]
-⚡ Что с ними делать? 🔍 [Название стратегии]:
-✅ [Конкретное действие 1]
-✅ [Конкретное действие 2]
-✅ [Конкретное действие 3]
-✅ [Конкретное действие 4]
+1 LEVEL - Unrecognized Problem ([X]% of audience)
+💭 What they think: • "[Core belief 1]" • "[Core belief 2]" • "[Core belief 3]" • "[Core belief 4]" • "[Core belief 5]"
+🧠 Illusions, objections, and resistance:
+Illusions: • "[False belief 1]" • "[False belief 2]" • "[False belief 3]" • "[False belief 4]" • "[False belief 5]"
+Objections: • "[Objection 1]" • "[Objection 2]" • "[Objection 3]" • "[Objection 4]" • "[Objection 5]"
+Resistance: • [Emotional block 1] • [Emotional block 2] • [Emotional block 3] • [Psychological barrier 1] • [Psychological barrier 2]
+🎯 Key messages to seed: • [Problem awareness message 1] • [Problem awareness message 2] • [Problem awareness message 3] • [Action motivation message 1] • [Action motivation message 2]
+💡 Conclusions they should reach:
+✅ "[Target insight 1]"
+✅ "[Target insight 2]"
+✅ "[Target insight 3]"
+✅ "[Target insight 4]"
+📱 Content to broadcast: • [Content format 1 with example] • [Content format 2 with example] • [Content format 3 with example] • [Content format 4 with example] • [Content format 5 with example]
+⚡ What to do with them? 🔍 [Strategy name]:
+✅ [Specific action 1]
+✅ [Specific action 2]
+✅ [Specific action 3]
+✅ [Specific action 4]
 
-2 УРОВЕНЬ - Ищет решения ([X]% аудитории)
-💭 Что думают: • "[Основное убеждение 1]" • "[Основное убеждение 2]" • "[Основное убеждение 3]" • "[Основное убеждение 4]" • "[Основное убеждение 5]"
-🧠 Иллюзии, возражения и сопротивления:
-Иллюзии: • "[Ложное убеждение 1]" • "[Ложное убеждение 2]" • "[Ложное убеждение 3]" • "[Ложное убеждение 4]" • "[Ложное убеждение 5]"
-Возражения: • "[Возражение 1]" • "[Возражение 2]" • "[Возражение 3]" • "[Возражение 4]" • "[Возражение 5]"
-Сопротивления: • [Эмоциональный блок 1] • [Эмоциональный блок 2] • [Эмоциональный блок 3] • [Психологический барьер 1] • [Психологический барьер 2]
-🎯 Ключевые смыслы для посева: • [Смысл для направления к решению 1] • [Смысл для направления к решению 2] • [Смысл для направления к решению 3] • [Смысл для создания предпочтения 1] • [Смысл для создания предпочтения 2]
-💡 К каким выводам должны прийти:
-✅ "[Целевой инсайт 1]"
-✅ "[Целевой инсайт 2]"
-✅ "[Целевой инсайт 3]"
-✅ "[Целевой инсайт 4]"
-📱 Контент для трансляции: • [Формат контента 1 с примером] • [Формат контента 2 с примером] • [Формат контента 3 с примером] • [Формат контента 4 с примером] • [Формат контента 5 с примером]
-⚡ Что с ними делать? 🔍 [Название стратегии]:
-✅ [Конкретное действие 1]
-✅ [Конкретное действие 2]
-✅ [Конкретное действие 3]
+2 LEVEL - Seeking Solutions ([X]% of audience)
+💭 What they think: • "[Core belief 1]" • "[Core belief 2]" • "[Core belief 3]" • "[Core belief 4]" • "[Core belief 5]"
+🧠 Illusions, objections, and resistance:
+Illusions: • "[False belief 1]" • "[False belief 2]" • "[False belief 3]" • "[False belief 4]" • "[False belief 5]"
+Objections: • "[Objection 1]" • "[Objection 2]" • "[Objection 3]" • "[Objection 4]" • "[Objection 5]"
+Resistance: • [Emotional block 1] • [Emotional block 2] • [Emotional block 3] • [Psychological barrier 1] • [Psychological barrier 2]
+🎯 Key messages to seed: • [Solution direction message 1] • [Solution direction message 2] • [Solution direction message 3] • [Preference creation message 1] • [Preference creation message 2]
+💡 Conclusions they should reach:
+✅ "[Target insight 1]"
+✅ "[Target insight 2]"
+✅ "[Target insight 3]"
+✅ "[Target insight 4]"
+📱 Content to broadcast: • [Content format 1 with example] • [Content format 2 with example] • [Content format 3 with example] • [Content format 4 with example] • [Content format 5 with example]
+⚡ What to do with them? 🔍 [Strategy name]:
+✅ [Specific action 1]
+✅ [Specific action 2]
+✅ [Specific action 3]
 
-3 УРОВЕНЬ - Выбирает метод ([X]% аудитории) ⭐
-💭 Что думают: • "[Основное убеждение 1]" • "[Основное убеждение 2]" • "[Основное убеждение 3]" • "[Основное убеждение 4]" • "[Основное убеждение 5]"
-🧠 Иллюзии, возражения и сопротивления:
-Иллюзии: • "[Ложное убеждение 1]" • "[Ложное убеждение 2]" • "[Ложное убеждение 3]" • "[Ложное убеждение 4]" • "[Ложное убеждение 5]"
-Возражения: • "[Возражение 1]" • "[Возражение 2]" • "[Возражение 3]" • "[Возражение 4]" • "[Возражение 5]"
-Сопротивления: • [Эмоциональный блок 1] • [Эмоциональный блок 2] • [Эмоциональный блок 3] • [Психологический барьер 1] • [Психологический барьер 2]
-🎯 Ключевые смыслы для посева: • [Смысл для выбора метода 1] • [Смысл для выбора метода 2] • [Смысл для выбора метода 3] • [Смысл для позиционирования 1] • [Смысл для позиционирования 2]
-💡 К каким выводам должны прийти:
-✅ "[Целевой инсайт 1]"
-✅ "[Целевой инсайт 2]"
-✅ "[Целевой инсайт 3]"
-✅ "[Целевой инсайт 4]"
-📱 Контент для трансляции: • [Формат контента 1 с примером] • [Формат контента 2 с примером] • [Формат контента 3 с примером] • [Формат контента 4 с примером] • [Формат контента 5 с примером]
-⚡ Что с ними делать? 🔍 [Название стратегии]:
-✅ [Конкретное действие 1]
-✅ [Конкретное действие 2]
-✅ [Конкретное действие 3]
+3 LEVEL - Choosing a Method ([X]% of audience) ⭐
+💭 What they think: • "[Core belief 1]" • "[Core belief 2]" • "[Core belief 3]" • "[Core belief 4]" • "[Core belief 5]"
+🧠 Illusions, objections, and resistance:
+Illusions: • "[False belief 1]" • "[False belief 2]" • "[False belief 3]" • "[False belief 4]" • "[False belief 5]"
+Objections: • "[Objection 1]" • "[Objection 2]" • "[Objection 3]" • "[Objection 4]" • "[Objection 5]"
+Resistance: • [Emotional block 1] • [Emotional block 2] • [Emotional block 3] • [Psychological barrier 1] • [Psychological barrier 2]
+🎯 Key messages to seed: • [Method selection message 1] • [Method selection message 2] • [Method selection message 3] • [Positioning message 1] • [Positioning message 2]
+💡 Conclusions they should reach:
+✅ "[Target insight 1]"
+✅ "[Target insight 2]"
+✅ "[Target insight 3]"
+✅ "[Target insight 4]"
+📱 Content to broadcast: • [Content format 1 with example] • [Content format 2 with example] • [Content format 3 with example] • [Content format 4 with example] • [Content format 5 with example]
+⚡ What to do with them? 🔍 [Strategy name]:
+✅ [Specific action 1]
+✅ [Specific action 2]
+✅ [Specific action 3]
 
-4 УРОВЕНЬ - Сравнивает продукты ([X]% аудитории) ⭐⭐
-💭 Что думают: • "[Основное убеждение 1]" • "[Основное убеждение 2]" • "[Основное убеждение 3]" • "[Основное убеждение 4]" • "[Основное убеждение 5]"
-🧠 Иллюзии, возражения и сопротивления:
-Иллюзии: • "[Ложное убеждение 1]" • "[Ложное убеждение 2]" • "[Ложное убеждение 3]" • "[Ложное убеждение 4]" • "[Ложное убеждение 5]"
-Возражения: • "[Возражение 1]" • "[Возражение 2]" • "[Возражение 3]" • "[Возражение 4]" • "[Возражение 5]"
-Сопротивления: • [Эмоциональный блок 1] • [Эмоциональный блок 2] • [Эмоциональный блок 3] • [Психологический барьер 1] • [Психологический барьер 2]
-🎯 Ключевые смыслы для посева: • [Смысл для выбора продукта 1] • [Смысл для выбора продукта 2] • [Смысл для выбора продукта 3] • [Смысл для преимуществ 1] • [Смысл для преимуществ 2]
-💡 К каким выводам должны прийти:
-✅ "[Целевой инсайт 1]"
-✅ "[Целевой инсайт 2]"
-✅ "[Целевой инсайт 3]"
-✅ "[Целевой инсайт 4]"
-📱 Контент для трансляции: • [Формат контента 1 с примером] • [Формат контента 2 с примером] • [Формат контента 3 с примером] • [Формат контента 4 с примером] • [Формат контента 5 с примером]
-⚡ Что с ними делать? 🔍 [Название стратегии]:
-✅ [Конкретное действие 1]
-✅ [Конкретное действие 2]
-✅ [Конкретное действие 3]
+4 LEVEL - Comparing Products ([X]% of audience) ⭐⭐
+💭 What they think: • "[Core belief 1]" • "[Core belief 2]" • "[Core belief 3]" • "[Core belief 4]" • "[Core belief 5]"
+🧠 Illusions, objections, and resistance:
+Illusions: • "[False belief 1]" • "[False belief 2]" • "[False belief 3]" • "[False belief 4]" • "[False belief 5]"
+Objections: • "[Objection 1]" • "[Objection 2]" • "[Objection 3]" • "[Objection 4]" • "[Objection 5]"
+Resistance: • [Emotional block 1] • [Emotional block 2] • [Emotional block 3] • [Psychological barrier 1] • [Psychological barrier 2]
+🎯 Key messages to seed: • [Product selection message 1] • [Product selection message 2] • [Product selection message 3] • [Advantages message 1] • [Advantages message 2]
+💡 Conclusions they should reach:
+✅ "[Target insight 1]"
+✅ "[Target insight 2]"
+✅ "[Target insight 3]"
+✅ "[Target insight 4]"
+📱 Content to broadcast: • [Content format 1 with example] • [Content format 2 with example] • [Content format 3 with example] • [Content format 4 with example] • [Content format 5 with example]
+⚡ What to do with them? 🔍 [Strategy name]:
+✅ [Specific action 1]
+✅ [Specific action 2]
+✅ [Specific action 3]
 
-5 УРОВЕНЬ - Готов покупать ([X]% аудитории) ⭐⭐⭐
-💭 Что думают: • "[Основное убеждение 1]" • "[Основное убеждение 2]" • "[Основное убеждение 3]" • "[Основное убеждение 4]" • "[Основное убеждение 5]"
-🧠 Иллюзии, возражения и сопротивления:
-Иллюзии: • "[Ложное убеждение 1]" • "[Ложное убеждение 2]" • "[Ложное убеждение 3]" • "[Ложное убеждение 4]" • "[Ложное убеждение 5]"
-Возражения: • "[Возражение 1]" • "[Возражение 2]" • "[Возражение 3]" • "[Возражение 4]" • "[Возражение 5]"
-Сопротивления: • [Эмоциональный блок 1] • [Эмоциональный блок 2] • [Эмоциональный блок 3] • [Психологический барьер 1] • [Психологический барьер 2]
-🎯 Ключевые смыслы для посева: • [Смысл для принятия решения 1] • [Смысл для принятия решения 2] • [Смысл для принятия решения 3] • [Смысл для срочности 1] • [Смысл для срочности 2]
-💡 К каким выводам должны прийти:
-✅ "[Целевой инсайт 1]"
-✅ "[Целевой инсайт 2]"
-✅ "[Целевой инсайт 3]"
-✅ "[Целевой инсайт 4]"
-📱 Контент для трансляции: • [Формат контента 1 с примером] • [Формат контента 2 с примером] • [Формат контента 3 с примером] • [Формат контента 4 с примером] • [Формат контента 5 с примером]
-⚡ Что с ними делать? 🔍 [Название стратегии]:
-✅ [Конкретное действие 1]
-✅ [Конкретное действие 2]
-✅ [Конкретное действие 3]
-
-═══════════════════════════════════════════════════════════════
-ШАБЛОН: АНАЛИЗ ПРОГРЕТОСТИ И СЕГМЕНТЫ
-═══════════════════════════════════════════════════════════════
-
-📊 Анализ уровней прогретости
-1. Прогрев к личности: [X]/10 ⭐
-Сильные стороны:
-[Сильная сторона 1]
-[Сильная сторона 2]
-[Сильная сторона 3]
-Что усилить: [Рекомендации по улучшению]
-2. Прогрев к теме: [X]/10 ⭐
-Текущая ситуация: [Описание состояния]
-Что усилить: [Рекомендации по улучшению]
-3. Прогрев к экспертности: [X]/10 ⭐
-Текущая позиция: [Описание положения]
-Подтверждающие факты:
-[Факт 1]
-[Факт 2]
-4. Прогрев к продукту: [X]/10 ⚠️
-Основные проблемы: [Описание проблем]
-Необходимые действия: [План улучшения]
-
-🎯 Стратегия прогрева по сегментам
-Сегмент A: [Название сегмента] (Уровень [X]-[X] Ханта)
-Объем: [X]% от общей аудитории Приоритет: ⭐⭐⭐ [Уровень приоритета]
-Профиль:
-[Характеристика 1]
-[Характеристика 2]
-[Характеристика 3]
-Ключевая боль: [Основная проблема сегмента]
-Прогрев: [Стратегия для сегмента]
-Сегмент B: [Название сегмента] (Уровень [X]-[X] Ханта)
-Объем: [X]% от общей аудитории Приоритет: ⭐⭐ [Уровень приоритета]
-Профиль:
-[Характеристика 1]
-[Характеристика 2]
-[Характеристика 3]
-Ключевая боль: [Основная проблема сегмента]
-Прогрев: [Стратегия для сегмента]
-Сегмент C: [Название сегмента] (Уровень [X]-[X] Ханта)
-Объем: [X]% от общей аудитории Приоритет: ⭐⭐⭐ [Уровень приоритета]
-Профиль:
-[Характеристика 1]
-[Характеристика 2]
-[Характеристика 3]
-Ключевая боль: [Основная проблема сегмента]
-Прогрев: [Стратегия для сегмента]
-
-💰 Рекомендации по тарифам
-[Название тарифа 1]: [Текущая цена] → [Рекомендуемая цена]
-Обоснование: [Причина изменения цены]
-Для кого: [Целевой сегмент]
-[Название тарифа 2]: [Текущая цена] → [Рекомендуемая цена]
-Для кого: [Целевой сегмент]
-[Название тарифа 3]: [Текущая цена] → [Рекомендуемая цена]
-Для кого: [Целевой сегмент]
-НОВЫЙ [Название тарифа]: [Цена]
-Обоснование: [Причина создания нового тарифа]
-Для кого: [Целевой сегмент]
+5 LEVEL - Ready to Buy ([X]% of audience) ⭐⭐⭐
+💭 What they think: • "[Core belief 1]" • "[Core belief 2]" • "[Core belief 3]" • "[Core belief 4]" • "[Core belief 5]"
+🧠 Illusions, objections, and resistance:
+Illusions: • "[False belief 1]" • "[False belief 2]" • "[False belief 3]" • "[False belief 4]" • "[False belief 5]"
+Objections: • "[Objection 1]" • "[Objection 2]" • "[Objection 3]" • "[Objection 4]" • "[Objection 5]"
+Resistance: • [Emotional block 1] • [Emotional block 2] • [Emotional block 3] • [Psychological barrier 1] • [Psychological barrier 2]
+🎯 Key messages to seed: • [Decision-making message 1] • [Decision-making message 2] • [Decision-making message 3] • [Urgency message 1] • [Urgency message 2]
+💡 Conclusions they should reach:
+✅ "[Target insight 1]"
+✅ "[Target insight 2]"
+✅ "[Target insight 3]"
+✅ "[Target insight 4]"
+📱 Content to broadcast: • [Content format 1 with example] • [Content format 2 with example] • [Content format 3 with example] • [Content format 4 with example] • [Content format 5 with example]
+⚡ What to do with them? 🔍 [Strategy name]:
+✅ [Specific action 1]
+✅ [Specific action 2]
+✅ [Specific action 3]
 
 ═══════════════════════════════════════════════════════════════
-ШАБЛОН: КЛЮЧЕВЫЕ СМЫСЛЫ И ФОКУС ЗАПУСКА
+TEMPLATE: WARMUP LEVEL ANALYSIS AND SEGMENTS
 ═══════════════════════════════════════════════════════════════
 
-🔥 ТОП-15 КЛЮЧЕВЫХ СМЫСЛОВ ДЛЯ ТРАНСЛЯЦИИ
-🚨 ПРОБУЖДАЮЩИЕ СМЫСЛЫ (для уровней 0-1)
-"[Пробуждающий смысл 1]"
-"[Пробуждающий смысл 2]"
-"[Пробуждающий смысл 3]"
-💰 ЭКОНОМИЧЕСКИЕ СМЫСЛЫ (для уровней 2-3)
-"[Экономический смысл 1]"
-"[Экономический смысл 2]"
-"[Экономический смысл 3]"
-"[Экономический смысл 4]"
-🎯 ПОЗИЦИОНИРУЮЩИЕ СМЫСЛЫ (для уровней 3-4)
-"[Позиционирующий смысл 1]"
-"[Позиционирующий смысл 2]"
-"[Позиционирующий смысл 3]"
-"[Позиционирующий смысл 4]"
-⚡ СРОЧНОСТЬ И ЭКСКЛЮЗИВНОСТЬ (для уровня 5)
-"[Смысл срочности 1]"
-"[Смысл срочности 2]"
-"[Смысл срочности 3]"
-"[Смысл срочности 4]"
+📊 Warmup Level Analysis
+1. Personal brand warmup: [X]/10 ⭐
+Strengths:
+[Strength 1]
+[Strength 2]
+[Strength 3]
+What to strengthen: [Improvement recommendations]
+2. Topic warmup: [X]/10 ⭐
+Current situation: [Status description]
+What to strengthen: [Improvement recommendations]
+3. Expertise warmup: [X]/10 ⭐
+Current position: [Position description]
+Supporting facts:
+[Fact 1]
+[Fact 2]
+4. Product warmup: [X]/10 ⚠️
+Main issues: [Problem description]
+Required actions: [Improvement plan]
 
-🎯 ФОКУС НА [ПЕРИОД] ЗАПУСК
-ГЛАВНЫЙ ФОКУС: УРОВНИ [X]-[X] ([X]% аудитории) ⭐⭐⭐
-Почему именно они:
-[Причина 1]
-[Причина 2]
-[Причина 3]
-[Причина 4]
-Распределение усилий:
-[X]% - Уровни [X]-[X] ([описание])
-[X]% - Уровень [X] ([описание])
-[X]% - Уровни [X] + [X] ([описание])
-ВРЕМЕННАЯ СТРАТЕГИЯ ([период]):
-[ПЕРИОД 1]: Уровень [X] - "[Название уровня]"
-Смыслы №[X]-[X], №[X]-[X]
-[Описание стратегии]
-[Ключевые действия]
-[ПЕРИОД 2]: Уровень [X] - "[Название уровня]"
-Смыслы №[X]-[X], №[X]
-[Описание стратегии]
-[Ключевые действия]
-[ПЕРИОД 3]: Уровень [X] - "[Название уровня]"
-Смыслы №[X]-[X]
-[Описание стратегии]
-[Ключевые действия]
-КЛЮЧЕВАЯ ТАКТИКА:
-[Описание основной тактики запуска]
+🎯 Warmup Strategy by Segments
+Segment A: [Segment name] (Hunt Level [X]-[X])
+Volume: [X]% of total audience Priority: ⭐⭐⭐ [Priority level]
+Profile:
+[Characteristic 1]
+[Characteristic 2]
+[Characteristic 3]
+Key pain: [Main segment problem]
+Warmup: [Segment strategy]
+Segment B: [Segment name] (Hunt Level [X]-[X])
+Volume: [X]% of total audience Priority: ⭐⭐ [Priority level]
+Profile:
+[Characteristic 1]
+[Characteristic 2]
+[Characteristic 3]
+Key pain: [Main segment problem]
+Warmup: [Segment strategy]
+Segment C: [Segment name] (Hunt Level [X]-[X])
+Volume: [X]% of total audience Priority: ⭐⭐⭐ [Priority level]
+Profile:
+[Characteristic 1]
+[Characteristic 2]
+[Characteristic 3]
+Key pain: [Main segment problem]
+Warmup: [Segment strategy]
 
-═══════════════════════════════════════════════════════════════
-ШАБЛОН: ЛОГИЧЕСКАЯ ЦЕПОЧКА ТРАНСФОРМАЦИИ
-═══════════════════════════════════════════════════════════════
-
-🧠 ЛОГИЧЕСКАЯ ЦЕПОЧКА ТРАНСФОРМАЦИИ СОЗНАНИЯ
-От неосознанности к покупке за [период]
-ЭТАП 1: ПРОБУЖДЕНИЕ
-Мысль: "[Начальная мысль аудитории]"
-Триггер: [Содержание триггера] Инсайт: "[Первый инсайт]"
-Сомнение: "[Первое сомнение]"
-ЭТАП 2: ОСОЗНАНИЕ ПРОБЛЕМЫ
-Триггер: [Содержание триггера] Озарение: "[Ключевое озарение]"
-Диагностика: *"[Понимание масштаба проблемы]"*Вывод: "[Решение о необходимости действий]"
-ЭТАП 3: ПОИСК РЕШЕНИЙ
-Мысль: "[Размышления о вариантах]"
-Триггер: [Содержание триггера] Инсайт: "[Понимание неэффективности старых методов]"
-Вывод: "[Выбор направления]"
-ЭТАП 4: ВЫБОР МЕТОДА
-Мысль: "[Сравнение методов]"
-Триггер: [Содержание триггера] Понимание: "[Понимание специфики]"
-Инсайт: "[Выбор системного подхода]"
-ЭТАП 5: СРАВНЕНИЕ ЭКСПЕРТОВ
-Мысль: "[Сравнение предложений]"
-Триггер: [Содержание триггера] Озарение: "[Понимание уникальности]"
-Соцдоказательства: "[Влияние социальных доказательств]"
-ЭТАП 6: ПРИНЯТИЕ РЕШЕНИЯ
-Последние сомнения: "[Остаточные страхи]"
-Триггеры:
-"[Закрывающий триггер 1]"
-"[Закрывающий триггер 2]"
-"[Закрывающий триггер 3]"
-Финальная мысль: "[Окончательное решение]"
-РЕШЕНИЕ: "[Формулировка решения о покупке]"
+💰 Pricing Recommendations
+[Plan name 1]: [Current price] → [Recommended price]
+Justification: [Reason for price change]
+Target: [Target segment]
+[Plan name 2]: [Current price] → [Recommended price]
+Target: [Target segment]
+[Plan name 3]: [Current price] → [Recommended price]
+Target: [Target segment]
+NEW [Plan name]: [Price]
+Justification: [Reason for creating new plan]
+Target: [Target segment]
 
 ═══════════════════════════════════════════════════════════════
-ШАБЛОН: КОНТЕНТНАЯ СТРАТЕГИЯ И ЗАПУСК
+TEMPLATE: KEY MESSAGES AND LAUNCH FOCUS
 ═══════════════════════════════════════════════════════════════
 
-🚀 Контентная стратегия по этапам
-Теневой прогрев ([период])
-Цель: [Цель этапа]
-Смыслы:
-"[Смысл 1]"
-"[Смысл 2]"
-"[Смысл 3]"
-Форматы:
-[Формат 1]
-[Формат 2]
-[Формат 3]
-Активный прогрев ([период])
-Цель: [Цель этапа]
-Смыслы:
-"[Смысл 1]"
-"[Смысл 2]"
-"[Смысл 3]"
-Форматы:
-[Формат 1]
-[Формат 2]
-[Формат 3]
-Финальный прогрев ([период])
-Цель: [Цель этапа]
-Смыслы:
-"[Смысл 1]"
-"[Смысл 2]"
-"[Смысл 3]"
-Форматы:
-[Формат 1]
-[Формат 2]
-[Формат 3]
+🔥 TOP 15 KEY MESSAGES TO BROADCAST
+🚨 AWAKENING MESSAGES (for levels 0-1)
+"[Awakening message 1]"
+"[Awakening message 2]"
+"[Awakening message 3]"
+💰 ECONOMIC MESSAGES (for levels 2-3)
+"[Economic message 1]"
+"[Economic message 2]"
+"[Economic message 3]"
+"[Economic message 4]"
+🎯 POSITIONING MESSAGES (for levels 3-4)
+"[Positioning message 1]"
+"[Positioning message 2]"
+"[Positioning message 3]"
+"[Positioning message 4]"
+⚡ URGENCY AND EXCLUSIVITY (for level 5)
+"[Urgency message 1]"
+"[Urgency message 2]"
+"[Urgency message 3]"
+"[Urgency message 4]"
 
-⚠️ Критические моменты для успеха
-1. [Критический момент 1]
-Как делать: [Рекомендация]
-2. [Критический момент 2]
-Описание: [Детальное объяснение]
-3. [Критический момент 3]
-Позиционирование: [Подход к решению]
-4. [Критический момент 4]
-Все смыслы привязывать к: [Ключевые принципы]
+🎯 FOCUS ON [PERIOD] LAUNCH
+MAIN FOCUS: LEVELS [X]-[X] ([X]% of audience) ⭐⭐⭐
+Why them:
+[Reason 1]
+[Reason 2]
+[Reason 3]
+[Reason 4]
+Effort distribution:
+[X]% - Levels [X]-[X] ([description])
+[X]% - Level [X] ([description])
+[X]% - Levels [X] + [X] ([description])
+TIME-BASED STRATEGY ([period]):
+[PERIOD 1]: Level [X] - "[Level name]"
+Messages #[X]-[X], #[X]-[X]
+[Strategy description]
+[Key actions]
+[PERIOD 2]: Level [X] - "[Level name]"
+Messages #[X]-[X], #[X]
+[Strategy description]
+[Key actions]
+[PERIOD 3]: Level [X] - "[Level name]"
+Messages #[X]-[X]
+[Strategy description]
+[Key actions]
+KEY TACTIC:
+[Description of main launch tactic]
 
-🎯 Итоговая стратегия запуска
-Этап 1: [Название этапа] (Уровни [X]-[X] Ханта)
-[Действие 1]
-[Действие 2]
-[Действие 3]
-Этап 2: [Название этапа] (Уровни [X]-[X] Ханта)
-[Действие 1]
-[Действие 2]
-[Действие 3]
-Этап 3: [Название этапа] (Уровень [X] Ханта)
-[Действие 1]
-[Действие 2]
-[Действие 3]
-Ключевой инсайт: [Главная ценность и позиционирование продукта]
+═══════════════════════════════════════════════════════════════
+TEMPLATE: LOGICAL TRANSFORMATION CHAIN
+═══════════════════════════════════════════════════════════════
+
+🧠 LOGICAL CHAIN OF CONSCIOUSNESS TRANSFORMATION
+From unawareness to purchase in [period]
+STAGE 1: AWAKENING
+Thought: "[Initial audience thought]"
+Trigger: [Trigger content] Insight: "[First insight]"
+Doubt: "[First doubt]"
+STAGE 2: PROBLEM AWARENESS
+Trigger: [Trigger content] Revelation: "[Key revelation]"
+Diagnosis: *"[Understanding the scale of the problem]"*Conclusion: "[Decision about the need to act]"
+STAGE 3: SEARCHING FOR SOLUTIONS
+Thought: "[Thoughts about options]"
+Trigger: [Trigger content] Insight: "[Understanding the inefficiency of old methods]"
+Conclusion: "[Choosing a direction]"
+STAGE 4: CHOOSING A METHOD
+Thought: "[Comparing methods]"
+Trigger: [Trigger content] Understanding: "[Understanding the specifics]"
+Insight: "[Choosing a systematic approach]"
+STAGE 5: COMPARING EXPERTS
+Thought: "[Comparing offers]"
+Trigger: [Trigger content] Revelation: "[Understanding uniqueness]"
+Social proof: "[Impact of social proof]"
+STAGE 6: MAKING A DECISION
+Final doubts: "[Remaining fears]"
+Triggers:
+"[Closing trigger 1]"
+"[Closing trigger 2]"
+"[Closing trigger 3]"
+Final thought: "[Final decision]"
+DECISION: "[Purchase decision statement]"
+
+═══════════════════════════════════════════════════════════════
+TEMPLATE: CONTENT STRATEGY AND LAUNCH
+═══════════════════════════════════════════════════════════════
+
+🚀 Content Strategy by Stages
+Shadow warmup ([period])
+Goal: [Stage goal]
+Messages:
+"[Message 1]"
+"[Message 2]"
+"[Message 3]"
+Formats:
+[Format 1]
+[Format 2]
+[Format 3]
+Active warmup ([period])
+Goal: [Stage goal]
+Messages:
+"[Message 1]"
+"[Message 2]"
+"[Message 3]"
+Formats:
+[Format 1]
+[Format 2]
+[Format 3]
+Final warmup ([period])
+Goal: [Stage goal]
+Messages:
+"[Message 1]"
+"[Message 2]"
+"[Message 3]"
+Formats:
+[Format 1]
+[Format 2]
+[Format 3]
+
+⚠️ Critical Moments for Success
+1. [Critical moment 1]
+How to do it: [Recommendation]
+2. [Critical moment 2]
+Description: [Detailed explanation]
+3. [Critical moment 3]
+Positioning: [Solution approach]
+4. [Critical moment 4]
+Tie all messages to: [Key principles]
+
+🎯 Final Launch Strategy
+Stage 1: [Stage name] (Hunt Levels [X]-[X])
+[Action 1]
+[Action 2]
+[Action 3]
+Stage 2: [Stage name] (Hunt Levels [X]-[X])
+[Action 1]
+[Action 2]
+[Action 3]
+Stage 3: [Stage name] (Hunt Level [X])
+[Action 1]
+[Action 2]
+[Action 3]
+Key insight: [Main value and product positioning]

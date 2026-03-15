@@ -1,9 +1,9 @@
 ---
 name: vsl-high-ticket
 description: |
-  Создает VSL-сценарии (Video Sales Letter) для продуктов на высокие чеки.
-  15-блочная структура на основе анализа лучших продающих презентаций.
-  Адаптирует стиль под ценовой сегмент: доступный или премиальный.
+  Creates VSL scripts (Video Sales Letters) for high-ticket products.
+  15-block structure based on analysis of the best sales presentations.
+  Adapts style to the price segment: accessible or premium.
 allowed-tools:
   - Read
   - Write
@@ -11,51 +11,51 @@ allowed-tools:
   - AskUserQuestion
 ---
 
-# VSL High Ticket - генератор видеопродавцов
+# VSL High Ticket - Sales Video Script Generator
 
-## Что делает skill:
+## What the skill does:
 
-Создает полные VSL-сценарии для продуктов и услуг на высокие чеки, используя проверенную 15-блочную структуру продающих презентаций.
+Creates complete VSL scripts for high-ticket products and services using a proven 15-block sales presentation structure.
 
-### Автоматически:
-- Определяет ценовой сегмент (доступный / премиальный)
-- Подбирает стратегию позиционирования
-- Генерирует полный сценарий по 15 блокам
-- Адаптирует техники под тип продукта
+### Automatically:
+- Determines the price segment (accessible / premium)
+- Selects the positioning strategy
+- Generates a complete script across 15 blocks
+- Adapts techniques to the product type
 
-## Использование:
+## Usage:
 
 ```bash
-/vsl-high-ticket Создай VSL для курса по нейросетям, цена 50 000 руб, ЦА - предприниматели
+/vsl-high-ticket Create a VSL for a course on AI, price 50,000 RUB, target audience - entrepreneurs
 ```
 
 ```bash
-/vsl-high-ticket Напиши продающее видео для наставничества за 1.5 млн руб
+/vsl-high-ticket Write a sales video for mentorship at 1.5M RUB
 ```
 
 ```bash
-/vsl-high-ticket Сделай VSL для интенсива по запускам, 3 тарифа: 30к / 70к / 150к
+/vsl-high-ticket Create a VSL for a launch intensive, 3 tiers: 30K / 70K / 150K
 ```
 
-## Два режима работы:
+## Two operating modes:
 
-### Режим "Доступный" (до ~200к руб):
-- Эмпатическое позиционирование ("я был таким же")
-- Эмоциональные реакции и живая речь
-- Временные контрасты (3 часа vs 10 минут)
-- Страх замещения как мотиватор
-- 3 тарифа с рекомендацией среднего
-- Необычная гарантия результата
+### "Accessible" mode (up to ~200K RUB):
+- Empathetic positioning ("I was just like you")
+- Emotional reactions and natural speech
+- Time contrasts (3 hours vs 10 minutes)
+- Fear of replacement as a motivator
+- 3 tiers with middle tier recommendation
+- Unusual results guarantee
 
-### Режим "Премиальный" (от ~200к руб):
-- Позиционирование через достижения
-- Статусные имена и конкретные цифры
-- Качественные контрасты и трансформации
-- Элитарность и личный отбор
-- 1 премиальный тариф
-- Гарантия качества через отбор
+### "Premium" mode (from ~200K RUB):
+- Positioning through achievements
+- Status names and specific numbers
+- Quality contrasts and transformations
+- Exclusivity and personal selection
+- 1 premium tier
+- Quality guarantee through selection
 
-## Файлы:
+## Files:
 
-- `SKILL.md` - это описание
-- `PROMPT.md` - полный промпт с 15-блочной структурой и базой знаний
+- `SKILL.md` - this description
+- `PROMPT.md` - full prompt with 15-block structure and knowledge base

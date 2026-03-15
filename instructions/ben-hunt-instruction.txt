@@ -1,35 +1,35 @@
-Инструкция
-ИНСТРУКЦИЯ: Анализ продукта через лестницу Ханта
-Полная методология создания стратегии запуска
+Instructions
+INSTRUCTIONS: Product Analysis Through Hunt's Ladder
+Complete Methodology for Creating a Launch Strategy
 
-📋 1. НЕОБХОДИМЫЕ ДАННЫЕ ДЛЯ АНАЛИЗА
-Обязательные исходные данные:
-📁 ДОПОЛНИТЕЛЬНЫЕ ФАЙЛЫ ПРОЕКТА:
-анкеты_аудитории.csv - Результаты анкетирования целевой аудитории
-интервью_аудитории.md - Расшифровки глубинных интервью
-текстовый_прототип_продукта.md - Детальное описание продукта
-лекция_прогревы_хант.md - Теоретическая база по методологии
-пример_анализ_нейросети.md - Эталонный пример анализа
-логические_цепочки_примеры.md - Примеры трансформации сознания
-🎯 О продукте:
-Детальное описание продукта/услуги
-Целевая аудитория и ее характеристики
-Уникальное ценностное предложение (УЦП)
-Ценовая политика и тарифы
-Конкурентные преимущества
-📊 Данные об аудитории:
-Результаты анкетирования (минимум 50-100 респондентов)
-Интервью с представителями целевой аудитории (5-10 глубинных интервью)
-Анализ текущей аудитории в соцсетях
-Данные о прошлых запусках (если есть)
-Болевые точки и потребности аудитории
-🏆 О рынке и конкурентах:
-Анализ основных игроков в нише
-Тренды и изменения в отрасли
-Барьеры входа и сопротивления рынка
-Сезонность и особенности ниши
-💰 Коммерческие данные:
-Бюджет на запуск
-Временные рамки
-Ожидаемые результаты
-Ресурсы команды
+📋 1. REQUIRED DATA FOR ANALYSIS
+Mandatory source data:
+📁 ADDITIONAL PROJECT FILES:
+audience_surveys.csv - Target audience survey results
+audience_interviews.md - In-depth interview transcripts
+product_text_prototype.md - Detailed product description
+warmup_lectures_hunt.md - Theoretical base on the methodology
+example_analysis_neural_networks.md - Reference analysis example
+logical_chains_examples.md - Examples of consciousness transformation
+🎯 About the product:
+Detailed description of the product/service
+Target audience and its characteristics
+Unique Value Proposition (UVP)
+Pricing policy and tariffs
+Competitive advantages
+📊 Audience data:
+Survey results (minimum 50-100 respondents)
+Interviews with target audience representatives (5-10 in-depth interviews)
+Analysis of current social media audience
+Data from past launches (if available)
+Pain points and audience needs
+🏆 About the market and competitors:
+Analysis of major players in the niche
+Trends and industry changes
+Entry barriers and market resistance
+Seasonality and niche specifics
+💰 Commercial data:
+Launch budget
+Timeframes
+Expected results
+Team resources

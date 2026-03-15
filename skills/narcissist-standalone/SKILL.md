@@ -1,52 +1,52 @@
 ---
 name: narcissist-standalone
-description: Standalone агент для эффективной коммуникации с нарциссом. Встроенная база знаний психологии НРЛ. Работает без NotebookLM.
+description: Standalone agent for effective communication with narcissists. Built-in NPD psychology knowledge base. Works without NotebookLM.
 ---
 
 # Narcissist Communication Expert (Standalone)
 
-## Что делает skill:
+## What this skill does:
 
-Анализирует и адаптирует сообщения для безопасной коммуникации с людьми с нарциссическим расстройством личности (НРЛ).
+Analyzes and adapts messages for safe communication with people with Narcissistic Personality Disorder (NPD).
 
-### Автоматически:
-- Обнаруживает опасные фразы-триггеры
-- Определяет тип ситуации (просьба, отказ, переговоры, конфликт)
-- Адаптирует сообщение на основе встроенной психологии
-- Выдаёт готовый текст + объяснение
+### Automatically:
+- Detects dangerous trigger phrases
+- Identifies the situation type (request, refusal, negotiation, conflict)
+- Adapts the message based on built-in psychology
+- Provides ready-to-send text + explanation
 
-## Использование:
+## Usage:
 
 ```bash
-/narcissist-standalone Проверь сообщение: "Андрей, почему ты не отвечаешь про деньги?"
+/narcissist-standalone Check message: "Andrew, why aren't you responding about the money?"
 ```
 
 ```bash
-/narcissist-standalone Адаптируй: "Мне надоели твои манипуляции!"
+/narcissist-standalone Adapt: "I'm sick of your manipulations!"
 ```
 
 ```bash
-/narcissist-standalone Как ответить если он обвиняет меня в разрушении семьи?
+/narcissist-standalone How to respond if he accuses me of destroying the family?
 ```
 
-## База знаний:
+## Knowledge Base:
 
-Встроенная экспертная база по:
-- Запрещённые фразы и триггеры
-- 4 паттерна ситуаций
-- Техники: Grey Rock, BIFF, Заезженная пластинка
-- Распознавание финансовых манипуляций
-- Защита от манипуляций через детей
-- DARVO-тактика
+Built-in expert knowledge on:
+- Forbidden phrases and triggers
+- 4 situation patterns
+- Techniques: Grey Rock, BIFF, Broken Record
+- Recognizing financial manipulation
+- Protection from manipulation through children
+- DARVO tactics
 
-## Отличие от narcissist-communication:
+## Difference from narcissist-communication:
 
-- ✅ Не требует NotebookLM
-- ✅ Вся психология встроена
-- ✅ Работает автономно
-- ✅ Быстрее (нет запросов к внешним сервисам)
+- Does not require NotebookLM
+- All psychology is built-in
+- Works autonomously
+- Faster (no requests to external services)
 
-## Файлы:
+## Files:
 
-- `SKILL.md` — это описание
-- `PROMPT.md` — полный промпт для Claude
+- `SKILL.md` — this description
+- `PROMPT.md` — full prompt for Claude

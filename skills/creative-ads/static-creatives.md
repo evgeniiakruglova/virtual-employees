@@ -1,127 +1,127 @@
-# Шаблоны статических креативов
+# Static Creative Templates
 
-Используй этот файл для генерации AI-промтов статических рекламных изображений. Каждый шаблон адаптируется под конкретный сегмент, боль и ступень осознанности.
+Use this file to generate AI prompts for static advertising images. Each template adapts to a specific segment, pain point, and awareness level.
 
-## 5 типов визуалов
+## 5 Types of Visuals
 
-### 1. Lifestyle (человек в ситуации)
+### 1. Lifestyle (person in a situation)
 
-**Когда использовать:** Pain-agitate (ступени 0-1), Transformation (ступени 2-4), Trigger-moment (ступени 0-2)
+**When to use:** Pain-agitate (levels 0-1), Transformation (levels 2-4), Trigger-moment (levels 0-2)
 
-**Структура промта:**
+**Prompt structure:**
 ```
-[Описание человека: возраст, пол, внешность из ДНК-портрета], [действие/ситуация из болевой ситуации ДНК], [локация: конкретное место], [освещение: соответствует эмоции], [стиль: documentary/editorial/candid photography], [камера: Canon/Sony + объектив], [глубина резкости], [цветовая палитра: соответствует эмоции], [настроение] --ar [по платформе] --v 6.1 --style raw --no text watermark logo
-```
-
-**Шаблон для боли (pain-agitate):**
-```
-A [возраст]-year-old [пол] [действие из болевой ситуации], [детали окружения из ДНК], [эмоциональные детали: выражение лица, поза], intimate documentary photography style, [камера] [объектив], shallow depth of field, [холодная/приглушённая палитра], [настроение: melancholic/anxious/exhausted] --ar [ratio] --v 6.1 --style raw --no text watermark logo
+[Person description: age, gender, appearance from DNA portrait], [action/situation from DNA pain scenario], [location: specific place], [lighting: matches the emotion], [style: documentary/editorial/candid photography], [camera: Canon/Sony + lens], [depth of field], [color palette: matches the emotion], [mood] --ar [per platform] --v 6.1 --style raw --no text watermark logo
 ```
 
-**Шаблон для трансформации (transformation):**
+**Template for pain (pain-agitate):**
 ```
-A [возраст]-year-old [пол] [действие из идеальной трансформации ДНК], [яркая, позитивная локация], [уверенная поза, улыбка, энергия], lifestyle editorial photography, [камера] [объектив], golden hour lighting, [тёплая/яркая палитра], [настроение: empowered/confident/joyful] --ar [ratio] --v 6.1 --style raw --no text watermark logo
-```
-
-### 2. Text-heavy (минималистичный фон + крупный текст)
-
-**Когда использовать:** Myth-busting (ступени 1-3), FOMO (ступени 0-1), Urgency (ступени 4-5)
-
-**Структура промта:**
-```
-Minimalist [цвет] gradient background, clean modern design, soft lighting, no objects, [текстура: subtle grain/smooth/bokeh], professional advertising backdrop --ar [ratio] --v 6.1 --no text watermark logo people
+A [age]-year-old [gender] [action from pain scenario], [environment details from DNA], [emotional details: facial expression, posture], intimate documentary photography style, [camera] [lens], shallow depth of field, [cold/muted palette], [mood: melancholic/anxious/exhausted] --ar [ratio] --v 6.1 --style raw --no text watermark logo
 ```
 
-**Тексты на картинке (накладываются в редакторе):**
-- Заголовок: крупно, по центру или верхняя треть
-- Подзаголовок: мельче, под заголовком
-- CTA: контрастная кнопка, нижняя треть
-
-### 3. Before-After (сплит-композиция)
-
-**Когда использовать:** Transformation (ступени 2-4), Myth-busting (ступени 2-3)
-
-**Структура промта:**
+**Template for transformation:**
 ```
-Split image composition, left side: [описание ситуации "до" из ДНК — боль, усталость, проблема], right side: [описание ситуации "после" из идеальной трансформации ДНК], [стиль фотографии], clear visual contrast between both sides, same person in both, [палитра: cold left / warm right] --ar [ratio] --v 6.1 --style raw --no text watermark logo
+A [age]-year-old [gender] [action from ideal DNA transformation], [bright, positive location], [confident posture, smile, energy], lifestyle editorial photography, [camera] [lens], golden hour lighting, [warm/bright palette], [mood: empowered/confident/joyful] --ar [ratio] --v 6.1 --style raw --no text watermark logo
 ```
 
-### 4. Testimonial / UGC-стиль
+### 2. Text-heavy (minimalist background + large text)
 
-**Когда использовать:** Social proof (ступени 3-5), UGC (все ступени)
+**When to use:** Myth-busting (levels 1-3), FOMO (levels 0-1), Urgency (levels 4-5)
 
-**Структура промта для UGC:**
+**Prompt structure:**
 ```
-Selfie-style photo of a [возраст]-year-old [пол] [эмоция: happy/relieved/excited], [casual setting: home/cafe/park], looking directly at camera, natural smartphone lighting, slightly imperfect composition, authentic candid feel, iPhone photography style, warm natural tones --ar [ratio] --v 6.1 --style raw --no text watermark logo
-```
-
-**Структура промта для testimonial:**
-```
-Portrait of a [возраст]-year-old [пол] with genuine smile, [professional/casual setting], soft natural lighting, clean background with subtle [цвет] tones, editorial portrait style, space for quote overlay on [left/right/top] side --ar [ratio] --v 6.1 --style raw --no text watermark logo
+Minimalist [color] gradient background, clean modern design, soft lighting, no objects, [texture: subtle grain/smooth/bokeh], professional advertising backdrop --ar [ratio] --v 6.1 --no text watermark logo people
 ```
 
-### 5. Product-hero (продукт в центре)
+**Texts on the image (overlaid in editor):**
+- Headline: large, centered or upper third
+- Subheadline: smaller, below the headline
+- CTA: contrasting button, lower third
 
-**Когда использовать:** Direct offer (ступени 4-5), Bonus stack (ступень 5)
+### 3. Before-After (split composition)
 
-**Структура промта:**
+**When to use:** Transformation (levels 2-4), Myth-busting (levels 2-3)
+
+**Prompt structure:**
 ```
-[Продукт/mockup] centered on [минималистичный фон], professional product photography, soft studio lighting with [accent color] rim light, clean composition with space for text overlay, premium feel, [стиль: flat lay/floating/3D render] --ar [ratio] --v 6.1 --no text watermark logo
+Split image composition, left side: [description of "before" situation from DNA — pain, fatigue, problem], right side: [description of "after" situation from ideal DNA transformation], [photography style], clear visual contrast between both sides, same person in both, [palette: cold left / warm right] --ar [ratio] --v 6.1 --style raw --no text watermark logo
 ```
 
-## A/B вариации
+### 4. Testimonial / UGC Style
 
-Для КАЖДОГО креатива генерируй 3 вариации:
+**When to use:** Social proof (levels 3-5), UGC (all levels)
 
-**Вариация A (базовая):** Основной промт + основной заголовок + основной CTA
+**Prompt structure for UGC:**
+```
+Selfie-style photo of a [age]-year-old [gender] [emotion: happy/relieved/excited], [casual setting: home/cafe/park], looking directly at camera, natural smartphone lighting, slightly imperfect composition, authentic candid feel, iPhone photography style, warm natural tones --ar [ratio] --v 6.1 --style raw --no text watermark logo
+```
 
-**Вариация B (тест хука):**
-- Тот же визуал (промт)
-- Другой заголовок (тестируем формулировку hook)
-- Тот же CTA
-- Пометка: "Тестируем: hook (A: [тип] vs B: [тип])"
+**Prompt structure for testimonial:**
+```
+Portrait of a [age]-year-old [gender] with genuine smile, [professional/casual setting], soft natural lighting, clean background with subtle [color] tones, editorial portrait style, space for quote overlay on [left/right/top] side --ar [ratio] --v 6.1 --style raw --no text watermark logo
+```
 
-**Вариация C (тест визуала):**
-- Другой визуал (другой промт — другая композиция или ракурс)
-- Тот же заголовок
-- Тот же CTA
-- Пометка: "Тестируем: визуал (A: [описание] vs C: [описание])"
+### 5. Product-hero (product in the center)
 
-## Формулы заголовков по ступеням
+**When to use:** Direct offer (levels 4-5), Bonus stack (level 5)
 
-### Ступени 0-1 (холодный трафик)
-- **Вопрос из монолога:** "Ты снова [болевая ситуация]?"
-- **FOMO:** "Пока ты [текущее действие], другие уже [результат]"
-- **Шок-статистика:** "[Число]% [аватаров] делают эту ошибку"
-- **Контраст:** "[Болевая ситуация] vs [трансформация] — разница в одном шаге"
+**Prompt structure:**
+```
+[Product/mockup] centered on [minimalist background], professional product photography, soft studio lighting with [accent color] rim light, clean composition with space for text overlay, premium feel, [style: flat lay/floating/3D render] --ar [ratio] --v 6.1 --no text watermark logo
+```
 
-### Ступени 2-3 (тёплый трафик)
-- **Myth-bust:** "«[Миф из ДНК]» — худший совет при [проблеме]"
-- **Система:** "[Число] шагов от [боли] к [трансформации]"
-- **How-to:** "Как [результат] без [усилие/жертва из ДНК]"
-- **Education:** "Почему [ложное решение] не работает (и что работает)"
+## A/B Variations
 
-### Ступени 4-5 (горячий трафик)
-- **M-A-G-I-C:** "[Магнитная причина]: [Результат] за [Время] для [Аватар]"
-- **Social proof:** "[Число] [аватаров] уже [результат]. Вот что они говорят"
-- **Guarantee:** "[Результат] или [гарантия]. Без вопросов"
-- **Urgency:** "Осталось [число] мест. Старт [дата]"
+For EVERY creative, generate 3 variations:
 
-## Формулы CTA по ступеням
+**Variation A (baseline):** Main prompt + main headline + main CTA
 
-| Ступень | Тип CTA | Примеры |
+**Variation B (hook test):**
+- Same visual (prompt)
+- Different headline (testing hook wording)
+- Same CTA
+- Label: "Testing: hook (A: [type] vs B: [type])"
+
+**Variation C (visual test):**
+- Different visual (different prompt — different composition or angle)
+- Same headline
+- Same CTA
+- Label: "Testing: visual (A: [description] vs C: [description])"
+
+## Headline Formulas by Level
+
+### Levels 0-1 (cold traffic)
+- **Question from monologue:** "Are you [pain situation] again?"
+- **FOMO:** "While you're [current action], others are already [result]"
+- **Shock statistic:** "[Number]% of [avatars] make this mistake"
+- **Contrast:** "[Pain situation] vs [transformation] — the difference is one step"
+
+### Levels 2-3 (warm traffic)
+- **Myth-bust:** "'[Myth from DNA]' — the worst advice for [problem]"
+- **System:** "[Number] steps from [pain] to [transformation]"
+- **How-to:** "How to [result] without [effort/sacrifice from DNA]"
+- **Education:** "Why [false solution] doesn't work (and what does)"
+
+### Levels 4-5 (hot traffic)
+- **M-A-G-I-C:** "[Magnetic reason]: [Result] in [Time] for [Avatar]"
+- **Social proof:** "[Number] [avatars] have already [result]. Here's what they say"
+- **Guarantee:** "[Result] or [guarantee]. No questions asked"
+- **Urgency:** "[Number] spots left. Starting [date]"
+
+## CTA Formulas by Level
+
+| Level | CTA Type | Examples |
 |---------|---------|---------|
-| 0-1 | Мягкий, информационный | "Узнай подробнее →", "Забери бесплатный гайд", "Смотри видео" |
-| 2-3 | Средний, вовлекающий | "Получи план действий", "Записаться на разбор", "Скачай чек-лист" |
-| 4-5 | Прямой, конверсионный | "Забронировать место", "Оплатить со скидкой", "Записаться сейчас" |
+| 0-1 | Soft, informational | "Learn more →", "Get the free guide", "Watch the video" |
+| 2-3 | Medium, engaging | "Get your action plan", "Sign up for a review session", "Download the checklist" |
+| 4-5 | Direct, conversion-oriented | "Reserve your spot", "Buy at a discount", "Sign up now" |
 
-## Цветовая палитра по эмоциям
+## Color Palette by Emotion
 
-| Эмоция из ДНК | Палитра | Hex примеры |
+| Emotion from DNA | Palette | Hex Examples |
 |---------------|---------|-------------|
-| Тревога, страх | Холодные синие, серые | #2C3E50, #34495E, #7F8C8D |
-| Усталость, выгорание | Приглушённые, десатурированные | #95A5A6, #BDC3C7, #D5DBDB |
-| Надежда, трансформация | Тёплые золотые, янтарные | #F39C12, #E67E22, #F1C40F |
-| Уверенность, сила | Глубокие, насыщенные | #2980B9, #8E44AD, #27AE60 |
-| Срочность, urgency | Красные, оранжевые | #E74C3C, #C0392B, #E67E22 |
-| Премиум, доверие | Тёмные + акценты | #1A1A2E, #16213E, #D4AF37 |
+| Anxiety, fear | Cool blues, grays | #2C3E50, #34495E, #7F8C8D |
+| Fatigue, burnout | Muted, desaturated | #95A5A6, #BDC3C7, #D5DBDB |
+| Hope, transformation | Warm golds, ambers | #F39C12, #E67E22, #F1C40F |
+| Confidence, strength | Deep, saturated | #2980B9, #8E44AD, #27AE60 |
+| Urgency | Reds, oranges | #E74C3C, #C0392B, #E67E22 |
+| Premium, trust | Dark + accents | #1A1A2E, #16213E, #D4AF37 |

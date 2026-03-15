@@ -1,92 +1,92 @@
 # Humanizer RU
 
-Skill для Claude Code, который удаляет признаки AI-генерации из русского текста, делая его живым и человечным.
+A skill for Claude Code that removes signs of AI generation from Russian text, making it lively and human.
 
-## Установка
+## Installation
 
-### Рекомендуемый способ
+### Recommended Method
 
 ```bash
 git clone https://github.com/smixs/humanizer-ru.git ~/.claude/skills/humanizer-ru
 ```
 
-### Ручная установка
+### Manual Installation
 
 ```bash
 mkdir -p ~/.claude/skills/humanizer-ru
 curl -o ~/.claude/skills/humanizer-ru/SKILL.md https://raw.githubusercontent.com/smixs/humanizer-ru/main/SKILL.md
 ```
 
-## Использование
+## Usage
 
-В Claude Code:
+In Claude Code:
 
 ```
 /humanizer-ru
 
-[вставьте ваш текст]
+[paste your text]
 ```
 
-Или просто попросите:
+Or simply ask:
 
 ```
-Очеловечь этот текст: [ваш текст]
+Humanize this text: [your text]
 ```
 
-## 21 паттерн AI-текста
+## 21 Patterns of AI Text
 
-### Канцелярит
-1. Отглагольные существительные вместо глаголов
-2. Цепочки родительных падежей
-3. Избегание "это"/"есть" (Copula Avoidance)
-4. Пассивные конструкции вместо активных
-5. Иностранные слова там, где есть русские
+### Bureaucratic Language
+1. Verbal nouns instead of verbs
+2. Chains of genitive cases
+3. Copula Avoidance (avoiding "is"/"are")
+4. Passive constructions instead of active ones
+5. Foreign words where native equivalents exist
 
-### AI-словарь и раздувание
-6. Перегруженные слова (AI Vocabulary)
-7. Раздувание значимости и известности
-8. Поверхностный анализ с -ание/-ение/-ая
-9. Рекламный язык
-10. Размытые атрибуции (Weasel Words)
-11. Шаблонные переходы
-12. Формульные выводы о "вызовах и перспективах"
+### AI Vocabulary and Padding
+6. Overloaded words (AI Vocabulary)
+7. Inflating significance and fame
+8. Shallow analysis with nominalizations
+9. Promotional language
+10. Weasel Words (vague attributions)
+11. Template transitions
+12. Formulaic conclusions about "challenges and prospects"
 
-### Структурные
-13. Негативные параллелизмы [ЖЁСТКИЙ ЗАПРЕТ]
-14. Правило трёх
-15. Элегантная вариация (Synonym Cycling)
-16. Ложные диапазоны
+### Structural
+13. Negative parallelisms [HARD BAN]
+14. Rule of three
+15. Elegant variation (Synonym Cycling)
+16. False ranges
 
-### Тон и коммуникация
-17. Подобострастный тон (Sycophancy)
-18. Артефакты чатбота
-19. Хеджирование (перестраховка)
-20. Общие позитивные заключения
-21. Эмодзи и избыточное форматирование
+### Tone and Communication
+17. Sycophantic tone (Sycophancy)
+18. Chatbot artifacts
+19. Hedging (over-cautioning)
+20. Generic positive conclusions
+21. Emojis and excessive formatting
 
-## Жёсткие запреты
+## Hard Bans
 
-- "не просто X, а Y"
-- "не только X, но и Y"
-- длинное тире "—" (только короткое "-")
-- риторические вопросы
+- "not just X, but Y"
+- "not only X, but also Y"
+- em dash " — " (use only short dash "-")
+- rhetorical questions
 
-## Пример
+## Example
 
-**До:**
-> Важно отметить, что в современном мире цифровая трансформация представляет собой ключевой фактор развития бизнеса. Наша компания является лидером рынка и осуществляет предоставление высококачественных услуг. Надеемся, данная информация была полезной!
+**Before:**
+> It is important to note that in today's world, digital transformation represents a key factor in business development. Our company is a market leader and provides high-quality services. We hope this information was helpful!
 
-**После:**
-> Мы автоматизируем бизнес-процессы. За 2025 год внедрили CRM в 40 компаний - в среднем это сократило время на рутину на 30%. Клиенты возвращаются: 70% заказывают повторно.
+**After:**
+> We automate business processes. In 2025, we implemented CRM in 40 companies - on average this reduced routine work time by 30%. Clients come back: 70% place repeat orders.
 
-## Источники
+## Sources
 
-Вдохновлён проектом [humanizer](https://github.com/blader/humanizer) от [@blader](https://github.com/blader).
+Inspired by the [humanizer](https://github.com/blader/humanizer) project by [@blader](https://github.com/blader).
 
-Также использованы материалы:
+Also used materials from:
 - [Wikipedia: Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing)
-- [Википедия: Признаки сгенерированности текста](https://ru.wikipedia.org/wiki/Википедия:Признаки_сгенерированности_текста)
+- [Wikipedia (Russian): Signs of AI-generated text](https://ru.wikipedia.org/wiki/Википедия:Признаки_сгенерированности_текста)
 
-## Лицензия
+## License
 
 MIT

@@ -1,63 +1,63 @@
-# Мастер-гайд по AI-промтам для рекламных креативов
+# Master Guide to AI Prompts for Advertising Creatives
 
-5 инструментов генерации. Для каждого: структура промта, лучшие практики, параметры, примеры.
+5 generation tools. For each: prompt structure, best practices, parameters, examples.
 
 ---
 
 ## 1. Midjourney
 
-### Структура промта
+### Prompt Structure
 
 ```
-[Субъект], [действие/поза], [окружение/фон], [стиль фотографии], [камера/объектив], [освещение], [цветовая палитра], [настроение] --ar [соотношение] --v 6.1 --style raw
+[Subject], [action/pose], [environment/background], [photography style], [camera/lens], [lighting], [color palette], [mood] --ar [ratio] --v 6.1 --style raw
 ```
 
-### Параметры
+### Parameters
 
-| Параметр | Значение | Когда |
+| Parameter | Value | When |
 |----------|----------|-------|
-| --v 6.1 | Версия модели | Всегда |
-| --style raw | Меньше "приукрашивания" | Для реалистичных фото |
-| --ar X:Y | Соотношение сторон | Всегда (см. platform-specs.md) |
-| --s 50-150 | Стилизация | 50 = реалистично, 150 = художественно |
-| --q 1 | Качество (по умолчанию) | Стандартное |
-| --no [элемент] | Исключить элемент | Если нужно убрать что-то |
-| --chaos 0-100 | Вариативность | 0 = предсказуемо, 20-40 для тестов |
+| --v 6.1 | Model version | Always |
+| --style raw | Less "embellishment" | For realistic photos |
+| --ar X:Y | Aspect ratio | Always (see platform-specs.md) |
+| --s 50-150 | Stylization | 50 = realistic, 150 = artistic |
+| --q 1 | Quality (default) | Standard |
+| --no [element] | Exclude element | When you need to remove something |
+| --chaos 0-100 | Variability | 0 = predictable, 20-40 for tests |
 
-### Стили для рекламы
+### Styles for Advertising
 
-| Стиль | Ключевые слова в промте | Когда |
+| Style | Keywords in Prompt | When |
 |-------|------------------------|-------|
-| Документальный | documentary photography, candid, natural, 35mm film | Pain-agitate, lifestyle |
-| Студийный | studio lighting, clean background, product shot | Product-hero, offer |
+| Documentary | documentary photography, candid, natural, 35mm film | Pain-agitate, lifestyle |
+| Studio | studio lighting, clean background, product shot | Product-hero, offer |
 | UGC | iPhone photo, casual, authentic, slightly imperfect | TikTok, social proof |
-| Кинематографический | cinematic, anamorphic, shallow depth of field | Before/After, transformation |
-| Минималистичный | minimal, clean, white space, modern design | Text-heavy, infographic |
-| Эмоциональный | intimate, close-up, emotional, soft light | Pain, transformation |
+| Cinematic | cinematic, anamorphic, shallow depth of field | Before/After, transformation |
+| Minimalist | minimal, clean, white space, modern design | Text-heavy, infographic |
+| Emotional | intimate, close-up, emotional, soft light | Pain, transformation |
 
-### Камеры и объективы для реализма
+### Cameras and Lenses for Realism
 
-| Тип | Ключевые слова | Эффект |
+| Type | Keywords | Effect |
 |-----|---------------|--------|
-| Портрет | Canon R5, 85mm f/1.4 | Мягкое боке, фокус на лице |
-| Lifestyle | Sony A7III, 35mm f/1.8 | Широкий контекст, естественно |
-| Деталь | Canon 100mm macro | Крупный план, текстура |
-| Общий план | 24mm wide angle | Пространство, контекст |
-| UGC | iPhone 15, selfie | Аутентичность |
+| Portrait | Canon R5, 85mm f/1.4 | Soft bokeh, face focus |
+| Lifestyle | Sony A7III, 35mm f/1.8 | Wide context, natural |
+| Detail | Canon 100mm macro | Close-up, texture |
+| Wide shot | 24mm wide angle | Space, context |
+| UGC | iPhone 15, selfie | Authenticity |
 
-### Примеры по углам
+### Examples by Angle
 
-**Pain-agitate (ступень 0-1):**
+**Pain-agitate (level 0-1):**
 ```
 A 35-year-old woman sitting alone on bed at 3am, phone glow illuminating tired face, self-help books scattered on nightstand, documentary photography, Canon R5 35mm f/1.8, blue ambient light from phone screen, muted blue-grey tones, exhausted and anxious mood --ar 1:1 --v 6.1 --style raw
 ```
 
-**Transformation (ступень 3-4):**
+**Transformation (level 3-4):**
 ```
 Split composition, left side: exhausted woman in dark room blue tones, right side: same woman radiating confidence in bright sunlit room warm tones, clean dividing line, before and after concept, cinematic photography, balanced lighting --ar 4:5 --v 6.1 --style raw
 ```
 
-**Social proof (ступень 4-5):**
+**Social proof (level 4-5):**
 ```
 Smiling woman in her 30s holding phone showing positive results, cozy home office background, warm natural window light, authentic genuine expression, iPhone selfie style, casual outfit, slightly imperfect framing --ar 1:1 --v 6.1 --style raw
 ```
@@ -66,36 +66,36 @@ Smiling woman in her 30s holding phone showing positive results, cozy home offic
 
 ## 2. DALL-E (DALL-E 3)
 
-### Структура промта
+### Prompt Structure
 
 ```
-[Детальное описание сцены]. [Стиль и техника]. [Композиция и ракурс]. [Освещение и цвет]. [Настроение].
+[Detailed scene description]. [Style and technique]. [Composition and angle]. [Lighting and color]. [Mood].
 ```
 
-### Особенности DALL-E
+### DALL-E Specifics
 
-- Промты на **английском** дают лучший результат
-- Поддерживает **текст на изображении** (указывай в кавычках)
-- Фиксированные размеры: 1024×1024, 1024×1792, 1792×1024
-- Нет параметров вроде --ar, размер указывается при вызове API
-- Более буквально интерпретирует промт (описывай точнее)
+- Prompts in **English** give the best results
+- Supports **text on images** (specify in quotes)
+- Fixed sizes: 1024×1024, 1024×1792, 1792×1024
+- No parameters like --ar; size is specified when calling the API
+- Interprets prompts more literally (describe more precisely)
 
-### Размеры
+### Sizes
 
-| Платформа | Размер DALL-E | Примечание |
+| Platform | DALL-E Size | Note |
 |-----------|---------------|------------|
 | Meta Feed, Google Square | 1024×1024 | 1:1 |
 | Stories, Reels, TikTok | 1024×1792 | ~9:16 |
 | YouTube, Google Landscape | 1792×1024 | ~16:9 |
 
-### Пример промта
+### Example Prompts
 
 **Pain-agitate:**
 ```
 Photorealistic image of a woman in her mid-30s sitting on the edge of her bed at 3 AM. Her face is illuminated by the blue glow of her smartphone. She looks exhausted with dark circles under her eyes. Self-help books are scattered on the nightstand. The room is dark with blue-grey ambient tones. Documentary photography style with natural, candid feel. The mood is isolated and anxious.
 ```
 
-**Text-heavy (с текстом на изображении):**
+**Text-heavy (with text on image):**
 ```
 Clean minimalist graphic design on warm cream background. Large bold text in the center reading "90% don't know this". Subtle geometric shapes in soft coral and terracotta colors. Modern sans-serif typography. Clean and professional look suitable for social media advertising.
 ```
@@ -104,22 +104,22 @@ Clean minimalist graphic design on warm cream background. Large bold text in the
 
 ## 3. Nano Banana Pro
 
-### Структура промта
+### Prompt Structure
 
 ```
-[Описание сцены], [стиль визуала], [композиция], [палитра], [формат/размер]
+[Scene description], [visual style], [composition], [palette], [format/size]
 ```
 
-### Особенности
+### Specifics
 
-- Оптимизирован для **коммерческих визуалов**
-- Хорошо работает с **product shots** и **branding**
-- Поддерживает указание формата в промте
-- Менее детализированный промт, чем Midjourney
+- Optimized for **commercial visuals**
+- Works well with **product shots** and **branding**
+- Supports specifying format in the prompt
+- Less detailed prompt than Midjourney
 
-### Стили для рекламы
+### Styles for Advertising
 
-| Стиль | Ключевые слова |
+| Style | Keywords |
 |-------|---------------|
 | Product | clean product photography, studio, white background |
 | Lifestyle | lifestyle shot, natural setting, authentic |
@@ -127,14 +127,14 @@ Clean minimalist graphic design on warm cream background. Large bold text in the
 | Social Media | social media graphic, vibrant, eye-catching |
 | Minimal | minimalist, clean lines, negative space |
 
-### Пример промта
+### Example Prompts
 
-**Lifestyle (ступень 0-1):**
+**Lifestyle (level 0-1):**
 ```
 Woman sitting alone on bed late at night looking at phone, tired expression, messy hair, blue phone glow on face, dark bedroom with soft shadows, documentary lifestyle photography, muted blue-grey palette, square format 1:1
 ```
 
-**Product-hero (ступень 4-5):**
+**Product-hero (level 4-5):**
 ```
 Digital course mockup on modern laptop screen, woman smiling on screen, surrounded by floating benefit icons, clean white background with soft gradient, professional product photography, warm coral and white palette, vertical format 9:16
 ```
@@ -143,43 +143,43 @@ Digital course mockup on modern laptop screen, woman smiling on screen, surround
 
 ## 4. Higgsfield
 
-### Структура промта
+### Prompt Structure
 
-Заточен под **вертикальное видео** (Reels/TikTok), **UGC-стиль**.
+Designed for **vertical video** (Reels/TikTok), **UGC style**.
 
 ```
-[Действие персонажа], [UGC/selfie стиль], [вертикальный формат], [разговор на камеру или lifestyle], [длительность], [настроение]
+[Character action], [UGC/selfie style], [vertical format], [talking to camera or lifestyle], [duration], [mood]
 ```
 
-### Особенности
+### Specifics
 
-- Специализация: **UGC-видео для соцсетей**
-- Вертикальный формат по умолчанию
-- Лучший результат с **talking head** и **lifestyle** сценами
-- Не подходит для кинематографического стиля
+- Specialization: **UGC video for social media**
+- Vertical format by default
+- Best results with **talking head** and **lifestyle** scenes
+- Not suitable for cinematic style
 
-### Типы контента
+### Content Types
 
-| Тип | Промт-паттерн | Когда |
+| Type | Prompt Pattern | When |
 |-----|--------------|-------|
 | Talking head | "[Person] talking directly to camera, selfie angle..." | Story, myth-busting |
 | Lifestyle | "[Person] doing [action] in [location]..." | Before/after, transformation |
 | Reaction | "[Person] reacting to [something] with [emotion]..." | Hook, pain |
 | Tutorial | "[Person] showing [process] step by step..." | Education, solution |
 
-### Примеры
+### Examples
 
-**Hook (ступень 0-1):**
+**Hook (level 0-1):**
 ```
 Young woman talking directly to camera in her bedroom at night, selfie style, vertical format, she looks tired and frustrated, blue phone light on her face, authentic UGC feel, she starts speaking with urgency about not being able to sleep, warm indoor lighting, 3 seconds, anxious and relatable tone
 ```
 
-**Story (ступень 1-2):**
+**Story (level 1-2):**
 ```
 Woman in her 30s sitting in cozy living room, talking to camera in confessional style, vertical format, she shares personal story about trying everything for anxiety, genuine emotional delivery, natural daylight from window, 15 seconds, vulnerable but hopeful tone
 ```
 
-**Transformation (ступень 3-4):**
+**Transformation (level 3-4):**
 ```
 Split screen effect: left side shows stressed woman in dark room, right side shows same woman smiling confidently in bright setting, vertical format, dramatic transition between two states, before and after concept, 5 seconds, inspiring and empowering tone
 ```
@@ -188,28 +188,28 @@ Split screen effect: left side shows stressed woman in dark room, right side sho
 
 ## 5. Runway / Sora
 
-### Структура промта (покадровый)
+### Prompt Structure (frame-by-frame)
 
 ```
-Scene [N]: [Описание сцены], [движение камеры], [стиль], [освещение], [длительность]
+Scene [N]: [Scene description], [camera movement], [style], [lighting], [duration]
 ```
 
-### Движения камеры
+### Camera Movements
 
-| Движение | Ключевые слова | Эффект |
+| Movement | Keywords | Effect |
 |----------|---------------|--------|
-| Статика | static shot, locked off | Стабильность, акцент на субъекте |
-| Наезд | slow push in, camera push in | Внимание, интимность |
-| Отъезд | slow pull back, camera pulls back | Контекст, reveal |
-| Панорама | slow pan left/right | Обзор, переход |
-| Tracking | tracking shot, following | Движение, энергия |
-| Crane | crane up/down | Масштаб, драматизм |
-| Handheld | handheld, slight shake | Документальность, UGC |
-| Timelapse | time-lapse, accelerated | Трансформация, время |
+| Static | static shot, locked off | Stability, focus on subject |
+| Push in | slow push in, camera push in | Attention, intimacy |
+| Pull back | slow pull back, camera pulls back | Context, reveal |
+| Pan | slow pan left/right | Overview, transition |
+| Tracking | tracking shot, following | Movement, energy |
+| Crane | crane up/down | Scale, drama |
+| Handheld | handheld, slight shake | Documentary feel, UGC |
+| Timelapse | time-lapse, accelerated | Transformation, time |
 
-### Стили
+### Styles
 
-| Стиль | Когда | Ключевые слова |
+| Style | When | Keywords |
 |-------|-------|---------------|
 | Documentary | Pain-agitate, real stories | documentary, handheld, natural light |
 | Cinematic | Transformation, premium | cinematic, anamorphic, color graded |
@@ -217,7 +217,7 @@ Scene [N]: [Описание сцены], [движение камеры], [ст
 | Commercial | Product, offer | polished, clean, professional |
 | Dramatic | Myth-busting, reveal | dramatic lighting, high contrast |
 
-### Пример полного сценария (30 сек, ступень 0-1)
+### Full Script Example (30 sec, level 0-1)
 
 ```
 Scene 1: Close-up of a woman's face illuminated by phone screen in dark bedroom, slight camera push in, documentary style, blue ambient light, 3 seconds
@@ -233,7 +233,7 @@ Scene 5: Time-lapse of sunrise through bedroom window, woman doing calm breathin
 Scene 6: Woman smiling with genuine confidence in bright sunlit room, static shot with gentle bokeh background, warm natural light, text overlay appears, 5 seconds
 ```
 
-### Пример для TikTok (15 сек, Higgsfield-стиль в Runway)
+### TikTok Example (15 sec, Higgsfield style in Runway)
 
 ```
 Scene 1: Young woman picks up phone and starts talking to camera, bedroom setting, selfie angle vertical format, natural indoor lighting, authentic and casual, 3 seconds
@@ -247,53 +247,53 @@ Scene 4: Back to talking head, woman smiles and points down (to link), text over
 
 ---
 
-## Универсальные правила промт-инжиниринга
+## Universal Prompt Engineering Rules
 
-### 1. Конкретность
+### 1. Specificity
 
-| Плохо | Хорошо |
+| Bad | Good |
 |-------|--------|
 | A sad woman | A 35-year-old woman with dark circles under her eyes, sitting alone on the edge of her bed at 3am |
 | Nice lighting | Warm golden hour light streaming through a window, soft shadows |
 | Beautiful background | Cozy bedroom with white linen, potted plants, morning light |
 
-### 2. Язык промта — всегда английский
-Даже если целевая аудитория русскоязычная, промты для AI пишутся на английском. Текст на русском добавляется поверх в дизайне.
+### 2. Prompt Language — Always English
+Even if the target audience speaks Russian, prompts for AI are written in English. Text in Russian is added on top in the design phase.
 
-### 3. Порядок элементов (от важного к деталям)
-1. Субъект (кто/что)
-2. Действие (что делает)
-3. Окружение (где)
-4. Стиль (как выглядит)
-5. Технические детали (камера, свет)
-6. Параметры (--ar, --v)
+### 3. Element Order (from most important to details)
+1. Subject (who/what)
+2. Action (what they're doing)
+3. Environment (where)
+4. Style (how it looks)
+5. Technical details (camera, lighting)
+6. Parameters (--ar, --v)
 
-### 4. Консистентность серии
-Для A/B вариаций используй **общую базу промта** и меняй только тестируемый элемент:
+### 4. Series Consistency
+For A/B variations, use a **shared base prompt** and change only the element being tested:
 
 ```
-БАЗА: A 35-year-old woman, documentary photography, Canon R5, muted tones --v 6.1 --style raw
+BASE: A 35-year-old woman, documentary photography, Canon R5, muted tones --v 6.1 --style raw
 
-Вариация A: [БАЗА] + sitting alone on bed at 3am, phone glow --ar 1:1
-Вариация B: [БАЗА] + close-up of hands clutching phone anxiously --ar 1:1
-Вариация C: [БАЗА] + standing by window looking out at dark city --ar 1:1
+Variation A: [BASE] + sitting alone on bed at 3am, phone glow --ar 1:1
+Variation B: [BASE] + close-up of hands clutching phone anxiously --ar 1:1
+Variation C: [BASE] + standing by window looking out at dark city --ar 1:1
 ```
 
-### 5. Текст на изображении
-- **Midjourney:** Плохо генерирует текст. Не включай текст в промт — добавляй в дизайне.
-- **DALL-E:** Умеет генерировать текст. Указывай в кавычках: `text reading "Your headline here"`
-- **Nano Banana Pro:** Средне. Лучше добавлять текст отдельно.
+### 5. Text on Images
+- **Midjourney:** Poor at generating text. Don't include text in the prompt — add it in the design phase.
+- **DALL-E:** Can generate text. Specify in quotes: `text reading "Your headline here"`
+- **Nano Banana Pro:** Average. Better to add text separately.
 
-### 6. Таблица соответствия: угол → инструмент
+### 6. Angle → Tool Mapping Table
 
-| Угол | Лучший инструмент | Почему |
+| Angle | Best Tool | Why |
 |------|-------------------|--------|
-| Pain-agitate (статика) | Midjourney | Реализм, эмоция, детализация |
-| Text-heavy | DALL-E | Генерация текста на изображении |
-| Before/After | Midjourney | Контроль над композицией |
-| Social proof / UGC (статика) | Nano Banana Pro | Быстрый, коммерческий стиль |
-| Product-hero | Nano Banana Pro | Заточен под продуктовые визуалы |
-| UGC видео | Higgsfield | Специализация на вертикальном UGC |
-| Кинематографическое видео | Runway/Sora | Качество, контроль камеры |
-| TikTok нативное | Higgsfield | UGC-стиль, вертикальный формат |
-| YouTube pre-roll | Runway/Sora | Горизонтальный, кинематографичный |
+| Pain-agitate (static) | Midjourney | Realism, emotion, detail |
+| Text-heavy | DALL-E | Text generation on images |
+| Before/After | Midjourney | Composition control |
+| Social proof / UGC (static) | Nano Banana Pro | Fast, commercial style |
+| Product-hero | Nano Banana Pro | Designed for product visuals |
+| UGC video | Higgsfield | Specializes in vertical UGC |
+| Cinematic video | Runway/Sora | Quality, camera control |
+| TikTok native | Higgsfield | UGC style, vertical format |
+| YouTube pre-roll | Runway/Sora | Horizontal, cinematic |

@@ -1,92 +1,92 @@
 # Quick Start: Narcissist Communication Expert
 
-## 🚀 Быстрый старт за 30 секунд
+## Quick Start in 30 Seconds
 
-### 1. Вызови skill:
-
-```bash
-/narcissist-standalone [твой запрос]
-```
-
----
-
-## 📝 Основные сценарии:
-
-### Проверка черновика:
+### 1. Invoke the skill:
 
 ```bash
-/narcissist-standalone Проверь: "Почему ты не ответил на мой вопрос про деньги?"
+/narcissist-standalone [your request]
 ```
 
-### Адаптация сообщения:
+---
+
+## Main Scenarios:
+
+### Check a draft:
 
 ```bash
-/narcissist-standalone Адаптируй: "Мне надоели твои манипуляции!"
+/narcissist-standalone Check: "Why didn't you answer my question about the money?"
 ```
 
-### Ответ на полученное сообщение:
+### Adapt a message:
 
 ```bash
-/narcissist-standalone Он написал: "Ты разрушила семью!" Как ответить?
+/narcissist-standalone Adapt: "I'm sick of your manipulations!"
+```
+
+### Respond to a received message:
+
+```bash
+/narcissist-standalone He wrote: "You destroyed the family!" How to respond?
 ```
 
 ---
 
-## ⚡️ Что получишь:
+## What You'll Get:
 
-1. **Анализ опасных элементов** — что триггерит нарцисса
-2. **Готовый текст** — безопасный вариант сообщения
-3. **Объяснение** — почему это работает
-4. **Альтернатива** — более жёсткий/мягкий вариант
-5. **Предсказание DARVO** — если нарцисс начнёт атаковать
-
----
-
-## 🎯 Типичные задачи:
-
-### Задача 1: Требование алиментов
-```
-/narcissist-standalone Андрей не отвечает про деньги. Как его побудить к ответу?
-```
-
-### Задача 2: Защита от обвинений
-```
-/narcissist-standalone Он обвиняет меня в том, что я настраиваю детей против него.
-```
-
-### Задача 3: Установка границ
-```
-/narcissist-standalone Как сказать "нет" без оправданий?
-```
+1. **Dangerous element analysis** — what triggers the narcissist
+2. **Ready-to-send text** — a safe version of the message
+3. **Explanation** — why it works
+4. **Alternative** — a harder/softer version
+5. **DARVO prediction** — if the narcissist starts attacking
 
 ---
 
-## ✅ Чеклист перед отправкой:
+## Typical Tasks:
 
-Skill автоматически проверит:
-- ❌ Нет запрещённых фраз
-- ❌ Нет эмоций
-- ❌ Нет оправданий
-- ✅ Есть конкретный вопрос
-- ✅ Есть дедлайн
-- ✅ Есть последствия
+### Task 1: Demanding child support
+```
+/narcissist-standalone Andrew isn't responding about the money. How to prompt a response?
+```
 
----
+### Task 2: Defense against accusations
+```
+/narcissist-standalone He accuses me of turning the children against him.
+```
 
-## 🧠 Помни:
-
-1. **Спокойствие** = самое страшное для нарцисса
-2. **Фиксация письменно** = защита от отрицания
-3. **Дедлайны + последствия** = единственный язык контроля
-4. **Вероятность изменения < 5%** = цель не лечить, а защитить себя
+### Task 3: Setting boundaries
+```
+/narcissist-standalone How to say "no" without making excuses?
+```
 
 ---
 
-## 📖 Больше информации:
+## Pre-Send Checklist:
 
-- `README.md` — полное описание
-- `PROMPT.md` — вся психология (167 KB)
+The skill automatically checks:
+- No forbidden phrases
+- No emotions
+- No excuses
+- Has a specific question
+- Has a deadline
+- Has consequences
 
 ---
 
-**Готово! Теперь попробуй вызвать skill с реальным примером.**
+## Remember:
+
+1. **Calmness** = the most terrifying thing for a narcissist
+2. **Written documentation** = protection against denial
+3. **Deadlines + consequences** = the only language of control
+4. **Probability of change < 5%** = the goal is not to heal, but to protect yourself
+
+---
+
+## More Information:
+
+- `README.md` — full description
+- `PROMPT.md` — all psychology (167 KB)
+
+---
+
+**Ready! Now try invoking the skill with a real example.**

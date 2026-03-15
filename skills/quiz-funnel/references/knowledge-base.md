@@ -1,248 +1,248 @@
-# База знаний: Конверсионные паттерны, ADHD-UX и дизайн-системы
+# Knowledge Base: Conversion Patterns, ADHD-UX, and Design Systems
 
-## 1. Библиотека CTA-формул
+## 1. CTA Formula Library
 
-### CTA от первого лица (увеличивают CTR)
-Использование первого лица создаёт agency — "я принимаю решение", а не "мне продают".
+### First-Person CTAs (increase CTR)
+Using first person creates agency — "I'm making a decision," not "they're selling to me."
 
-**Шаблоны:**
-- "Начать мою перезагрузку" (first person + action)
-- "Узнать мой план восстановления" (curiosity + персонализация)
-- "Забронировать место бесплатно" (zero risk + exclusivity)
-- "Разблокировать мой результат" (gamification + curiosity gap)
-- "Получить мою стратегию" (ownership + value)
-- "Присоединиться к [N] участникам" (social proof + action)
-- "Начать бесплатный тест" (low friction)
-- "Показать мой план" (curiosity)
-- "Записаться первым" (exclusivity + urgency)
-- "Забрать мой бонус" (value + ownership)
+**Templates:**
+- "Start my reboot" (first person + action)
+- "See my recovery plan" (curiosity + personalization)
+- "Reserve my spot for free" (zero risk + exclusivity)
+- "Unlock my result" (gamification + curiosity gap)
+- "Get my strategy" (ownership + value)
+- "Join [N] participants" (social proof + action)
+- "Start free test" (low friction)
+- "Show my plan" (curiosity)
+- "Sign up first" (exclusivity + urgency)
+- "Claim my bonus" (value + ownership)
 
-### Анти-паттерны (НЕ использовать):
-- "Отправить" / "Submit" — безликое
-- "Зарегистрироваться" — слишком формальное
-- "Купить" — преждевременное
-- "Подписаться" — ассоциация с обязательствами
+### Anti-patterns (DO NOT use):
+- "Submit" — faceless
+- "Register" — too formal
+- "Buy" — premature
+- "Subscribe" — association with obligations
 
-### Verbatim repetition
-Повторение ключевого сообщения заголовка на кнопке CTA увеличивает конверсию на 10+ п.п.
-Пример: Заголовок "Перезагрузи свой мозг" → Кнопка "Начать перезагрузку"
+### Verbatim Repetition
+Repeating the headline's key message on the CTA button increases conversion by 10+ percentage points.
+Example: Headline "Reboot your brain" → Button "Start my reboot"
 
 ---
 
-## 2. Конверсионные механики
+## 2. Conversion Mechanics
 
-### Waitlist с позицией в очереди (Robinhood-модель)
-- После подписки показать: "Ты #347 в очереди"
-- "Пригласи друга — поднимись выше"
-- Создаёт вирусную петлю (Robinhood: 1M+ waitlist)
-- Инструменты: LaunchList, Prefinery, Waitlister, QueueForm
+### Waitlist with Queue Position (Robinhood model)
+- After signup show: "You're #347 in line"
+- "Invite a friend — move up"
+- Creates a viral loop (Robinhood: 1M+ waitlist)
+- Tools: LaunchList, Prefinery, Waitlister, QueueForm
 
-### Milestone rewards (Duolingo-модель)
-- "Пригласил 3 друзей → бесплатный месяц"
-- "10 друзей → lifetime доступ"
-- Бейджи увеличивают рефералы на 116%
+### Milestone Rewards (Duolingo model)
+- "Invited 3 friends → free month"
+- "10 friends → lifetime access"
+- Badges increase referrals by 116%
 
 ### Early Bird
-- "Первым 500 — 50% скидка навсегда" с реальным счётчиком
-- Создаёт urgency + exclusivity
-- Счётчик должен быть РЕАЛЬНЫМ (не фейковым — аудитория чувствительна)
+- "First 500 get 50% off forever" with a real counter
+- Creates urgency + exclusivity
+- Counter must be REAL (not fake — audiences are sensitive)
 
 ### Countdown Timer
-- "Предзапись закрывается через 48:00:00"
-- ВНИМАНИЕ: для ADHD-аудитории таймеры могут вызывать тревожность
-- Используй мягкую версию: "Набор до [дата]" вместо обратного отсчёта
+- "Pre-registration closes in 48:00:00"
+- WARNING: for ADHD audiences, timers can trigger anxiety
+- Use a soft version: "Enrollment until [date]" instead of countdown
 
-### Achievement после квиза
-- "Ты разблокировал статус [Название]!"
-- Шеринг в Stories — драйвер виральности
-- "Сохрани свой Score и отслеживай прогресс" (endowment effect)
+### Post-Quiz Achievement
+- "You've unlocked [Name] status!"
+- Stories sharing — virality driver
+- "Save your Score and track progress" (endowment effect)
 
-### Social Proof (паттерны)
-- Live-счётчик: "Уже записались: 1,247" (обновляется)
-- Цитаты участников (1-2 коротких)
-- Логотипы (если B2B): "Доверяют: [лого]"
-- Число: "60,000+ пользователей" (Done.)
-- Рейтинг: "4.8/5 удовлетворённость"
+### Social Proof (patterns)
+- Live counter: "Already signed up: 1,247" (updates)
+- Participant quotes (1-2 short ones)
+- Logos (if B2B): "Trusted by: [logos]"
+- Number: "60,000+ users" (Done.)
+- Rating: "4.8/5 satisfaction"
 
-### Lead capture после вовлечения (ADDA-модель)
-- E-mail запрашивается ПОСЛЕ прохождения теста, когда пользователь хочет увидеть результат
-- Повышает конверсию до 30%+
-- "Отправим полный результат на e-mail" — обмен ценности на контакт
+### Lead Capture After Engagement (ADDA model)
+- E-mail is requested AFTER completing the test, when the user wants to see the result
+- Increases conversion to 30%+
+- "We'll send the full result to your e-mail" — exchanging value for contact info
 
 ---
 
-## 3. ADHD-Friendly UX принципы
+## 3. ADHD-Friendly UX Principles
 
-### Критические правила (применяй ВСЕГДА для wellness/mental health ниши)
+### Critical Rules (ALWAYS apply for wellness/mental health niche)
 
-| Принцип | Реализация | Почему работает |
+| Principle | Implementation | Why it works |
 |---------|-----------|-----------------|
-| Один вопрос на экран | Typeform-стиль | 60% выше response rate |
-| Progress bar всегда виден | Sticky top bar | +14-42% к конверсии |
-| Chunking (max 7 элементов) | Закон Миллера | Netflix/Etsy ограничивают до 6 |
-| Progressive disclosure | Информация по мере необходимости | Снижает когнитивную нагрузку |
-| Мгновенная обратная связь | Анимация + haptic при выборе | Микро-дофамин за каждое действие |
-| Минимум текста | Одно предложение на экран | Снижает визуальную усталость |
-| Спокойные визуалы | Пастельные тона, мало анимаций | Overstimulation — враг ADHD |
-| Без таймеров | Самостоятельный темп | Таймеры вызывают тревожность |
-| Auto-save | Можно вернуться | Время заполнения -50% |
-| Sticky CTA | Кнопка всегда видна | +10% конверсия, 2x pages/session |
-| < 3 сек до первого взаимодействия | Первый элемент без скролла | 53% уходят при >3 сек загрузки |
-| Один CTA на страницу | Одна цель | Закон Хика: множество = паралич |
+| One question per screen | Typeform-style | 60% higher response rate |
+| Progress bar always visible | Sticky top bar | +14-42% conversion |
+| Chunking (max 7 items) | Miller's Law | Netflix/Etsy limit to 6 |
+| Progressive disclosure | Information as needed | Reduces cognitive load |
+| Instant feedback | Animation + haptic on selection | Micro-dopamine for each action |
+| Minimal text | One sentence per screen | Reduces visual fatigue |
+| Calm visuals | Pastel tones, minimal animations | Overstimulation is the enemy of ADHD |
+| No timers | Self-paced | Timers trigger anxiety |
+| Auto-save | Can return later | Completion time -50% |
+| Sticky CTA | Button always visible | +10% conversion, 2x pages/session |
+| < 3 sec to first interaction | First element without scrolling | 53% leave at >3 sec load time |
+| One CTA per page | One goal | Hick's Law: many options = paralysis |
 
-### Что НЕ делать для ADHD-аудитории
-- Строгие таймеры/дедлайны — усиливают тревожность
-- Жёсткое наказание (HP loss, умирающие деревья) — демотивирует
-- Перегруженный UI (множество элементов, мигающие анимации)
-- Высококонкурентные лидерборды — стресс из-за rejection sensitivity
-- Слишком много опций одновременно — паралич выбора
-- Пассивный контент без взаимодействия
+### What NOT to do for ADHD audiences
+- Strict timers/deadlines — increase anxiety
+- Harsh punishment (HP loss, dying trees) — demotivates
+- Overloaded UI (many elements, flashing animations)
+- Highly competitive leaderboards — stress from rejection sensitivity
+- Too many options at once — choice paralysis
+- Passive content without interaction
 
-### Элементы, идеальные для ADHD
-- Мгновенная визуальная обратная связь (каждые 15 минут = микро-анимация)
-- Визуальная временная шкала (кольцевой таймер, радиальный прогресс)
-- Персонализированные награды (пользователь сам определяет "призы")
-- Новизна и unpredictability (рандомные бонусы, сезонные ивенты)
-- Гибкий темп без fail state ("Freeze" стрика без потери прогресса)
+### Elements Ideal for ADHD
+- Instant visual feedback (every 15 minutes = micro-animation)
+- Visual timeline (ring timer, radial progress)
+- Personalized rewards (user defines their own "prizes")
+- Novelty and unpredictability (random bonuses, seasonal events)
+- Flexible pacing without fail state ("Freeze" streak without losing progress)
 
 ---
 
-## 4. Дизайн-системы для квиз-лендингов
+## 4. Design Systems for Quiz Landing Pages
 
-### Система A: Dark High-Contrast (NeuroSamurai-стиль)
-- Фон: #000000 или #0A0A0A
-- Акцент: #00FF88 (ярко-зелёный)
-- Негативные метрики: #FF4444 (красный), #FF8800 (оранжевый)
-- Предупреждения: #FFD700 (жёлтый)
-- Текст: #FFFFFF (основной), #999999 (второстепенный)
-- Карточки: #1A1A2E или #111827, border 1px solid #333
-- Выбранная карточка: border-color: #00FF88, glow: box-shadow 0 0 20px rgba(0,255,136,0.3)
-- Зелёная карточка (инсайт): фон #00FF8820, border #00FF88
-- CTA кнопка: фон #00FF88, текст #000, radius 12px, glow: 0 0 30px rgba(0,255,136,0.4)
-- Шрифт: Inter, system-ui, -apple-system
-- Лучше всего для: tech, biohacking, детокс, СДВГ, геймификация
+### System A: Dark High-Contrast (NeuroSamurai-style)
+- Background: #000000 or #0A0A0A
+- Accent: #00FF88 (bright green)
+- Negative metrics: #FF4444 (red), #FF8800 (orange)
+- Warnings: #FFD700 (yellow)
+- Text: #FFFFFF (primary), #999999 (secondary)
+- Cards: #1A1A2E or #111827, border 1px solid #333
+- Selected card: border-color: #00FF88, glow: box-shadow 0 0 20px rgba(0,255,136,0.3)
+- Green card (insight): background #00FF8820, border #00FF88
+- CTA button: background #00FF88, text #000, radius 12px, glow: 0 0 30px rgba(0,255,136,0.4)
+- Font: Inter, system-ui, -apple-system
+- Best for: tech, biohacking, detox, ADHD, gamification
 
-### Система B: Calm Wellness (Headspace/Calm-стиль)
-- Фон: #F8F6F4 (тёплый белый) или #FAFAFA
-- Акцент: #6C63FF (мягкий фиолетовый) или #5B86E5 (спокойный синий)
-- Позитив: #4CAF50 (зелёный)
-- Негатив: #FF6B6B (мягкий красный)
-- Текст: #2D3436 (почти чёрный), #636E72 (серый)
-- Карточки: #FFFFFF, radius 16px, shadow: 0 2px 12px rgba(0,0,0,0.08)
-- Выбранная карточка: border 2px solid акцент, лёгкий shadow
-- CTA кнопка: gradient или solid акцент, radius 24px (pill-shape)
-- Шрифт: DM Sans, Nunito, или Inter
-- Лучше всего для: терапия, медитация, self-care, женская аудитория
+### System B: Calm Wellness (Headspace/Calm-style)
+- Background: #F8F6F4 (warm white) or #FAFAFA
+- Accent: #6C63FF (soft purple) or #5B86E5 (calm blue)
+- Positive: #4CAF50 (green)
+- Negative: #FF6B6B (soft red)
+- Text: #2D3436 (near black), #636E72 (gray)
+- Cards: #FFFFFF, radius 16px, shadow: 0 2px 12px rgba(0,0,0,0.08)
+- Selected card: border 2px solid accent, light shadow
+- CTA button: gradient or solid accent, radius 24px (pill-shape)
+- Font: DM Sans, Nunito, or Inter
+- Best for: therapy, meditation, self-care, female audience
 
-### Система C: Energy Business (финансы/продуктивность)
-- Фон: #0F0F1A (deep navy)
-- Акцент: #FFD700 (золотой) или #FF6B35 (оранжевый)
-- Градиенты: linear-gradient(135deg, #667eea 0%, #764ba2 100%) для карточек
-- Текст: #FFFFFF, #A0A0B0
-- Карточки: rgba(255,255,255,0.05), backdrop-blur, border rgba(255,255,255,0.1)
+### System C: Energy Business (finance/productivity)
+- Background: #0F0F1A (deep navy)
+- Accent: #FFD700 (gold) or #FF6B35 (orange)
+- Gradients: linear-gradient(135deg, #667eea 0%, #764ba2 100%) for cards
+- Text: #FFFFFF, #A0A0B0
+- Cards: rgba(255,255,255,0.05), backdrop-blur, border rgba(255,255,255,0.1)
 - Glassmorphism: backdrop-filter: blur(10px)
-- CTA кнопка: gradient золотой, font-weight 700
-- Лучше всего для: бизнес, финансы, продуктивность, мужская аудитория
+- CTA button: gold gradient, font-weight 700
+- Best for: business, finance, productivity, male audience
 
-### Система D: Nature/Organic (eco/wellness)
-- Фон: #F5F0EB (бежевый)
-- Акцент: #2D6A4F (тёмно-зелёный)
-- Вторичный: #95D5B2 (мятный)
-- Текст: #1B4332, #52796F
-- Карточки: #FFFFFF, border-radius 12px
-- Иллюстрации: line-art, ботанические мотивы
-- Шрифт: Lora (serif) для заголовков, Inter для текста
-- Лучше всего для: экология, здоровье, питание, натуральные продукты
+### System D: Nature/Organic (eco/wellness)
+- Background: #F5F0EB (beige)
+- Accent: #2D6A4F (dark green)
+- Secondary: #95D5B2 (mint)
+- Text: #1B4332, #52796F
+- Cards: #FFFFFF, border-radius 12px
+- Illustrations: line-art, botanical motifs
+- Font: Lora (serif) for headings, Inter for body text
+- Best for: ecology, health, nutrition, natural products
 
-### Общие компоненты (для всех систем)
+### Common Components (for all systems)
 
 **Progress Bar:**
 - Height: 4px, position: fixed top
-- Gradient или solid акцент
-- Анимация: transition width 0.3s ease
+- Gradient or solid accent
+- Animation: transition width 0.3s ease
 
 **Chat Bubble:**
-- Фон: rgba(255,255,255,0.1) для тёмных тем или #F0F0F0 для светлых
-- Border-radius: 18px 18px 4px 18px (хвостик справа)
+- Background: rgba(255,255,255,0.1) for dark themes or #F0F0F0 for light themes
+- Border-radius: 18px 18px 4px 18px (tail on right)
 - Padding: 12px 16px
-- Шрифт: на 2px меньше основного
+- Font: 2px smaller than body
 
 **Option Card:**
 - Min-height: 56px
 - Padding: 16px
 - Border-radius: 12px
 - Transition: all 0.2s ease
-- При выборе: scale(1.02), border-color: акцент, glow
+- On selection: scale(1.02), border-color: accent, glow
 
 **CTA Button:**
-- Width: 100% (внутри контейнера)
-- Height: 56px минимум
-- Border-radius: 12px (или 28px для pill)
+- Width: 100% (within container)
+- Height: 56px minimum
+- Border-radius: 12px (or 28px for pill)
 - Font-weight: 600-700
 - Letter-spacing: 0.5px
-- Glow-эффект: box-shadow с акцентным цветом, opacity 0.3-0.4
+- Glow effect: box-shadow with accent color, opacity 0.3-0.4
 
-**Анимации (Framer Motion):**
-- Переходы между экранами: fade + slide up (duration 0.3-0.5s)
-- Появление элементов: stagger children (0.05-0.1s между элементами)
-- Выбор варианта: scale(1.02) + border glow
-- Шок-числа: count-up animation от 0 до значения (1.5-2s)
+**Animations (Framer Motion):**
+- Screen transitions: fade + slide up (duration 0.3-0.5s)
+- Element appearance: stagger children (0.05-0.1s between elements)
+- Option selection: scale(1.02) + border glow
+- Shock numbers: count-up animation from 0 to value (1.5-2s)
 - Progress bar: spring animation
 
 ---
 
-## 5. Психология "Aha-Moment"
+## 5. Psychology of the "Aha Moment"
 
-### Что создаёт Aha-момент
-- "First win за 60 секунд" — завершить действие и получить ценность до запроса данных
-- "Зеркало проблемы" — пользователь СОЗНАЕТ проблему через вопросы ("да, я теряю фокус каждые 10 минут")
-- "Персонализированный результат" — не "наш продукт хорош", а "вот что с ТОБОЙ и как изменить"
-- "Рефрейминг" — до квиза проблема абстрактна, после — конкретна и измерима
+### What Creates an Aha Moment
+- "First win in 60 seconds" — complete an action and receive value before data is requested
+- "Problem mirror" — the user REALIZES their problem through questions ("yes, I lose focus every 10 minutes")
+- "Personalized result" — not "our product is great," but "here's what's going on with YOU and how to change it"
+- "Reframing" — before the quiz, the problem is abstract; after — concrete and measurable
 
-### Nudge после Aha-момента
-Сразу после aha-moment — чёткий CTA. Задержка даже на 1 экран снижает конверсию.
-Пример: Шок-число → сразу кнопка "Начни перезагрузку"
+### Nudge After the Aha Moment
+Immediately after the aha moment — clear CTA. Even a 1-screen delay reduces conversion.
+Example: Shock number → immediate button "Start your reboot"
 
 ---
 
-## 6. Кейсы с метриками
+## 6. Case Studies with Metrics
 
-| Кейс | Механика | Результат |
+| Case | Mechanic | Result |
 |------|----------|-----------|
-| Noom | 67-шаговый квиз, 3:1 cadence | $500M+ выручки |
-| BedGear PillowID | Квиз-подборщик | +490% конверсия |
-| Peak Wellness | Квиз-подборщик сауны | 37X ROI |
-| RANAVAT | "Find Your Royal Ritual" квиз | +294% конверсия, 16% выручки |
-| Double Denim + Typeform | Калькулятор ROI | $3.67M продаж |
-| Obvi | Квиз-редизайн | 45% → 80% completion rate |
-| Robinhood | Waitlist с позицией | 1M+ signups до запуска |
-| Duolingo | Стрики + бейджи + лиги | Retention 12% → 55% |
-| Focus & Flow | Типологический ADHD квиз | Монетизация через $25 планировщик |
-| Done. | 1-мин скрининг | 60,000+ пользователей |
+| Noom | 67-step quiz, 3:1 cadence | $500M+ revenue |
+| BedGear PillowID | Quiz-matcher | +490% conversion |
+| Peak Wellness | Sauna quiz-matcher | 37X ROI |
+| RANAVAT | "Find Your Royal Ritual" quiz | +294% conversion, 16% of revenue |
+| Double Denim + Typeform | ROI calculator | $3.67M in sales |
+| Obvi | Quiz redesign | 45% → 80% completion rate |
+| Robinhood | Waitlist with position | 1M+ signups before launch |
+| Duolingo | Streaks + badges + leagues | Retention 12% → 55% |
+| Focus & Flow | Typological ADHD quiz | Monetization through $25 planner |
+| Done. | 1-min screening | 60,000+ users |
 
 ---
 
-## 7. Конверсионная математика
+## 7. Conversion Math
 
-- Средняя конверсия лендинга: 2.35%
-- Квиз-лендинг: до 23% конверсии (10x)
-- Lead capture после вовлечения: до 30%+
+- Average landing page conversion: 2.35%
+- Quiz landing page: up to 23% conversion (10x)
+- Lead capture after engagement: up to 30%+
 - Progress bar: +14% (Baymard), +42% (HubSpot)
-- Sticky CTA: +10% конверсия
-- CTA от первого лица: +10 п.п. CTR
-- Интерактивный лендинг: до 3x лучше статического
-- Verbatim repetition на CTA: +10 п.п.
+- Sticky CTA: +10% conversion
+- First-person CTA: +10 pp CTR
+- Interactive landing page: up to 3x better than static
+- Verbatim repetition on CTA: +10 pp
 - Conversational pre-lander: +52% opt-in
 
 ---
 
-## 8. Инструменты для реализации
+## 8. Implementation Tools
 
-| Задача | Инструменты |
+| Task | Tools |
 |--------|------------|
-| Квиз-воронки | Typeform, Heyflow, Interact, ScoreApp, Marquiz |
+| Quiz funnels | Typeform, Heyflow, Interact, ScoreApp, Marquiz |
 | Scrollytelling | Framer (no-code, scroll-triggered) |
 | Gamified waitlist | LaunchList, Prefinery, Waitlister, QueueForm |
-| Калькуляторы | Typeform Logic, Outgrow, ConvertCalculator |
-| A/B тестирование | Unbounce, Swipe Pages |
+| Calculators | Typeform Logic, Outgrow, ConvertCalculator |
+| A/B testing | Unbounce, Swipe Pages |
 | Full custom (Next.js) | Next.js + Tailwind + Framer Motion + Vercel |

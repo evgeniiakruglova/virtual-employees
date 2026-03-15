@@ -1,410 +1,410 @@
-# Hormozi Offer -- методология офферов для рекламных креативов
+# Hormozi Offer -- Offer Methodology for Advertising Creatives
 
-Справочник по методологии Алекса Хормози ($100M Offers) в применении к написанию рекламных текстов и креативов.
+A reference guide on Alex Hormozi's methodology ($100M Offers) applied to writing ad copy and creatives.
 
-Главный принцип: **"Сделайте людям настолько хороший оффер, что они будут чувствовать себя глупо, если откажутся."**
-
----
-
-## 1. Ценностное уравнение (Value Equation)
-
-```
-              Результат мечты  x  Воспринимаемая вероятность достижения
-Ценность = ─────────────────────────────────────────────────────────────
-              Время задержки  x  Усилия и жертвы
-```
-
-**Задача каждого рекламного текста** -- увеличивать числитель и уменьшать знаменатель.
-
-### Как применять в заголовках и текстах
-
-**Увеличение числителя (результат + вероятность):**
-
-| Фактор | Плохо | Хорошо | Еще лучше |
-|--------|-------|--------|-----------|
-| Результат мечты | "Поможем похудеть" | "Влезете в любимое платье к свадьбе дочери" | "Друзья будут спрашивать, что вы изменили -- настолько моложе будете выглядеть" |
-| Вероятность | "Наша методика работает" | "847 клиентов уже получили результат" | "Я 10,000-й пациент этого хирурга, а не первый" |
-
-**Уменьшение знаменателя (время + усилия):**
-
-| Фактор | Плохо | Хорошо | Еще лучше |
-|--------|-------|--------|-----------|
-| Время | "Результат через год" | "Первые изменения через 7 дней" | "Увидите результат прямо во время процедуры" |
-| Усилия | "Нужно заниматься 2 часа каждый день" | "Всего 15 минут в день" | "Просто принимайте таблетку -- мы сделаем все остальное" |
-
-### Правила для рекламных текстов
-
-1. **Результат мечты** формулировать через статус -- как другие люди воспримут достижение клиента. Пример: "У ваших приятелей по гольфу отвиснет челюсть, когда они увидят ваш удар на 40 ярдов дальше их мяча"
-2. **Вероятность** подкреплять конкретными цифрами, кейсами, социальным доказательством
-3. **Время** -- показывать краткосрочные "контрольные точки" на пути к результату (быстрая эмоциональная победа на ранней стадии)
-4. **Усилия** -- подчеркивать, что делается ЗА клиента, а не самим клиентом
-5. Если знаменатель равен нулю (мгновенно + без усилий) -- ценность стремится к бесконечности. К этому нужно стремиться
-
-### Пример применения в рекламном тексте
-
-```
-Заголовок: "67 новых клиентов за 21 день" (результат + время)
-Подзаголовок: "Мы сделаем все за вас -- вы только предоставите доступы" (нулевые усилия)
-Доказательство: "Уже помогли 4,000+ залам" (вероятность)
-```
+Core principle: **"Make people an offer so good they would feel stupid saying no."**
 
 ---
 
-## 2. M-A-G-I-C формула заголовков
+## 1. Value Equation
 
-Формула для создания названий офферов и заголовков рекламных креативов.
+```
+              Dream Result  x  Perceived Likelihood of Achievement
+Value = ─────────────────────────────────────────────────────────────
+              Time Delay  x  Effort and Sacrifice
+```
 
-**Не обязательно использовать все 5 компонентов -- достаточно 3-5. Порядок тоже можно менять.**
+**The task of every ad copy** is to increase the numerator and decrease the denominator.
 
-| Буква | Компонент | Что означает | Примеры |
+### How to Apply in Headlines and Copy
+
+**Increasing the numerator (result + likelihood):**
+
+| Factor | Bad | Good | Even Better |
+|--------|-------|--------|-----------|
+| Dream Result | "We'll help you lose weight" | "You'll fit into your favorite dress for your daughter's wedding" | "Friends will ask what you changed — that's how much younger you'll look" |
+| Likelihood | "Our methodology works" | "847 clients have already gotten results" | "I'm this surgeon's 10,000th patient, not the first" |
+
+**Decreasing the denominator (time + effort):**
+
+| Factor | Bad | Good | Even Better |
+|--------|-------|--------|-----------|
+| Time | "Results in a year" | "First changes in 7 days" | "You'll see results right during the procedure" |
+| Effort | "You need to work out 2 hours every day" | "Just 15 minutes a day" | "Just take a pill — we'll do everything else" |
+
+### Rules for Ad Copy
+
+1. **Dream Result** should be framed through status — how other people will perceive the client's achievement. Example: "Your golf buddies' jaws will drop when they see your drive 40 yards past their ball"
+2. **Likelihood** must be backed by concrete numbers, case studies, social proof
+3. **Time** — show short-term "checkpoints" on the path to results (a quick emotional win early on)
+4. **Effort** — emphasize what's done FOR the client, not BY the client
+5. If the denominator equals zero (instant + effortless) — value approaches infinity. This is the goal
+
+### Example of Application in Ad Copy
+
+```
+Headline: "67 new clients in 21 days" (result + time)
+Subheadline: "We do everything for you — just provide access" (zero effort)
+Proof: "Already helped 4,000+ gyms" (likelihood)
+```
+
+---
+
+## 2. M-A-G-I-C Headline Formula
+
+A formula for creating offer names and ad creative headlines.
+
+**You don't have to use all 5 components — 3-5 is enough. The order can also be rearranged.**
+
+| Letter | Component | Meaning | Examples |
 |-------|-----------|-------------|---------|
-| **M** | Магнитная причина (Magnet) | Почему этот оффер существует, почему сейчас | Бесплатно, скидка 88%, новогодняя акция, торжественное открытие, юбилей, весенний перезапуск |
-| **A** | Аватар (Avatar) | Для кого конкретно -- чем уже, тем лучше | Для мам из Сокольников, для владельцев малого бизнеса, для IT-специалистов, для занятых руководителей |
-| **G** | Цель (Goal) | Результат мечты клиента | Голливудская улыбка, первые 100К прибыли, плоский живот, свободный английский |
-| **I** | Интервал (Interval) | За какое время будет результат | За 2 недели, за 90 дней, за 6 недель, за 60 дней |
-| **C** | Контейнер (Container) | Формат/упаковка оффера | Экспресс-программа, интенсив, челлендж, система, план-схема, учебный лагерь, трансформация, глубокое погружение, ускоритель |
+| **M** | Magnetic Reason (Magnet) | Why this offer exists, why now | Free, 88% off, New Year promo, grand opening, anniversary, spring relaunch |
+| **A** | Avatar | For whom specifically — the narrower the better | For moms from Sokolniki, for small business owners, for IT professionals, for busy executives |
+| **G** | Goal | Client's dream result | Hollywood smile, first 100K in profit, flat stomach, fluent English |
+| **I** | Interval | How long until results | In 2 weeks, in 90 days, in 6 weeks, in 60 days |
+| **C** | Container | Offer format/packaging | Express program, intensive, challenge, system, blueprint, boot camp, transformation, deep dive, accelerator |
 
-### Примеры заголовков по MAGIC
+### MAGIC Headline Examples
 
-**Стоматология:**
-- M: Новогодняя акция | A: для мам из Сокольников | G: голливудская улыбка | I: за 2 недели | C: экспресс-программа
-- **Результат:** "Новогодняя экспресс-программа 'Голливудская улыбка за 2 недели' для мам из Сокольников"
+**Dentistry:**
+- M: New Year promo | A: for moms from Sokolniki | G: Hollywood smile | I: in 2 weeks | C: express program
+- **Result:** "New Year Express Program 'Hollywood Smile in 2 Weeks' for Moms from Sokolniki"
 
-**Бизнес-коучинг:**
-- M: Весенний перезапуск | A: для владельцев малого бизнеса | G: первые 100К прибыли | I: за 90 дней | C: интенсив
-- **Результат:** "Весенний интенсив 'Первые 100К прибыли за 90 дней' для владельцев малого бизнеса"
+**Business coaching:**
+- M: Spring relaunch | A: for small business owners | G: first 100K in profit | I: in 90 days | C: intensive
+- **Result:** "Spring Intensive 'First 100K in Profit in 90 Days' for Small Business Owners"
 
-**Фитнес:**
-- M: Скидка 50% к лету | A: для занятых мам | G: плоский живот | I: за 6 недель | C: челлендж
-- **Результат:** "Летний челлендж 'Плоский живот за 6 недель' для занятых мам (скидка 50%)"
+**Fitness:**
+- M: 50% off for summer | A: for busy moms | G: flat stomach | I: in 6 weeks | C: challenge
+- **Result:** "Summer Challenge 'Flat Stomach in 6 Weeks' for Busy Moms (50% Off)"
 
-**Английский язык:**
-- A: для IT-специалистов | G: свободный английский | I: за 90 дней | C: экспресс-курс
-- **Результат:** "Экспресс-курс 'Свободный английский за 90 дней' для IT-специалистов"
+**English language:**
+- A: for IT professionals | G: fluent English | I: in 90 days | C: express course
+- **Result:** "Express Course 'Fluent English in 90 Days' for IT Professionals"
 
-**Маркетинг:**
-- G: 50 клиентов | I: за 60 дней | C: система | A: для сервисных компаний | M: гарантированно
-- **Результат:** "Система 'Гарантированно 50 клиентов за 60 дней' для сервисных компаний"
+**Marketing:**
+- G: 50 clients | I: in 60 days | C: system | A: for service companies | M: guaranteed
+- **Result:** "System 'Guaranteed 50 Clients in 60 Days' for Service Companies"
 
-**Психология:**
-- C: интенсив | G: непоколебимая уверенность | I: за 30 дней | A: для женщин-руководителей
-- **Результат:** "Интенсив 'Непоколебимая уверенность за 30 дней' для женщин-руководителей"
+**Psychology:**
+- C: intensive | G: unshakable confidence | I: in 30 days | A: for women executives
+- **Result:** "Intensive 'Unshakable Confidence in 30 Days' for Women Executives"
 
-### Правило обновления
+### Refresh Rule
 
-Когда оффер "выгорает" на рынке -- **менять обертку, не меняя сути**. Порядок изменений:
-1. Изменить креатив (изображения)
-2. Изменить основной текст
-3. Изменить заголовок/название (MAGIC-обертку)
-4. Изменить продолжительность
-5. Изменить усилитель (скидка/бесплатность)
-6. Изменить структуру монетизации (только в крайнем случае)
+When an offer "burns out" in the market — **change the wrapper, not the substance.** Order of changes:
+1. Change the creative (images)
+2. Change the primary text
+3. Change the headline/name (MAGIC wrapper)
+4. Change the duration
+5. Change the sweetener (discount/freebie)
+6. Change the monetization structure (only as a last resort)
 
 ---
 
-## 3. Grand Slam Offer -- 5 компонентов
+## 3. Grand Slam Offer -- 5 Components
 
-"Оффер Большого Шлема" = оффер, от которого глупо отказаться. Строится на 5 столпах:
+A "Grand Slam Offer" = an offer it would be stupid to refuse. Built on 5 pillars:
 
-### 3.1. Результат мечты (Dream Result)
+### 3.1. Dream Result
 
-**В рекламе:** Продаем не процесс, а пункт назначения. Не "самолет", а "куда он летит".
+**In advertising:** Sell the destination, not the process. Not "the airplane," but "where it flies."
 
-| Плохо (процесс) | Хорошо (результат) |
+| Bad (process) | Good (result) |
 |------------------|-------------------|
-| "30 уроков по маркетингу" | "Система привлечения 100 клиентов в месяц" |
-| "Членство в спортзале за $99/мес" | "Система трансформации за 6 недель" |
-| "Ведение рекламы" | "Гарантированно 20 клиентов или деньги назад" |
+| "30 marketing lessons" | "A system for attracting 100 clients per month" |
+| "Gym membership for $99/mo" | "6-week transformation system" |
+| "Ad management" | "Guaranteed 20 clients or your money back" |
 
-**Как применять в креативе:**
-- Заголовок = результат мечты
-- Формулировать через повышение статуса в глазах окружающих
-- Описывать конкретную, осязаемую картину: "Влезть в джинсы 2-летней давности", а не "похудеть"
+**How to apply in creatives:**
+- Headline = dream result
+- Frame through status elevation in others' eyes
+- Describe a concrete, tangible picture: "Fit into your jeans from 2 years ago" instead of "lose weight"
 
-### 3.2. Все проблемы решены (All Problems Solved)
+### 3.2. All Problems Solved
 
-**В рекламе:** Перечислить и закрыть все возможные возражения и препятствия.
+**In advertising:** List and address all possible objections and obstacles.
 
-**Как применять в креативе:**
-- В теле текста перечислить типичные проблемы аватара (боль, "знакомо ли вам?")
-- Показать, что каждая проблема решена конкретным компонентом оффера
-- Каждый бонус = решение конкретного препятствия
+**How to apply in creatives:**
+- In the body copy, list the avatar's typical problems (pain, "does this sound familiar?")
+- Show that each problem is solved by a specific component of the offer
+- Each bonus = a solution to a specific obstacle
 
-### 3.3. Скорость (Speed / Time Delay)
+### 3.3. Speed (Time Delay)
 
-**В рекламе:** Показать, как быстро будет результат.
+**In advertising:** Show how fast results will come.
 
-**Как применять в креативе:**
-- В заголовке: конкретный интервал ("за 30 дней", "за 6 недель")
-- В тексте: краткосрочные победы ("первые результаты через 7-10 дней")
-- Показать "контрольные точки" на пути к результату
+**How to apply in creatives:**
+- In the headline: specific interval ("in 30 days", "in 6 weeks")
+- In the body: short-term wins ("first results in 7-10 days")
+- Show "checkpoints" on the path to results
 
-### 3.4. Простота (Effort & Sacrifice)
+### 3.4. Simplicity (Effort & Sacrifice)
 
-**В рекламе:** Показать, что от клиента требуется минимум усилий.
+**In advertising:** Show that minimal effort is required from the client.
 
-**Как применять в креативе:**
-- "Мы делаем все ЗА ВАС"
-- "Всего 15 минут в день"
-- "Просто предоставьте доступы и следуйте рекомендациям"
-- Подчеркивать DFY (Done For You), а не DIY
+**How to apply in creatives:**
+- "We do everything FOR YOU"
+- "Just 15 minutes a day"
+- "Simply provide access and follow recommendations"
+- Emphasize DFY (Done For You), not DIY
 
-### 3.5. Снятие риска (Risk Removal)
+### 3.5. Risk Removal
 
-**В рекламе:** Гарантия, которая переворачивает риск с клиента на продавца.
+**In advertising:** A guarantee that shifts the risk from client to seller.
 
-**Как применять в креативе:**
-- В CTA или рядом с ним: четкая гарантия
-- "Если не получите X за Y дней -- вернем деньги"
-- "Оплата только за результат"
+**How to apply in creatives:**
+- In the CTA or adjacent: a clear guarantee
+- "If you don't get X in Y days — money back"
+- "Pay only for results"
 
-### Маппинг на элементы рекламного креатива
+### Mapping to Ad Creative Elements
 
-| Компонент | Элемент креатива | Пример |
+| Component | Creative Element | Example |
 |-----------|-----------------|--------|
-| Результат мечты | Заголовок/хук | "Заполните свой зал за 30 дней" |
-| Все проблемы решены | Тело текста, буллеты | Перечень того, что включено |
-| Скорость | Подзаголовок, интервал в MAGIC | "Первые клиенты через 7 дней" |
-| Простота | Описание процесса | "Мы делаем все за вас" |
-| Снятие риска | CTA, гарантия | "50 клиентов или работаем бесплатно" |
+| Dream Result | Headline/hook | "Fill your gym in 30 days" |
+| All Problems Solved | Body copy, bullets | List of what's included |
+| Speed | Subheadline, interval in MAGIC | "First clients in 7 days" |
+| Simplicity | Process description | "We do everything for you" |
+| Risk Removal | CTA, guarantee | "50 clients or we work for free" |
 
 ---
 
-## 4. Скарсити/Urgency фреймворк
+## 4. Scarcity/Urgency Framework
 
-### Дефицит (Scarcity) -- функция количества
+### Scarcity -- a function of quantity
 
-**Три вида дефицита:**
+**Three types of scarcity:**
 
-1. **Ограничение по количеству мест/позиций**
-   - "Принимаю только 10 клиентов в месяц"
-   - "Осталось 3 места в январской группе"
-   - "Качественно работаем только с 5 компаниями одновременно"
-   - "Моя команда может качественно обслужить максимум 25 клиентов"
+1. **Limited spots/positions**
+   - "I only take 10 clients per month"
+   - "3 spots left in the January cohort"
+   - "We can only deliver quality work for 5 companies simultaneously"
+   - "My team can quality-serve a maximum of 25 clients"
 
-2. **Ограниченное предложение бонусов**
-   - "Бонус 'Личная консультация' -- только для тех, кто оплатит сегодня"
-   - "У меня осталось 3 приглашения на мероприятие с призовым фондом $5,000"
+2. **Limited bonus offer**
+   - "The 'Personal Consultation' bonus is only for those who pay today"
+   - "I have 3 invitations left to an event with a $5,000 prize pool"
 
-3. **Никогда не будет доступно снова**
-   - "Выпустили только 100 экземпляров"
-   - "Ограниченная серия к праздникам"
-   - "Если уйдете -- вернуться уже не сможете"
+3. **Never available again**
+   - "Only 100 copies released"
+   - "Limited holiday edition"
+   - "If you leave — you won't be able to come back"
 
-**Честный дефицит (самый сильный):**
-- "Сейчас мы загружены на 80%, остается 5 свободных мест"
-- Просто сообщить клиентам о реальных ограничениях пропускной способности
-- Обязательно сообщать о распродаже ("Sold Out") -- это усиливает эффект для следующего запуска
+**Honest scarcity (the most powerful):**
+- "We're currently at 80% capacity, with 5 open spots remaining"
+- Simply inform clients about real throughput limitations
+- Always announce when sold out — this amplifies the effect for the next launch
 
-**Для рекламных текстов:**
+**For ad copy:**
 ```
-"Принимаем только [число] клиентов в [период]. Сейчас осталось [число] мест."
-"Работаем только с одним [тип бизнеса] в районе. Если ваш конкурент опередит -- мы не сможем взять вас."
+"We only accept [number] clients per [period]. Currently [number] spots remain."
+"We only work with one [business type] per area. If your competitor gets ahead — we can't take you."
 ```
 
-### Срочность (Urgency) -- функция времени
+### Urgency -- a function of time
 
-**Четыре вида срочности:**
+**Four types of urgency:**
 
-1. **Скользящая групповая срочность**
-   - "Если запишетесь сегодня, попадете в группу, которая стартует в понедельник. Следующий набор только через месяц"
-   - "Один из клиентов отказался от участия -- у меня есть свободное место в следующей группе"
+1. **Rolling cohort urgency**
+   - "If you sign up today, you'll join the group starting Monday. Next enrollment is a month away"
+   - "One client dropped out — I have an open spot in the next cohort"
 
-2. **Скользящая сезонная срочность**
-   - "Новогодняя акция до 15 января"
-   - "Весенняя распродажа до 31 марта"
-   - Менять название акции по сезонам, сохраняя суть оффера
-   - Обязательно ставить реальные обратные отсчеты на лендингах
+2. **Rolling seasonal urgency**
+   - "New Year promo until January 15"
+   - "Spring sale until March 31"
+   - Change the promo name by season while keeping the offer's essence
+   - Always set real countdowns on landing pages
 
-3. **Ценовая/бонусная срочность**
-   - "Скидка 30% действует только до пятницы"
-   - "Эта акция -- одна из лучших, которые мы проводили за последнее время"
-   - Чередовать: скидку, бесплатную установку, дополнительный бонус
+3. **Price/bonus urgency**
+   - "30% discount valid only until Friday"
+   - "This is one of the best promos we've run recently"
+   - Alternate: discount, free installation, extra bonus
 
-4. **Взрывная возможность**
-   - "Возможность, которая уменьшается с каждым днем"
-   - "Чем раньше начнете -- тем лучше будет результат"
+4. **Exploding opportunity**
+   - "An opportunity that shrinks with each passing day"
+   - "The sooner you start — the better the results"
 
-**Факт:** 50-60% продаж в запусковой кампании происходят в последние 4 часа последнего дня. Дедлайн -- решающий фактор.
+**Fact:** 50-60% of sales in a launch campaign happen in the last 4 hours of the last day. The deadline is the deciding factor.
 
-**Для рекламных CTA:**
+**For ad CTAs:**
 ```
-"Запись до [дата], чтобы успеть к [событие]"
-"С [дата] цена вырастет в [число] раза"
-"Старт программы только [числа] каждого месяца"
+"Register by [date] to make it to [event]"
+"Starting [date], the price increases [X] times"
+"Program starts only on the [dates] of each month"
 ```
 
 ---
 
-## 5. Фреймворк гарантий
+## 5. Guarantee Framework
 
-**Гарантия -- способ номер один для повышения конверсии оффера.** Более сильная гарантия может повысить конверсию в 2-4 раза.
+**A guarantee is the number one way to increase offer conversion.** A stronger guarantee can increase conversion 2-4x.
 
-### Типы гарантий
+### Guarantee Types
 
-#### 1. Безусловная гарантия (самый простой тип)
-Клиент получает возврат по любой причине, без вопросов.
+#### 1. Unconditional Guarantee (simplest type)
+The client gets a refund for any reason, no questions asked.
 
-**В рекламе:**
-- "Если через 30 дней вы не довольны по любой причине -- вернем деньги полностью"
-- "Попробуйте 60 дней. Если не подойдет -- верните без вопросов"
+**In advertising:**
+- "If after 30 days you're not satisfied for any reason — full money back"
+- "Try for 60 days. If it doesn't work — return it, no questions asked"
 
-**Формулировка-шаблон:** "Я не прошу вас принять решение 'да' или 'нет'. Я прошу вас принять полностью осознанное решение. А это можно сделать только изнутри. Если не будете счастливы -- верну деньги."
+**Template phrasing:** "I'm not asking you to make a 'yes' or 'no' decision. I'm asking you to make a fully informed decision. And you can only do that from the inside. If you're not happy — I'll refund your money."
 
-Лучше работает для B2C с низким чеком.
+Works better for B2C with low price points.
 
-#### 2. Условная гарантия (клиент должен выполнить действия)
-Возврат привязан к выполнению клиентом конкретных шагов.
+#### 2. Conditional Guarantee (client must complete actions)
+Refund is tied to the client completing specific steps.
 
-**В рекламе:**
-- "Если выполните все задания и не получите 5 клиентов за месяц -- вернем деньги в двойном размере"
-- "Гарантируем результат или продолжаем работать бесплатно до достижения цели"
-- "Если не сбросите 5 кг за 30 дней -- вернем деньги и оплатим спортзал на год"
+**In advertising:**
+- "If you complete all assignments and don't get 5 clients in a month — double your money back"
+- "We guarantee results or continue working for free until the goal is reached"
+- "If you don't lose 5 kg in 30 days — money back plus we pay for a year of gym"
 
-**Подвиды условных гарантий:**
-- **Возврат в двойном/тройном размере** -- для продуктов с высокой маржой
-- **Гарантия на услуги** -- "работаем бесплатно до результата" (любимая гарантия Хормози -- за годы ей ни разу не воспользовались)
-- **Отсрочка второго платежа** -- "не выставляем счет, пока не достигнете первого результата"
-- **Гарантия первого результата** -- "оплачиваем ваши расходы на рекламу, пока не сделаете первую продажу"
-- **Персональное обслуживание** -- "работаю с вами 1 на 1 бесплатно, пока не достигнете цели"
+**Subtypes of conditional guarantees:**
+- **Double/triple refund** -- for high-margin products
+- **Service guarantee** -- "we work for free until you get results" (Hormozi's favorite guarantee -- never used in years)
+- **Deferred second payment** -- "we don't invoice until you achieve your first result"
+- **First result guarantee** -- "we cover your ad spend until you make your first sale"
+- **Personal service** -- "I work with you 1-on-1 for free until you reach your goal"
 
-Лучше работает для B2B с высоким чеком.
+Works better for B2B with high price points.
 
-#### 3. Анти-гарантия ("Все продажи окончательные")
-Используется, когда продукт легко украсть/скопировать после просмотра.
+#### 3. Anti-Guarantee ("All Sales Final")
+Used when the product is easily stolen/copied after viewing.
 
-**В рекламе:**
-- "Все продажи окончательны, т.к. мы раскрываем секретные стратегии нашей компании"
-- "Возврат невозможен -- вы получите инсайды, которые нельзя 'развидеть'"
+**In advertising:**
+- "All sales are final, as we reveal our company's secret strategies"
+- "No refunds — you'll receive insights that can't be unseen"
 
-Работает как "вредное признание" -- подразумевает исключительную ценность.
+Works as a "damaging admission" — implies exceptional value.
 
-#### 4. Подразумеваемая гарантия (модели результативности)
-Оплата привязана к результату клиента.
+#### 4. Implied Guarantee (performance-based models)
+Payment is tied to the client's results.
 
-**В рекламе:**
-- "Платите только за результат: $100 с каждого привлеченного клиента"
-- "Наша комиссия: 20% от вашей дополнительной прибыли"
-- "Если не привлечем клиентов -- не заработаем ни копейки"
+**In advertising:**
+- "Pay only for results: $100 for each acquired client"
+- "Our commission: 20% of your additional profit"
+- "If we don't bring in clients — we don't earn a cent"
 
-### Суммирование гарантий (максимальная сила)
+### Stacking Guarantees (maximum power)
 
-Гарантии можно комбинировать. Пример "тройной гарантии":
-1. 50 клиентов или работаем бесплатно (условная, на услуги)
-2. Система не окупится за 60 дней -- ничего не платите (условная, возврат)
-3. Прибыль не вырастет на $10,000 за 90 дней -- личная стратегическая сессия (условная, персональная)
+Guarantees can be combined. Example of a "triple guarantee":
+1. 50 clients or we work for free (conditional, service-based)
+2. System doesn't pay for itself in 60 days — you pay nothing (conditional, refund)
+3. Profit doesn't grow by $10,000 in 90 days — personal strategy session (conditional, personal)
 
-### Правило для креативов
+### Rule for Creatives
 
-**Называть гарантию ярко**, а не "30-дневная гарантия возврата денег". Пример: "Гарантия 'Железобетон'", "Гарантия 'Тройная защита'"
-
----
-
-## 6. Бонусная архитектура для рекламных текстов
-
-### Главный принцип
-
-Один и тот же оффер, разбитый на основу + бонусы, воспринимается как более ценный, чем тот же оффер "одним куском". Увеличивать ценность через добавление бонусов, а не через снижение цены.
-
-### 11 правил бонусов
-
-1. **Всегда предлагать бонусы** -- в каждом оффере
-2. **Дать бонусу яркое название** с выгодой в заголовке (формула MAGIC работает и для бонусов)
-3. **Связать бонус с проблемой** клиента -- каждый бонус решает конкретное препятствие
-4. **Объяснить, что это такое** и как создавалось
-5. **Показать, как улучшит жизнь** -- быстрее, легче, с меньшими усилиями
-6. **Привести доказательства** -- статистика, опыт, данные
-7. **Нарисовать яркую картину** использования бонуса
-8. **Присвоить бонусу конкретную цену** и обосновать ее
-9. **Инструменты и чеклисты > дополнительные тренинги** (меньше усилий = выше ценность по уравнению)
-10. **Ценность всех бонусов >= ценности основного оффера**
-11. **Добавить дефицит/срочность к бонусам** -- "бонус доступен только сегодня", "осталось 3 приглашения"
-
-### Шаблон описания бонуса в рекламном тексте
-
-```
-БОНУС #[N]: "[ЯРКОЕ НАЗВАНИЕ]"
-Стоимость: $[сумма]
-[Как связан с проблемой клиента]
-[Что это конкретно -- перечень пунктов]
-[Доказательство ценности / как создавали]
-[Яркий образ результата]
-```
-
-**Пример:**
-```
-БОНУС #1: "Скрипты железных продаж"
-Стоимость: $5,000
-Решает проблему низкой конверсии звонков.
-- Как закрыть сделку за 15 минут
-- Что говорить при возражении "дорого"
-- Как продать годовой абонемент
-Создавали 2 года, протестировали на 10,000 звонков.
-Представьте: каждый третий звонок = деньги.
-```
-
-### Партнерские бонусы (продвинутый уровень)
-
-Договориться с партнерами о бесплатных продуктах/услугах в качестве бонусов:
-- Для партнера = бесплатный маркетинг (доступ к вашим клиентам)
-- Для вас = бесплатные ценные бонусы
-- Можно договориться о комиссии за рефералы
-
-### Ценовое позиционирование в рекламе
-
-```
-Если покупать по отдельности:
-- [Основа]: $X
-- [Бонус 1]: $X
-- [Бонус 2]: $X
-- [Бонус N]: $X
-ОБЩАЯ СТОИМОСТЬ: $XX,XXX
-ВАША ЦЕНА: $X,XXX
-```
-
-Разница между "общей стоимостью" и ценой должна быть в 3-10 раз.
+**Name your guarantee vividly**, not "30-day money-back guarantee." Example: "Ironclad Guarantee", "Triple Shield Guarantee"
 
 ---
 
-## 7. Чек-лист Hormozi для каждого рекламного креатива
+## 6. Bonus Architecture for Ad Copy
 
-### Обязательная проверка перед публикацией
+### Core Principle
 
-**Уравнение ценности:**
-- [ ] Результат мечты четко сформулирован (конкретный, осязаемый, связан со статусом)
-- [ ] Есть доказательства вероятности достижения (цифры, кейсы, социальное подтверждение)
-- [ ] Указано время до результата (конкретный интервал)
-- [ ] Показана простота/минимум усилий для клиента
+The same offer, broken into a base + bonuses, is perceived as more valuable than the same offer "in one piece." Increase value by adding bonuses, not by lowering the price.
 
-**Оффер:**
-- [ ] Продаем результат, а не процесс ("тело мечты", а не "30 тренировок")
-- [ ] Целевая аудитория четко определена (не "для всех", а "для мам в декрете 25-35 лет")
-- [ ] Есть хотя бы один бонус с названием и ценой
-- [ ] Есть гарантия (конкретная, с названием)
-- [ ] Есть элемент дефицита или срочности
+### 11 Rules for Bonuses
 
-**Заголовок (MAGIC):**
-- [ ] Содержит минимум 3 компонента MAGIC
-- [ ] Клиент понимает ценность за 10 секунд
+1. **Always offer bonuses** -- in every offer
+2. **Give the bonus a catchy name** with a benefit in the headline (the MAGIC formula works for bonuses too)
+3. **Link the bonus to a problem** the client has -- each bonus solves a specific obstacle
+4. **Explain what it is** and how it was created
+5. **Show how it improves life** -- faster, easier, with less effort
+6. **Provide proof** -- statistics, experience, data
+7. **Paint a vivid picture** of using the bonus
+8. **Assign a specific price** to the bonus and justify it
+9. **Tools and checklists > additional trainings** (less effort = higher value per equation)
+10. **Total bonus value >= value of the main offer**
+11. **Add scarcity/urgency to bonuses** -- "bonus available today only", "only 3 invitations left"
 
-**Усилители:**
-- [ ] Есть причина покупать ИМЕННО СЕЙЧАС (срочность/дефицит)
-- [ ] Риск клиента снижен до минимума (гарантия)
-- [ ] Воспринимаемая ценность превышает цену минимум в 3 раза (идеально -- в 10 раз)
+### Bonus Description Template for Ad Copy
 
-**Финальная проверка:**
-- [ ] Оффер заставляет думать "Как я могу себе это ПОЗВОЛИТЬ?" вместо "Нужно ли мне это?"
-- [ ] Было бы ГЛУПО отказаться от такого предложения
+```
+BONUS #[N]: "[CATCHY NAME]"
+Value: $[amount]
+[How it's linked to the client's problem]
+[What it is specifically -- list of items]
+[Proof of value / how it was created]
+[Vivid image of the result]
+```
+
+**Example:**
+```
+BONUS #1: "Iron Sales Scripts"
+Value: $5,000
+Solves the problem of low call conversion.
+- How to close a deal in 15 minutes
+- What to say when they object "too expensive"
+- How to sell an annual subscription
+Created over 2 years, tested on 10,000 calls.
+Imagine: every third call = money.
+```
+
+### Partner Bonuses (advanced level)
+
+Arrange with partners for free products/services as bonuses:
+- For the partner = free marketing (access to your clients)
+- For you = free valuable bonuses
+- Can arrange a commission for referrals
+
+### Price Positioning in Advertising
+
+```
+If purchased separately:
+- [Core]: $X
+- [Bonus 1]: $X
+- [Bonus 2]: $X
+- [Bonus N]: $X
+TOTAL VALUE: $XX,XXX
+YOUR PRICE: $X,XXX
+```
+
+The difference between "total value" and the price should be 3-10x.
 
 ---
 
-## Быстрый справочник: типичные ошибки
+## 7. Hormozi Checklist for Every Ad Creative
 
-| Ошибка | Как исправить |
+### Mandatory Pre-Publication Check
+
+**Value Equation:**
+- [ ] Dream result clearly stated (concrete, tangible, tied to status)
+- [ ] Evidence of likelihood of achievement present (numbers, case studies, social proof)
+- [ ] Time to result specified (concrete interval)
+- [ ] Simplicity/minimal effort for the client shown
+
+**Offer:**
+- [ ] Selling the result, not the process ("dream body", not "30 workouts")
+- [ ] Target audience clearly defined (not "for everyone", but "for moms on maternity leave aged 25-35")
+- [ ] At least one bonus with a name and price
+- [ ] A guarantee present (specific, with a name)
+- [ ] A scarcity or urgency element present
+
+**Headline (MAGIC):**
+- [ ] Contains at least 3 MAGIC components
+- [ ] Client understands the value in 10 seconds
+
+**Amplifiers:**
+- [ ] There's a reason to buy RIGHT NOW (urgency/scarcity)
+- [ ] Client risk reduced to a minimum (guarantee)
+- [ ] Perceived value exceeds the price by at least 3x (ideally 10x)
+
+**Final Check:**
+- [ ] The offer makes them think "How can I AFFORD this?" instead of "Do I need this?"
+- [ ] It would be STUPID to turn down this offer
+
+---
+
+## Quick Reference: Common Mistakes
+
+| Mistake | How to Fix |
 |--------|--------------|
-| Продают процесс | Продавать результат: "Система привлечения 100 клиентов" вместо "30 уроков по маркетингу" |
-| Размытая аудитория | Нишевать: "Для B2B продавцов стройматериалов" вместо "Для всех" |
-| Слабые гарантии | Конкретика: "100 клиентов за 90 дней или деньги в двойном размере" вместо "Гарантируем качество" |
-| Фальшивый дефицит | Честный дефицит: "Принимаю только 10 клиентов" -- и действительно принимать только 10 |
-| Снижение цены | Добавлять бонусы вместо скидок -- увеличивать ценность, а не снижать цену |
-| Нет причины купить сейчас | Добавить реальный дедлайн или ограничение мест |
+| Selling the process | Sell the result: "A system for attracting 100 clients" instead of "30 marketing lessons" |
+| Vague audience | Niche down: "For B2B building materials sellers" instead of "For everyone" |
+| Weak guarantees | Be specific: "100 clients in 90 days or double your money back" instead of "We guarantee quality" |
+| Fake scarcity | Honest scarcity: "I only take 10 clients" — and actually only take 10 |
+| Lowering the price | Add bonuses instead of discounts — increase value, don't lower the price |
+| No reason to buy now | Add a real deadline or spot limitation |

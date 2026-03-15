@@ -1,107 +1,107 @@
 # VSL High Ticket — Claude Code Skill
 
-Skill для Claude Code, который генерирует VSL-сценарии (Video Sales Letter) для продуктов и услуг на высокие чеки.
+A skill for Claude Code that generates VSL scripts (Video Sales Letters) for high-ticket products and services.
 
-## Что делает
+## What It Does
 
-- Создает полные VSL-сценарии по проверенной **15-блочной структуре**
-- Автоматически определяет ценовой сегмент (доступный / премиальный)
-- Адаптирует стиль и техники под тип продукта
-- Включает reference-транскрипты реальных продающих презентаций для живого стиля речи
+- Creates complete VSL scripts using a proven **15-block structure**
+- Automatically determines the price segment (accessible / premium)
+- Adapts style and techniques to the product type
+- Includes reference transcripts from real sales presentations for natural speaking style
 
-### Два режима работы
+### Two Operating Modes
 
-| | Доступный (до ~200к руб) | Премиальный (от ~200к руб) |
+| | Accessible (up to ~200K RUB) | Premium (from ~200K RUB) |
 |---|---|---|
-| Позиционирование | "Я был таким же" | Достижения и статус |
-| Соцдоказательства | Эмоциональные реакции | Статусные имена и цифры |
-| Срочность | Рыночные тренды | Ограниченность мест |
-| Тарифы | 3 уровня | 1 премиальный |
-| Гарантия | Возврат за результат | Отбор участников |
+| Positioning | "I was just like you" | Achievements and status |
+| Social proof | Emotional reactions | Status names and numbers |
+| Urgency | Market trends | Limited spots |
+| Tiers | 3 levels | 1 premium |
+| Guarantee | Refund for results | Participant selection |
 
-## Установка
+## Installation
 
-### Способ 1: Через настройки Claude Code (рекомендуемый)
+### Method 1: Via Claude Code Settings (recommended)
 
-1. Скачайте ZIP-архив этого репозитория: нажмите зеленую кнопку **Code** → **Download ZIP**
-2. Откройте **Claude Code**
-3. Перейдите в **Settings** (настройки)
-4. Найдите раздел **Capabilities** → **Extensions**
-5. Нажмите кнопку **+** (плюс)
-6. Загрузите скачанный ZIP-файл
-7. Skill появится в списке доступных команд
+1. Download the ZIP archive of this repository: click the green **Code** button → **Download ZIP**
+2. Open **Claude Code**
+3. Go to **Settings**
+4. Find the **Capabilities** → **Extensions** section
+5. Click the **+** (plus) button
+6. Upload the downloaded ZIP file
+7. The skill will appear in the list of available commands
 
-### Способ 2: Ручная установка
+### Method 2: Manual Installation
 
-Скопируйте файлы в папку skills вашего Claude Code:
+Copy the files to your Claude Code skills folder:
 
 ```bash
-# Клонируйте репозиторий
+# Clone the repository
 git clone https://github.com/yasikvlad/vsl-high-ticket-skill.git
 
-# Скопируйте в папку skills
+# Copy to the skills folder
 cp -r vsl-high-ticket-skill ~/.claude/skills/vsl-high-ticket
 ```
 
-## Использование
+## Usage
 
-После установки вызывайте skill через slash-команду:
-
-```
-/vsl-high-ticket Создай VSL для курса по нейросетям, цена 50 000 руб, ЦА - предприниматели
-```
+After installation, invoke the skill via a slash command:
 
 ```
-/vsl-high-ticket Напиши продающее видео для наставничества за 1.5 млн руб
+/vsl-high-ticket Create a VSL for a course on AI, price 50,000 RUB, target audience - entrepreneurs
 ```
 
 ```
-/vsl-high-ticket Сделай VSL для интенсива по запускам, 3 тарифа: 30к / 70к / 150к
+/vsl-high-ticket Write a sales video for mentorship at 1.5M RUB
 ```
 
-## Структура файлов
+```
+/vsl-high-ticket Create a VSL for a launch intensive, 3 tiers: 30K / 70K / 150K
+```
+
+## File Structure
 
 ```
 vsl-high-ticket-skill/
-├── SKILL.md                              # Описание и метаданные skill
-├── PROMPT.md                             # Полный промпт с 15-блочной структурой
+├── SKILL.md                              # Skill description and metadata
+├── PROMPT.md                             # Full prompt with 15-block structure
 ├── references/
-│   ├── matukhno_premium.md               # Референс: премиальный сегмент
-│   └── dymshakov_intensive.md            # Референс: доступный сегмент
-└── README.md                             # Этот файл
+│   ├── matukhno_premium.md               # Reference: premium segment
+│   └── dymshakov_intensive.md            # Reference: accessible segment
+└── README.md                             # This file
 ```
 
-## 15 блоков VSL-сценария
+## 15 VSL Script Blocks
 
-1. Мастерское открытие и контекст
-2. Создание проблемы и экспертность
-3. Поворотный момент и соцдоказательства
-4. Живая демонстрация и доказательства
-5. Анализ рыночной ситуации и срочность
-6. Позиционирование уникальности
-7. Визуализация контраста "до и после"
-8. Целевая аудитория и квалификация
-9. Структура программы и методология
-10. Обещания и конкретные результаты
-11. Антипродажа и развенчивание иллюзий
-12. Форматы, тарифы и якорение
-13. Ценообразование и ROI
-14. Гарантии и снижение рисков
-15. Эмоциональное закрытие и CTA
+1. Masterful opening and context
+2. Creating the problem and expertise
+3. Turning point and social proof
+4. Live demonstration and proof
+5. Market analysis and urgency
+6. Positioning uniqueness
+7. Visualizing the "before and after" contrast
+8. Target audience and qualification
+9. Program structure and methodology
+10. Promises and specific results
+11. Anti-selling and dispelling illusions
+12. Formats, tiers, and anchoring
+13. Pricing and ROI
+14. Guarantees and risk reduction
+15. Emotional close and CTA
 
-## Пример VSL-презентации
+## VSL Presentation Example
 
-Готовый пример VSL-презентации, созданной с помощью этого скилла:
+A ready-made example of a VSL presentation created with this skill:
 
 **https://nizshaya-vsl.vercel.app/vsl.html**
 
-## Запись VSL-видео
+## Recording the VSL Video
 
-После генерации сценария вам нужно его записать. Рекомендуемые инструменты:
+After generating the script, you need to record it. Recommended tools:
 
-- **Zoom** — бесплатная запись экрана + камера, подходит для быстрых записей
-- **Screen Studio** (macOS) — профессиональная запись экрана с автоматическим зумом, красивыми эффектами курсора и экспортом в высоком качестве. Идеален для продающих видео
+- **Zoom** — free screen + camera recording, suitable for quick recordings
+- **Screen Studio** (macOS) — professional screen recording with automatic zoom, beautiful cursor effects, and high-quality export. Ideal for sales videos
 
-## Автор
+## Author
 
-Создано для Claude Code by [Vlad Yasko](https://github.com/yasikvlad)
+Created for Claude Code by [Vlad Yasko](https://github.com/yasikvlad)

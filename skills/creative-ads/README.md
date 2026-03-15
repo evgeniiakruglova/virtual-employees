@@ -1,100 +1,100 @@
 # Creative Ads — Claude Code Skill
 
-Генератор рекламных креативов (статика, видео, анимация) с готовыми AI-промтами для Midjourney / DALL-E / Nano Banana Pro / Higgsfield / Runway под все рекламные платформы.
+A generator for advertising creatives (static, video, animation) with ready-made AI prompts for Midjourney / DALL-E / Nano Banana Pro / Higgsfield / Runway for all advertising platforms.
 
-## Что делает
+## What It Does
 
-Превращает анализ целевой аудитории в готовые к запуску рекламные материалы:
+Transforms target audience analysis into launch-ready advertising materials:
 
-- **Статические креативы** — баннеры с AI-промтами (Midjourney, DALL-E, NBP) + текстами + CTA
-- **Видео-креативы** — покадровые сценарии с AI-промтами (Runway, Higgsfield) + субтитры
-- **Вебинарные Reels/TikTok** — хуки, сценарии, текстовые описания для продвижения вебинаров и live-шоу
-- **Полные рекламные объявления** — ready-to-upload в Ads Manager (primary text, headline, description, CTA)
-- **Ретаргетинг-цепочки** — 3 этапа с отдельными креативами на каждом
-- **A/B вариации** — 3 вариации на каждый креатив (hook / image / CTA тесты)
+- **Static creatives** — banners with AI prompts (Midjourney, DALL-E, NBP) + copy + CTA
+- **Video creatives** — frame-by-frame scripts with AI prompts (Runway, Higgsfield) + subtitles
+- **Webinar Reels/TikTok** — hooks, scripts, text descriptions for promoting webinars and live shows
+- **Full ad units** — ready-to-upload in Ads Manager (primary text, headline, description, CTA)
+- **Retargeting sequences** — 3 stages with separate creatives at each
+- **A/B variations** — 3 variations per creative (hook / image / CTA tests)
 
-## Методологии
+## Methodologies
 
-Скилл объединяет три фреймворка:
+The skill combines three frameworks:
 
-| Методология | Что даёт |
+| Methodology | What It Provides |
 |---|---|
-| **ДНК Клиента** (Vlad Yasko) | Глубинные сегменты, боли, внутренний монолог, язык клиента, триггеры |
-| **Лестница Бена Ханта** | 5 ступеней осознанности → разный тип креатива на каждой |
-| **Alex Hormozi ($100M Offers)** | Ценностное уравнение, Grand Slam Offer, стекинг ценности, скарсити |
+| **Client DNA** (Vlad Yasko) | Deep segments, pain points, inner monologue, client language, triggers |
+| **Ben Hunt's Ladder** | 5 awareness levels → different creative types at each |
+| **Alex Hormozi ($100M Offers)** | Value equation, Grand Slam Offer, value stacking, scarcity |
 
-## Структура файлов
+## File Structure
 
 ```
 creative-ads/
-├── SKILL.md                  # Главный файл — алгоритм из 8 шагов
-├── role.md                   # Системная роль агента
-├── guidelines.md             # Общие правила генерации
-├── awareness-ladder.md       # Лестница Бена Ханта (5 ступеней)
-├── creative-strategy.md      # Креативная стратегия и углы
-├── hormozi-offer.md          # Фреймворк Hormozi для текстов
-├── static-creatives.md       # Генерация статических креативов
-├── video-creatives.md        # Генерация видео-креативов
-├── webinar-video-reels.md    # Reels/TikTok для вебинаров и live-шоу
-├── ad-unit-templates.md      # Шаблоны полных рекламных объявлений
-├── platform-specs.md         # Спецификации платформ (Meta, TikTok, YouTube)
-├── prompt-engineering.md     # Промт-инжиниринг для AI-генерации
-└── retargeting-sequences.md  # Ретаргетинг-цепочки (3 этапа)
+├── SKILL.md                  # Main file — 8-step algorithm
+├── role.md                   # Agent system role
+├── guidelines.md             # General generation rules
+├── awareness-ladder.md       # Ben Hunt's Ladder (5 levels)
+├── creative-strategy.md      # Creative strategy and angles
+├── hormozi-offer.md          # Hormozi framework for copy
+├── static-creatives.md       # Static creative generation
+├── video-creatives.md        # Video creative generation
+├── webinar-video-reels.md    # Reels/TikTok for webinars and live shows
+├── ad-unit-templates.md      # Full ad unit templates
+├── platform-specs.md         # Platform specifications (Meta, TikTok, YouTube)
+├── prompt-engineering.md     # Prompt engineering for AI generation
+└── retargeting-sequences.md  # Retargeting sequences (3 stages)
 ```
 
-## Алгоритм работы (8 шагов)
+## Workflow Algorithm (8 Steps)
 
-1. **Сбор данных** — подтягивает ДНК Клиента (или запускает анализ)
-2. **Ступень осознанности** — определяет холодный / тёплый / горячий трафик
-3. **Креативная стратегия** — генерирует углы для каждой связки сегмент × боль × ступень
-4. **Статические креативы** — AI-промты + тексты + композиция (3 A/B вариации)
-5. **Видео / анимация** — покадровые сценарии + AI-промты для видеогенерации
-6. **Полные объявления** — ready-to-upload ad units для каждой платформы
-7. **Ретаргетинг** — 3 этапа (видел → кликнул → был на лендинге)
-8. **Платформенная адаптация** — размеры, форматы, особенности каждой площадки
+1. **Data collection** — pulls Client DNA (or initiates analysis)
+2. **Awareness level** — determines cold / warm / hot traffic
+3. **Creative strategy** — generates angles for each segment x pain x level combination
+4. **Static creatives** — AI prompts + copy + composition (3 A/B variations)
+5. **Video / animation** — frame-by-frame scripts + AI prompts for video generation
+6. **Full ad units** — ready-to-upload ad units for each platform
+7. **Retargeting** — 3 stages (viewed → clicked → visited landing page)
+8. **Platform adaptation** — sizes, formats, specifics of each platform
 
-## Модуль: Вебинарные Reels (webinar-video-reels.md)
+## Module: Webinar Reels (webinar-video-reels.md)
 
-Специализированный регламент для создания рекламных Reels/TikTok для продвижения вебинаров и live-шоу:
+A specialized workflow for creating promotional Reels/TikTok for webinars and live shows:
 
-- **12 типов хуков** — провокация, идентификация, цифровой шок, контраст и др.
-- **4 категории CTA** — лид-магнит, FOMO, любопытство, прямой вызов
-- **Система FOMO** через незнание конкретных инструментов (не «используйте AI», а «вы не знаете ЭТИ 7 инструментов»)
-- **Формат Дымшакова** — видео с хуком-заголовком + структурированное текстовое описание + CTA
-- **Матрица генерации** — автоматическое создание по данным ДНК Клиента (сегмент × боль × хук)
+- **12 hook types** — provocation, identification, numeric shock, contrast, and more
+- **4 CTA categories** — lead magnet, FOMO, curiosity, direct challenge
+- **FOMO system** through ignorance of specific tools (not "use AI" but "you don't know THESE 7 tools")
+- **Dymshakov format** — video with a hook headline + structured text description + CTA
+- **Generation matrix** — automatic creation from Client DNA data (segment x pain x hook)
 
-Построен на основе Deep Research (13 источников, 2025-2026): hook rate бенчмарки, FOMO-статистика, тренды коротких видео, фреймворки Hook-Story-Offer и PAS.
+Built on Deep Research (13 sources, 2025-2026): hook rate benchmarks, FOMO statistics, short video trends, Hook-Story-Offer and PAS frameworks.
 
-## Установка
+## Installation
 
 ```bash
-# Клонировать в папку скиллов Claude Code
+# Clone to Claude Code skills folder
 git clone https://github.com/yasikvlad/creative-ads.git ~/.claude/skills/creative-ads
 ```
 
-## Связанные скиллы
+## Related Skills
 
-- [client-dna](https://github.com/yasikvlad/client-dna) — ДНК Клиента (автоматически вызывается при отсутствии данных ЦА)
-- [quiz-funnel](https://github.com/yasikvlad/quiz-funnel) — Квиз-воронки
-- [vsl-high-ticket](https://github.com/yasikvlad/vsl-high-ticket-skill) — VSL-сценарии
-- [sales-assistant](https://github.com/yasikvlad/sales-assistant) — Ассистент продаж
+- [client-dna](https://github.com/yasikvlad/client-dna) — Client DNA (automatically invoked when audience data is missing)
+- [quiz-funnel](https://github.com/yasikvlad/quiz-funnel) — Quiz funnels
+- [vsl-high-ticket](https://github.com/yasikvlad/vsl-high-ticket-skill) — VSL scripts
+- [sales-assistant](https://github.com/yasikvlad/sales-assistant) — Sales assistant
 
-## Использование
+## Usage
 
-Вызови в Claude Code:
+Call in Claude Code:
 ```
 /creative-ads
 ```
 
-Или просто попроси:
-> «Сделай креативы для моего курса»
-> «Нужны рекламные баннеры для вебинара»
-> «Сгенерируй рилсы для продвижения мастер-класса»
+Or simply ask:
+> "Create creatives for my course"
+> "I need ad banners for a webinar"
+> "Generate reels for promoting a masterclass"
 
-## Автор
+## Author
 
-**Vlad Yasko** — маркетолог, продюсер, создатель AI-Ковчег
+**Vlad Yasko** — marketer, producer, creator of AI-Ark
 
-## Лицензия
+## License
 
 MIT

@@ -1,142 +1,142 @@
-# Шаблоны видео и анимационных креативов
+# Video and Animation Creative Templates
 
-Используй этот файл для генерации видеосценариев и AI-промтов для видеорекламы. Каждый фреймворк адаптируется под сегмент, боль и ступень осознанности.
+Use this file to generate video scripts and AI prompts for video advertising. Each framework adapts to the segment, pain point, and awareness level.
 
-## 5 фреймворков видеорекламы
+## 5 Video Ad Frameworks
 
-### 1. Hook → Problem → Solution → CTA (классика)
-**Для ступеней 0-1 (холодный трафик)**
-
-```
-0-3 сек (HOOK): [Pattern interrupt — шокирующий факт, вопрос из монолога, визуальный контраст]
-Текст: "[Вопрос/утверждение из болевой ситуации ДНК]"
-
-3-8 сек (PROBLEM): [Визуализация проблемы — конкретная ситуация из ДНК]
-Текст: "[Описание боли на языке клиента]"
-
-8-13 сек (SOLUTION): [Намёк на решение — не продажа, а надежда]
-Текст: "[Обещание трансформации из ДНК]"
-
-13-15 сек (CTA): [Лого + мягкий призыв]
-Текст: "[Мягкий CTA: 'Узнай подробнее →']"
-```
-
-### 2. Hook → Story → Reveal → CTA (нарратив)
-**Для ступеней 1-2 (начало осознания)**
+### 1. Hook → Problem → Solution → CTA (classic)
+**For levels 0-1 (cold traffic)**
 
 ```
-0-3 сек (HOOK): [Интригующее начало истории — "Я тоже думала, что..."]
-Текст: "[Цитата из мифов/ложных решений ДНК]"
+0-3 sec (HOOK): [Pattern interrupt — shocking fact, question from monologue, visual contrast]
+Text: "[Question/statement from DNA pain scenario]"
 
-3-15 сек (STORY): [Микроистория: от боли к первым шагам решения]
-Текст: субтитры, ключевые фразы
+3-8 sec (PROBLEM): [Problem visualization — specific situation from DNA]
+Text: "[Pain description in client language]"
 
-15-25 сек (REVEAL): [Ага-момент — что изменило всё]
-Текст: "[Инсайт/система/метод]"
+8-13 sec (SOLUTION): [Hint at the solution — not a sale, but hope]
+Text: "[Transformation promise from DNA]"
 
-25-30 сек (CTA): [Призыв узнать больше]
-Текст: "[CTA средней силы]"
+13-15 sec (CTA): [Logo + soft call to action]
+Text: "[Soft CTA: 'Learn more →']"
 ```
 
-### 3. Hook → Myth → Truth → CTA (разрушение мифа)
-**Для ступеней 2-3 (тёплый трафик)**
+### 2. Hook → Story → Reveal → CTA (narrative)
+**For levels 1-2 (beginning of awareness)**
 
 ```
-0-3 сек (HOOK): [Провокационное утверждение мифа]
-Текст: "«[Миф из ДНК]»"
+0-3 sec (HOOK): [Intriguing story opening — "I also used to think that..."]
+Text: "[Quote from DNA myths/false solutions]"
 
-3-10 сек (MYTH EXPOSURE): [Почему это не работает — примеры, факты]
-Текст: "[Разоблачение мифа на языке клиента]"
+3-15 sec (STORY): [Micro-story: from pain to first steps toward solution]
+Text: subtitles, key phrases
 
-10-20 сек (TRUTH): [Правильный подход — система/метод]
-Текст: "[Правда + как работает]"
+15-25 sec (REVEAL): [Aha moment — what changed everything]
+Text: "[Insight/system/method]"
 
-20-25 сек (PROOF): [Быстрый результат/кейс]
-Текст: "[Число/факт/цитата клиента]"
-
-25-30 сек (CTA): [Призыв к действию]
-Текст: "[CTA]"
+25-30 sec (CTA): [Call to learn more]
+Text: "[Medium-strength CTA]"
 ```
 
-### 4. Hook → Before → After → CTA (трансформация)
-**Для ступеней 3-4 (тёплый/горячий)**
+### 3. Hook → Myth → Truth → CTA (myth busting)
+**For levels 2-3 (warm traffic)**
 
 ```
-0-3 сек (HOOK): [Контрастный визуал — начало "до"]
-Текст: "[Болевая ситуация из ДНК]"
+0-3 sec (HOOK): [Provocative myth statement]
+Text: "'[Myth from DNA]'"
 
-3-10 сек (BEFORE): [Развёрнутое "до" — конкретные детали из ДНК]
-Текст: "[Внутренний монолог из ДНК]"
+3-10 sec (MYTH EXPOSURE): [Why it doesn't work — examples, facts]
+Text: "[Myth debunking in client language]"
 
-10-18 сек (TRANSITION): [Момент изменения — таймлапс/смена сцены]
-Текст: "[Что стало поворотным моментом]"
+10-20 sec (TRUTH): [The right approach — system/method]
+Text: "[Truth + how it works]"
 
-18-25 сек (AFTER): [Яркое "после" из идеальной трансформации ДНК]
-Текст: "[Пост-трансформационная цитата из ДНК]"
+20-25 sec (PROOF): [Quick result/case study]
+Text: "[Number/fact/client quote]"
 
-25-30 сек (CTA): [Прямой призыв]
-Текст: "[CTA + urgency если ступень 4-5]"
+25-30 sec (CTA): [Call to action]
+Text: "[CTA]"
 ```
 
-### 5. Hook → Proof → Offer → Urgency → CTA (конверсия)
-**Для ступеней 4-5 (горячий трафик)**
+### 4. Hook → Before → After → CTA (transformation)
+**For levels 3-4 (warm/hot)**
 
 ```
-0-3 сек (HOOK): [Сильный результат/число]
-Текст: "[Число] [аватаров] уже [результат]"
+0-3 sec (HOOK): [Contrasting visual — beginning of "before"]
+Text: "[Pain situation from DNA]"
 
-3-10 сек (PROOF): [Социальное доказательство — отзывы, числа, кейсы]
-Текст: "[Конкретные результаты клиентов]"
+3-10 sec (BEFORE): [Detailed "before" — specific details from DNA]
+Text: "[Inner monologue from DNA]"
 
-10-18 сек (OFFER): [Grand Slam Offer по Hormozi — что получаешь]
-Текст: "[Стэк ценности: результат + бонусы]"
+10-18 sec (TRANSITION): [Moment of change — timelapse/scene change]
+Text: "[What became the turning point]"
 
-18-23 сек (GUARANTEE + URGENCY): [Снятие риска + скарсити]
-Текст: "[Гарантия] + [Осталось N мест / До дедлайна N дней]"
+18-25 sec (AFTER): [Vivid "after" from ideal DNA transformation]
+Text: "[Post-transformation quote from DNA]"
 
-23-25/30 сек (CTA): [Прямой конверсионный призыв]
-Текст: "[Записаться сейчас / Забронировать место]"
+25-30 sec (CTA): [Direct call to action]
+Text: "[CTA + urgency if level 4-5]"
 ```
 
-## Библиотека хуков (первые 3 секунды)
+### 5. Hook → Proof → Offer → Urgency → CTA (conversion)
+**For levels 4-5 (hot traffic)**
 
-Hook определяет 80% performance видео. Генерируй минимум 3 варианта хука для каждого видеокреатива.
+```
+0-3 sec (HOOK): [Strong result/number]
+Text: "[Number] [avatars] have already [result]"
 
-### Типы хуков по ступеням
+3-10 sec (PROOF): [Social proof — testimonials, numbers, case studies]
+Text: "[Specific client results]"
 
-**Ступени 0-1 (холодный):**
-| Тип | Формула | Пример |
+10-18 sec (OFFER): [Grand Slam Offer per Hormozi — what you get]
+Text: "[Value stack: result + bonuses]"
+
+18-23 sec (GUARANTEE + URGENCY): [Risk removal + scarcity]
+Text: "[Guarantee] + [Only N spots left / N days until deadline]"
+
+23-25/30 sec (CTA): [Direct conversion call to action]
+Text: "[Sign up now / Reserve your spot]"
+```
+
+## Hook Library (first 3 seconds)
+
+The hook determines 80% of video performance. Generate at least 3 hook variants for every video creative.
+
+### Hook Types by Level
+
+**Levels 0-1 (cold):**
+| Type | Formula | Example |
 |-----|---------|--------|
-| Шок | "[Шокирующий факт] — и вот почему" | "90% женщин после 30 спят хуже, чем думают" |
-| Вопрос-боль | "[Болевой вопрос из монолога ДНК]?" | "Ты снова проснулась в 3 часа ночи?" |
-| FOMO | "Пока ты [делала X], другие уже [результат]" | "Пока ты ждала, 300 женщин уже начали" |
-| Контраст | "[Ситуация до] vs [ситуация после]" | "Вчера — паника. Сегодня — спокойствие" |
+| Shock | "[Shocking fact] — and here's why" | "90% of women over 30 sleep worse than they think" |
+| Pain question | "[Pain question from DNA monologue]?" | "Did you wake up at 3 AM again?" |
+| FOMO | "While you were [doing X], others have already [result]" | "While you waited, 300 women have already started" |
+| Contrast | "[Before situation] vs [after situation]" | "Yesterday — panic. Today — calm" |
 
-**Ступени 2-3 (тёплый):**
-| Тип | Формула | Пример |
+**Levels 2-3 (warm):**
+| Type | Formula | Example |
 |-----|---------|--------|
-| Миф | "«[Миф]» — забудь об этом" | "«Просто отпусти» — худший совет при тревоге" |
-| Секрет | "Вот что не говорят о [теме]" | "Вот что психологи не говорят о тревожности" |
-| How-to | "Как [результат] за [время] без [жертва]" | "Как спать спокойно за 7 дней без таблеток" |
-| Сторителлинг | "Я тоже думала, что [миф]. Пока не..." | "Я тоже думала, это навсегда. Пока не попробовала..." |
+| Myth | "'[Myth]' — forget about it" | "'Just let it go' — the worst advice for anxiety" |
+| Secret | "Here's what they don't tell you about [topic]" | "Here's what psychologists don't tell you about anxiety" |
+| How-to | "How to [result] in [time] without [sacrifice]" | "How to sleep peacefully in 7 days without pills" |
+| Storytelling | "I also thought [myth]. Until..." | "I also thought it was forever. Until I tried..." |
 
-**Ступени 4-5 (горячий):**
-| Тип | Формула | Пример |
+**Levels 4-5 (hot):**
+| Type | Formula | Example |
 |-----|---------|--------|
-| Результат | "[Число] [аватаров] уже [результат]" | "2,347 женщин уже спят спокойно" |
-| Оффер | "[Результат] + [гарантия] + [urgency]" | "Спокойный сон за 7 дней или деньги назад" |
-| Дедлайн | "Осталось [N] мест. Старт [дата]" | "Осталось 7 мест. Старт 15 марта" |
-| Прямой | "Если ты [ситуация из ДНК], это для тебя" | "Если тревога мешает жить — это для тебя" |
+| Result | "[Number] [avatars] have already [result]" | "2,347 women are already sleeping peacefully" |
+| Offer | "[Result] + [guarantee] + [urgency]" | "Peaceful sleep in 7 days or your money back" |
+| Deadline | "[N] spots left. Starting [date]" | "7 spots left. Starting March 15" |
+| Direct | "If you [situation from DNA], this is for you" | "If anxiety is holding you back — this is for you" |
 
-## AI видео-промты
+## AI Video Prompts
 
-### Структура промта Runway/Sora
+### Runway/Sora Prompt Structure
 
 ```
-Scene [N]: [Описание сцены], [движение камеры: static/pan/zoom/tracking], [стиль: documentary/cinematic/UGC], [освещение], [длительность]
+Scene [N]: [Scene description], [camera movement: static/pan/zoom/tracking], [style: documentary/cinematic/UGC], [lighting], [duration]
 ```
 
-**Пример полного промта:**
+**Full prompt example:**
 ```
 Scene 1: Close-up of a woman's face illuminated by phone screen in dark bedroom, slight camera push in, documentary style, blue ambient light, 3 seconds
 Scene 2: Same woman sitting up in bed, rubbing her eyes, slow pan from hands to face, warm practical lighting, 4 seconds
@@ -144,52 +144,52 @@ Scene 3: Time-lapse of sunrise through window, woman doing breathing exercise, c
 Scene 4: Woman smiling with confidence in bright room, static shot with gentle bokeh, warm natural light, 3 seconds
 ```
 
-### Структура промта Higgsfield
+### Higgsfield Prompt Structure
 
-Higgsfield заточен под вертикальное видео (Reels/TikTok), UGC-стиль:
+Higgsfield is designed for vertical video (Reels/TikTok), UGC style:
 
 ```
-[Действие персонажа], [UGC/selfie стиль], [вертикальный формат], [разговор на камеру или lifestyle], [длительность], [настроение]
+[Character action], [UGC/selfie style], [vertical format], [talking to camera or lifestyle], [duration], [mood]
 ```
 
-**Пример:**
+**Example:**
 ```
 Young woman talking directly to camera in her bedroom, selfie style, vertical format, authentic UGC feel, sharing personal story about anxiety, warm indoor lighting, 15 seconds, relatable and emotional tone
 ```
 
-### Структура промта Nano Banana Pro
+### Nano Banana Pro Prompt Structure
 
 ```
-[Описание сцены], [стиль визуала], [композиция], [палитра], [формат/размер]
+[Scene description], [visual style], [composition], [palette], [format/size]
 ```
 
-## A/B для видео
+## A/B for Video
 
-**3 варианта хука (первые 3 сек):**
-- Hook A: [Тип 1 — например, вопрос]
-- Hook B: [Тип 2 — например, шок-факт]
-- Hook C: [Тип 3 — например, контраст]
+**3 hook variants (first 3 sec):**
+- Hook A: [Type 1 — e.g., question]
+- Hook B: [Type 2 — e.g., shock fact]
+- Hook C: [Type 3 — e.g., contrast]
 
-**2 варианта CTA (последние 2-3 сек):**
-- CTA X: [Мягкий — "Узнай подробнее"]
-- CTA Y: [Прямой — "Записаться сейчас"]
+**2 CTA variants (last 2-3 sec):**
+- CTA X: [Soft — "Learn more"]
+- CTA Y: [Direct — "Sign up now"]
 
-**Тело видео одинаковое** — тестируем только hook и CTA.
+**Video body is the same** — we're only testing hook and CTA.
 
-Пометка: "Тестируем: hook (A: вопрос vs B: шок vs C: контраст) + CTA (X: мягкий vs Y: прямой)"
+Label: "Testing: hook (A: question vs B: shock vs C: contrast) + CTA (X: soft vs Y: direct)"
 
-## Описание музыки/настроения
+## Music/Mood Description
 
-Для каждого видео указывай:
-- **Настроение музыки:** [ambient/uplifting/dramatic/emotional/energetic]
-- **Темп:** [slow/medium/building/fast]
-- **Инструменты:** [piano/strings/electronic/acoustic]
-- **Референс:** [похоже на стиль X]
+For each video, specify:
+- **Music mood:** [ambient/uplifting/dramatic/emotional/energetic]
+- **Tempo:** [slow/medium/building/fast]
+- **Instruments:** [piano/strings/electronic/acoustic]
+- **Reference:** [similar to style X]
 
-| Угол | Настроение | Темп | Стиль |
+| Angle | Mood | Tempo | Style |
 |------|-----------|------|-------|
-| Pain-agitate | Тревожный, минорный | Slow | Ambient piano, strings |
-| Transformation | Нарастающий, вдохновляющий | Building → uplifting | Piano → full orchestra |
-| Myth-busting | Драматичный, провокационный | Medium, rhythmic | Electronic beats |
-| Social proof | Тёплый, доверительный | Medium | Acoustic guitar, soft vocals |
-| Urgency/Offer | Энергичный, призывающий | Fast, driving | Electronic, percussive |
+| Pain-agitate | Anxious, minor key | Slow | Ambient piano, strings |
+| Transformation | Building, inspiring | Building → uplifting | Piano → full orchestra |
+| Myth-busting | Dramatic, provocative | Medium, rhythmic | Electronic beats |
+| Social proof | Warm, trustworthy | Medium | Acoustic guitar, soft vocals |
+| Urgency/Offer | Energetic, call-to-action | Fast, driving | Electronic, percussive |

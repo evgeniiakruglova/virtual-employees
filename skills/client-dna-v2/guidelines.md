@@ -1,141 +1,141 @@
-# Руководство по качеству анализа ДНК Клиента
+# Client DNA Analysis Quality Guidelines
 
-Эти правила ОБЯЗАТЕЛЬНЫ для каждой части анализа. Читай и применяй их при написании любого раздела.
+These rules are MANDATORY for every part of the analysis. Read and apply them when writing any section.
 
-## Основная проблема
+## Core Problem
 
-Основная проблема — это центральная, доминирующая проблема в жизни потенциальных клиентов. Это неотложная насущная проблема, с которой клиент в данный момент сталкивается. Которую он хочет решить. Которую не может отложить. Это также то, с чем наш продукт или услуга предназначены помочь.
+The core problem is the central, dominant problem in the lives of potential clients. It is an urgent, pressing problem that the client is currently facing. One they want to solve. One they cannot postpone. It is also what our product or service is designed to help with.
 
-**Примеры:**
-- Пожилые люди, страдающие постоянной болью в коленях, которая не даёт долго сидеть и ходить
-- Одинокие мужчины, испытывающие трудности в свиданиях с привлекательными женщинами, которые чувствуют себя неполноценными от этого
-- Тренеры, которые не могут привлечь клиентов
-- Офисные работники, застрявшие в "беличьем колесе", живущие по программе работа-дом-работа
+**Examples:**
+- Elderly people suffering from constant knee pain that prevents them from sitting and walking for extended periods
+- Single men struggling with dating attractive women who feel inadequate because of it
+- Coaches who can't attract clients
+- Office workers stuck on the "hamster wheel," living a work-home-work routine
 
-**Описание проблемы должно быть подробным и эмоциональным** — это критически важно и влияет на успех всего анализа.
+**The problem description should be detailed and emotional** — this is critically important and impacts the success of the entire analysis.
 
-## Болевые ситуации
+## Pain Situations
 
-Болевая ситуация клиента — это момент, когда человек осознаёт, что у него есть проблема, которая мешает ему жить так, как он хочет, и это вызывает дискомфорт, боль или страх. Это та точка, где он понимает, что больше не может игнорировать проблему и готов действовать.
+A client's pain situation is the moment when a person realizes they have a problem that prevents them from living the way they want, and this causes discomfort, pain, or fear. It is the point where they understand they can no longer ignore the problem and are ready to act.
 
-**Требования:**
-- Максимально детализированные и близкие к реальному опыту ЦА
-- Отражают конкретные проблемы, страхи и эмоции
-- Описаны очень конкретно, чтобы клиент узнал себя
-- Актуальны ЗДЕСЬ И СЕЙЧАС — описывают то, что он переживает в данный момент
+**Requirements:**
+- Maximally detailed and close to the real experience of the target audience
+- Reflect specific problems, fears, and emotions
+- Described very specifically so the client recognizes themselves
+- Relevant HERE AND NOW — describe what they are experiencing at this moment
 
-**Пример детализированной болевой ситуации:**
-«Я уже несколько лет пытаюсь забеременеть, но каждый месяц вижу одну полоску на тесте. Я прошла все возможные обследования, и врачи говорят, что всё в порядке. Но беременность так и не наступает. Я чувствую, как надежда ускользает, а давление со стороны родственников только усиливается. Каждый раз, когда я вижу беременную женщину на улице, мне становится больно. Я задаю себе вопрос: "Почему у всех получается, а у меня нет?" Я уже устала от бесконечных анализов и обследований. Я чувствую, что моё тело подводит меня, и не понимаю, что делать дальше.»
+**Example of a detailed pain situation:**
+"I've been trying to get pregnant for several years now, but every month I see just one line on the test. I've gone through every possible examination, and doctors say everything is fine. But pregnancy still hasn't happened. I feel hope slipping away, and the pressure from relatives only intensifies. Every time I see a pregnant woman on the street, it hurts. I ask myself: 'Why does everyone else manage it but not me?' I'm already exhausted from endless tests and examinations. I feel like my body is failing me, and I don't understand what to do next."
 
-## Ключевые препятствия
+## Key Obstacles
 
-Ключевое препятствие — это конкретная проблема, барьер или сложность, которая мешает человеку продвинуться от текущего состояния (точка А — осознание боли) к желаемому результату (точка Б — проблема решена).
+A key obstacle is a specific problem, barrier, or difficulty that prevents a person from moving from their current state (Point A — awareness of pain) to the desired result (Point B — problem solved).
 
-**Важные отличия:**
-- Это НЕ сама боль, а то, что стоит на пути к её решению
-- Часто связано с отсутствием знаний, навыков, ресурсов или уверенности
-- Может быть внешним (деньги, время, информация) или внутренним (страхи, сомнения, ложные убеждения)
-- Возникает когда человек УЖЕ НАЧАЛ что-то делать, но у него не получается, или хочет начать, но не знает как
-- На этом этапе обычно кроется самая платежеспособная аудитория
+**Important distinctions:**
+- This is NOT the pain itself, but what stands in the way of resolving it
+- Often related to a lack of knowledge, skills, resources, or confidence
+- Can be external (money, time, information) or internal (fears, doubts, false beliefs)
+- Arises when a person has ALREADY STARTED doing something but isn't succeeding, or wants to start but doesn't know how
+- The most financially capable audience is typically found at this stage
 
-**Требования к описанию:**
-- **Конкретно**: Чётко обозначь, что именно мешает клиенту
-- **Эмоционально**: Покажи, какие чувства вызывает это препятствие
-- **Релевантно**: Соответствует реальному опыту клиента
-- **Понятно**: Просто и ясно, чтобы клиент мог сказать: "Это про меня"
+**Description requirements:**
+- **Specific**: Clearly identify what exactly is blocking the client
+- **Emotional**: Show what feelings this obstacle evokes
+- **Relevant**: Corresponds to the client's real experience
+- **Clear**: Simple and straightforward so the client can say: "That's me"
 
-**Пример:**
-«Ты хочешь стать фитнес-тренером онлайн, но не знаешь, как продать свою первую тренировку. Ты боишься, что никто не захочет заниматься с тобой, и не понимаешь, как продвигать себя в соцсетях. Это вызывает у тебя чувство неуверенности и страха, что ты зря тратишь время.»
+**Example:**
+"You want to become an online fitness trainer, but you don't know how to sell your first training session. You're afraid that no one will want to train with you, and you don't understand how to promote yourself on social media. This makes you feel insecure and afraid that you're wasting your time."
 
-## Мифы клиента
+## Client Myths
 
-Мифы — это ложные убеждения или страхи, которые мешают клиенту действовать. Они возникают из-за недостатка информации, негативного опыта или стереотипов. Это устоявшиеся убеждения и стереотипы в сфере, в которые клиент верит в силу отсутствия осведомлённости или опыта.
+Myths are false beliefs or fears that prevent the client from taking action. They arise from a lack of information, negative experience, or stereotypes. These are established beliefs and stereotypes in the field that the client believes due to a lack of awareness or experience.
 
-**Пример в фитнесе:** Каждый фитнес-тренер знает, что если ты будешь много бегать, не факт что похудеешь. Однако каждый начинающий думает, что чем больше бегает и потеет, тем больше худеет.
+**Example in fitness:** Every fitness trainer knows that if you run a lot, it doesn't necessarily mean you'll lose weight. However, every beginner thinks that the more they run and sweat, the more weight they lose.
 
-**Пример в маркетинге:** Миф — что можно выставить определённые настройки рекламы и получить платежеспособных клиентов.
+**Example in marketing:** The myth that you can set certain ad settings and get paying clients.
 
-**Мифы должны быть описаны максимально детально**, потому что именно на это мы ловим наших клиентов, и это мы обещаем, потому что это вызывает у них желание купить.
+**Myths must be described in maximum detail**, because this is exactly what we use to hook our clients, and this is what we promise, because it triggers their desire to buy.
 
-## Топ-5 самых больших страхов
+## Top 5 Biggest Fears
 
-Предоставь самые глубокие страхи (связанные с основными проблемами), которые клиент скорее всего не признает вслух.
+Provide the deepest fears (related to core problems) that the client would most likely never admit out loud.
 
-**Характеристики:**
-- Страхи, которые часто не дают заснуть в 3 часа ночи
-- Часто сильно эмоциональны и во многих случаях "тёмные"
-- Клиенты, которые испытывают трудности, склонны представлять себе худшие сценарии
-- Допустимо исследовать эту тьму — ничего из этого не будет передано клиенту
-- Могут быть страхами от осознания того, к чему может привести проблема или откладывание решения
-- Погрузись в состояние клиента, проживи его боль и расскажи страхи на его языке, максимально подробно
+**Characteristics:**
+- Fears that often keep them awake at 3 AM
+- Often deeply emotional and in many cases "dark"
+- Clients who are struggling tend to imagine worst-case scenarios
+- It is acceptable to explore this darkness — none of this will be shared with the client
+- Can be fears stemming from the realization of where the problem could lead or from postponing the solution
+- Immerse yourself in the client's state, live through their pain, and describe fears in their language, in maximum detail
 
-## Как страхи влияют на отношения
+## How Fears Affect Relationships
 
-Дай ультра-специфические примеры того, как каждый страх влияет на конкретные отношения в жизни клиентов. Будь ярким, детальным и эмоциональным.
+Give ultra-specific examples of how each fear affects specific relationships in clients' lives. Be vivid, detailed, and emotional.
 
-**Включай влияние на:** супруга, детей, друзей, коллег.
-**Также включай:** критических друзей, родственников, конкурентов или кого-либо, кто "принижает" клиентов.
+**Include impact on:** spouse, children, friends, colleagues.
+**Also include:** critical friends, relatives, competitors, or anyone who "puts down" the clients.
 
-## Болезненные фразы от окружающих
+## Painful Phrases from Others
 
-Какие ультра-специфические вещи могут сказать эти люди клиентам? Вещи, которые клиент может найти болезненными, независимо от намерения говорящего.
+What ultra-specific things might these people say to clients? Things that the client may find painful, regardless of the speaker's intention.
 
-**Ключевой инсайт:** Часто ещё более эмоционально воздействует, когда болезненные цитаты исходят от кого-то, кто ПЫТАЕТСЯ ПОДДЕРЖАТЬ. Они хотят как лучше, но говорят непреднамеренно вредные вещи.
+**Key insight:** It is often even more emotionally impactful when painful quotes come from someone who is TRYING TO BE SUPPORTIVE. They mean well but say unintentionally harmful things.
 
-**Однако:** Обязательно включай и цитаты от противников, так как "доказать им, что они неправы" — мощный мотиватор.
+**However:** Be sure to include quotes from opponents as well, since "proving them wrong" is a powerful motivator.
 
-**Указывай, от кого каждая цитата.**
+**Specify who each quote is from.**
 
-## Волшебное решение (5 измеренных результатов)
+## Magic Solution (5 Measured Results)
 
-Представь, что клиент встречает волшебного джинна, который создаёт идеальное решение. В этом идеалистическом сценарии перечисли 5 идеальных результатов.
+Imagine the client meets a magic genie who creates the perfect solution. In this idealistic scenario, list 5 ideal results.
 
-**Требования:** Будь ЯРКИМ, СПЕЦИФИЧЕСКИМ и ОПИСАТЕЛЬНЫМ. Стань клиентом при написании. Используй тот же язык, который клиент бы использовал для описания.
+**Requirements:** Be VIVID, SPECIFIC, and DESCRIPTIVE. Become the client when writing. Use the same language the client would use for the description.
 
-## Чего клиент НЕ хочет делать (с цитатами)
+## What the Client Does NOT Want to Do (with quotes)
 
-5 вещей, которые клиент НЕ хочет делать для получения результата. Задачи, которые не готов выполнять. Жертвы, на которые не готов пойти. Риски, которые не готов взять.
+5 things the client does NOT want to do to get results. Tasks they're not willing to perform. Sacrifices they're not willing to make. Risks they're not willing to take.
 
-**Требования:** Конкретно. Цитаты из внутреннего монолога. Реалистичные, разговорные и эмоциональные.
+**Requirements:** Specific. Internal monologue quotes. Realistic, conversational, and emotional.
 
-## Влияние трансформации
+## Impact of Transformation
 
-Как исполнение всех желаний конкретно повлияет на жизнь? Думай об уверенности, уважении, репутации, сексуальной привлекательности, одежде, восприятии окружающих.
+How would fulfilling all desires specifically impact their life? Think about confidence, respect, reputation, sexual attractiveness, clothing, how others perceive them.
 
-**Помни:** Это мечта клиента. Фантазия. Допустимы тщеславные, поверхностные желания. Стать/быть воспринятыми как ПРЕВОСХОДЯЩИЕ. Мы ищем эмоциональные драйверы, которые они никогда не признают.
+**Remember:** This is the client's dream. Fantasy. Vain, superficial desires are acceptable. To become/be perceived as SUPERIOR. We're looking for emotional drivers they would never admit to.
 
-## Пост-трансформационные цитаты
+## Post-Transformation Quotes
 
-Как клиент хочет, чтобы его воспринимали ПОСЛЕ результата? Что хочет слышать от окружающих?
+How does the client want to be perceived AFTER the result? What do they want to hear from others?
 
-**Включай:** Цитаты и от поддерживающих, и от сомневающихся, которые вынуждены признать ошибку/ревновать/просить совета.
+**Include:** Quotes from both supporters and doubters who are forced to admit their mistake/feel jealous/ask for advice.
 
-**Все цитаты отражают достижение ИДЕАЛЬНОЙ ИДЕНТИЧНОСТИ.** Конкретные, яркие, описательные, разговорные. Должны ощущаться РЕАЛЬНЫМИ.
+**All quotes reflect the achievement of the IDEAL IDENTITY.** Specific, vivid, descriptive, conversational. Should feel REAL.
 
-## Что рынок должен увидеть
+## What the Market Needs to See
 
-Во многих рынках клиенты верят, что нужно достичь определённого состояния для результата. Это предвзятые убеждения, связанные с целями. Эмоциональное удовлетворение зависит от выполнения этого условия.
+In many markets, clients believe they need to reach a certain state for results. These are biased beliefs linked to their goals. Emotional satisfaction depends on fulfilling this condition.
 
-## Что рынок должен отпустить
+## What the Market Must Let Go Of
 
-Люди часто получают внутреннее утешение от своей проблемы. Какое удовлетворение клиент должен отпустить, чтобы решить проблему?
+People often derive inner comfort from their problem. What satisfaction must the client let go of to solve their problem?
 
-## Кого винит клиент
+## Who the Client Blames
 
-Никто не хочет видеть себя причиной своих проблем. Клиенты охотнее переложат вину на что-то внешнее. Включай и внутренние, и внешние факторы.
+Nobody wants to see themselves as the cause of their problems. Clients would rather shift blame to something external. Include both internal and external factors.
 
-## Топ-5 возражений
+## Top 5 Objections
 
-Какие самые распространённые вещи людям придётся "отпустить" или "потерять"? Конкретные возражения.
+What are the most common things people will have to "let go of" or "lose"? Specific objections.
 
-## Универсальные правила качества
+## Universal Quality Rules
 
-1. Болевые точки и ситуации — ОБЩИЕ и ШИРОКО РАСПРОСТРАНЁННЫЕ среди ЦА
-2. Желаемые результаты — общие и широко распространённые
-3. Прошлые решения — общие и широко известные
-4. Всё написано тоном и языком, который используют сами клиенты
-5. Сырой, нефильтрованный, как будто подслушиваешь приватный разговор/внутренний монолог
-6. НИКОГДА не сокращай и не ужимай анализ — если текст длинный, разбивай на части
-7. Все цитаты — разговорные, эмоциональные, реалистичные
-8. Трансформация — яркая, специфическая, описательная, включая "тщеславные" желания
-9. Анализ должен дать понимание для написания эффективных рекламных материалов
+1. Pain points and situations — COMMON and WIDESPREAD among the target audience
+2. Desired results — common and widespread
+3. Past solutions — common and widely known
+4. Everything is written in the tone and language that the clients themselves use
+5. Raw, unfiltered, as if eavesdropping on a private conversation/internal monologue
+6. NEVER shorten or compress the analysis — if the text is long, break it into parts
+7. All quotes — conversational, emotional, realistic
+8. Transformation — vivid, specific, descriptive, including "vain" desires
+9. The analysis should provide understanding for writing effective advertising materials

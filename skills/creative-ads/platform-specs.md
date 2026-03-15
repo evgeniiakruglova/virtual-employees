@@ -1,12 +1,12 @@
-# Спецификации платформ
+# Platform Specifications
 
-Актуальные размеры, форматы и требования для всех рекламных платформ. Используй при генерации промтов для AI-инструментов.
+Up-to-date sizes, formats, and requirements for all advertising platforms. Use when generating prompts for AI tools.
 
-## Сводная таблица размеров
+## Size Reference Table
 
 ### Meta (Facebook / Instagram)
 
-| Плейсмент | Соотношение | Размер (px) | Формат | --ar (Midjourney) |
+| Placement | Aspect Ratio | Size (px) | Format | --ar (Midjourney) |
 |-----------|-------------|-------------|--------|-------------------|
 | Feed (desktop) | 1:1 | 1080×1080 | JPG/PNG/MP4 | --ar 1:1 |
 | Feed (mobile) | 4:5 | 1080×1350 | JPG/PNG/MP4 | --ar 4:5 |
@@ -14,50 +14,50 @@
 | Reels | 9:16 | 1080×1920 | MP4 | --ar 9:16 |
 | Right Column | 1.91:1 | 1200×628 | JPG/PNG | --ar 191:100 |
 | Marketplace | 1:1 | 1080×1080 | JPG/PNG | --ar 1:1 |
-| Carousel (каждый слайд) | 1:1 | 1080×1080 | JPG/PNG/MP4 | --ar 1:1 |
+| Carousel (each slide) | 1:1 | 1080×1080 | JPG/PNG/MP4 | --ar 1:1 |
 | In-Stream Video | 16:9 | 1920×1080 | MP4 | --ar 16:9 |
 
-**Текстовые лимиты Meta:**
-| Элемент | Лимит | Рекомендация |
+**Meta Text Limits:**
+| Element | Limit | Recommendation |
 |---------|-------|--------------|
-| Primary Text | 125 символов (до "Ещё") | До 125 для mobile |
-| Headline | 40 символов | 27 символов для mobile |
-| Description | 30 символов | 27 символов |
-| Image text | < 20% площади | Минимум текста на визуале |
+| Primary Text | 125 characters (before "See More") | Up to 125 for mobile |
+| Headline | 40 characters | 27 characters for mobile |
+| Description | 30 characters | 27 characters |
+| Image text | < 20% of area | Minimize text on visuals |
 
-**Видео Meta:**
-| Параметр | Значение |
+**Meta Video:**
+| Parameter | Value |
 |----------|----------|
-| Длительность Feed | 1-240 сек (рекомендуется 15-30) |
-| Длительность Stories | До 15 сек |
-| Длительность Reels | 15-90 сек |
-| Макс. размер файла | 4 ГБ |
-| Кодек | H.264 |
-| Звук | AAC, 128 kbps+ |
+| Feed Duration | 1-240 sec (recommended 15-30) |
+| Stories Duration | Up to 15 sec |
+| Reels Duration | 15-90 sec |
+| Max File Size | 4 GB |
+| Codec | H.264 |
+| Audio | AAC, 128 kbps+ |
 
 ---
 
 ### TikTok
 
-| Плейсмент | Соотношение | Размер (px) | Формат | --ar |
+| Placement | Aspect Ratio | Size (px) | Format | --ar |
 |-----------|-------------|-------------|--------|------|
 | In-Feed | 9:16 | 1080×1920 | MP4/MOV | --ar 9:16 |
 | TopView | 9:16 | 1080×1920 | MP4 | --ar 9:16 |
 | Brand Takeover | 9:16 | 1080×1920 | JPG/MP4 | --ar 9:16 |
 
-**Текстовые лимиты TikTok:**
-| Элемент | Лимит |
+**TikTok Text Limits:**
+| Element | Limit |
 |---------|-------|
-| Ad Text | 100 символов |
-| Display Name | 20 символов |
+| Ad Text | 100 characters |
+| Display Name | 20 characters |
 
-**Видео TikTok:**
-| Параметр | Значение |
+**TikTok Video:**
+| Parameter | Value |
 |----------|----------|
-| Длительность | 5-60 сек (рекомендуется 21-34) |
-| Макс. размер | 500 МБ |
-| Разрешение | Мин. 720×1280 |
-| Битрейт | 516 kbps+ |
+| Duration | 5-60 sec (recommended 21-34) |
+| Max Size | 500 MB |
+| Resolution | Min. 720×1280 |
+| Bitrate | 516 kbps+ |
 
 ---
 
@@ -65,7 +65,7 @@
 
 #### Display Network (GDN)
 
-| Формат | Соотношение | Размер (px) | --ar |
+| Format | Aspect Ratio | Size (px) | --ar |
 |--------|-------------|-------------|------|
 | Landscape | 1.91:1 | 1200×628 | --ar 191:100 |
 | Square | 1:1 | 1200×1200 | --ar 1:1 |
@@ -73,83 +73,83 @@
 | Logo (square) | 1:1 | 1200×1200 | — |
 | Logo (landscape) | 4:1 | 1200×300 | — |
 
-**Текстовые лимиты GDN (Responsive Display):**
-| Элемент | Лимит | Кол-во |
+**GDN Text Limits (Responsive Display):**
+| Element | Limit | Quantity |
 |---------|-------|--------|
-| Headline | 30 символов | До 5 |
-| Long Headline | 90 символов | 1 |
-| Description | 90 символов | До 5 |
-| Business Name | 25 символов | 1 |
+| Headline | 30 characters | Up to 5 |
+| Long Headline | 90 characters | 1 |
+| Description | 90 characters | Up to 5 |
+| Business Name | 25 characters | 1 |
 
 #### YouTube
 
-| Формат | Соотношение | Размер (px) | --ar |
+| Format | Aspect Ratio | Size (px) | --ar |
 |--------|-------------|-------------|------|
 | In-Stream (skippable) | 16:9 | 1920×1080 | --ar 16:9 |
 | In-Stream (non-skip) | 16:9 | 1920×1080 | --ar 16:9 |
-| Bumper (6 сек) | 16:9 | 1920×1080 | --ar 16:9 |
-| Discovery | 16:9 | 1280×720 (мин.) | --ar 16:9 |
+| Bumper (6 sec) | 16:9 | 1920×1080 | --ar 16:9 |
+| Discovery | 16:9 | 1280×720 (min.) | --ar 16:9 |
 | Shorts | 9:16 | 1080×1920 | --ar 9:16 |
 | Companion Banner | — | 300×60 | — |
 
-**Видео YouTube:**
-| Параметр | Значение |
+**YouTube Video:**
+| Parameter | Value |
 |----------|----------|
-| Bumper | 6 сек |
-| Skippable in-stream | 12 сек - 3 мин (рекомендуется 30 сек) |
-| Non-skippable | 15-20 сек |
-| Shorts | До 60 сек |
+| Bumper | 6 sec |
+| Skippable in-stream | 12 sec - 3 min (recommended 30 sec) |
+| Non-skippable | 15-20 sec |
+| Shorts | Up to 60 sec |
 
 ---
 
 ### Telegram Ads
 
-| Параметр | Значение |
+| Parameter | Value |
 |----------|----------|
-| Формат | Только текст |
-| Длина текста | До 160 символов |
-| CTA кнопка | До 30 символов |
-| Визуал | Нет (аватар канала/бота) |
+| Format | Text only |
+| Text Length | Up to 160 characters |
+| CTA Button | Up to 30 characters |
+| Visual | None (channel/bot avatar) |
 
 ---
 
 ### VK Ads
 
-| Плейсмент | Соотношение | Размер (px) | --ar |
+| Placement | Aspect Ratio | Size (px) | --ar |
 |-----------|-------------|-------------|------|
-| Лента (универсальный) | 16:9 | 1080×607 | --ar 16:9 |
-| Лента (квадрат) | 1:1 | 600×600 | --ar 1:1 |
+| Feed (universal) | 16:9 | 1080×607 | --ar 16:9 |
+| Feed (square) | 1:1 | 600×600 | --ar 1:1 |
 | Stories | 9:16 | 1080×1920 | --ar 9:16 |
 | Carousel | 1:1 | 600×600 | --ar 1:1 |
-| Боковая колонка | — | 145×85 | — |
+| Sidebar | — | 145×85 | — |
 
-**Текстовые лимиты VK:**
-| Элемент | Лимит |
+**VK Text Limits:**
+| Element | Limit |
 |---------|-------|
-| Заголовок | 33 символа |
-| Описание | 70 символов |
-| Текст объявления | 220 символов |
+| Headline | 33 characters |
+| Description | 70 characters |
+| Ad Text | 220 characters |
 
-**Видео VK:**
-| Параметр | Значение |
+**VK Video:**
+| Parameter | Value |
 |----------|----------|
-| Длительность | До 120 сек |
-| Макс. размер | 2 ГБ |
-| Формат | MP4, AVI, MOV |
+| Duration | Up to 120 sec |
+| Max Size | 2 GB |
+| Format | MP4, AVI, MOV |
 
 ---
 
-## Маппинг --ar по платформам
+## --ar Mapping by Platform
 
-Быстрая таблица для AI-промтов. Добавляй в конец каждого промта.
+Quick reference table for AI prompts. Add to the end of each prompt.
 
 ### Midjourney
 
 ```
---ar 1:1    → Meta Feed, Google Square, VK квадрат, Carousel
+--ar 1:1    → Meta Feed, Google Square, VK square, Carousel
 --ar 4:5    → Meta Feed Mobile, Google Portrait
 --ar 9:16   → Stories, Reels, TikTok, YouTube Shorts, VK Stories
---ar 16:9   → YouTube, Google Landscape, VK лента
+--ar 16:9   → YouTube, Google Landscape, VK feed
 --ar 191:100 → Google Display Landscape, Meta Right Column
 ```
 
@@ -164,48 +164,48 @@
 ### Nano Banana Pro
 
 ```
-Указывай формат/размер в промте:
-"[описание], square format 1:1" → для Feed
-"[описание], vertical format 9:16" → для Stories/Reels
-"[описание], widescreen format 16:9" → для YouTube
+Specify format/size in the prompt:
+"[description], square format 1:1" → for Feed
+"[description], vertical format 9:16" → for Stories/Reels
+"[description], widescreen format 16:9" → for YouTube
 ```
 
 ---
 
-## Мультиплатформенная адаптация
+## Multi-Platform Adaptation
 
-При генерации креативов для нескольких платформ одновременно:
+When generating creatives for multiple platforms simultaneously:
 
-### Один визуал → несколько размеров
+### One Visual → Multiple Sizes
 
 ```
-БАЗОВЫЙ ПРОМТ: [описание сцены, стиль, освещение]
+BASE PROMPT: [scene description, style, lighting]
 
-Meta Feed:     [базовый промт] --ar 1:1 --v 6.1
-Meta Stories:  [базовый промт], more vertical composition --ar 9:16 --v 6.1
-Google:        [базовый промт], wider frame --ar 191:100 --v 6.1
-YouTube:       [базовый промт], cinematic wide --ar 16:9 --v 6.1
-TikTok:        [базовый промт], vertical UGC feel --ar 9:16 --v 6.1
+Meta Feed:     [base prompt] --ar 1:1 --v 6.1
+Meta Stories:  [base prompt], more vertical composition --ar 9:16 --v 6.1
+Google:        [base prompt], wider frame --ar 191:100 --v 6.1
+YouTube:       [base prompt], cinematic wide --ar 16:9 --v 6.1
+TikTok:        [base prompt], vertical UGC feel --ar 9:16 --v 6.1
 ```
 
-### Правила адаптации
+### Adaptation Rules
 
-| Платформа | Стиль визуала | Стиль текста |
+| Platform | Visual Style | Text Style |
 |-----------|--------------|--------------|
-| Meta Feed | Чистый, профессиональный | Средней длины, структурированный |
-| Meta Stories | Яркий, динамичный | Короткий, крупный шрифт |
-| TikTok | UGC, нативный, не рекламный | Разговорный, с эмодзи |
-| YouTube | Кинематографичный, качественный | Длинный, детальный |
-| Google Display | Чистый, с акцентом на текст | Множество коротких вариантов |
-| Telegram | — (только текст) | Максимально ёмкий, каждое слово работает |
-| VK | Похож на Meta, чуть проще | Средний, без англицизмов |
+| Meta Feed | Clean, professional | Medium length, structured |
+| Meta Stories | Bright, dynamic | Short, large font |
+| TikTok | UGC, native, non-promotional | Conversational, with emojis |
+| YouTube | Cinematic, high quality | Long, detailed |
+| Google Display | Clean, text-focused | Multiple short variations |
+| Telegram | — (text only) | Maximally concise, every word counts |
+| VK | Similar to Meta, slightly simpler | Medium, no anglicisms |
 
-### Safe Zone (зоны для текста)
+### Safe Zone (text zones)
 
-| Платформа | Безопасная зона для текста |
+| Platform | Safe Zone for Text |
 |-----------|--------------------------|
-| Meta Feed | Центр изображения, не ниже 80% высоты |
-| Stories/Reels | Верхние 60% (внизу — UI элементы) |
-| TikTok | Верхние 50% (внизу — caption, UI) |
-| YouTube | Центр (нижние 20% — прогресс-бар) |
-| Google Display | Центр или левая часть |
+| Meta Feed | Center of image, not below 80% height |
+| Stories/Reels | Top 60% (bottom has UI elements) |
+| TikTok | Top 50% (bottom has caption, UI) |
+| YouTube | Center (bottom 20% has progress bar) |
+| Google Display | Center or left side |
